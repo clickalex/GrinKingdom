@@ -1,7 +1,11 @@
 import { Link } from 'react-router-dom'
 import { KINGDOMS } from '../data/kingdoms.js'
+import { SPECIES_MAP } from '../data/species.js'
 import TiltCard from '../components/TiltCard.jsx'
+import SpeciesCard from '../components/SpeciesCard.jsx'
 import Mascot from '../components/Mascot.jsx'
+
+const FEATURED = ['tiger', 'sars-cov-2', 'giant-sequoia'].map((slug) => SPECIES_MAP[slug]).filter(Boolean)
 
 const FLOATERS = [
   { e: '🦠', c: 'f1' },
@@ -117,6 +121,29 @@ export default function Home() {
                 </TiltCard>
               </Link>
             ))}
+          </div>
+        </div>
+      </section>
+
+      {/* FEATURED SPECIES */}
+      <section className="section">
+        <div className="container">
+          <div className="section-head">
+            <h2 className="section-title">Featured residents</h2>
+            <p className="section-sub">
+              A big cat, a tiny troublemaker and a 3,000-year-old giant — every card opens a full page with a rotatable 3D
+              specimen.
+            </p>
+          </div>
+          <div className="species-grid">
+            {FEATURED.map((s) => (
+              <SpeciesCard key={s.slug} species={s} />
+            ))}
+          </div>
+          <div className="hero-cta" style={{ justifyContent: 'center', marginTop: 26 }}>
+            <Link className="btn btn-ghost" to="/explore">
+              See the whole catalog →
+            </Link>
           </div>
         </div>
       </section>
