@@ -1,0 +1,48 @@
+# GrinKingdom — CLI checks
+# Status: skeleton. The workflow is intentionally green; once cli/cli.mjs lands,
+# replace the "Verify CLI skeleton" step with the real commands
+# (e.g. `npm run cli -- data:validate` + `npm run build`).
+#
+# Location note: this file currently lives at `ci/cli.yml` (outside
+# `.github/workflows/`) so it can be pushed with a repo credential that lacks
+# `workflows` write access. GitHub Actions only auto-runs workflows from
+# `.github/workflows/` — move this file there once a credential with workflow
+# write access is available; the YAML itself needs no other change.
+
+name: CLI checks
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: cli-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  cli:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Verify CLI skeleton
+        run: |
+          test -f cli/README.md || { echo "::error::cli/README.md missing"; exit 1; }
+          echo "CLI skeleton present. Wiring up commands once cli/cli.mjs exists."
+
+      # TODO(cli): once implemented, run:
+      #   - name: Install dependencies
+      #     run: npm ci
+      #   - name: Validate data + build
+      #     run: npm run cli -- data:validate && npm run build
