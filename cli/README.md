@@ -43,8 +43,11 @@ npm run cli -- build:check        # npm install + build + base-path sanity check
 
 ## CI workflow
 
-`.github/workflows/cli.yml` runs on pushes to `main` and on pull requests. It is a
-green placeholder today and will invoke the same CLI commands (validate → build) as
+`ci/cli.yml` defines the same checks and will run on pushes to `main` and on pull
+requests. It lives outside `.github/workflows/` for now (see the file header) so this
+branch can be pushed with a credential that lacks `workflows` write access; move it to
+`.github/workflows/` once such a credential is available — the YAML needs no change. It
+is a green placeholder today and will invoke the same CLI commands (validate → build) as
 soon as `cli/cli.mjs` exists.
 
 ## Notes
