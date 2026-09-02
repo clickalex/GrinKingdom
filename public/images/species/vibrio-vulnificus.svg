@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Vibrio vulnificus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#369cb8"/><stop offset="1" stop-color="#0E7490"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#edffff"/><stop offset="1" stop-color="#CFFAFE"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4ab0cc"/><stop offset="1" stop-color="#CFFAFE"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#b6ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#4ab0cc" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#4ab0cc" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="222.5333997607231" cy="134.07057512551546" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="217.14603594504297" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="127.15054551139474" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="394.5283186621964" cy="152.5516172964126" r="4.12072795489803"/><circle cx="498.0986791383475" cy="76.45123174414039" r="1.6270299239549786"/><circle cx="416.21055049821734" cy="151.91674476489425" r="4.427162196720019"/></g>
+<text x="30" y="63" font-size="44">🦪</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#0E7490" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/><path d="M150 178 q-40 46 -90 30" stroke="#0E7490" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M150 178 q40 46 90 30" stroke="#0E7490" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Vibrio vulnificus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Vibrio vulnificus</text>
+</g>
+</svg>

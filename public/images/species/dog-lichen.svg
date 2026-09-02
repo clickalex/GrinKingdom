@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Dog lichen illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#72ffa8"/><stop offset="1" stop-color="#4ADE80"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#75716c"/><stop offset="1" stop-color="#57534E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#86ffbc"/><stop offset="1" stop-color="#57534E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#f2ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="423.4212623536587" cy="156.18803654797375" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="231.1997238965705" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="144.60847332142293" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">🍃</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><circle cx="230.77157619874924" cy="241.5294002275914" r="29.47293686773628" fill="url(#bg2)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="108.68294476065785" cy="153.1079890904948" r="17.682837964966893" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="177.8613257780671" cy="164.95303011033684" r="19.629681102465838" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="217.6199935656041" cy="216.9610706390813" r="25.36041162768379" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="121.11678230110556" cy="211.49753942154348" r="22.695717349648476" fill="url(#bg2)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="110.0830930704251" cy="160.1759105687961" r="23.030249955598265" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="225.82952771801502" cy="189.52992765698582" r="20.387650336604565" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="140.41341056115925" cy="181.29482010845095" r="28.28865802846849" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="149.3997217901051" cy="198.63277142867446" r="27.45811989856884" fill="url(#bg2)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="61.664296234957874" cy="196.93148606456816" r="12.23882902879268" fill="url(#bg2)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="98.38889348320663" cy="190.52183327730745" r="20.22488313121721" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="75.69409700576216" cy="247.1204311819747" r="19.08705140138045" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="98.22784640360624" cy="206.76134100649506" r="17.189315269701183" fill="url(#bg2)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="137.45386444497854" cy="173.32826820202172" r="21.307942401152104" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Dog lichen</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Peltigera canina</text>
+</g>
+</svg>

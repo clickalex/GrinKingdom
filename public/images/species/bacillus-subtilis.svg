@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Bacillus subtilis illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dc7b31"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f08f45"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffbb1"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#f08f45" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#f08f45" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="284.5915050059557" cy="118.34067265503109" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="234.26883151754737" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="142.83985971473157" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="310.65416547469795" cy="105.58436562307179" r="3.2485953129362315"/><circle cx="398.7473147921264" cy="66.28860928118229" r="1.5231375417206436"/><circle cx="46.577080665156245" cy="42.681855438277125" r="2.344078544061631"/></g>
+<text x="30" y="69" font-size="44">🧫</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#B45309" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Bacillus subtilis</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Bacillus subtilis</text>
+</g>
+</svg>

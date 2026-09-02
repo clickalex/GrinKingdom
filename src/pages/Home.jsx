@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { KINGDOMS } from '../data/kingdoms.js'
-import { SPECIES_MAP } from '../data/species.js'
+import { SPECIES_MAP, speciesByKingdom } from '../data/species.js'
 import TiltCard from '../components/TiltCard.jsx'
 import SpeciesCard from '../components/SpeciesCard.jsx'
 import Mascot from '../components/Mascot.jsx'
@@ -17,7 +17,7 @@ const FLOATERS = [
 ]
 
 const STATS = [
-  { num: '8.7M', label: 'estimated species on Earth' },
+  { num: '1,000', label: 'species in the catalog' },
   { num: '2.2M', label: 'described & named so far' },
   { num: '8', label: 'kingdoms of life covered' },
   { num: '100%', label: 'free to explore' },
@@ -56,7 +56,8 @@ export default function Home() {
             </h1>
             <p className="hero-sub">
               From tiny viruses and glowing bacteria to giant sequoias, blue whales and{' '}
-              <em>you</em> — explore all 8 kingdoms of life with photos, fun facts and rotatable 3D.
+              <em>you</em> — explore 1,000 species across all 8 kingdoms of life with photos, fun facts and rotatable
+              3D.
             </p>
             <div className="hero-cta">
               <Link className="btn btn-primary btn-lg" to="/explore">
@@ -111,12 +112,14 @@ export default function Home() {
                   <span className="kingdom-name">{k.name}</span>
                   <span className="kingdom-tagline">{k.tagline}</span>
                   <span className="kingdom-chips">
-                    {k.members.slice(0, 3).map((m) => (
-                      <span key={m} className="chip">
-                        {m}
-                      </span>
-                    ))}
-                    {k.members.length > 3 && <span className="chip">+{k.members.length - 3}</span>}
+                    {speciesByKingdom(k.id)
+                      .slice(0, 3)
+                      .map((m) => (
+                        <span key={m.slug} className="chip">
+                          {m.emoji} {m.name}
+                        </span>
+                      ))}
+                    <span className="chip">+{speciesByKingdom(k.id).length}</span>
                   </span>
                 </TiltCard>
               </Link>
@@ -131,8 +134,8 @@ export default function Home() {
           <div className="section-head">
             <h2 className="section-title">Featured residents</h2>
             <p className="section-sub">
-              A big cat, a tiny troublemaker and a 3,000-year-old giant — every card opens a full page with a rotatable 3D
-              specimen.
+              A big cat, a tiny troublemaker and a 3,000-year-old giant — every card opens a full page with a species
+              photo, quick facts and a rotatable 3D specimen.
             </p>
           </div>
           <div className="species-grid">

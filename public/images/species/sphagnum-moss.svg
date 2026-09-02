@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sphagnum moss illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#72ffa8"/><stop offset="1" stop-color="#4ADE80"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#86ffbc"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#f2ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="224.05719213187695" cy="126.81802555918694" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="263.84687677491456" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="131.5582787245512" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="257.91395546868443" cy="121.52944755740464" r="3.8965606035199016"/><circle cx="430.75036329217255" cy="58.69223499670625" r="1.9694575241301209"/><circle cx="452.01774093322456" cy="88.66868651472032" r="1.6844541393220425"/></g>
+<text x="30" y="59" font-size="44">🌱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><circle cx="71.82499952148646" cy="230.5524280294776" r="16.00752316508442" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="74.6932640299201" cy="197.18187905382365" r="16.204556688666344" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="142.35387818422168" cy="211.34226769208908" r="12.07105997717008" fill="url(#bg2)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="224.64811305049807" cy="200.89570507407188" r="29.652824592310935" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="79.75506543181837" cy="221.24095286708325" r="16.122343700844795" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="182.92704752180725" cy="191.90187393687665" r="17.162313433829695" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="66.51131509803236" cy="190.81820773426443" r="27.165459798183292" fill="url(#bg2)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="134.10866319201887" cy="164.3787398468703" r="14.549634032417089" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="125.61507572885603" cy="150.6468922831118" r="20.652977277059108" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="155.1037615025416" cy="229.66426403727382" r="12.54612796381116" fill="url(#bg2)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="120.78460529912263" cy="207.70020263735205" r="23.424596895463765" fill="url(#bg2)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="194.2859804118052" cy="223.59953534323722" r="27.234021632932127" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="155.94402038957924" cy="185.78038564883173" r="14.155831660609692" fill="url(#bg2)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="71.14883038681" cy="243.34852558095008" r="19.474367378745228" fill="url(#bg2)" stroke="#4ADE80" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sphagnum moss</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Sphagnum palustre</text>
+</g>
+</svg>

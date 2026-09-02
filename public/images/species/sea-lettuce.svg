@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sea lettuce illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#72ffa8"/><stop offset="1" stop-color="#4ADE80"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#86ffbc"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#f2ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#86ffbc" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#86ffbc" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="410.7645835727453" cy="125.22072262130678" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="243.05266743991524" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="126.82018347084522" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="65" font-size="44">🥬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M150 236 q-30 -60 -18 -120 q10 -50 34 -80" stroke="#4ADE80" stroke-width="11" fill="none" stroke-linecap="round"/><path d="M138 180 q-44 4 -58 -22 q38 -2 58 14 Z" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.6"/><path d="M148 150 q42 6 58 -16 q-40 -4 -58 10 Z" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.6"/><path d="M156 118 q-34 -2 -44 -20 q30 0 44 12 Z" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.6"/><path d="M150 236 q-30 -60 -18 -120 q10 -50 34 -80" stroke="url(#tx)" stroke-width="11" fill="none" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sea lettuce</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ulva lactuca</text>
+</g>
+</svg>

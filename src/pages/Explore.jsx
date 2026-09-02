@@ -93,10 +93,13 @@ export default function Explore() {
   const [habitat, setHabitat] = useState(null)
   const [diet, setDiet] = useState(null)
   const [status, setStatus] = useState(null)
+  const [sort, setSort] = useState('featured')
+  const [page, setPage] = useState(1)
+  const PER_PAGE = 24
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase()
-    return SPECIES.filter((s) => {
+    const list = SPECIES.filter((s) => {
       if (kingdom && s.kingdom !== kingdom) return false
       if (habitat && s.habitat !== habitat) return false
       if (diet && s.diet !== diet) return false
@@ -109,7 +112,17 @@ export default function Explore() {
         s.tagline.toLowerCase().includes(q)
       )
     })
-  }, [query, kingdom, habitat, diet, status])
+    const sorted = [...list]
+    if (sort === 'az') sorted.sort((a, b) => a.name.localeCompare(b.name))
+    else if (sort === 'za') sorted.sort((a, b) => b.name.localeCompare(a.name))
+    return sorted
+  }, [query, kingdom, habitat, diet, status, sort])
+
+  // reset page when filters/search change
+  useEffect(() => setPage(1), [query, kingdom, habitat, diet, status])
+
+  const pages = Math.max(1, Math.ceil(filtered.length / PER_PAGE))
+  const pageItems = filtered.slice((page - 1) * PER_PAGE, page * PER_PAGE)
 
   const anyFilter = kingdom || habitat || diet || status || query
   const clearAll = () => {
@@ -126,8 +139,8 @@ export default function Explore() {
         <div className="page-hero">
           <h1 className="section-title">🧭 Explore the catalog</h1>
           <p className="section-sub">
-            {SPECIES.length} curated species across all 8 kingdoms — search, filter, and click any card for the full story
-            (3D specimen included).
+            {SPECIES.length} species across all 8 kingdoms — search, filter, and click any card for the full story (3D
+            specimen included).
           </p>
         </div>
 
@@ -153,21 +166,57 @@ export default function Explore() {
           <div className="filter-summary">
             <span>
               Showing <strong>{filtered.length}</strong> of {SPECIES.length} species
+              {pages > 1 && (
+                <>
+                  {' '}· page <strong>{page}</strong> of {pages}
+                </>
+              )}
             </span>
-            {anyFilter && (
-              <button className="fchip" onClick={clearAll}>
-                ✕ Clear all filters
-              </button>
-            )}
+            <div className="explore-tools">
+              <select className="sort-select" value={sort} onChange={(e) => setSort(e.target.value)} aria-label="Sort species">
+                <option value="featured">✨ Featured order</option>
+                <option value="az">🔤 Name A → Z</option>
+                <option value="za">🔤 Name Z → A</option>
+              </select>
+              {anyFilter && (
+                <button className="fchip" onClick={clearAll}>
+                  ✕ Clear all filters
+                </button>
+              )}
+            </div>
           </div>
         </div>
 
         {filtered.length > 0 ? (
-          <div className="species-grid">
-            {filtered.map((s) => (
-              <SpeciesCard key={s.slug} species={s} />
-            ))}
-          </div>
+          <>
+            <div className="species-grid">
+              {pageItems.map((s) => (
+                <SpeciesCard key={s.slug} species={s} />
+              ))}
+            </div>
+            {pages > 1 && (
+              <nav className="pager" aria-label="Catalog pages">
+                <button className="btn btn-ghost" disabled={page <= 1} onClick={() => setPage((p) => p - 1)}>
+                  ← Previous
+                </button>
+                <div className="pager-pages">
+                  {Array.from({ length: pages }, (_, i) => i + 1)
+                    .filter((n) => n === 1 || n === pages || Math.abs(n - page) <= 2)
+                    .map((n, i, arr) => (
+                      <span key={n} className="pager-item">
+                        {i > 0 && arr[i - 1] !== n - 1 && <span className="pager-gap">…</span>}
+                        <button className={`fchip pager-num ${n === page ? 'on' : ''}`} onClick={() => setPage(n)}>
+                          {n}
+                        </button>
+                      </span>
+                    ))}
+                </div>
+                <button className="btn btn-ghost" disabled={page >= pages} onClick={() => setPage((p) => p + 1)}>
+                  Next →
+                </button>
+              </nav>
+            )}
+          </>
         ) : (
           <div className="empty-state">
             <span className="step-emoji">🔎</span>

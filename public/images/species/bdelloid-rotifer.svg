@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Bdelloid rotifer illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E0F2FE"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8ffff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="355.6857565790415" cy="205.15958419069648" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="266.85914914123714" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="153.27935080975294" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="398.29180791042745" cy="112.17689278535545" r="3.633999284589663"/><circle cx="79.90923252888024" cy="90.24429672397673" r="1.619698436697945"/><circle cx="377.7534353826195" cy="49.075080109760165" r="4.087751196697354"/></g>
+<text x="30" y="57" font-size="44">🪱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><ellipse cx="150" cy="156" rx="52" ry="36" fill="url(#bg1)" stroke="#E0F2FE" stroke-width="3"/><ellipse cx="150" cy="156" rx="52" ry="36" fill="url(#tx)"/><circle cx="112" cy="142" r="11" fill="url(#bg2)" stroke="#E0F2FE" stroke-width="2.6"/><line x1="98" y1="176" x2="88" y2="192" stroke="#E0F2FE" stroke-width="4" stroke-linecap="round"/><line x1="98" y1="181" x2="88" y2="197" stroke="#E0F2FE" stroke-width="4" stroke-linecap="round"/><line x1="98" y1="186" x2="88" y2="202" stroke="#E0F2FE" stroke-width="4" stroke-linecap="round"/><line x1="98" y1="191" x2="88" y2="207" stroke="#E0F2FE" stroke-width="4" stroke-linecap="round"/><line x1="146" y1="176" x2="156" y2="192" stroke="#E0F2FE" stroke-width="4" stroke-linecap="round"/><line x1="146" y1="181" x2="156" y2="197" stroke="#E0F2FE" stroke-width="4" stroke-linecap="round"/><line x1="146" y1="186" x2="156" y2="202" stroke="#E0F2FE" stroke-width="4" stroke-linecap="round"/><line x1="146" y1="191" x2="156" y2="207" stroke="#E0F2FE" stroke-width="4" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Bdelloid rotifer</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Adineta vaga</text>
+</g>
+</svg>

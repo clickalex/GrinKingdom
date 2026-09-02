@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Brain coral illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38e1a9"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#efffff"/><stop offset="1" stop-color="#D1FAE5"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4cf5bd"/><stop offset="1" stop-color="#D1FAE5"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#b8ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="none"/><path d="M6 8 L14 6 L12 14 M26 20 L34 18 L32 28 M16 30 L24 28 L22 38" stroke="#4cf5bd" stroke-width="1.6" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="447.2409826517105" cy="112.54853714257479" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="240.1893508527428" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="138.80966735072434" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="167.63174142688513" cy="118.3162893448025" r="1.6185453676152974"/><circle cx="193.14439955167472" cy="57.22439547069371" r="2.6755826740991324"/><circle cx="546.7458872497082" cy="78.11557074077427" r="4.146304200869054"/></g>
+<text x="30" y="54" font-size="44">🪸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 220 q-6 -60 2 -110 M150 170 q-34 -6 -52 -52 M150 150 q34 -10 48 -56 M150 190 q-22 -4 -30 -34 M150 130 q16 -8 22 -34" stroke="#10B981" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.95"/><path d="M150 220 q-6 -60 2 -110" stroke="#D1FAE5" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Brain coral</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Diploria labyrinthiformis</text>
+</g>
+</svg>

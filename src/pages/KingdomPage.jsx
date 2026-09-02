@@ -1,18 +1,25 @@
+import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { KINGDOMS, KINGDOM_MAP } from '../data/kingdoms.js'
 import { speciesByKingdom } from '../data/species.js'
 import SpeciesCard from '../components/SpeciesCard.jsx'
 import NotFound from './NotFound.jsx'
 
+const PER_PAGE = 36
+
 export default function KingdomPage() {
   const { kingdomId } = useParams()
   const k = KINGDOM_MAP[kingdomId]
+  const [page, setPage] = useState(1)
+  useEffect(() => setPage(1), [kingdomId])
   if (!k) return <NotFound />
 
   const members = speciesByKingdom(k.id)
   const idx = KINGDOMS.findIndex((x) => x.id === k.id)
   const prev = KINGDOMS[(idx + KINGDOMS.length - 1) % KINGDOMS.length]
   const next = KINGDOMS[(idx + 1) % KINGDOMS.length]
+  const pages = Math.max(1, Math.ceil(members.length / PER_PAGE))
+  const pageItems = members.slice((page - 1) * PER_PAGE, page * PER_PAGE)
 
   return (
     <section className="page" style={{ '--kc': k.color }}>
@@ -35,15 +42,32 @@ export default function KingdomPage() {
           <h2 className="section-title" style={{ fontSize: 26 }}>
             Meet the residents ({members.length})
           </h2>
-          <p className="section-sub">Click any card for quick facts, taxonomy and a rotatable 3D specimen.</p>
+          <p className="section-sub">
+            Click any card for quick facts, taxonomy, a species photo and a rotatable 3D specimen.
+          </p>
         </div>
 
         {members.length > 0 ? (
-          <div className="species-grid">
-            {members.map((s) => (
-              <SpeciesCard key={s.slug} species={s} />
-            ))}
-          </div>
+          <>
+            <div className="species-grid">
+              {pageItems.map((s) => (
+                <SpeciesCard key={s.slug} species={s} />
+              ))}
+            </div>
+            {pages > 1 && (
+              <nav className="pager" aria-label="Kingdom pages">
+                <button className="btn btn-ghost" disabled={page <= 1} onClick={() => setPage((p) => p - 1)}>
+                  ← Previous
+                </button>
+                <span className="filter-summary" style={{ border: 0, padding: 0 }}>
+                  Page <strong>{page}</strong> of {pages}
+                </span>
+                <button className="btn btn-ghost" disabled={page >= pages} onClick={() => setPage((p) => p + 1)}>
+                  Next →
+                </button>
+              </nav>
+            )}
+          </>
         ) : (
           <div className="empty-state">
             <span className="step-emoji">{k.emoji}</span>

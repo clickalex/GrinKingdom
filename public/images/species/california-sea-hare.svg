@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="California sea hare illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a462ff"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbf4ff"/><stop offset="1" stop-color="#DDD6FE"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b876ff"/><stop offset="1" stop-color="#DDD6FE"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe2ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#b876ff" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#b876ff" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="309.18862000107765" cy="204.40033606253564" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="231.33456925861537" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="136.08764595352113" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">🐌</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M70 176 q0 -26 22 -30 q46 -8 92 8 q24 10 24 26 q0 18 -22 18 q-62 -6 -92 -4 q-24 2 -24 -8 Z" fill="url(#bg1)" stroke="#7C3AED" stroke-width="3" stroke-linejoin="round"/><path d="M70 176 q0 -26 22 -30 q46 -8 92 8 q24 10 24 26 q0 18 -22 18 q-62 -6 -92 -4 q-24 2 -24 -8 Z" fill="url(#tx)"/><path d="M60 172 l-14 -12 M60 178 l-12 -4" stroke="#7C3AED" stroke-width="2.6" fill="none"/><circle cx="56" cy="166" r="3" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">California sea hare</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Aplysia californica</text>
+</g>
+</svg>

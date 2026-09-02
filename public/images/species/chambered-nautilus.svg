@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Chambered nautilus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9134"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><rect width="26" height="26" fill="none"/><rect width="26" height="9" fill="#ffffff" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="203.0186366289854" cy="120.43745303526521" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="215.37880727089942" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="130.46765041537583" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">🐚</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 150 L132.34496648233963 125.7451078854123 A30 30 0 0 1 149.72389370193574 120.0012706050378 Z" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.4"/><path d="M150 150 L149.60424763944124 107.00182120055418 A43 43 0 0 1 174.66135940111565 114.77476256305707 Z" fill="url(#bg2)" stroke="#F5F5F4" stroke-width="2.4"/><path d="M150 150 L182.11711922005756 104.12527217514409 A56 56 0 0 1 202.7942612695874 131.3247228401144 Z" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.4"/><path d="M150 150 L215.05007192145587 126.98939064228378 A69 69 0 0 1 216.3128252434432 169.06853975092383 Z" fill="url(#bg2)" stroke="#F5F5F4" stroke-width="2.4"/><path d="M150 150 L228.80654594148322 172.66116318225733 A82 82 0 0 1 200.9720173981945 214.23280658945362 Z" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.4"/><path d="M150 150 L209.05294698571313 224.41605641461092 A95 95 0 0 1 154.82357606869002 244.8774636776804 Z" fill="url(#bg2)" stroke="#F5F5F4" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Chambered nautilus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Nautilus pompilius</text>
+</g>
+</svg>

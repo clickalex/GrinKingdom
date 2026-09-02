@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Fucus vesiculosus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ba6836"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ce7c4a"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe8b6"/><stop offset="1" stop-color="#fffff0"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="141.48676984012127" cy="121.89323228783906" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="247.39431916270405" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="146.75830157473683" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="227.41035321727395" cy="100.85231421515346" r="1.6621979533229023"/><circle cx="251.71874403953552" cy="97.81489224173129" r="4.19936787430197"/><circle cx="331.6261146403849" cy="137.93145055882633" r="2.5750456801615655"/></g>
+<text x="30" y="69" font-size="44">🪸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M150 236 q-30 -60 -18 -120 q10 -50 34 -80" stroke="#92400E" stroke-width="11" fill="none" stroke-linecap="round"/><path d="M138 180 q-44 4 -58 -22 q38 -2 58 14 Z" fill="url(#bg1)" stroke="#92400E" stroke-width="2.6"/><path d="M148 150 q42 6 58 -16 q-40 -4 -58 10 Z" fill="url(#bg1)" stroke="#92400E" stroke-width="2.6"/><path d="M156 118 q-34 -2 -44 -20 q30 0 44 12 Z" fill="url(#bg1)" stroke="#92400E" stroke-width="2.6"/><path d="M150 236 q-30 -60 -18 -120 q10 -50 34 -80" stroke="url(#tx)" stroke-width="11" fill="none" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Fucus vesiculosus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Fucus vesiculosus</text>
+</g>
+</svg>

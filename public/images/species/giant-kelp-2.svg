@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Giant kelp illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c98a2f"/><stop offset="1" stop-color="#A16207"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dd9e43"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffaf"/><stop offset="1" stop-color="#ffffeb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="392.11104564368725" cy="130.2552546467632" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="223.3975706482306" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="127.56381587125361" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="520.7350257411599" cy="135.3508465271443" r="4.089679363416508"/><circle cx="313.69720249436796" cy="103.61804361455142" r="4.487446542363614"/><circle cx="232.40505238994956" cy="130.17690928652883" r="4.409157432848588"/></g>
+<text x="30" y="68" font-size="44">🌲</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><path d="M150 236 q-30 -60 -18 -120 q10 -50 34 -80" stroke="#A16207" stroke-width="11" fill="none" stroke-linecap="round"/><path d="M138 180 q-44 4 -58 -22 q38 -2 58 14 Z" fill="url(#bg1)" stroke="#A16207" stroke-width="2.6"/><path d="M148 150 q42 6 58 -16 q-40 -4 -58 10 Z" fill="url(#bg1)" stroke="#A16207" stroke-width="2.6"/><path d="M156 118 q-34 -2 -44 -20 q30 0 44 12 Z" fill="url(#bg1)" stroke="#A16207" stroke-width="2.6"/><path d="M150 236 q-30 -60 -18 -120 q10 -50 34 -80" stroke="url(#tx)" stroke-width="11" fill="none" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Giant kelp</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Macrocystis pyrifera</text>
+</g>
+</svg>

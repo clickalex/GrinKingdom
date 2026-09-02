@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Immortal jellyfish illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd0fc"/><stop offset="1" stop-color="#F9A8D4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FCE7F3"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe4ff"/><stop offset="1" stop-color="#FCE7F3"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="60" height="60" patternUnits="userSpaceOnUse"><rect width="60" height="60" fill="none"/><ellipse cx="18" cy="16" rx="9" ry="4" fill="#ffffff" opacity="0.35" transform="rotate(-18 18 16)"/><ellipse cx="48" cy="46" rx="8" ry="3.4" fill="#ffffff" opacity="0.28" transform="rotate(-18 48 46)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="228.77423904836178" cy="160.36998599767685" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="225.56780300103128" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="156.28005238249898" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="63" font-size="44">🪼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M92 110 q58 -54 116 0 Z" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="3"/><path d="M92 110 q58 -54 116 0 Z" fill="url(#tx)"/><path d="M104 108 q-15 44 -50 92" stroke="#F9A8D4" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M122.4 108 q-9 44 -30 92" stroke="#FCE7F3" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M140.8 108 q-3 44 -10 92" stroke="#F9A8D4" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M159.2 108 q3 44 10 92" stroke="#FCE7F3" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M177.6 108 q9 44 30 92" stroke="#F9A8D4" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M196 108 q15 44 50 92" stroke="#FCE7F3" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><circle cx="128" cy="82" r="7" fill="#fff" opacity="0.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Immortal jellyfish</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Turritopsis dohrnii</text>
+</g>
+</svg>

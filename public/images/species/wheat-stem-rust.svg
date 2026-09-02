@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Wheat stem rust illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8034"/><stop offset="1" stop-color="#EA580C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff5c8"/><stop offset="1" stop-color="#FED7AA"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff9448"/><stop offset="1" stop-color="#FED7AA"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb4"/><stop offset="1" stop-color="#fffffb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ff9448" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ff9448" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="177.94569708406925" cy="100.15311780385673" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="256.92532832734287" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="128.62816252745688" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="294.6183798648417" cy="63.77852111123502" r="3.352135118097067"/><circle cx="544.1093301214278" cy="103.70850161649287" r="3.495234288973734"/><circle cx="524.2771378625184" cy="118.93120202235878" r="4.0734413580503315"/></g>
+<text x="30" y="65" font-size="44">🟠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><line x1="106" y1="206" x2="102.04084083251655" y2="96" stroke="#FED7AA" stroke-width="4"/><circle cx="110.5861200094223" cy="90.617904253304" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="128" y1="206" x2="133.56784790940583" y2="96" stroke="#FED7AA" stroke-width="4"/><circle cx="129.20554922893643" cy="88.17192689329386" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="150" y1="206" x2="150.56004121899605" y2="96" stroke="#FED7AA" stroke-width="4"/><circle cx="145.6350195519626" cy="88.71115795336664" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="172" y1="206" x2="175.8235828615725" y2="96" stroke="#FED7AA" stroke-width="4"/><circle cx="167.1655071368441" cy="94.35387872904539" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="194" y1="206" x2="197.20783828850836" y2="96" stroke="#FED7AA" stroke-width="4"/><circle cx="199.0672421315685" cy="93.24667359516025" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Wheat stem rust</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Puccinia graminis</text>
+</g>
+</svg>

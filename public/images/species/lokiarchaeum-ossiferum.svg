@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Lokiarchaeum ossiferum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b384ff"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbf4ff"/><stop offset="1" stop-color="#DDD6FE"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c798ff"/><stop offset="1" stop-color="#DDD6FE"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#c798ff" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#c798ff" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="386.2309142202139" cy="111.98513961397111" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="215.25192487053573" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="144.37715287320316" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="57" font-size="44">🦠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M190.97158760018647,150 Q199.2862746400505,172.58507297583856 199.25446704993539,178.43707981007174 Q178.37343241686258,199.5670597149855 175.46915858844295,194.1138767012124 Q177.0006141506601,186.42194327519783 150,195.64706617128104 Q118.06278078840114,213.73938381042214 117.64688186021523,206.03724440138552 Q126.22178876268416,185.7316985251277 110.89082513812406,172.57969263428822 Q81.8731000831697,166.4912707444746 81.5587757145986,150 Q82.29647314745708,142.37928462214768 86.72118736546035,113.46596049144864 Q108.27348139427374,106.20479906214379 130.20554726663974,115.71500215779945 Q124.78111434401944,102.96318250246324 150,87.74066213611513 Q160.1509186953772,81.6187779850313 181.0923729748465,96.14643027968437 Q191.13335274454226,98.25939836520567 183.37872928364246,130.72878166288135 Z" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="3"/><path d="M190.97158760018647,150 Q199.2862746400505,172.58507297583856 199.25446704993539,178.43707981007174 Q178.37343241686258,199.5670597149855 175.46915858844295,194.1138767012124 Q177.0006141506601,186.42194327519783 150,195.64706617128104 Q118.06278078840114,213.73938381042214 117.64688186021523,206.03724440138552 Q126.22178876268416,185.7316985251277 110.89082513812406,172.57969263428822 Q81.8731000831697,166.4912707444746 81.5587757145986,150 Q82.29647314745708,142.37928462214768 86.72118736546035,113.46596049144864 Q108.27348139427374,106.20479906214379 130.20554726663974,115.71500215779945 Q124.78111434401944,102.96318250246324 150,87.74066213611513 Q160.1509186953772,81.6187779850313 181.0923729748465,96.14643027968437 Q191.13335274454226,98.25939836520567 183.37872928364246,130.72878166288135 Z" fill="url(#tx)"/><circle cx="151.5567646222189" cy="150.95000775996596" r="13" fill="#DDD6FE" opacity="0.8"/><circle cx="115.02057187631726" cy="115.9090550467372" r="5" fill="#ffffff" opacity="0.5"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Lokiarchaeum ossiferum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lokiarchaeum ossiferum</text>
+</g>
+</svg>

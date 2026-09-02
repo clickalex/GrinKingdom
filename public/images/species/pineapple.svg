@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pineapple illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff67b6"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7bca"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="441.030667796731" cy="100.61268573626876" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="265.7138242665678" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="122.61093479581177" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🍍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F43F8E" stroke-width="2.6"/><ellipse cx="175.99777348923558" cy="76.31408172480252" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(0.7498362897636628 175.99777348923558 76.31408172480252)"/><ellipse cx="165.79265738569063" cy="95.06532589003223" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(52.59754346092458 165.79265738569063 95.06532589003223)"/><ellipse cx="138.8508304536702" cy="97.68142480054642" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(115.3923306547328 138.8508304536702 97.68142480054642)"/><ellipse cx="126.21243148335952" cy="85.68798075135372" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(156.19244966195916 126.21243148335952 85.68798075135372)"/><ellipse cx="124.05379309084563" cy="74.45695687601548" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(183.68628672573342 124.05379309084563 74.45695687601548)"/><ellipse cx="138.28468086743243" cy="54.574446095747376" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(243.21850747053168 138.28468086743243 54.574446095747376)"/><ellipse cx="153.9240012965274" cy="52.27490794865395" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(278.6804268849517 153.9240012965274 52.27490794865395)"/><ellipse cx="174.59341011602038" cy="68.21302796518687" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(341.067309065039 174.59341011602038 68.21302796518687)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9b6773" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pineapple</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ananas comosus</text>
+</g>
+</svg>

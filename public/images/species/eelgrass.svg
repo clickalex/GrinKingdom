@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Eelgrass illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c3ffff"/><stop offset="1" stop-color="#A5F3FC"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#A5F3FC"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#52df86" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#52df86" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="444.42274153232574" cy="147.3779846727848" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="210.22215808276087" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="154.21720678918064" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">🌊</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M99 236 q-24 -41.721426914446056 -48 -83.44285382889211" stroke="#A5F3FC" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -50.07378143700771 -32 -100.14756287401542" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -59.286285378271714 -16 -118.57257075654343" stroke="#A5F3FC" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -69.6013649199158 0 -139.2027298398316" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -59.275065479334444 16 -118.55013095866889" stroke="#A5F3FC" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -54.7397318512667 32 -109.4794637025334" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -45.25255467812531 48 -90.50510935625061" stroke="#A5F3FC" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Eelgrass</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Zostera marina</text>
+</g>
+</svg>

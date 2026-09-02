@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Phage ΦX174 illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffee"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#ffda47" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#ffda47" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="387.4111271649599" cy="161.92077688872814" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="268.81266525015235" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="138.3085581380874" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="325.13901027850807" cy="43.61281738616526" r="3.977881036698818"/><circle cx="77.92065227404237" cy="140.49100226722658" r="4.446753142867237"/><circle cx="208.27949229627848" cy="143.09377981349826" r="2.7914513424038887"/></g>
+<text x="30" y="68" font-size="44">🔬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><circle cx="150" cy="150" r="62" fill="url(#bg1)" stroke="#F59E0B" stroke-width="3"/><circle cx="150" cy="150" r="62" fill="url(#tx)"/><circle cx="126" cy="126" r="15" fill="#ffffff" opacity="0.32"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Phage ΦX174</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Escherichia virus phiX174</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Neisseria meningitidis illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff67b6"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffedff"/><stop offset="1" stop-color="#FBCFE8"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7bca"/><stop offset="1" stop-color="#FBCFE8"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ff7bca" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ff7bca" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="379.9933674186468" cy="184.1398383770138" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="240.09202383924276" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="157.10013259202242" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="61" font-size="44">🧠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><circle cx="150" cy="150" r="62" fill="url(#bg1)" stroke="#F43F8E" stroke-width="3"/><circle cx="150" cy="150" r="62" fill="url(#tx)"/><circle cx="126" cy="126" r="15" fill="#ffffff" opacity="0.32"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Neisseria meningitidis</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Neisseria meningitidis</text>
+</g>
+</svg>

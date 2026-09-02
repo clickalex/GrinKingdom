@@ -1,5 +1,7 @@
+import { useState } from 'react'
 import { Link } from 'react-router-dom'
 import { KINGDOM_MAP } from '../data/kingdoms.js'
+import { speciesImage } from '../data/species.js'
 import TiltCard from './TiltCard.jsx'
 
 const STATUS_COLORS = {
@@ -14,14 +16,25 @@ const STATUS_COLORS = {
 export default function SpeciesCard({ species }) {
   const k = KINGDOM_MAP[species.kingdom]
   const statusColor = STATUS_COLORS[species.status]
+  const [imgOk, setImgOk] = useState(true)
   return (
     <Link to={`/species/${species.slug}`} className="species-link" style={{ '--kc': k?.color || '#7C3AED' }}>
       <TiltCard className="species-card" max={7}>
-        <div className="species-card-top">
-          <span className="species-emoji" style={{ background: `${k?.color || '#7C3AED'}1e` }}>
-            {species.emoji}
-          </span>
-          <span className="chip kingdom-chip" style={{ background: `${k?.color}22`, color: k?.color }}>
+        <div className="species-photo">
+          {imgOk ? (
+            <img
+              src={speciesImage(species.slug)}
+              alt={`Illustration of ${species.name}`}
+              loading="lazy"
+              onError={() => setImgOk(false)}
+            />
+          ) : (
+            <span className="species-photo-fallback" style={{ background: `${k?.color || '#7C3AED'}1e` }}>
+              {species.emoji}
+            </span>
+          )}
+          <span className="species-photo-emoji">{species.emoji}</span>
+          <span className="chip kingdom-chip species-photo-chip" style={{ background: `${k?.color}22`, color: k?.color }}>
             {k?.emoji} {k?.name}
           </span>
         </div>

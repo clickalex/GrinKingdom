@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Akkermansia muciniphila illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9ade"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffedff"/><stop offset="1" stop-color="#FBCFE8"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaef2"/><stop offset="1" stop-color="#FBCFE8"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ffaef2" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ffaef2" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="369.2193191498518" cy="124.75967712700367" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="224.15677204728127" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="154.4134102575481" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="388.25782518833876" cy="97.14066156186163" r="2.6760615133680403"/><circle cx="447.70926707424223" cy="81.84950651600957" r="4.348560817306861"/><circle cx="485.5926277395338" cy="86.04645295068622" r="2.167762170312926"/></g>
+<text x="30" y="54" font-size="44">🧫</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#F472B6" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Akkermansia muciniphila</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Akkermansia muciniphila</text>
+</g>
+</svg>

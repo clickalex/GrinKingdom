@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Malassezia globosa illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffb75"/><stop offset="1" stop-color="#FCD34D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe1"/><stop offset="1" stop-color="#FEF9C3"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff89"/><stop offset="1" stop-color="#FEF9C3"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffff5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="396.38253055512905" cy="134.72646865993738" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="222.21314866561443" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="152.496541114524" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="93.30998591147363" cy="83.35160195827484" r="1.958529602503404"/><circle cx="350.80901022069156" cy="92.71245872601867" r="3.2547785877250135"/><circle cx="295.9898969065398" cy="83.46364850178361" r="4.361449993913993"/></g>
+<text x="30" y="54" font-size="44">🦠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><ellipse cx="136" cy="150" rx="52" ry="42" fill="url(#bg1)" stroke="#FCD34D" stroke-width="3"/><ellipse cx="136" cy="150" rx="52" ry="42" fill="url(#tx)"/><circle cx="186" cy="112" r="22" fill="url(#bg2)" stroke="#FCD34D" stroke-width="3"/><circle cx="198" cy="96" r="9" fill="url(#bg1)" stroke="#FCD34D" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Malassezia globosa</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Malassezia globosa</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Fairy cups illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#acf43e"/><stop offset="1" stop-color="#84CC16"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c6c0bc"/><stop offset="1" stop-color="#A8A29E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c0ff52"/><stop offset="1" stop-color="#A8A29E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbe"/><stop offset="1" stop-color="#fffffc"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="401.56979843974113" cy="107.3992660548538" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="268.0254574259743" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="158.2335364073515" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="70.25601716712117" cy="156.13848322071135" r="2.455164395738393"/><circle cx="251.4942577853799" cy="117.39873201586306" r="3.502525541000068"/><circle cx="234.50679579749703" cy="120.60610760934651" r="4.063686285400763"/></g>
+<text x="30" y="67" font-size="44">🧚</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><circle cx="145.19940548110753" cy="211.91039530094713" r="17.497026896104217" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="237.5597195746377" cy="190.45694165397435" r="12.459054850973189" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="196.57524542883039" cy="223.41745800804347" r="28.487608862109482" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="167.25619877222925" cy="238.0981780588627" r="13.104883122257888" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="188.69596215896308" cy="173.43073803931475" r="19.804591212887317" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="232.90134721901268" cy="154.83230168465525" r="15.145082803443074" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="143.5000947257504" cy="181.95229519624263" r="26.459894926752895" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="234.61032629013062" cy="171.93525668699294" r="27.574995283037424" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="211.57780135050416" cy="228.46676195040345" r="14.186576711945236" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="222.8073785500601" cy="241.0061339614913" r="24.02292497176677" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="150.9794769762084" cy="168.7464009737596" r="27.30602192133665" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="77.37153514288366" cy="159.8027377622202" r="14.528807672671974" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="128.75312029849738" cy="159.13186997640878" r="29.55383448768407" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="127.78519568033516" cy="206.3694027485326" r="16.006121425889432" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Fairy cups</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cladonia fimbriata</text>
+</g>
+</svg>

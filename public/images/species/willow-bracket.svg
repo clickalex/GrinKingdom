@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Willow bracket illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#514d4c"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#656160"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#d1cdcc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#656160" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#656160" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="304.77965980768204" cy="131.93820375949144" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="269.7838550526649" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="141.76485165022314" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="246.36470179073513" cy="134.76136138662696" r="2.3811930378433317"/><circle cx="151.26029731705785" cy="84.30900336243212" r="3.199949702946469"/><circle cx="159.9957171920687" cy="47.485709553584456" r="1.601882521994412"/></g>
+<text x="30" y="69" font-size="44">🪵</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M150 236 q-6 -110 -8 -170 M150 236 q-10 -90 -60 -132 M150 236 q0 -100 40 -140 M150 236 q12 -80 72 -106" stroke="#292524" stroke-width="11" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M150 236 q-6 -110 -8 -170" stroke="#FEF3C7" stroke-width="4" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Willow bracket</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Phellinus igniarius</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Taipan illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2dedb"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#807c78" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#807c78" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="254.70366954803467" cy="144.9236330576241" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="258.87776205316186" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="147.28774098679423" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="335.60805979184806" cy="68.18196651525795" r="2.8761903871782124"/><circle cx="472.3479363229126" cy="123.83030652068555" r="2.7340842951089144"/><circle cx="71.3048745971173" cy="140.1664933655411" r="1.7055506177712232"/></g>
+<text x="30" y="59" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M40,153.13071062931147 L70,194.95804086500516 L100,166.3040947085571 L130,140.95115783960455 L160,105.31557959875447 L190,149.46536865481846 L220,188.432704106937 L250,189.25914434950408 L280,133.94398875874094" stroke="#44403C" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,153.13071062931147 L70,194.95804086500516 L100,166.3040947085571 L130,140.95115783960455 L160,105.31557959875447 L190,149.46536865481846 L220,188.432704106937 L250,189.25914434950408 L280,133.94398875874094" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,153.13071062931147 L70,194.95804086500516 L100,166.3040947085571 L130,140.95115783960455 L160,105.31557959875447 L190,149.46536865481846 L220,188.432704106937 L250,189.25914434950408 L280,133.94398875874094" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="145.13071062931147" r="13" fill="url(#bg1)" stroke="#44403C" stroke-width="3"/><circle cx="24" cy="143.13071062931147" r="2.8" fill="#1c1917"/><path d="M36 137.13071062931147 l-7 -7 M34 139.13071062931147 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Taipan</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Oxyuranus scutellatus</text>
+</g>
+</svg>

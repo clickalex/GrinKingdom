@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Meadowsweet illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="371.28517277538776" cy="146.10304137691855" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="218.09610861819237" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="122.43886549957097" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="225.6762934103608" cy="42.98333413898945" r="3.9183849084656686"/><circle cx="339.23338380642235" cy="126.74899556674063" r="3.130785846384242"/><circle cx="143.1045616324991" cy="90.93905300833285" r="3.3369427830912173"/></g>
+<text x="30" y="69" font-size="44">🌼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EC4899" stroke-width="2.6"/><ellipse cx="175.06858673675367" cy="82.36628420282734" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(15.3825120551201 175.06858673675367 82.36628420282734)"/><ellipse cx="161.05334994654808" cy="97.72318826433073" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(64.84118090474747 161.05334994654808 97.72318826433073)"/><ellipse cx="149.72480834330264" cy="99.99865563486975" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(90.60644672676321 149.72480834330264 99.99865563486975)"/><ellipse cx="131.28155374656927" cy="92.65686539685454" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(136.04954680481282 131.28155374656927 92.65686539685454)"/><ellipse cx="125.78977685878263" cy="67.24948902754693" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(201.3832526105893 125.78977685878263 67.24948902754693)"/><ellipse cx="142.3532753688771" cy="53.0614436946868" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(252.89613535755947 142.3532753688771 53.0614436946868)"/><ellipse cx="159.363481009659" cy="53.61038488733382" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(291.1084185849823 159.363481009659 53.61038488733382)"/><ellipse cx="170.35021850281373" cy="61.06244172265896" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(321.50851947005 170.35021850281373 61.06244172265896)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#965e74" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Meadowsweet</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Filipendula ulmaria</text>
+</g>
+</svg>

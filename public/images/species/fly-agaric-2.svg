@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Fly agaric illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4e4e"/><stop offset="1" stop-color="#DC2626"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6262"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcece"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="330.6726177036762" cy="191.74820543266833" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="253.4831898054108" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="158.80510632880032" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="66" font-size="44">🍄</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M76 150 q74 -92 148 0 Z" fill="url(#bg1)" stroke="#DC2626" stroke-width="3"/><path d="M76 150 q74 -92 148 0 Z" fill="url(#tx)"/><rect x="136" y="150" width="28" height="58" fill="#F5F5F4" stroke="#e67978" stroke-width="3"/><line x1="150" y1="150" x2="150" y2="168" stroke="#DC2626" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Fly agaric</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Amanita muscaria</text>
+</g>
+</svg>

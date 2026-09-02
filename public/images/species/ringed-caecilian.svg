@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Ringed caecilian illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8c9cb3"/><stop offset="1" stop-color="#64748B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a0b0c7"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="291.50229670107365" cy="130.33091417513788" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="220.00692665576935" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="158.775612777099" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="45.21985967643559" cy="78.32983814179897" r="2.4356102691963315"/><circle cx="201.08417293056846" cy="143.02620979957283" r="2.901670716237277"/><circle cx="335.52984768524766" cy="125.62400401569903" r="1.6681941614951938"/></g>
+<text x="30" y="66" font-size="44">🪱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M40,161.64323537497887 L70,178.1613018792726 L100,156.98059701637519 L130,126.21913192401044 L160,124.96854026760525 L190,151.13375056747148 L220,169.26561562731328 L250,174.1697261951579 L280,149.43399027925142" stroke="#64748B" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,161.64323537497887 L70,178.1613018792726 L100,156.98059701637519 L130,126.21913192401044 L160,124.96854026760525 L190,151.13375056747148 L220,169.26561562731328 L250,174.1697261951579 L280,149.43399027925142" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,161.64323537497887 L70,178.1613018792726 L100,156.98059701637519 L130,126.21913192401044 L160,124.96854026760525 L190,151.13375056747148 L220,169.26561562731328 L250,174.1697261951579 L280,149.43399027925142" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="153.64323537497887" r="13" fill="url(#bg1)" stroke="#64748B" stroke-width="3"/><circle cx="24" cy="151.64323537497887" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Ringed caecilian</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Siphonops annulatus</text>
+</g>
+</svg>

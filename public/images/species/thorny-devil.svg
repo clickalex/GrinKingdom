@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Thorny devil illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#63aaff"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#feffff"/><stop offset="1" stop-color="#E0F2FE"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#77beff"/><stop offset="1" stop-color="#E0F2FE"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#e3ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#77beff" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#77beff" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="269.11834731698036" cy="129.61665633134544" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="215.61491288244724" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="137.1184362936765" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="138.80877102725208" cy="87.5847246311605" r="4.401483959052712"/><circle cx="428.83909412659705" cy="136.5452885441482" r="1.6912976307794452"/><circle cx="439.7827463503927" cy="154.5050672441721" r="2.996001737890765"/></g>
+<text x="30" y="64" font-size="44">🦎</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M54 168 q8 -40 40 -44 q40 -4 68 6 q36 12 52 30 q10 10 6 20 q-6 8 -18 4 q-40 -14 -76 -8 q-30 5 -44 12 q-14 6 -24 2 q-8 -3 -4 -10 q6 -8 0 -12 Z" fill="url(#bg1)" stroke="#3B82F6" stroke-width="3" stroke-linejoin="round"/><path d="M54 168 q8 -40 40 -44 q40 -4 68 6 q36 12 52 30 q10 10 6 20 q-6 8 -18 4 q-40 -14 -76 -8 q-30 5 -44 12 q-14 6 -24 2 q-8 -3 -4 -10 q6 -8 0 -12 Z" fill="url(#tx)"/><circle cx="72" cy="138" r="3.6" fill="#1c1917"/><line x1="78" y1="172" x2="84" y2="190" stroke="#3B82F6" stroke-width="3.4" stroke-linecap="round"/><line x1="100" y1="176" x2="106" y2="194" stroke="#3B82F6" stroke-width="3.4" stroke-linecap="round"/><line x1="122" y1="178" x2="128" y2="196" stroke="#3B82F6" stroke-width="3.4" stroke-linecap="round"/><line x1="144" y1="178" x2="150" y2="196" stroke="#3B82F6" stroke-width="3.4" stroke-linecap="round"/><path d="M198 176 q26 20 22 44 q-2 14 -14 10" fill="none" stroke="#3B82F6" stroke-width="7" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Thorny devil</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Moloch horridus</text>
+</g>
+</svg>

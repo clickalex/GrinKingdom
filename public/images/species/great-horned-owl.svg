@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Great horned owl illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a05d37"/><stop offset="1" stop-color="#78350F"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4714b"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffddb7"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="30" height="16" patternUnits="userSpaceOnUse"><rect width="30" height="16" fill="none"/><path d="M3 8 q7 -6 12 0 q7 -6 12 0" stroke="#b4714b" stroke-width="2.4" fill="none" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="141.1327587068081" cy="185.8366794604808" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="248.20324930362403" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="120.86519902572036" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="371.39721038751304" cy="158.01194575615227" r="3.6623432894703"/><circle cx="265.873807054013" cy="94.13953697308898" r="2.240057114744559"/><circle cx="206.65406258776784" cy="93.56108437292278" r="3.565957048907876"/></g>
+<text x="30" y="61" font-size="44">🦉</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><path d="M110 150 q-2 -52 40 -54 q42 2 40 54 q0 30 -40 30 q-40 0 -40 -30 Z" fill="url(#bg1)" stroke="#78350F" stroke-width="3"/><path d="M110 150 q-2 -52 40 -54 q42 2 40 54 q0 30 -40 30 q-40 0 -40 -30 Z" fill="url(#tx)"/><path d="M126 108 q-10 -16 2 -28 q12 4 16 14 M174 108 q10 -16 -2 -28 q-12 4 -16 14" fill="#FEF3C7" stroke="#78350F" stroke-width="2.6"/><circle cx="134" cy="126" r="9" fill="#fbbf24" stroke="#78350F" stroke-width="2.4"/><circle cx="166" cy="126" r="9" fill="#fbbf24" stroke="#78350F" stroke-width="2.4"/><circle cx="134" cy="126" r="3.4" fill="#1c1917"/><circle cx="166" cy="126" r="3.4" fill="#1c1917"/><path d="M150 148 l-4 6 M150 154 l0 5 M150 160 l4 5" stroke="#FEF3C7" stroke-width="2.6" fill="none"/><path d="M124 172 l-8 18 M176 172 l8 18" stroke="#78350F" stroke-width="5" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Great horned owl</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Bubo virginianus</text>
+</g>
+</svg>

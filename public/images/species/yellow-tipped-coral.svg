@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Yellow-tipped coral illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffee"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="374.3320643156767" cy="141.60527276806533" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="263.39310260955244" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="131.1579068750143" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="236.4538005553186" cy="81.5948817320168" r="2.452882840996608"/><circle cx="526.0632184054703" cy="94.60740729235113" r="2.488493002485484"/><circle cx="350.3777701500803" cy="64.9588437564671" r="2.2257907355669886"/></g>
+<text x="30" y="52" font-size="44">🪸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 220 q-6 -60 2 -110 M150 170 q-34 -6 -52 -52 M150 150 q34 -10 48 -56 M150 190 q-22 -4 -30 -34 M150 130 q16 -8 22 -34" stroke="#F59E0B" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.95"/><path d="M150 220 q-6 -60 2 -110" stroke="#FDE68A" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Yellow-tipped coral</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ramaria formosa</text>
+</g>
+</svg>

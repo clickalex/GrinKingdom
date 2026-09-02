@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="American bullfrog illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="395.25256484746933" cy="149.9939836654812" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="251.8604481127113" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="121.74460685811937" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="206.26316417008638" cy="133.19294083863497" r="3.8090903393458575"/><circle cx="457.1547535061836" cy="93.47644411027431" r="2.1829611563589424"/><circle cx="250.3760716598481" cy="157.1606667060405" r="2.465040529612452"/></g>
+<text x="30" y="58" font-size="44">🐸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><path d="M96 168 q0 -46 54 -46 q54 0 54 46 q-54 8 -108 0 Z" fill="url(#bg1)" stroke="#16A34A" stroke-width="3"/><path d="M96 168 q0 -46 54 -46 q54 0 54 46 q-54 8 -108 0 Z" fill="url(#tx)"/><circle cx="104" cy="110" r="15" fill="url(#bg1)" stroke="#16A34A" stroke-width="3"/><circle cx="196" cy="110" r="15" fill="url(#bg1)" stroke="#16A34A" stroke-width="3"/><circle cx="104" cy="106" r="6" fill="#1c1917"/><circle cx="196" cy="106" r="6" fill="#1c1917"/><path d="M138 158 q12 10 24 0" stroke="#16A34A" stroke-width="2.6" fill="none"/><path d="M104 164 q-26 12 -34 34" stroke="#16A34A" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M196 164 q26 12 34 34" stroke="#16A34A" stroke-width="6" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">American bullfrog</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lithobates catesbeianus</text>
+</g>
+</svg>

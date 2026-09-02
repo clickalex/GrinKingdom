@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Field hornwort illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="178.11488591134548" cy="165.76639247126877" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="267.6719851233065" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="122.70856227725744" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="179.7957655787468" cy="63.21680471301079" r="2.9838893548585474"/><circle cx="556.6767366603017" cy="118.72617974877357" r="3.784351630602032"/><circle cx="192.7180990949273" cy="120.46411294490099" r="1.7565884934738278"/></g>
+<text x="30" y="58" font-size="44">🌱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><circle cx="220.66401220858097" cy="220.98379891831428" r="23.18860514089465" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="71.20328002609313" cy="226.27038049977273" r="15.614185402169824" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="203.0352986091748" cy="152.18701609410346" r="25.200765637680888" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="117.9423060407862" cy="192.71760741248727" r="27.18845927109942" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="169.93422450497746" cy="165.74180340394378" r="22.574420708231628" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="64.21066649258137" cy="225.48029264435172" r="17.737296954263" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="201.1461779801175" cy="154.7620914177969" r="27.703795886132866" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="104.02356494218111" cy="245.48450310248882" r="24.497736958321184" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="70.10929548181593" cy="242.40265616681427" r="24.6018959521316" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="122.96380180399865" cy="204.38003004528582" r="27.2516569099389" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="108.94474659115076" cy="217.32139952946454" r="15.98063739342615" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="131.11651541199535" cy="249.1236763074994" r="22.985310172196478" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="71.25179511029273" cy="173.13414013478905" r="19.599893654230982" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="179.15271834935993" cy="179.45877795573324" r="17.260034220758826" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Field hornwort</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Anthoceros agrestis</text>
+</g>
+</svg>

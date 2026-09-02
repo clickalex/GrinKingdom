@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pseudomonas aeruginosa illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#36cdff"/><stop offset="1" stop-color="#0EA5E9"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8ffff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4ae1ff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#b6ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#4ae1ff" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#4ae1ff" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="396.07001043856144" cy="92.29035484604537" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="240.97325629089028" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="142.23295585252345" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="540.5631936900318" cy="155.00157911330462" r="2.4290978831704706"/><circle cx="249.9272512178868" cy="53.186478856951" r="3.635399003047496"/><circle cx="210.7633774727583" cy="61.767305294051766" r="1.8337243599817157"/></g>
+<text x="30" y="69" font-size="44">🟢</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#0EA5E9" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/><path d="M150 178 q-40 46 -90 30" stroke="#0EA5E9" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M150 178 q40 46 90 30" stroke="#0EA5E9" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pseudomonas aeruginosa</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pseudomonas aeruginosa</text>
+</g>
+</svg>

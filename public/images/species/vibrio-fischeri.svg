@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Vibrio fischeri illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#30b9da"/><stop offset="1" stop-color="#0891B2"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#85ffff"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#44cdee"/><stop offset="1" stop-color="#67E8F9"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#b0ffff"/><stop offset="1" stop-color="#deffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#44cdee" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#44cdee" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="213.16532723605633" cy="203.42232523486018" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="220.05398264620453" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="137.44338122196496" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">✨</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#0891B2" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/><path d="M150 178 q-40 46 -90 30" stroke="#0891B2" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M150 178 q40 46 90 30" stroke="#0891B2" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Vibrio fischeri</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Aliivibrio fischeri</text>
+</g>
+</svg>

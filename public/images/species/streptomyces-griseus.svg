@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Streptomyces griseus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b384ff"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2d3ff"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c798ff"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="408.7132463604212" cy="128.32999642007053" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="229.32379678823054" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="135.6514434143901" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="67" font-size="44">💊</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><line x1="106" y1="206" x2="106.57026148308069" y2="96" stroke="#C4B5FD" stroke-width="4"/><circle cx="105.35066379327327" cy="94.92096605710685" r="9" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.4"/><line x1="128" y1="206" x2="128.67151952255517" y2="96" stroke="#C4B5FD" stroke-width="4"/><circle cx="131.97696563228965" cy="88.86529865302145" r="9" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.4"/><line x1="150" y1="206" x2="148.30346116796136" y2="96" stroke="#C4B5FD" stroke-width="4"/><circle cx="145.85563047789037" cy="88.34244219399989" r="9" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.4"/><line x1="172" y1="206" x2="168.70120943151414" y2="96" stroke="#C4B5FD" stroke-width="4"/><circle cx="172.1842652419582" cy="95.21904753521085" r="9" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.4"/><line x1="194" y1="206" x2="196.09695811010897" y2="96" stroke="#C4B5FD" stroke-width="4"/><circle cx="196.25205503311008" cy="94.80523544549942" r="9" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Streptomyces griseus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Streptomyces griseus</text>
+</g>
+</svg>

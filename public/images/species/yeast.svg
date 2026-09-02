@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Baker's yeast illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffe74c"/><stop offset="1" stop-color="#FBBF24"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffb60"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffcc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="164.71982426941395" cy="101.64859134703875" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="231.56096602790058" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="136.93013628944755" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="252.88565992377698" cy="114.5099385920912" r="2.980827287072316"/><circle cx="311.8252570088953" cy="99.07099206931889" r="4.2124067628756166"/><circle cx="103.8367573171854" cy="114.8605598602444" r="2.7697521513327956"/></g>
+<text x="30" y="60" font-size="44">🍞</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><ellipse cx="136" cy="150" rx="52" ry="42" fill="url(#bg1)" stroke="#FBBF24" stroke-width="3"/><ellipse cx="136" cy="150" rx="52" ry="42" fill="url(#tx)"/><circle cx="186" cy="112" r="22" fill="url(#bg2)" stroke="#FBBF24" stroke-width="3"/><circle cx="198" cy="96" r="9" fill="url(#bg1)" stroke="#FBBF24" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Baker's yeast</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Saccharomyces cerevisiae</text>
+</g>
+</svg>

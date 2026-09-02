@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Ginger illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffd4"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="332.1313512325287" cy="180.04652045667171" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="214.426608402282" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="142.55118617787957" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="535.953073585406" cy="100.52705717273057" r="2.759269352769479"/><circle cx="517.521010087803" cy="49.06599440611899" r="3.0241041323170066"/><circle cx="513.7170698586851" cy="71.25382151454687" r="2.6470825450960547"/></g>
+<text x="30" y="69" font-size="44">🫚</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.6"/><ellipse cx="175.71553177340334" cy="79.54050550330194" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(8.483295726034944 175.71553177340334 79.54050550330194)"/><ellipse cx="165.949303293949" cy="94.95388990988619" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(52.16172629886112 165.949303293949 94.95388990988619)"/><ellipse cx="149.75347955383728" cy="99.99892117698886" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(90.54326126040124 149.75347955383728 99.99892117698886)"/><ellipse cx="129.3168091208719" cy="90.54265478158567" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(142.70320161820683 129.3168091208719 90.54265478158567)"/><ellipse cx="125.03076261707497" cy="69.30930409763899" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(196.18734488800848 125.03076261707497 69.30930409763899)"/><ellipse cx="132.2929255523186" cy="58.426120430368904" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(227.0749304680752 132.2929255523186 58.426120430368904)"/><ellipse cx="150.47472421578993" cy="52.00400086154305" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(271.0462002122227 150.47472421578993 52.00400086154305)"/><ellipse cx="174.70603025313656" cy="68.52295902479845" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(341.8477339901447 174.70603025313656 68.52295902479845)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9ca024" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Ginger</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Zingiber officinale</text>
+</g>
+</svg>

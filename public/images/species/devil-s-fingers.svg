@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Devil's fingers illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8034"/><stop offset="1" stop-color="#EA580C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff9448"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="223.35413239896297" cy="195.6034846790135" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="237.76213587261736" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="138.71412243694067" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="79.25288256257772" cy="147.6682748273015" r="3.391910857753828"/><circle cx="512.5497597642243" cy="87.00372801162302" r="4.084494749084115"/><circle cx="451.3350798562169" cy="90.95586291514337" r="2.21006121346727"/></g>
+<text x="30" y="62" font-size="44">👹</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M76 150 q74 -92 148 0 Z" fill="url(#bg1)" stroke="#EA580C" stroke-width="3"/><path d="M76 150 q74 -92 148 0 Z" fill="url(#tx)"/><rect x="136" y="150" width="28" height="58" fill="#FEF3C7" stroke="#f29657" stroke-width="3"/><line x1="150" y1="150" x2="150" y2="168" stroke="#EA580C" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Devil's fingers</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Clathrus archeri</text>
+</g>
+</svg>

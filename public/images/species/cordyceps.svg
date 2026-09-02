@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cordyceps illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dc7b31"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffbc29"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f08f45"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffbb1"/><stop offset="1" stop-color="#ffffba"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="233.4501727670431" cy="183.82539231330156" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="217.65471790451556" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="152.9605445638299" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="173.21228214539587" cy="75.18686305731535" r="3.779012999497354"/><circle cx="160.25737955234945" cy="46.1162568628788" r="3.3903124476782978"/><circle cx="71.82920699939132" cy="65.70174901746213" r="3.5123656613286585"/></g>
+<text x="30" y="62" font-size="44">🐜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><path d="M146 236 q-6 -60 4 -150" stroke="#F59E0B" stroke-width="7" fill="none"/><circle cx="120.06540626194328" cy="200" r="10" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6"/><circle cx="178.4875957639888" cy="174" r="9.2" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6"/><circle cx="122.43359715677798" cy="148" r="8.4" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6"/><circle cx="168.8872464140877" cy="122" r="7.6" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6"/><circle cx="124.28943953476846" cy="96" r="6.8" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6"/><circle cx="170.71621660608798" cy="70" r="6" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6"/><circle cx="150" cy="86" r="13" fill="#F59E0B"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cordyceps</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ophiocordyceps unilateralis</text>
+</g>
+</svg>

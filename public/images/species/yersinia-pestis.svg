@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Yersinia pestis illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#35bcb0"/><stop offset="1" stop-color="#0D9488"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7cfff2"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#49d0c4"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#b5ffff"/><stop offset="1" stop-color="#ddffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#49d0c4" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#49d0c4" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="291.0765603929758" cy="185.26751993224025" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="264.021980362013" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="155.78596704639494" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="72.3778981063515" cy="113.76126403920352" r="1.6754170611966401"/><circle cx="200.7042393926531" cy="127.98299158923328" r="3.292715752031654"/><circle cx="539.6832083631307" cy="113.69283457286656" r="2.1719151965808123"/></g>
+<text x="30" y="62" font-size="44">🐀</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#0D9488" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/><path d="M150 178 q-40 46 -90 30" stroke="#0D9488" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M150 178 q40 46 90 30" stroke="#0D9488" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Yersinia pestis</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Yersinia pestis</text>
+</g>
+</svg>

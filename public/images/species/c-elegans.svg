@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="C. elegans illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffb2"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffbc29"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffc6"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="294.5268853753805" cy="199.84622480347753" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="254.70607270952314" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="131.64763199165463" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="61" font-size="44">🪱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M40,151.66993524807015 L70,176.27591861199585 L100,173.3707425010015 L130,138.14779691876493 L160,120.96660102323112 L190,151.28002235512093 L220,176.90383391361627 L250,179.88824435734153 L280,151.60871373285923" stroke="#FDE68A" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,151.66993524807015 L70,176.27591861199585 L100,173.3707425010015 L130,138.14779691876493 L160,120.96660102323112 L190,151.28002235512093 L220,176.90383391361627 L250,179.88824435734153 L280,151.60871373285923" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,151.66993524807015 L70,176.27591861199585 L100,173.3707425010015 L130,138.14779691876493 L160,120.96660102323112 L190,151.28002235512093 L220,176.90383391361627 L250,179.88824435734153 L280,151.60871373285923" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="143.66993524807015" r="13" fill="url(#bg1)" stroke="#FDE68A" stroke-width="3"/><circle cx="24" cy="141.66993524807015" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">C. elegans</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Caenorhabditis elegans</text>
+</g>
+</svg>

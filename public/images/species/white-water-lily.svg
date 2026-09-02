@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="White water lily illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd0fc"/><stop offset="1" stop-color="#F9A8D4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe4ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="416.16204746067524" cy="136.11406914889812" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="243.1007626047358" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="121.9043168798089" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="56" font-size="44">🤍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F9A8D4" stroke-width="2.6"/><ellipse cx="175.809276659627" cy="78.90164034018868" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(6.944143986094284 175.809276659627 78.90164034018868)"/><ellipse cx="166.65442616976597" cy="94.42989801614289" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(50.16679408126427 166.65442616976597 94.42989801614289)"/><ellipse cx="146.6779245692446" cy="99.80328520609562" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(97.34087124182604 146.6779245692446 99.80328520609562)"/><ellipse cx="127.60171428856299" cy="88.18730030519268" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(149.48232239094023 127.60171428856299 88.18730030519268)"/><ellipse cx="124.27186466364373" cy="72.53839358661948" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(188.29290122138318 124.27186466364373 72.53839358661948)"/><ellipse cx="141.24215833090923" cy="53.40251491462202" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(250.31552979322979 141.24215833090923 53.40251491462202)"/><ellipse cx="153.19084402019453" cy="52.18142213825251" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(277.04938302722763 153.19084402019453 52.18142213825251)"/><ellipse cx="174.48620258291842" cy="67.93028630841862" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(340.3521580366856 174.48620258291842 67.93028630841862)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9ea69d" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">White water lily</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Nymphaea alba</text>
+</g>
+</svg>

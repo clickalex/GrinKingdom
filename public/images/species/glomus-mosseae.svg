@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Glomus mosseae illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffb2"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d27127"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffc6"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ffffc6" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ffffc6" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="392.3228922486305" cy="153.47832256928086" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="242.31545712333173" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="147.12511349469423" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="62" font-size="44">🕸️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M201.55857330095023,150 Q219.42091569580657,175.33915115403943 212.752019281435,186.22989522432908 Q188.17118237630052,186.84187687035887 172.8690771749243,189.61040358918262 Q150.45413172943518,207.79347941476158 150,217.98160031158477 Q129.67152034374885,191.82011166433634 130.6390901482664,183.5340795439634 Q129.04628150150467,181.7017879985256 105.1556081345176,175.89092171518132 Q116.60545660657164,148.87712413980626 110.89543762803078,150 Q110.41239840582226,144.99247838463634 96.15593589932152,118.91311509720981 Q110.61347860585178,107.0680549381249 118.15325681259853,94.83982274382271 Q132.22654888476245,76.90049693025131 150,77.67961708828807 Q166.63490258180536,90.15146864536104 182.53495438443497,93.64780598422283 Q203.82682339418426,100.40705438987236 194.1699763893099,124.49845224153248 Z" fill="url(#bg1)" stroke="#FDE68A" stroke-width="3"/><path d="M201.55857330095023,150 Q219.42091569580657,175.33915115403943 212.752019281435,186.22989522432908 Q188.17118237630052,186.84187687035887 172.8690771749243,189.61040358918262 Q150.45413172943518,207.79347941476158 150,217.98160031158477 Q129.67152034374885,191.82011166433634 130.6390901482664,183.5340795439634 Q129.04628150150467,181.7017879985256 105.1556081345176,175.89092171518132 Q116.60545660657164,148.87712413980626 110.89543762803078,150 Q110.41239840582226,144.99247838463634 96.15593589932152,118.91311509720981 Q110.61347860585178,107.0680549381249 118.15325681259853,94.83982274382271 Q132.22654888476245,76.90049693025131 150,77.67961708828807 Q166.63490258180536,90.15146864536104 182.53495438443497,93.64780598422283 Q203.82682339418426,100.40705438987236 194.1699763893099,124.49845224153248 Z" fill="url(#tx)"/><circle cx="142.09385558962822" cy="158.68723354768008" r="13" fill="#B45309" opacity="0.8"/><circle cx="116.95259457454085" cy="121.6704308539629" r="5" fill="#ffffff" opacity="0.5"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Glomus mosseae</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Funneliformis mosseae</text>
+</g>
+</svg>

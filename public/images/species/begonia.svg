@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Begonia illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff99ad"/><stop offset="1" stop-color="#FB7185"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffadc1"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="420.94236485660076" cy="114.26032131537795" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="244.76877255365252" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="147.42392044514418" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="125.86306747980416" cy="62.187609039247036" r="1.6542131169699132"/><circle cx="308.76632118597627" cy="101.36983325704932" r="3.647842022124678"/><circle cx="178.2468443736434" cy="106.5425805747509" r="3.5359654852654785"/></g>
+<text x="30" y="66" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FB7185" stroke-width="2.6"/><ellipse cx="173.42306616229533" cy="86.41728079097075" rx="17" ry="20" fill="url(#bg1)" stroke="#FB7185" stroke-width="2.6" transform="rotate(25.72507339201096 173.42306616229533 86.41728079097075)"/><ellipse cx="165.148432669012" cy="95.50566572596735" rx="17" ry="20" fill="url(#bg1)" stroke="#FB7185" stroke-width="2.6" transform="rotate(54.36412095681429 165.148432669012 95.50566572596735)"/><ellipse cx="144.40451533540192" cy="99.4376220340211" rx="17" ry="20" fill="url(#bg1)" stroke="#FB7185" stroke-width="2.6" transform="rotate(102.4279034878707 144.40451533540192 99.4376220340211)"/><ellipse cx="130.55616765787136" cy="91.93310410304322" rx="17" ry="20" fill="url(#bg1)" stroke="#FB7185" stroke-width="2.6" transform="rotate(138.40359143253627 130.55616765787136 91.93310410304322)"/><ellipse cx="124.11576036954067" cy="73.73777616295135" rx="17" ry="20" fill="url(#bg1)" stroke="#FB7185" stroke-width="2.6" transform="rotate(185.40869105372335 124.11576036954067 73.73777616295135)"/><ellipse cx="141.0332840574576" cy="53.47242153674918" rx="17" ry="20" fill="url(#bg1)" stroke="#FB7185" stroke-width="2.6" transform="rotate(249.82591446607583 141.0332840574576 53.47242153674918)"/><ellipse cx="153.66759151958303" cy="52.23997897713889" rx="17" ry="20" fill="url(#bg1)" stroke="#FB7185" stroke-width="2.6" transform="rotate(278.10925867222096 153.66759151958303 52.23997897713889)"/><ellipse cx="174.43428542699752" cy="67.79729436440614" rx="17" ry="20" fill="url(#bg1)" stroke="#FB7185" stroke-width="2.6" transform="rotate(340.01467804294975 174.43428542699752 67.79729436440614)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9f856d" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Begonia</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Begonia semperflorens</text>
+</g>
+</svg>

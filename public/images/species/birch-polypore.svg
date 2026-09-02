@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Birch polypore illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9f2e"/><stop offset="1" stop-color="#D97706"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb342"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffae"/><stop offset="1" stop-color="#ffffeb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="272.1766908466816" cy="102.03429367393255" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="232.0224850717932" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="150.21085861139" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">🪵</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M150 236 q-6 -110 -8 -170 M150 236 q-10 -90 -60 -132 M150 236 q0 -100 40 -140 M150 236 q12 -80 72 -106" stroke="#D97706" stroke-width="11" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M150 236 q-6 -110 -8 -170" stroke="#FDE68A" stroke-width="4" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Birch polypore</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Fomitopsis betulina</text>
+</g>
+</svg>

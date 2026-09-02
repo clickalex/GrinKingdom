@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Daisy illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff43d"/><stop offset="1" stop-color="#FACC15"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff51"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbd"/><stop offset="1" stop-color="#ffffda"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="458.4550476819277" cy="161.96269095875323" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="219.48418567422777" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="120.53699188865721" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="291.34175452403724" cy="147.5528080202639" r="1.7940396352205426"/><circle cx="287.88304328918457" cy="54.237863048911095" r="4.4286131341941655"/><circle cx="262.68971021287143" cy="48.48140153102577" r="3.530980332987383"/></g>
+<text x="30" y="57" font-size="44">🌼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FACC15" stroke-width="2.6"/><ellipse cx="174.7232687343821" cy="83.42833116739992" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(18.029932190767415 174.7232687343821 83.42833116739992)"/><ellipse cx="159.1879412818257" cy="98.45149536278457" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(69.30566469328767 159.1879412818257 98.45149536278457)"/><ellipse cx="146.9748815706826" cy="99.83699660680627" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(96.68153799346355 146.9748815706826 99.83699660680627)"/><ellipse cx="130.93697746632375" cy="92.32049003477361" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(137.15476139225908 130.93697746632375 92.32049003477361)"/><ellipse cx="126.22425713678216" cy="66.2873158672701" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(203.87202647496125 126.22425713678216 66.2873158672701)"/><ellipse cx="132.47947782299144" cy="58.26751925816346" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(227.633831187479 132.47947782299144 58.26751925816346)"/><ellipse cx="151.59360634062733" cy="52.04512374236056" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(273.5140070900498 151.59360634062733 52.04512374236056)"/><ellipse cx="174.0684915894476" cy="66.92245418835937" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(337.7758456331154 174.0684915894476 66.92245418835937)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9fbc2a" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Daisy</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Bellis perennis</text>
+</g>
+</svg>

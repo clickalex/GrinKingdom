@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Monarch butterfly illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9b3e"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a3735"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaf52"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbe"/><stop offset="1" stop-color="#ffffc6"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#ffaf52" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#ffaf52" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="366.4171650260687" cy="119.45585737936199" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="210.62948077451438" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="135.86084339767694" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="100.33835930749774" cy="84.2365450784564" r="3.6565995120909065"/><circle cx="298.3813326433301" cy="52.26283185184002" r="3.989550224505365"/><circle cx="271.3799864798784" cy="153.39016295038164" r="2.8920864039100707"/></g>
+<text x="30" y="62" font-size="44">🦋</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M150 150 q-8 34 -58 40 q-40 6 -44 -22 q-4 -30 26 -30 q22 0 26 6 q4 -6 26 -6 q30 0 26 30 q-4 28 -44 22 q-50 -6 -58 -40 Z" fill="url(#bg1)" stroke="#F97316" stroke-width="3"/><path d="M150 150 q-8 34 -58 40 q-40 6 -44 -22 q-4 -30 26 -30 q22 0 26 6 q4 -6 26 -6 q30 0 26 30 q-4 28 -44 22 q-50 -6 -58 -40 Z" fill="url(#tx)" opacity="0.9"/><ellipse cx="150" cy="150" rx="6" ry="26" fill="#1C1917" stroke="#a14f16" stroke-width="2.6"/><path d="M150 124 q-8 -14 -16 -18 M150 176 q-8 14 -16 18" stroke="#F97316" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Monarch butterfly</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Danaus plexippus</text>
+</g>
+</svg>

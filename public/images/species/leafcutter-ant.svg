@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Leafcutter ant illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="264.3731680512428" cy="197.3694510385394" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="212.48301572632045" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="124.83673111535609" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="67" font-size="44">🐜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><ellipse cx="140" cy="172" rx="24" ry="18" fill="url(#bg1)" stroke="#44403C" stroke-width="3"/><ellipse cx="172" cy="140" rx="17" ry="13" fill="url(#bg2)" stroke="#44403C" stroke-width="3"/><circle cx="182" cy="112" r="14" fill="url(#bg1)" stroke="#44403C" stroke-width="3"/><path d="M168 126 l-4 -8 M178 126 l6 -8" stroke="#44403C" stroke-width="2.6" fill="none"/><circle cx="186" cy="108" r="2.6" fill="#1c1917"/><line x1="112" y1="190" x2="138" y2="220" stroke="#44403C" stroke-width="3" stroke-linecap="round"/><line x1="126" y1="196" x2="152" y2="226" stroke="#44403C" stroke-width="3" stroke-linecap="round"/><line x1="152" y1="198" x2="178" y2="228" stroke="#44403C" stroke-width="3" stroke-linecap="round"/><line x1="166" y1="192" x2="192" y2="222" stroke="#44403C" stroke-width="3" stroke-linecap="round"/><line x1="180" y1="184" x2="206" y2="214" stroke="#44403C" stroke-width="3" stroke-linecap="round"/><line x1="194" y1="174" x2="220" y2="204" stroke="#44403C" stroke-width="3" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Leafcutter ant</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Atta cephalotes</text>
+</g>
+</svg>

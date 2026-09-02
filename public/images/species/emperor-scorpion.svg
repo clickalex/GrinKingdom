@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Emperor scorpion illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ba6836"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ce7c4a"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe8b6"/><stop offset="1" stop-color="#fffff0"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="229.19880852103233" cy="207.09929510951042" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="238.28143590129912" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="126.5086071472615" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="270.1477634254843" cy="84.25843109376729" r="2.864336895989254"/><circle cx="484.3932740204036" cy="57.360477317124605" r="1.6491696685552597"/><circle cx="465.82784918136895" cy="100.31992511823773" r="3.8173656051512808"/></g>
+<text x="30" y="63" font-size="44">🦂</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><ellipse cx="138" cy="158" rx="30" ry="22" fill="url(#bg1)" stroke="#92400E" stroke-width="3"/><circle cx="112" cy="140" r="13" fill="url(#bg2)" stroke="#92400E" stroke-width="3"/><path d="M96 132 q-20 -16 -8 -30 M96 134 q-14 -4 -16 -14" fill="none" stroke="#92400E" stroke-width="5" stroke-linecap="round"/><path d="M164 150 q40 -8 62 -24 q22 6 26 20 q4 14 -12 18 q-20 4 -30 -4 M164 160 q36 4 56 18 q16 10 8 22 q-10 10 -24 0 q-16 -10 -22 -26 M164 170 q26 16 34 40 q4 12 -6 14 q-12 0 -16 -12 q-6 -22 -14 -42" fill="none" stroke="#92400E" stroke-width="5" stroke-linecap="round"/><circle cx="190" cy="148" r="6" fill="#FDE68A"/><line x1="112" y1="166" x2="120" y2="192" stroke="#92400E" stroke-width="3" stroke-linecap="round"/><line x1="120" y1="171" x2="128" y2="197" stroke="#92400E" stroke-width="3" stroke-linecap="round"/><line x1="128" y1="176" x2="136" y2="202" stroke="#92400E" stroke-width="3" stroke-linecap="round"/><line x1="136" y1="181" x2="144" y2="207" stroke="#92400E" stroke-width="3" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Emperor scorpion</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pandinus imperator</text>
+</g>
+</svg>

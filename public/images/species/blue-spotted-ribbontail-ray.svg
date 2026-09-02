@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Blue-spotted ribbontail ray illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f1ef"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="451.0205702483654" cy="99.64970433153212" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="214.47252473328263" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="155.2854185551405" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="418.30863632261753" cy="97.70663230679929" r="4.129550475860015"/><circle cx="408.4149319026619" cy="89.48942635208368" r="3.7876714810263366"/><circle cx="529.9347223434597" cy="117.9912846814841" r="3.8783658903557807"/></g>
+<text x="30" y="67" font-size="44">🐠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M60 170 q60 -70 90 -70 q30 0 90 70 q-8 10 -18 8 q-40 -8 -72 -8 q-32 0 -72 8 q-10 2 -18 -8 Z" fill="url(#bg1)" stroke="#44403C" stroke-width="3" stroke-linejoin="round"/><path d="M60 170 q60 -70 90 -70 q30 0 90 70 q-8 10 -18 8 q-40 -8 -72 -8 q-32 0 -72 8 q-10 2 -18 -8 Z" fill="url(#tx)"/><path d="M150 178 q-2 34 8 62 q6 16 12 10 q4 -4 0 -14 q-6 -24 -10 -58" fill="none" stroke="#44403C" stroke-width="5" stroke-linecap="round"/><circle cx="140" cy="128" r="3" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Blue-spotted ribbontail ray</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Taeniura lymma</text>
+</g>
+</svg>

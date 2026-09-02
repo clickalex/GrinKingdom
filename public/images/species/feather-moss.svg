@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Feather moss illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="458.4458237141371" cy="189.7672573942691" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="259.2498769937083" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="159.04237094335258" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="65" font-size="44">🌱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><circle cx="110.40070928167552" cy="234.01179648935795" r="15.460576524026692" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="141.95726450532675" cy="247.13842107448727" r="12.617469769902527" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="138.16825166344643" cy="215.77611742541194" r="27.692953060381114" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="173.3593705482781" cy="186.1991370562464" r="27.36468460271135" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="95.2848402550444" cy="210.0665346486494" r="23.16890166280791" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="171.34756119456142" cy="226.6178023070097" r="23.392808196600527" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="132.95014013070613" cy="168.4056974714622" r="26.25473592756316" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="168.52935642935336" cy="219.1482950700447" r="21.763060330878943" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="169.18454742059112" cy="155.62154040671885" r="20.54028525017202" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="64.7042397223413" cy="183.7125881575048" r="23.170924249570817" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="151.18333307560533" cy="216.03858640883118" r="13.61980328662321" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="110.9705238416791" cy="236.48191709071398" r="16.71016732463613" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="60.26699739508331" cy="155.81585429608822" r="29.87348340265453" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="131.33250678889453" cy="211.2567595206201" r="21.928481628187" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Feather moss</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pleurozium schreberi</text>
+</g>
+</svg>

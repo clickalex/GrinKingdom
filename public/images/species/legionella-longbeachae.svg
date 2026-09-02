@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Legionella longbeachae illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6f7d91"/><stop offset="1" stop-color="#475569"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F1F5F9"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8391a5"/><stop offset="1" stop-color="#F1F5F9"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#effdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#8391a5" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#8391a5" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="157.03386835753918" cy="103.28144087456167" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="250.27105727232993" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="142.84497627057135" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🪴</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#475569" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/><path d="M150 178 q-40 46 -90 30" stroke="#475569" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M150 178 q40 46 90 30" stroke="#475569" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Legionella longbeachae</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Legionella longbeachae</text>
+</g>
+</svg>

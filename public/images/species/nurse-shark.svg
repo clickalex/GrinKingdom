@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Nurse shark illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6f7d91"/><stop offset="1" stop-color="#475569"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F1F5F9"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8391a5"/><stop offset="1" stop-color="#F1F5F9"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#effdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#8391a5" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#8391a5" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="330.9805601090193" cy="194.85822432674468" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="234.48307515587658" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="154.5477511920035" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="461.2028734292835" cy="140.01366168260574" r="1.6848441779147834"/><circle cx="452.00606778264046" cy="124.90451284684241" r="4.148008674848825"/><circle cx="339.3181146681309" cy="63.23794884607196" r="3.3595371453557163"/></g>
+<text x="30" y="59" font-size="44">🦈</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M44 160 q40 -46 104 -46 q56 0 100 30 q20 14 22 26 q-2 16 -22 30 q-44 30 -100 30 q-64 0 -104 -46 Z" fill="url(#bg1)" stroke="#475569" stroke-width="3" stroke-linejoin="round"/><path d="M44 160 q40 -46 104 -46 q56 0 100 30 q20 14 22 26 q-2 16 -22 30 q-44 30 -100 30 q-64 0 -104 -46 Z" fill="url(#tx)"/><path d="M112 92 q30 -30 58 -34 q-2 26 -26 40" fill="url(#bg2)" stroke="#475569" stroke-width="3"/><circle cx="76" cy="148" r="4" fill="#1c1917"/><path d="M120 170 q16 14 14 30 q-16 -8 -14 -30 Z" fill="#F1F5F9" stroke="#475569" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Nurse shark</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ginglymostoma cirratum</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Long-eared jerboa illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#feca83"/><stop offset="1" stop-color="#D6A25B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffde97"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#ffde97" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="253.28643046319485" cy="138.3775076083839" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="261.8523662025109" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="137.02335421927273" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="167.61931654065847" cy="112.727938182652" r="2.6332806448917836"/><circle cx="477.9427934344858" cy="142.8174753766507" r="1.9178487402386963"/><circle cx="398.06690601632" cy="96.54279711656272" r="3.5690380472224206"/></g>
+<text x="30" y="55" font-size="44">🐭</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><g stroke="#D6A25B" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M108 214 q-8 -70 34 -86 q46 -18 72 18" fill="none" stroke-width="13"/><path d="M108 214 q-8 -70 34 -86 q46 -18 72 18" fill="none" stroke="url(#bg1)" stroke-width="8" opacity="0"/><path d="M104 160 q-30 -30 -14 -56 M104 154 q-18 -12 -12 -30" fill="none"/><circle cx="106" cy="132" r="17" fill="url(#bg1)" stroke="#D6A25B"/><circle cx="100" cy="128" r="2.6" fill="#1c1917"/><ellipse cx="142" cy="128" rx="24" ry="34" fill="url(#bg1)" stroke="#D6A25B"/><ellipse cx="142" cy="128" rx="24" ry="34" fill="url(#tx)"/><path d="M142 170 q-4 46 6 74 M142 170 q8 44 26 60" fill="none" stroke-width="9"/><path d="M196 176 q34 34 26 66 q-4 16 -18 8" fill="none"/><path d="M164 232 q-12 34 -30 48" fill="none" stroke-width="9"/></g></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Long-eared jerboa</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Euchoreutes naso</text>
+</g>
+</svg>

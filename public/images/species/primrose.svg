@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Primrose illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff43d"/><stop offset="1" stop-color="#FACC15"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff51"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbd"/><stop offset="1" stop-color="#ffffda"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="299.7817922383547" cy="138.60222917050123" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="259.1095285350457" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="152.5702471099794" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="548.405092637986" cy="105.60155615210533" r="1.9462710593361408"/><circle cx="364.9423896148801" cy="153.74347997829318" r="2.816244113026187"/><circle cx="254.88899218849838" cy="56.77543019875884" r="4.081731662387028"/></g>
+<text x="30" y="64" font-size="44">🌼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FACC15" stroke-width="2.6"/><ellipse cx="173.3925956723106" cy="86.47545775093897" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(25.87934085168777 173.3925956723106 86.47545775093897)"/><ellipse cx="161.77657139687057" cy="97.39692240262313" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(63.0672068742756 161.77657139687057 97.39692240262313)"/><ellipse cx="139.53183106497528" cy="97.96879325642793" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(113.74218764041825 139.53183106497528 97.96879325642793)"/><ellipse cx="125.53211811915381" cy="84.11692544692698" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(160.2324355327265 125.53211811915381 84.11692544692698)"/><ellipse cx="125.17823426613865" cy="68.85703383057907" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(197.3149262238926 125.17823426613865 68.85703383057907)"/><ellipse cx="137.80038898273847" cy="54.80599522250104" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(242.0165950068494 137.80038898273847 54.80599522250104)"/><ellipse cx="154.0472355836294" cy="52.29255437222044" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(278.9552447021996 154.0472355836294 52.29255437222044)"/><ellipse cx="174.3360546205444" cy="67.55213406982325" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(339.3906490152106 174.3360546205444 67.55213406982325)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9fbc2a" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Primrose</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Primula vulgaris</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Candida albicans illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f1ef"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="282.608442530036" cy="162.82004887238145" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="228.16811309661716" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="136.41286451369524" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="154.07126219943166" cy="111.29986491985619" r="2.0345532526262105"/><circle cx="41.74885201267898" cy="93.38604905642569" r="2.5481916933786124"/><circle cx="533.369516665116" cy="77.73236599750817" r="2.0156167291570455"/></g>
+<text x="30" y="63" font-size="44">🦠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><ellipse cx="136" cy="150" rx="52" ry="42" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="3"/><ellipse cx="136" cy="150" rx="52" ry="42" fill="url(#tx)"/><circle cx="186" cy="112" r="22" fill="url(#bg2)" stroke="#F5F5F4" stroke-width="3"/><circle cx="198" cy="96" r="9" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Candida albicans</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Candida albicans</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Harebell illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b384ff"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c798ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="294.85767491161823" cy="117.31238376349211" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="259.7855864558369" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="155.2397678885609" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">🔔</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#8B5CF6" stroke-width="2.6"/><ellipse cx="174.31471027227275" cy="84.50007325762465" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(20.742566965939904 174.31471027227275 84.50007325762465)"/><ellipse cx="163.58905985285608" cy="96.4610458491065" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(58.48941009399245 163.58905985285608 96.4610458491065)"/><ellipse cx="139.3616463430293" cy="97.89902352954888" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(114.15254593269103 139.3616463430293 97.89902352954888)"/><ellipse cx="126.0907034823997" cy="85.42919982073161" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(156.8659722547964 126.0907034823997 85.42919982073161)"/><ellipse cx="125.94658728221268" cy="66.88846219618753" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(202.31184404228748 125.94658728221268 66.88846219618753)"/><ellipse cx="140.1261190971013" cy="53.798004709873425" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(247.68089469115145 140.1261190971013 53.798004709873425)"/><ellipse cx="152.59760780580962" cy="52.120079682202515" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(275.73387230468285 152.59760780580962 52.120079682202515)"/><ellipse cx="172.31224353042393" cy="63.678953023233284" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(329.11096986160425 172.31224353042393 63.678953023233284)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#5c78b1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Harebell</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Campanula rotundifolia</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Giant centipede illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4e4e"/><stop offset="1" stop-color="#DC2626"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FEE2E2"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6262"/><stop offset="1" stop-color="#FEE2E2"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcece"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ff6262" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ff6262" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="288.3925533294678" cy="93.18807176314294" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="214.50851520057768" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="149.31433078832924" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="70" font-size="44">🐛</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M40,162.54835269657423 L70,179.09429381797582 L100,171.96729635551893 L130,135.77201694579327 L160,124.389313709559 L190,144.6037288647263 L220,160.08992164966645 L250,179.98086874457536 L280,167.1449557510973" stroke="#DC2626" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,162.54835269657423 L70,179.09429381797582 L100,171.96729635551893 L130,135.77201694579327 L160,124.389313709559 L190,144.6037288647263 L220,160.08992164966645 L250,179.98086874457536 L280,167.1449557510973" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,162.54835269657423 L70,179.09429381797582 L100,171.96729635551893 L130,135.77201694579327 L160,124.389313709559 L190,144.6037288647263 L220,160.08992164966645 L250,179.98086874457536 L280,167.1449557510973" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="154.54835269657423" r="13" fill="url(#bg1)" stroke="#DC2626" stroke-width="3"/><circle cx="24" cy="152.54835269657423" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Giant centipede</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Scolopendra gigantea</text>
+</g>
+</svg>

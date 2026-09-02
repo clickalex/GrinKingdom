@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Bulrush illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ba6836"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ce7c4a"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe8b6"/><stop offset="1" stop-color="#ffffd6"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="145.22203370928764" cy="169.79418519884348" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="224.58648147527128" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="151.9886386115104" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="54" font-size="44">🌾</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M99 236 q-24 -45.96154931373894 -48 -91.92309862747788" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -51.7102020077873 -32 -103.4204040155746" stroke="#92400E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -59.671450577443466 -16 -119.34290115488693" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -69.02287569572218 0 -138.04575139144436" stroke="#92400E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -65.75864942581393 16 -131.51729885162786" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -51.77124167396687 32 -103.54248334793374" stroke="#92400E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -42.205471033230424 48 -84.41094206646085" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Bulrush</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Typha latifolia</text>
+</g>
+</svg>

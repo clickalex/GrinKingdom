@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Longnose gar illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#51bc79" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#51bc79" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="217.8518943488598" cy="116.45013484172523" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="246.1149695981294" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="120.53381124511361" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="213.95650470629334" cy="71.76029359921813" r="2.0370769186411053"/><circle cx="132.9956611711532" cy="86.28008903004229" r="4.428323192987591"/><circle cx="136.67481957934797" cy="86.44079685211182" r="4.410470247734338"/></g>
+<text x="30" y="58" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M52 150 q44 -54 108 -54 q40 0 64 30 q14 16 16 24 q-2 14 -16 24 q-24 30 -64 30 q-64 0 -108 -54 Z" fill="url(#bg1)" stroke="#15803D" stroke-width="3" stroke-linejoin="round"/><path d="M52 150 q44 -54 108 -54 q40 0 64 30 q14 16 16 24 q-2 14 -16 24 q-24 30 -64 30 q-64 0 -108 -54 Z" fill="url(#tx)"/><circle cx="82" cy="140" r="4" fill="#1c1917"/><path d="M126 122 q24 -22 44 -24 q-2 20 -20 32" fill="url(#bg2)" stroke="#15803D" stroke-width="3"/><path d="M128 176 q18 12 16 28 q-18 -6 -16 -28 Z" fill="#BBF7D0" stroke="#15803D" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Longnose gar</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lepisosteus osseus</text>
+</g>
+</svg>

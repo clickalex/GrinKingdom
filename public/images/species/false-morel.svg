@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="False morel illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ba6836"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ce7c4a"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe8b6"/><stop offset="1" stop-color="#fffff0"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ce7c4a" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ce7c4a" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="271.71195179224014" cy="161.9127442035824" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="216.01837403140962" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="157.60626356117427" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="243.34533954039216" cy="94.63916160166264" r="3.898026051465422"/><circle cx="508.33370035514235" cy="127.09232728928328" r="3.4379305480979383"/><circle cx="461.9851495884359" cy="84.40622352063656" r="2.208255565026775"/></g>
+<text x="30" y="66" font-size="44">⚠️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M76 150 q74 -92 148 0 Z" fill="url(#bg1)" stroke="#92400E" stroke-width="3"/><path d="M76 150 q74 -92 148 0 Z" fill="url(#tx)"/><rect x="136" y="150" width="28" height="58" fill="#FDE68A" stroke="#bd8240" stroke-width="3"/><line x1="150" y1="150" x2="150" y2="168" stroke="#92400E" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">False morel</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Gyromitra esculenta</text>
+</g>
+</svg>

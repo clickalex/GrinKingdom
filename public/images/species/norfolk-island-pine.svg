@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Norfolk Island pine illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3c7b55"/><stop offset="1" stop-color="#14532D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9a7d51"/><stop offset="1" stop-color="#7C5F33"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#508f69"/><stop offset="1" stop-color="#7C5F33"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bcfbd5"/><stop offset="1" stop-color="#eeffdf"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="412.7753082662821" cy="156.54738871380687" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="267.30786100029945" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="133.90556355938315" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">🌲</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><rect x="140" y="186" width="20" height="70" fill="#7C5F33" stroke="#485930" stroke-width="3"/><polygon points="150,116 102,168 198,168" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,72 111,124 189,124" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,28 120,80 180,80" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,-16 129,36 171,36" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,6 78,72 222,72" fill="url(#tx)" opacity="0.7"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Norfolk Island pine</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Araucaria heterophylla</text>
+</g>
+</svg>

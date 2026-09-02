@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Antarctic krill illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9ade"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffedff"/><stop offset="1" stop-color="#FBCFE8"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaef2"/><stop offset="1" stop-color="#FBCFE8"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="44" height="44" patternUnits="userSpaceOnUse"><rect width="44" height="44" fill="none"/><circle cx="12" cy="12" r="5" fill="#ffaef2" opacity="0.85"/><circle cx="36" cy="34" r="4" fill="#ffaef2" opacity="0.7"/><circle cx="12" cy="12" r="10" fill="#ffaef2" opacity="0.25"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="148.5401826351881" cy="187.36124449409544" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="219.20692658051848" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="135.5583431944251" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="276.71707950532436" cy="131.35386656969786" r="2.2303026930894703"/><circle cx="292.6783235464245" cy="53.20781845599413" r="3.4773674067109823"/><circle cx="381.57942281104624" cy="127.65523537062109" r="2.729563480010256"/></g>
+<text x="30" y="64" font-size="44">🦐</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M70 168 q30 -40 74 -44 q60 -6 86 24 q14 16 10 26 q-6 10 -24 8 q-44 -6 -66 6 q-30 14 -44 26 q-14 12 -26 8 q-10 -4 -6 -18 q6 -20 -4 -36 Z" fill="url(#bg1)" stroke="#F472B6" stroke-width="3" stroke-linejoin="round"/><path d="M70 168 q30 -40 74 -44 q60 -6 86 24 q14 16 10 26 q-6 10 -24 8 q-44 -6 -66 6 q-30 14 -44 26 q-14 12 -26 8 q-10 -4 -6 -18 q6 -20 -4 -36 Z" fill="url(#tx)"/><path d="M60 166 q-22 4 -30 -6 M62 176 q-18 8 -24 2" stroke="#FBCFE8" stroke-width="3" fill="none" stroke-linecap="round"/><circle cx="96" cy="140" r="4" fill="#1c1917"/><path d="M136 190 q18 12 14 30 q-20 -8 -14 -30 Z" fill="#FBCFE8" stroke="#F472B6" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Antarctic krill</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Euphausia superba</text>
+</g>
+</svg>

@@ -1,5 +1,6 @@
+import { useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
-import { SPECIES, SPECIES_MAP } from '../data/species.js'
+import { SPECIES, SPECIES_MAP, speciesImage } from '../data/species.js'
 import { KINGDOM_MAP } from '../data/kingdoms.js'
 import SpecimenViewer from '../components/SpecimenViewer.jsx'
 import SpeciesCard from '../components/SpeciesCard.jsx'
@@ -8,10 +9,16 @@ import NotFound from './NotFound.jsx'
 export default function SpeciesDetail() {
   const { slug } = useParams()
   const s = SPECIES_MAP[slug]
+  const [imgOk, setImgOk] = useState(true)
   if (!s) return <NotFound />
 
   const k = KINGDOM_MAP[s.kingdom]
-  const related = SPECIES.filter((x) => x.kingdom === s.kingdom && x.slug !== s.slug).slice(0, 3)
+  const idx = SPECIES.findIndex((x) => x.slug === s.slug)
+  const prev = SPECIES[(idx + SPECIES.length - 1) % SPECIES.length]
+  const next = SPECIES[(idx + 1) % SPECIES.length]
+  const related = SPECIES.filter((x) => x.kingdom === s.kingdom && x.slug !== s.slug).slice(0, 6)
+  const gbifQuery = encodeURIComponent(s.sci)
+  const gbifUrl = `https://www.gbif.org/species/search?q=${gbifQuery}`
 
   const quickFacts = [
     { icon: '📏', label: 'Size', value: s.size },
@@ -69,6 +76,30 @@ export default function SpeciesDetail() {
         </div>
 
         <div className="detail-cols">
+          {/* photo */}
+          <div className="panel">
+            <h2 className="panel-title">📷 Species illustration</h2>
+            <div className="detail-photo">
+              {imgOk ? (
+                <img
+                  src={speciesImage(s.slug)}
+                  alt={`Illustration of ${s.name}`}
+                  onError={() => setImgOk(false)}
+                />
+              ) : (
+                <span className="detail-photo-fallback" style={{ background: `${k?.color || '#7C3AED'}1e` }}>
+                  {s.emoji}
+                </span>
+              )}
+              <p className="detail-photo-caption">
+                {s.emoji} {s.name} ({s.sci}) — a hand-styled specimen plate generated just for this species.
+              </p>
+            </div>
+            <a className="gbif-inline" href={gbifUrl} target="_blank" rel="noreferrer">
+              🌐 Find {s.name} in the global GBIF database ↗
+            </a>
+          </div>
+
           {/* taxonomy */}
           <div className="panel">
             <h2 className="panel-title">🔬 Scientific classification</h2>
@@ -93,6 +124,25 @@ export default function SpeciesDetail() {
                 </li>
               ))}
             </ul>
+          </div>
+
+          {/* prev / next */}
+          <div className="panel">
+            <h2 className="panel-title">🧭 Keep exploring</h2>
+            <div className="pager-species">
+              <Link className="pager-species-item" to={`/species/${prev.slug}`}>
+                <span className="pager-species-dir">← Previous</span>
+                <span className="pager-species-name">
+                  {prev.emoji} {prev.name}
+                </span>
+              </Link>
+              <Link className="pager-species-item" to={`/species/${next.slug}`}>
+                <span className="pager-species-dir">Next →</span>
+                <span className="pager-species-name">
+                  {next.emoji} {next.name}
+                </span>
+              </Link>
+            </div>
           </div>
         </div>
 

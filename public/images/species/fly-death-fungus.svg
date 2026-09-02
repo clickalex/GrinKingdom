@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Fly death fungus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#72ffa8"/><stop offset="1" stop-color="#4ADE80"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#86ffbc"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#f2ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="352.75036320090294" cy="178.62554032355547" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="252.28909140452743" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="134.2348348814994" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="292.9177175089717" cy="120.10127139277756" r="3.1140391307417303"/><circle cx="43.44419543631375" cy="138.52408246137202" r="3.6635458956006914"/><circle cx="395.10534508153796" cy="43.013740414753556" r="3.8423895821906626"/></g>
+<text x="30" y="64" font-size="44">🪰</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M146 236 q-6 -60 4 -150" stroke="#DCFCE7" stroke-width="7" fill="none"/><circle cx="126.12311240192503" cy="200" r="10" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.6"/><circle cx="170.09369335323572" cy="174" r="9.2" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.6"/><circle cx="123.35467479843646" cy="148" r="8.4" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.6"/><circle cx="177.4627252444625" cy="122" r="7.6" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.6"/><circle cx="123.53860640712082" cy="96" r="6.8" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.6"/><circle cx="172.00059005990624" cy="70" r="6" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.6"/><circle cx="150" cy="86" r="13" fill="#DCFCE7"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Fly death fungus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Entomophthora muscae</text>
+</g>
+</svg>

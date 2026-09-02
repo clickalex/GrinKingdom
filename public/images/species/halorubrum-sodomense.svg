@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Halorubrum sodomense illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FCE7F3"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#FCE7F3"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ff84d5" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ff84d5" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="218.9023943990469" cy="200.02992214635015" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="257.4047587439418" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="137.8792526666075" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="115.20884776487947" cy="82.45251348242164" r="2.3706353057641536"/><circle cx="432.2447224613279" cy="73.21704263798892" r="2.3908626751508564"/><circle cx="341.35559224523604" cy="60.59134230017662" r="4.195349003188312"/></g>
+<text x="30" y="53" font-size="44">🧂</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><rect x="104" y="104" width="92" height="92" rx="14" fill="url(#bg1)" stroke="#EC4899" stroke-width="3"/><rect x="104" y="104" width="92" height="92" rx="14" fill="url(#tx)"/><circle cx="132" cy="132" r="6" fill="#fff" opacity="0.3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Halorubrum sodomense</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Halorubrum sodomense</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Hibiscus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff67b6"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7bca"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="306.55551083385944" cy="201.7179118283093" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="260.70169555954635" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="126.58094035461545" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="305.322239799425" cy="90.13124398887157" r="3.902605851413682"/><circle cx="341.53063356876373" cy="136.97960604913533" r="4.035792026901618"/><circle cx="450.50081613473594" cy="147.37118952907622" r="2.4277308429591358"/></g>
+<text x="30" y="61" font-size="44">🌺</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F43F8E" stroke-width="2.6"/><ellipse cx="173.79654653329678" cy="85.66917560866841" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(23.758490134698405 173.79654653329678 85.66917560866841)"/><ellipse cx="166.69909357609015" cy="94.395426402595" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(50.03849176581014 166.69909357609015 94.395426402595)"/><ellipse cx="140.93284766099003" cy="98.49329838110903" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(110.41006112416817 140.93284766099003 98.49329838110903)"/><ellipse cx="129.86086429100482" cy="91.1793597515333" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(140.76716353382164 129.86086429100482 91.1793597515333)"/><ellipse cx="124.27655752853065" cy="72.50880306714762" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(188.36429634834388 124.27655752853065 72.50880306714762)"/><ellipse cx="132.47436122995583" cy="58.271827999153984" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(227.6185687229021 132.47436122995583 58.271827999153984)"/><ellipse cx="152.56251590766087" cy="52.11684932521473" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(275.6561572650481 152.56251590766087 52.11684932521473)"/><ellipse cx="174.4988864354217" cy="67.96315543200797" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(340.4354568626885 174.4988864354217 67.96315543200797)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9b6773" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Hibiscus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Hibiscus rosa-sinensis</text>
+</g>
+</svg>

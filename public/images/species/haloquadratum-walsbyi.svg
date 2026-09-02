@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Haloquadratum walsbyi illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9ade"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffedff"/><stop offset="1" stop-color="#FBCFE8"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaef2"/><stop offset="1" stop-color="#FBCFE8"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ffaef2" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ffaef2" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="426.48988746106625" cy="185.71880159899592" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="254.7905009938404" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="139.4045193772763" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="558.0327411182225" cy="108.10037851333618" r="3.0256111852359027"/><circle cx="238.00213201902807" cy="155.23695594631135" r="1.8782484917901456"/><circle cx="474.9941855017096" cy="131.3172139879316" r="2.8203102168627083"/></g>
+<text x="30" y="61" font-size="44">🧂</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><rect x="104" y="104" width="92" height="92" rx="14" fill="url(#bg1)" stroke="#F472B6" stroke-width="3"/><rect x="104" y="104" width="92" height="92" rx="14" fill="url(#tx)"/><circle cx="132" cy="132" r="6" fill="#fff" opacity="0.3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Haloquadratum walsbyi</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Haloquadratum walsbyi</text>
+</g>
+</svg>

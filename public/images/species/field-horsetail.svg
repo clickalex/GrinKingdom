@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Field horsetail illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f1ef"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="244.9855186790228" cy="202.5980264134705" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="230.51883419975638" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="129.43381945602596" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M99 236 q-24 -41.703073483658955 -48 -83.40614696731791" stroke="#D6D3D1" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -50.496541034430265 -32 -100.99308206886053" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -60.59205500059761 -16 -121.18411000119522" stroke="#D6D3D1" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -68.63804240175523 0 -137.27608480351046" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -60.290659758728 16 -120.581319517456" stroke="#D6D3D1" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -55.24465214833617 32 -110.48930429667234" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -45.257101624272764 48 -90.51420324854553" stroke="#D6D3D1" stroke-width="7" fill="none" stroke-linecap="round"/><line x1="150" y1="236" x2="150" y2="26" stroke="#22C55E" stroke-width="16" stroke-linecap="round"/><line x1="142" y1="200" x2="158" y2="186" stroke="#D6D3D1" stroke-width="4"/><line x1="142" y1="166" x2="158" y2="152" stroke="#D6D3D1" stroke-width="4"/><line x1="142" y1="132" x2="158" y2="118" stroke="#D6D3D1" stroke-width="4"/><line x1="142" y1="98" x2="158" y2="84" stroke="#D6D3D1" stroke-width="4"/><line x1="142" y1="64" x2="158" y2="50" stroke="#D6D3D1" stroke-width="4"/><path d="M138 40 q-34 -16 -58 2 M162 34 q34 -16 58 2" stroke="#22C55E" stroke-width="8" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Field horsetail</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Equisetum arvense</text>
+</g>
+</svg>

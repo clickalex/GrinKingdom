@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common starfish illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9b3e"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaf52"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbe"/><stop offset="1" stop-color="#fffff4"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ffaf52" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ffaf52" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="416.04179814457893" cy="177.00469647534192" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="222.80998561531305" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="125.97452266141772" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="531.2973484676331" cy="118.37035700678825" r="3.2116269709076732"/><circle cx="503.7036940641701" cy="115.73529770597816" r="3.9855874108616263"/><circle cx="510.3803091775626" cy="71.13072080537677" r="3.332393466029316"/></g>
+<text x="30" y="55" font-size="44">⭐</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><polygon points="150,74 171.16026908252903,120.8753882025019 222.28029523843168,126.51470842750399 184.23803458662553,161.12461179749812 194.67167917422796,211.485291572496 150,186 105.32832082577205,211.485291572496 115.76196541337447,161.12461179749812 77.71970476156832,126.514708427504 128.83973091747097,120.8753882025019" fill="url(#bg1)" stroke="#F97316" stroke-width="3" stroke-linejoin="round"/><polygon points="150,74 171.16026908252903,120.8753882025019 222.28029523843168,126.51470842750399 184.23803458662553,161.12461179749812 194.67167917422796,211.485291572496 150,186 105.32832082577205,211.485291572496 115.76196541337447,161.12461179749812 77.71970476156832,126.514708427504 128.83973091747097,120.8753882025019" fill="url(#tx)"/><circle cx="150" cy="150" r="9" fill="#FDE68A" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common starfish</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Asterias rubens</text>
+</g>
+</svg>

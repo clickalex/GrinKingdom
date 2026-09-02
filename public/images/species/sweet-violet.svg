@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sweet violet illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b384ff"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c798ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="376.5351411700249" cy="186.30713867023587" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="257.3015782283619" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="155.1321350503713" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="372.0216477289796" cy="110.16680927947164" r="3.967011221218854"/><circle cx="115.40466200560331" cy="86.84135878458619" r="2.6934420454781502"/><circle cx="116.52706046588719" cy="83.1427935231477" r="3.011576004792005"/></g>
+<text x="30" y="62" font-size="44">💜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#8B5CF6" stroke-width="2.6"/><ellipse cx="175.43495104609303" cy="80.9763405917196" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(11.966955538550463 175.43495104609303 80.9763405917196)"/><ellipse cx="157.71207618955808" cy="98.91990670410303" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(72.74539597740358 157.71207618955808 98.91990670410303)"/><ellipse cx="145.45374033548032" cy="99.63025581887152" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(100.07028651112877 145.45374033548032 99.63025581887152)"/><ellipse cx="129.60680380027415" cy="90.88753241568938" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(141.66094286536227 129.60680380027415 90.88753241568938)"/><ellipse cx="124.45526669732362" cy="71.52839962772306" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(190.7379075203683 124.45526669732362 71.52839962772306)"/><ellipse cx="132.83475972486283" cy="57.9738763226038" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(228.68475412199712 132.83475972486283 57.9738763226038)"/><ellipse cx="150.984965350208" cy="52.01722790064283" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(272.1710717239145 150.984965350208 52.01722790064283)"/><ellipse cx="174.80922835979928" cy="68.82001668857251" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(342.5924836766169 174.80922835979928 68.82001668857251)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#5c78b1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sweet violet</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Viola odorata</text>
+</g>
+</svg>

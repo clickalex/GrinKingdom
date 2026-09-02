@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Clownfish illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9b3e"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaf52"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbe"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><rect width="26" height="26" fill="none"/><rect width="26" height="9" fill="#ffaf52" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="320.7334875315428" cy="202.54241969436407" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="226.0426296852529" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="149.834444783628" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="63.91654864884913" cy="47.48041274957359" r="3.7039163634181023"/><circle cx="424.09423609264195" cy="129.45727319456637" r="4.423618585802615"/><circle cx="320.5495405662805" cy="45.780032351613045" r="3.5753689678385854"/></g>
+<text x="30" y="53" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M52 150 q44 -54 108 -54 q40 0 64 30 q14 16 16 24 q-2 14 -16 24 q-24 30 -64 30 q-64 0 -108 -54 Z" fill="url(#bg1)" stroke="#F97316" stroke-width="3" stroke-linejoin="round"/><path d="M52 150 q44 -54 108 -54 q40 0 64 30 q14 16 16 24 q-2 14 -16 24 q-24 30 -64 30 q-64 0 -108 -54 Z" fill="url(#tx)"/><circle cx="82" cy="140" r="4" fill="#1c1917"/><path d="M126 122 q24 -22 44 -24 q-2 20 -20 32" fill="url(#bg2)" stroke="#F97316" stroke-width="3"/><path d="M128 176 q18 12 16 28 q-18 -6 -16 -28 Z" fill="#F5F5F4" stroke="#F97316" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Clownfish</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Amphiprion ocellaris</text>
+</g>
+</svg>

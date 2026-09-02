@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Phytophthora infestans illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b2c1d6"/><stop offset="1" stop-color="#94A3B8"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#94A3B8"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="219.15399871766567" cy="173.03813341073692" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="245.98370622843504" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="134.3911972641945" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="493.23805768974125" cy="59.720011223107576" r="2.257748889969662"/><circle cx="176.10384001396596" cy="62.7020107395947" r="4.401724887080491"/><circle cx="521.7386539652944" cy="133.94154051318765" r="3.239815008128062"/></g>
+<text x="30" y="56" font-size="44">🥔</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><line x1="106" y1="206" x2="106.97608801349998" y2="96" stroke="#94A3B8" stroke-width="4"/><circle cx="101.89604093227535" cy="89.0644616521895" r="9" fill="url(#bg1)" stroke="#E2E8F0" stroke-width="2.4"/><line x1="128" y1="206" x2="132.03308598604053" y2="96" stroke="#94A3B8" stroke-width="4"/><circle cx="132.05785747990012" cy="90.2420512046665" r="9" fill="url(#bg1)" stroke="#E2E8F0" stroke-width="2.4"/><line x1="150" y1="206" x2="147.00479121599346" y2="96" stroke="#94A3B8" stroke-width="4"/><circle cx="149.4202085500583" cy="92.69210519827902" r="9" fill="url(#bg1)" stroke="#E2E8F0" stroke-width="2.4"/><line x1="172" y1="206" x2="171.21361730713397" y2="96" stroke="#94A3B8" stroke-width="4"/><circle cx="171.71937781572342" cy="94.78506362996995" r="9" fill="url(#bg1)" stroke="#E2E8F0" stroke-width="2.4"/><line x1="194" y1="206" x2="192.72725980356336" y2="96" stroke="#94A3B8" stroke-width="4"/><circle cx="189.94526432082057" cy="91.33553140982985" r="9" fill="url(#bg1)" stroke="#E2E8F0" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Phytophthora infestans</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Phytophthora infestans</text>
+</g>
+</svg>

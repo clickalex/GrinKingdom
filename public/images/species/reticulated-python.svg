@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Reticulated python illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f7b76"/><stop offset="1" stop-color="#57534E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#938f8a"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffbf6"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="46" height="46" patternUnits="userSpaceOnUse"><rect width="46" height="46" fill="none"/><circle cx="12" cy="12" r="6.5" fill="#938f8a" opacity="0.55"/><circle cx="36" cy="34" r="5" fill="#938f8a" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="246.5246731042862" cy="135.98349580541253" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="238.77704293001443" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="128.1267434451729" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="66" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M40,172.19314553963227 L70,195.8531029899206 L100,175.67120578881753 L130,116.49131865015136 L160,104.39311262287853 L190,156.52835804096236 L220,193.10159559037646 L250,195.95742056034288 L280,149.6711367307113" stroke="#57534E" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,172.19314553963227 L70,195.8531029899206 L100,175.67120578881753 L130,116.49131865015136 L160,104.39311262287853 L190,156.52835804096236 L220,193.10159559037646 L250,195.95742056034288 L280,149.6711367307113" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,172.19314553963227 L70,195.8531029899206 L100,175.67120578881753 L130,116.49131865015136 L160,104.39311262287853 L190,156.52835804096236 L220,193.10159559037646 L250,195.95742056034288 L280,149.6711367307113" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="164.19314553963227" r="13" fill="url(#bg1)" stroke="#57534E" stroke-width="3"/><circle cx="24" cy="162.19314553963227" r="2.8" fill="#1c1917"/><path d="M36 156.19314553963227 l-7 -7 M34 158.19314553963227 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Reticulated python</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Malayopython reticulatus</text>
+</g>
+</svg>

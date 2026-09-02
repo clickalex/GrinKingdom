@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Yellow fever mosquito illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f7b76"/><stop offset="1" stop-color="#57534E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#938f8a"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffbf6"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><rect width="26" height="26" fill="none"/><rect width="26" height="9" fill="#938f8a" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="411.0564914345741" cy="182.43489707820117" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="220.72930393740535" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="137.95135199092329" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="486.46644360385835" cy="47.40731322206557" r="2.7166178072802722"/><circle cx="540.6201351527125" cy="143.06885871104896" r="2.439596829470247"/><circle cx="318.0948006734252" cy="109.65454080142081" r="2.347823616815731"/></g>
+<text x="30" y="62" font-size="44">🦟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><ellipse cx="150" cy="150" rx="58" ry="36" fill="url(#bg1)" stroke="#57534E" stroke-width="3"/><path d="M106 138 q44 18 88 0" stroke="#E7E5E4" stroke-width="9" fill="none" opacity="0.9"/><path d="M106 150 q44 18 88 0" stroke="#E7E5E4" stroke-width="9" fill="none" opacity="0.9"/><path d="M106 162 q44 18 88 0" stroke="#E7E5E4" stroke-width="9" fill="none" opacity="0.9"/><ellipse cx="96" cy="138" rx="18" ry="13" fill="url(#bg2)" stroke="#57534E" stroke-width="2.6"/><circle cx="92" cy="135" r="3" fill="#1c1917"/><path d="M150 114 q-16 -26 -40 -30 M150 186 q-16 26 -40 30" stroke="#57534E" stroke-width="2.6" fill="none"/><ellipse cx="130" cy="112" rx="16" ry="10" fill="#ffffff" opacity="0.5" transform="rotate(-30 130 112)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Yellow fever mosquito</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Aedes aegypti</text>
+</g>
+</svg>

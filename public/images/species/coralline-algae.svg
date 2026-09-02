@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Coralline algae illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9ade"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FDF2F8"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaef2"/><stop offset="1" stop-color="#FDF2F8"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="none"/><path d="M6 8 L14 6 L12 14 M26 20 L34 18 L32 28 M16 30 L24 28 L22 38" stroke="#ffaef2" stroke-width="1.6" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="453.04676435887814" cy="207.74568353779614" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="212.2721840813756" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="136.73392264172435" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="314.7809547930956" cy="50.53055761381984" r="2.1097094051074237"/><circle cx="391.4669074025005" cy="117.59585387073457" r="4.142357551027089"/><circle cx="195.86119807325304" cy="44.257133193314075" r="3.023926538648084"/></g>
+<text x="30" y="59" font-size="44">🌺</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 220 q-6 -60 2 -110 M150 170 q-34 -6 -52 -52 M150 150 q34 -10 48 -56 M150 190 q-22 -4 -30 -34 M150 130 q16 -8 22 -34" stroke="#F472B6" stroke-width="9" fill="none" stroke-linecap="round" opacity="0.95"/><path d="M150 220 q-6 -60 2 -110" stroke="#FDF2F8" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Coralline algae</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Corallina officinalis</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Atolla jellyfish illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4e4e"/><stop offset="1" stop-color="#DC2626"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a3735"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6262"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcece"/><stop offset="1" stop-color="#ffd1d0"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="44" height="44" patternUnits="userSpaceOnUse"><rect width="44" height="44" fill="none"/><circle cx="12" cy="12" r="5" fill="#ff6262" opacity="0.85"/><circle cx="36" cy="34" r="4" fill="#ff6262" opacity="0.7"/><circle cx="12" cy="12" r="10" fill="#ff6262" opacity="0.25"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="307.89468452334404" cy="171.68330647051334" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="220.6609427696094" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="136.24487188644707" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="63" font-size="44">🪼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M92 110 q58 -54 116 0 Z" fill="url(#bg1)" stroke="#DC2626" stroke-width="3"/><path d="M92 110 q58 -54 116 0 Z" fill="url(#tx)"/><path d="M104 108 q-15 44 -50 92" stroke="#DC2626" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M122.4 108 q-9 44 -30 92" stroke="#1C1917" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M140.8 108 q-3 44 -10 92" stroke="#DC2626" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M159.2 108 q3 44 10 92" stroke="#1C1917" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M177.6 108 q9 44 30 92" stroke="#DC2626" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M196 108 q15 44 50 92" stroke="#1C1917" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><circle cx="128" cy="82" r="7" fill="#fff" opacity="0.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Atolla jellyfish</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Atolla wyvillei</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Chara illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5cfbc1"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#efffff"/><stop offset="1" stop-color="#D1FAE5"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#70ffd5"/><stop offset="1" stop-color="#D1FAE5"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#dcffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#70ffd5" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#70ffd5" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="166.47730357944965" cy="130.1469611003995" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="219.71599008422345" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="143.72507087886333" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="327.00545171275735" cy="69.33838187716901" r="2.620216948678717"/><circle cx="496.29132468253374" cy="109.03430938720703" r="3.877126470208168"/><circle cx="517.8577608987689" cy="46.09091269783676" r="4.113580259727314"/></g>
+<text x="30" y="64" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M99 236 q-24 -41.07263418613002 -48 -82.14526837226003" stroke="#D1FAE5" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -54.798684768145904 -32 -109.59736953629181" stroke="#34D399" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -62.15697043761611 -16 -124.31394087523222" stroke="#D1FAE5" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -70.33573956647888 0 -140.67147913295776" stroke="#34D399" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -65.78817937313579 16 -131.57635874627158" stroke="#D1FAE5" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -53.16025318391621 32 -106.32050636783242" stroke="#34D399" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -47.38274735561572 48 -94.76549471123144" stroke="#D1FAE5" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Chara</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Chara vulgaris</text>
+</g>
+</svg>

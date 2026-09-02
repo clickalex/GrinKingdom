@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Orange tree illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a88b59"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffce"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="412.502057030797" cy="136.17390512488782" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="269.38440090045333" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="122.19891356304288" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="268.7240020278841" cy="72.42534883320332" r="1.6100302047561854"/><circle cx="83.5115799959749" cy="158.57536683790386" r="1.9030748528894037"/><circle cx="72.10376255214214" cy="102.91743863373995" r="1.632388501893729"/></g>
+<text x="30" y="65" font-size="44">🍊</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M138 210 q-6 -70 12 -128 q18 58 12 128 Z" fill="#8A6D3B" stroke="#ca8a1e" stroke-width="3"/><circle cx="92" cy="92" r="44" fill="url(#bg1)" stroke="#F59E0B" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#bg1)" stroke="#F59E0B" stroke-width="3"/><circle cx="206" cy="96" r="42" fill="url(#bg1)" stroke="#F59E0B" stroke-width="3"/><circle cx="124" cy="52" r="36" fill="url(#bg1)" stroke="#F59E0B" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#tx)" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Orange tree</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Citrus × sinensis</text>
+</g>
+</svg>

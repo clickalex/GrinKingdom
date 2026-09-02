@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Australian lungfish illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a05d37"/><stop offset="1" stop-color="#78350F"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4714b"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffddb7"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#b4714b" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#b4714b" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="355.11299528181553" cy="197.2179994918406" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="227.64416137710214" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="129.4297036807984" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="419.3811001162976" cy="47.76740190573037" r="4.173143679276109"/><circle cx="119.99838582240045" cy="113.81429094821215" r="2.8950572898611426"/><circle cx="340.24774917401373" cy="110.95623332075775" r="1.7878970196470618"/></g>
+<text x="30" y="64" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M60 130 q70 -80 160 -10 q40 30 44 44 q-10 20 -40 6 q-60 -30 -118 20 q-30 26 -46 16 q-10 -6 0 -20 q18 -30 0 -56 Z" fill="url(#bg1)" stroke="#78350F" stroke-width="3" stroke-linejoin="round"/><path d="M60 130 q70 -80 160 -10 q40 30 44 44 q-10 20 -40 6 q-60 -30 -118 20 q-30 26 -46 16 q-10 -6 0 -20 q18 -30 0 -56 Z" fill="url(#tx)"/><circle cx="84" cy="108" r="3.6" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Australian lungfish</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Neoceratodus forsteri</text>
+</g>
+</svg>

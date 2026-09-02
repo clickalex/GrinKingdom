@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Witches' butter illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9f2e"/><stop offset="1" stop-color="#D97706"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb342"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffae"/><stop offset="1" stop-color="#ffffeb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="60" height="60" patternUnits="userSpaceOnUse"><rect width="60" height="60" fill="none"/><ellipse cx="18" cy="16" rx="9" ry="4" fill="#ffffff" opacity="0.35" transform="rotate(-18 18 16)"/><ellipse cx="48" cy="46" rx="8" ry="3.4" fill="#ffffff" opacity="0.28" transform="rotate(-18 48 46)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="351.9607099145651" cy="123.61404586583376" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="240.7362851081416" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="144.61112858727574" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="67.61211109347641" cy="80.75092047452927" r="3.675804313039407"/><circle cx="128.41065828688443" cy="140.24613566696644" r="4.093373585259542"/><circle cx="288.90794639475644" cy="98.68785670027137" r="2.677491231355816"/></g>
+<text x="30" y="67" font-size="44">🧈</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M76 150 q74 -92 148 0 Z" fill="url(#bg1)" stroke="#D97706" stroke-width="3"/><path d="M76 150 q74 -92 148 0 Z" fill="url(#tx)"/><rect x="136" y="150" width="28" height="58" fill="#FDE68A" stroke="#e7a33b" stroke-width="3"/><line x1="150" y1="150" x2="150" y2="168" stroke="#D97706" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Witches' butter</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Tremella mesenterica</text>
+</g>
+</svg>

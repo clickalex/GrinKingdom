@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Marsh marigold illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffb2"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffc6"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="438.64771120250225" cy="175.19110053777695" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="260.41653086431324" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="132.00420181266963" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="51.14579828456044" cy="119.31734034791589" r="3.520775212207809"/><circle cx="411.0220649186522" cy="58.25012944638729" r="2.965640608454123"/><circle cx="501.43633926287293" cy="94.18489111587405" r="3.3680990184657276"/></g>
+<text x="30" y="64" font-size="44">🟡</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FDE68A" stroke-width="2.6"/><ellipse cx="174.60740206692293" cy="83.74921639345149" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(18.83742794365844 174.60740206692293 83.74921639345149)"/><ellipse cx="159.44582627781458" cy="98.36012362143454" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(68.69693865769322 159.44582627781458 98.36012362143454)"/><ellipse cx="142.2177147561432" cy="98.89967691035716" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(107.41668506353032 142.2177147561432 98.89967691035716)"/><ellipse cx="129.03595754542565" cy="90.19585843650788" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(143.73689398648102 129.03595754542565 90.19585843650788)"/><ellipse cx="124.02847409952173" cy="74.87708824788533" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(182.68173338520157 124.02847409952173 74.87708824788533)"/><ellipse cx="142.4831619526562" cy="53.02489268449314" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(253.19537000719268 142.4831619526562 53.02489268449314)"/><ellipse cx="151.6968856724204" cy="52.051168528201096" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(273.7420592757314 151.6968856724204 52.051168528201096)"/><ellipse cx="172.23804980848723" cy="63.565186238943596" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(328.79395578933446 172.23804980848723 63.565186238943596)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#a0bd6b" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Marsh marigold</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Caltha palustris</text>
+</g>
+</svg>

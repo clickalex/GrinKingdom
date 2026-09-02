@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Boring sponge illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffb2"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bf8025"/><stop offset="1" stop-color="#A16207"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffc6"/><stop offset="1" stop-color="#A16207"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ffffc6" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ffffc6" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="381.17373265326023" cy="207.30505149811506" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="216.4870836865157" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="127.71719392389059" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="68" font-size="44">🪸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><path d="M108 224 q-6 -70 42 -74 q48 4 42 74 Z" fill="url(#bg1)" stroke="#FDE68A" stroke-width="3"/><path d="M108 224 q-6 -70 42 -74 q48 4 42 74 Z" fill="url(#tx)"/><circle cx="130" cy="140" r="7" fill="#A16207" opacity="0.8"/><circle cx="164" cy="166" r="9" fill="#A16207" opacity="0.8"/><circle cx="146" cy="194" r="6" fill="#A16207" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Boring sponge</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cliona celata</text>
+</g>
+</svg>

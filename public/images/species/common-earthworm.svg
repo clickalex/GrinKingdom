@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common earthworm illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9ade"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffedff"/><stop offset="1" stop-color="#FBCFE8"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaef2"/><stop offset="1" stop-color="#FBCFE8"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="420.1918179541826" cy="133.13688802532852" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="235.8179837744683" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="138.25607668608427" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="297.11281863972545" cy="108.88205407187343" r="3.2900762215722352"/><circle cx="202.64848237857223" cy="88.59639955684543" r="2.486395047744736"/><circle cx="286.2577614095062" cy="119.89676513709128" r="2.033021585550159"/></g>
+<text x="30" y="54" font-size="44">🪱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M40,159.29015193434267 L70,179.50691602374826 L100,160.67664080019549 L130,126.49916495561109 L160,120.16177430489155 L190,153.54023795640524 L220,159.83783827017407 L250,179.80709377912854 L280,139.83292087088876" stroke="#F472B6" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,159.29015193434267 L70,179.50691602374826 L100,160.67664080019549 L130,126.49916495561109 L160,120.16177430489155 L190,153.54023795640524 L220,159.83783827017407 L250,179.80709377912854 L280,139.83292087088876" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,159.29015193434267 L70,179.50691602374826 L100,160.67664080019549 L130,126.49916495561109 L160,120.16177430489155 L190,153.54023795640524 L220,159.83783827017407 L250,179.80709377912854 L280,139.83292087088876" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="151.29015193434267" r="13" fill="url(#bg1)" stroke="#F472B6" stroke-width="3"/><circle cx="24" cy="149.29015193434267" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common earthworm</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lumbricus terrestris</text>
+</g>
+</svg>

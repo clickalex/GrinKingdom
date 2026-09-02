@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sunflower illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff43d"/><stop offset="1" stop-color="#FACC15"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#96532d"/><stop offset="1" stop-color="#78350F"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff51"/><stop offset="1" stop-color="#78350F"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbd"/><stop offset="1" stop-color="#ffffc3"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#ffff51" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#ffff51" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="349.07397143542767" cy="144.90310770459473" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="224.24660425633192" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="149.85555429942906" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="62" font-size="44">🌻</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M150 240 q-8 -70 2 -138" stroke="#78350F" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FACC15" stroke-width="2.6"/><ellipse cx="174.8371197070863" cy="83.09734419469821" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(17.20087716587476 174.8371197070863 83.09734419469821)"/><ellipse cx="162.77820934382564" cy="96.9014736745835" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(60.5627806842654 162.77820934382564 96.9014736745835)"/><ellipse cx="140.29686541161826" cy="98.26604624487072" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(111.91295008913443 140.29686541161826 98.26604624487072)"/><ellipse cx="126.86650543297979" cy="86.9547660031186" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(152.8418225644859 126.86650543297979 86.9547660031186)"/><ellipse cx="126.02113384556803" cy="66.72254982219214" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(202.74064751387795 126.02113384556803 66.72254982219214)"/><ellipse cx="141.8377795408218" cy="53.213305211841146" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(251.70367513530667 141.8377795408218 53.213305211841146)"/><ellipse cx="151.43321731079521" cy="52.036491266068424" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(273.1599595119867 151.43321731079521 52.036491266068424)"/><ellipse cx="173.35190614509943" cy="65.44747119899597" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(333.91597933462094 173.35190614509943 65.44747119899597)"/><circle cx="150" cy="76" r="13" fill="#78350F" stroke="#c69013" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sunflower</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Helianthus annuus</text>
+</g>
+</svg>

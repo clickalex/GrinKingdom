@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sweet pea illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b384ff"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c798ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="427.4840670824051" cy="183.00978259183466" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="251.5828300639987" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="139.69353003427386" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="223.74439358711243" cy="125.80113402567804" r="3.727247652132064"/><circle cx="142.05966628156602" cy="81.72675195150077" r="2.3469028724357486"/><circle cx="72.63013465330005" cy="113.74055403284729" r="3.1336485729552805"/></g>
+<text x="30" y="56" font-size="44">🌺</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#8B5CF6" stroke-width="2.6"/><ellipse cx="174.60632359768354" cy="83.75213382225061" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(18.844787112303372 174.60632359768354 83.75213382225061)"/><ellipse cx="159.12003150232584" cy="98.47507543307772" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(69.46555395227024 159.12003150232584 98.47507543307772)"/><ellipse cx="142.6698460261175" cy="99.02644650758414" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(106.37536718925422 142.6698460261175 99.02644650758414)"/><ellipse cx="129.0910649334853" cy="90.26494162186992" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(143.5320832203276 129.0910649334853 90.26494162186992)"/><ellipse cx="124.05487096510754" cy="74.44159042489177" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(183.72304824458945 124.05487096510754 74.44159042489177)"/><ellipse cx="136.3470332505304" cy="55.57523607618643" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(238.3240748863948 136.3470332505304 55.57523607618643)"/><ellipse cx="162.0313667829542" cy="54.72420400113768" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(297.56437167854006 162.0313667829542 54.72420400113768)"/><ellipse cx="174.23402617442926" cy="67.30581216579465" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(338.761078222775 174.23402617442926 67.30581216579465)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#5c78b1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sweet pea</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lathyrus odoratus</text>
+</g>
+</svg>

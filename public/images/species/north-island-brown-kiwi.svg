@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="North Island brown kiwi illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c98a2f"/><stop offset="1" stop-color="#A16207"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dd9e43"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffaf"/><stop offset="1" stop-color="#ffffeb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="none"/><circle cx="3" cy="3" r="1.1" fill="#dd9e43" opacity="0.5"/><circle cx="8" cy="7" r="1.1" fill="#dd9e43" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="247.3132598400116" cy="128.32608955912292" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="224.9090446298942" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="132.9070458561182" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🥝</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M118 128 q-8 -34 24 -42 q36 -8 44 10 q-40 12 -68 32 Z" fill="url(#bg1)" stroke="#A16207" stroke-width="3"/><path d="M118 128 q-8 -34 24 -42 q36 -8 44 10 q-40 12 -68 32 Z" fill="url(#tx)"/><path d="M120 118 q-8 -16 -20 -20 M122 122 q-6 -12 -16 -14" stroke="#A16207" stroke-width="3" fill="none"/><circle cx="114" cy="108" r="3" fill="#1c1917"/><path d="M128 156 q-8 40 2 70 M172 156 q8 40 -2 70" stroke="#FDE68A" stroke-width="13" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M142 218 l-6 22 M158 218 l6 22" stroke="#A16207" stroke-width="6" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">North Island brown kiwi</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Apteryx mantelli</text>
+</g>
+</svg>

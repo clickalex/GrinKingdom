@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Chinese softshell turtle illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c98a2f"/><stop offset="1" stop-color="#A16207"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dd9e43"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffaf"/><stop offset="1" stop-color="#ffffeb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="247.7494678646326" cy="191.66865781880915" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="245.9374745003879" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="132.15525372885168" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="41.61520675756037" cy="143.04343855008483" r="3.152364128502086"/><circle cx="52.68698323518038" cy="118.35297090001404" r="3.093981245532632"/><circle cx="73.46941608004272" cy="73.18782203830779" r="3.220340793952346"/></g>
+<text x="30" y="63" font-size="44">🐢</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M86 152 q0 -44 64 -44 q64 0 64 44 q-64 10 -128 0 Z" fill="url(#bg1)" stroke="#A16207" stroke-width="3"/><path d="M86 152 q0 -44 64 -44 q64 0 64 44 q-64 10 -128 0 Z" fill="url(#tx)"/><path d="M110 152 l0 40 M150 152 l0 46 M190 152 l0 40" stroke="#A16207" stroke-width="3" fill="none"/><path d="M150 152 l-26 34 M150 152 l0 46 M150 152 l26 34" stroke="#FDE68A" stroke-width="3" fill="none" opacity="0.7"/><circle cx="76" cy="138" r="11" fill="url(#bg2)" stroke="#A16207" stroke-width="3"/><circle cx="72" cy="135" r="2.6" fill="#1c1917"/><path d="M100 180 q-14 14 -22 26" stroke="#A16207" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M200 180 q14 14 22 26" stroke="#A16207" stroke-width="6" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Chinese softshell turtle</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pelodiscus sinensis</text>
+</g>
+</svg>

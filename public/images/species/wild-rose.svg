@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Wild rose illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff67b6"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7bca"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="145.74660316109657" cy="109.97477039694786" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="213.73176852241158" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="130.5879574920982" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="68" font-size="44">🌹</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F43F8E" stroke-width="2.6"/><ellipse cx="174.96845642555473" cy="82.69317874809826" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(16.193517031140633 174.96845642555473 82.69317874809826)"/><ellipse cx="163.05292311716056" cy="96.75632826094183" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(59.86524048493388 163.05292311716056 96.75632826094183)"/><ellipse cx="144.84977524357433" cy="99.52443355674376" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(101.4250305139469 144.84977524357433 99.52443355674376)"/><ellipse cx="128.3060240696889" cy="89.22841723286265" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(146.5517181833534 128.3060240696889 89.22841723286265)"/><ellipse cx="124.21266009382994" cy="72.93667767358126" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(187.3331474584733 124.21266009382994 72.93667767358126)"/><ellipse cx="134.75492305502783" cy="56.558596830349046" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(234.10164403741658 134.75492305502783 56.558596830349046)"/><ellipse cx="161.6868240426014" cy="54.56119032233108" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(296.7111749164691 161.6868240426014 54.56119032233108)"/><ellipse cx="174.62970859097877" cy="68.31140340281816" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(341.3154118313181 174.62970859097877 68.31140340281816)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9b6773" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Wild rose</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Rosa canina</text>
+</g>
+</svg>
