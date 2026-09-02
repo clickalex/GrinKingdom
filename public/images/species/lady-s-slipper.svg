@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Lady's slipper illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6eff"/><stop offset="1" stop-color="#D946EF"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff82ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffeeff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="433.17932076752186" cy="128.9934602100402" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="240.13918975833803" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="127.3595763463527" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="71.36866291984916" cy="105.39118764922023" r="2.2378112075384706"/><circle cx="476.16482713259757" cy="93.65383907221258" r="3.717173998011276"/><circle cx="128.6349039711058" cy="48.05474896915257" r="1.783665267052129"/></g>
+<text x="30" y="65" font-size="44">👠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#D946EF" stroke-width="2.6"/><ellipse cx="175.4576949509949" cy="80.87623785566036" rx="17" ry="20" fill="url(#bg1)" stroke="#D946EF" stroke-width="2.6" transform="rotate(11.722778403486517 175.4576949509949 80.87623785566036)"/><ellipse cx="165.72558533547883" cy="95.11250699333024" rx="17" ry="20" fill="url(#bg1)" stroke="#D946EF" stroke-width="2.6" transform="rotate(52.783375439231406 165.72558533547883 95.11250699333024)"/><ellipse cx="138.6007678034823" cy="97.57034463922729" rx="17" ry="20" fill="url(#bg1)" stroke="#D946EF" stroke-width="2.6" transform="rotate(116.00387977959997 138.6007678034823 97.57034463922729)"/><ellipse cx="129.39776074116233" cy="90.64023680635741" rx="17" ry="20" fill="url(#bg1)" stroke="#D946EF" stroke-width="2.6" transform="rotate(142.40978358835332 129.39776074116233 90.64023680635741)"/><ellipse cx="126.83585202148231" cy="65.10056627771813" rx="17" ry="20" fill="url(#bg1)" stroke="#D946EF" stroke-width="2.6" transform="rotate(207.00981150433316 126.83585202148231 65.10056627771813)"/><ellipse cx="131.99356774920125" cy="58.687240185612254" rx="17" ry="20" fill="url(#bg1)" stroke="#D946EF" stroke-width="2.6" transform="rotate(226.16729201569794 131.99356774920125 58.687240185612254)"/><ellipse cx="158.0209077398338" cy="53.170588157163095" rx="17" ry="20" fill="url(#bg1)" stroke="#D946EF" stroke-width="2.6" transform="rotate(287.9686430223748 158.0209077398338 53.170588157163095)"/><ellipse cx="169.3986782292268" cy="60.02006717988424" rx="17" ry="20" fill="url(#bg1)" stroke="#D946EF" stroke-width="2.6" transform="rotate(318.25392670660705 169.3986782292268 60.02006717988424)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#8b5da8" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Lady's slipper</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cypripedium calceolus</text>
+</g>
+</svg>

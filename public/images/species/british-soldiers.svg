@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="British soldiers illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#acf43e"/><stop offset="1" stop-color="#84CC16"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c0ff52"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbe"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="308.99905130267143" cy="182.22833161242306" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="217.52902457490563" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="124.1831523552537" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="53" font-size="44">🔴</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><circle cx="78.70141410268843" cy="242.95980534516275" r="18.332185177132487" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="93.35847572889179" cy="191.0039829555899" r="27.781941400375217" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="141.67121106293052" cy="186.72332346905023" r="16.426286404486746" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="193.4738845517859" cy="237.6195366960019" r="29.982877649366856" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="148.16808292642236" cy="244.20903872232884" r="20.492193460464478" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="162.35838117543608" cy="178.6134370835498" r="12.25960622029379" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="163.52322955615819" cy="240.8000819152221" r="22.706929218024015" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="230.04022601991892" cy="195.9312589140609" r="24.531582861207426" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="94.16806007735431" cy="232.90986760985106" r="26.6408154736273" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="117.66537977848202" cy="238.03418527822942" r="23.043748868163675" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="114.18157374020666" cy="229.01655964087695" r="28.813404281158" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="77.14232114609331" cy="156.11657469999045" r="24.975470138713717" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="178.7986244307831" cy="231.49042821023613" r="26.679594788700342" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="174.25430815201253" cy="193.02698262035847" r="26.41601815726608" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">British soldiers</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cladonia cristatella</text>
+</g>
+</svg>

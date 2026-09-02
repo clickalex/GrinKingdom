@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Trypanosoma cruzi illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffccd7"/><stop offset="1" stop-color="#FDA4AF"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff3b66"/><stop offset="1" stop-color="#E11D48"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe0eb"/><stop offset="1" stop-color="#E11D48"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="218.337032943964" cy="137.72135219536722" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="249.41194002516568" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="137.61834194883704" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="557.8570681624115" cy="130.67671043798327" r="2.9768641185946763"/><circle cx="432.8957894537598" cy="84.24228847026825" r="3.5268253397662193"/><circle cx="531.0170547105372" cy="88.73119260184467" r="3.6786760941613466"/></g>
+<text x="30" y="70" font-size="44">❤️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M84 150 q66 -52 132 0 q-66 52 -132 0 Z" fill="url(#bg1)" stroke="#FDA4AF" stroke-width="3"/><path d="M84 150 q66 -52 132 0 q-66 52 -132 0 Z" fill="url(#tx)"/><path d="M84 150 q-46 -22 -70 -4" stroke="#FDA4AF" stroke-width="3" fill="none" stroke-linecap="round"/><circle cx="120" cy="136" r="6" fill="#ff5c5c"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Trypanosoma cruzi</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Trypanosoma cruzi</text>
+</g>
+</svg>

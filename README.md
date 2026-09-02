@@ -1,17 +1,21 @@
 # 🌍 GrinKingdom — The Species Kingdom
 
 A playful, colorful encyclopedia of **every kingdom of life** — from viruses to humans.
-Explore **1,000 species** with photos, fun facts, scientific classification, and an interactive
-**rotatable 3D viewer** for every one of them.
+Explore **2,461 species** with real photos, fun facts, scientific classification, one big
+**family tree of life**, and an interactive **rotatable 3D viewer** for every one of them.
 
 ---
 
 ## ✨ Features
 
-- 🧭 **Explore** — a searchable, filterable catalog of 1,000 species with pagination & sorting
+- 🧭 **Explore** — a searchable, filterable catalog of 2,461 species with pagination & sorting
 - 📄 **Species pages** — species photo, quick facts, taxonomy, fun facts, prev/next & related species
 - 🧊 **3D viewer** — drag to rotate/tilt/zoom any species (Three.js), auto-rotating exhibits
-- 📷 **Species photos** — every species gets its own generated specimen illustration (offline-safe SVG)
+- 📷 **Photos** — every species gets a generated specimen illustration (offline-safe SVG) **plus real
+  photographs** pulled live from open biodiversity archives (GBIF & Wikipedia), with per-photo credit
+  & license — toggle them site-wide with the 📷 chip
+- 🌳 **Family tree** — one interactive tree of life covering all 2,461 species across ~710 families:
+  search it, expand any branch to genus, deep-link from any species page
 - 🌐 **Live tree-of-life search** — reach millions of described species via the GBIF API
 - 🎨 Playful, colorful, fully responsive design
 
@@ -28,8 +32,8 @@ Viruses 🦠 · Archaea 🌋 · Bacteria 🧫 · Protists 🫧 · Fungi 🍄 · 
 | Framework | React 18 + Vite 5 |
 | Routing | React Router (hash routing, works on any static host) |
 | 3D | Three.js (WebGL) |
-| Data | JS modules (no backend) — 48 hand-curated + 952 generated species |
-| Images | Generated SVG specimen plates (no external hotlinks) |
+| Data | JS modules (no backend) — 48 hand-curated + 2,413 generated species |
+| Images | Generated SVG specimen plates + real photos via GBIF/Wikipedia APIs |
 | Hosting | GitHub Pages now → any host + custom domain later |
 
 ---
@@ -45,8 +49,8 @@ npm run preview    # preview the production build
 
 ### Regenerating the species database & illustrations
 
-The 952 generated species live in `scripts/seeds/` (species lists + group configs + fact banks).
-To rebuild `src/data/species-extra.js` and the 1,000 SVG specimen plates in `public/images/species/`:
+The 2,413 generated species live in `scripts/seeds/` (species lists + group configs + fact banks).
+To rebuild `src/data/species-extra.js` and the 2,461 SVG specimen plates in `public/images/species/`:
 
 ```bash
 npm run gen
@@ -89,12 +93,14 @@ scripts/
 ├── seeds/           # species seed lists, group configs, fact banks
 ├── gen-species.mjs  # data + SVG specimen generator (npm run gen)
 └── smoke-ssr.mjs    # server-render smoke test for every page & species
-public/images/species/  # 1,000 generated specimen illustrations
+public/images/species/  # 2,461 generated specimen illustrations
 ```
 
 ## 🙏 Data & credits
 
 - Live species search powered by the [GBIF API](https://www.gbif.org/) (free).
+- Real photographs served by the [GBIF API](https://www.gbif.org/) and Wikipedia/Wikimedia
+  (rights-reserved images are filtered out; each photo shows its photographer & license).
 - Illustrations are original, generated for this project (no external image hotlinks).
 
 ---

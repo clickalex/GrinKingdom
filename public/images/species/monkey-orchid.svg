@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Monkey orchid illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e84efb"/><stop offset="1" stop-color="#C026D3"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fc62ff"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffceff"/><stop offset="1" stop-color="#ffefff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="392.7713277935982" cy="162.4067280907184" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="253.18287952803075" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="132.67327073030174" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="441.88853731378913" cy="78.45186797901988" r="3.7062058090232313"/><circle cx="158.3677632547915" cy="49.199228109791875" r="2.9405890975613147"/><circle cx="123.73291732743382" cy="52.87326641380787" r="2.072251515230164"/></g>
+<text x="30" y="60" font-size="44">🐒</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#C026D3" stroke-width="2.6"/><ellipse cx="175.87391574481282" cy="78.36071108077755" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(5.644910318043031 175.87391574481282 78.36071108077755)"/><ellipse cx="165.01664797255535" cy="95.59230027003608" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(54.720654123425675 165.01664797255535 95.59230027003608)"/><ellipse cx="140.11014877487983" cy="98.19593775873895" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(112.3571541498695 140.11014877487983 98.19593775873895)"/><ellipse cx="125.15256027306262" cy="83.06649834961121" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(162.87619363977197 125.15256027306262 83.06649834961121)"/><ellipse cx="126.24410250600513" cy="66.24602762375639" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(203.9798610947009 126.24410250600513 66.24602762375639)"/><ellipse cx="141.14126243162735" cy="53.436050288566456" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(250.07921239830162 141.14126243162735 53.436050288566456)"/><ellipse cx="153.8406691704222" cy="52.26329166868939" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(278.4947070044566 153.8406691704222 52.26329166868939)"/><ellipse cx="173.7360638999338" cy="66.20497199018435" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(335.91282221759684 173.7360638999338 66.20497199018435)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#7c3f93" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Monkey orchid</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Orchis simia</text>
+</g>
+</svg>

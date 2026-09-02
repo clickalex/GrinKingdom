@@ -24,11 +24,19 @@ import { ANIMALS_A_ROWS } from './seeds/species-animals-a.js'
 import { ANIMALS_B_ROWS } from './seeds/species-animals-b.js'
 import { ANIMALS_C_ROWS } from './seeds/species-animals-c.js'
 import { HUMAN_ROWS } from './seeds/species-humans.js'
+import { ANIMALS_D_ROWS } from './seeds/species-animals-d.js'
+import { ANIMALS_E_ROWS } from './seeds/species-animals-e.js'
+import { ANIMALS_F_ROWS } from './seeds/species-animals-f.js'
+import { ANIMALS_G_ROWS } from './seeds/species-animals-g.js'
+import { PLANT_B_ROWS } from './seeds/species-plants-b.js'
+import { FUNGI_B_ROWS } from './seeds/species-fungi-b.js'
+import { MICROBE_B_ROWS } from './seeds/species-microbes-b.js'
+import { HUMANS_B_ROWS } from './seeds/species-humans-b.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.resolve(__dirname, '..')
 
-const KINGDOM_QUOTA = { viruses: 52, archaea: 28, bacteria: 60, protists: 48, fungi: 93, plants: 134, animals: 530, humans: 7 }
+const KINGDOM_QUOTA = { viruses: 94, archaea: 45, bacteria: 101, protists: 83, fungi: 163, plants: 362, animals: 1545, humans: 20 }
 const KINGDOM_DEFAULT_STATUS = { viruses: 'Not evaluated', archaea: 'Not evaluated', bacteria: 'Not evaluated', protists: 'Not evaluated', fungi: 'Not evaluated', plants: 'Least Concern', animals: 'Least Concern', humans: 'Extinct' }
 const KINGDOM_TAXON = { viruses: 'Virus', archaea: 'Archaea', bacteria: 'Bacteria', protists: 'Protista', fungi: 'Fungi', plants: 'Plantae', animals: 'Animalia', humans: 'Animalia' }
 const SIZE_FALLBACK = {
@@ -175,6 +183,8 @@ function buildTaxonomy(group, kingdom, sci) {
 const ALL_ROWS = [
   ...VIRUS_ROWS, ...ARCHAEA_ROWS, ...BACTERIA_ROWS, ...PROTIST_ROWS,
   ...FUNGI_ROWS, ...PLANT_ROWS, ...ANIMALS_A_ROWS, ...ANIMALS_B_ROWS, ...ANIMALS_C_ROWS, ...HUMAN_ROWS,
+  ...ANIMALS_D_ROWS, ...ANIMALS_E_ROWS, ...ANIMALS_F_ROWS, ...ANIMALS_G_ROWS,
+  ...PLANT_B_ROWS, ...FUNGI_B_ROWS, ...MICROBE_B_ROWS, ...HUMANS_B_ROWS,
 ]
 
 function selectRows() {

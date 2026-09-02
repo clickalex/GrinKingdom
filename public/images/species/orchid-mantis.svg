@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Orchid mantis illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="362.0637238025665" cy="180.41517122648656" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="215.5141495540738" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="149.32009090669453" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="122.5868824776262" cy="93.4899868350476" r="2.6528667295351624"/><circle cx="126.67541003786027" cy="77.30759763158858" r="3.194269085302949"/><circle cx="351.0265152249485" cy="83.22327801026404" r="2.042658916208893"/></g>
+<text x="30" y="65" font-size="44">🦗</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 190 q-10 -70 -4 -120 M150 190 q8 -60 20 -110" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M146 86 q-30 -30 -12 -52 q22 -4 32 14 M146 92 q-20 -8 -26 -2" fill="url(#bg1)" stroke="#22C55E" stroke-width="3"/><path d="M154 106 q26 -34 56 -40 q-8 24 -30 34 M156 112 q22 -4 34 2" fill="none" stroke="#22C55E" stroke-width="6" stroke-linecap="round"/><circle cx="148" cy="72" r="12" fill="url(#bg2)" stroke="#22C55E" stroke-width="3"/><circle cx="144" cy="68" r="3" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Orchid mantis</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Hymenopus coronatus</text>
+</g>
+</svg>

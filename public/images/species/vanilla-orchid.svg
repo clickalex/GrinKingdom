@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Vanilla orchid illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e84efb"/><stop offset="1" stop-color="#C026D3"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fc62ff"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffceff"/><stop offset="1" stop-color="#ffefff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="214.82669360935688" cy="103.89484179206192" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="260.31392441131175" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="138.1597730331123" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="537.2080758400261" cy="148.09108425863087" r="3.2602155189961195"/><circle cx="399.6669015381485" cy="40.9635260887444" r="3.794441665755585"/><circle cx="149.89304188638926" cy="57.88900699466467" r="3.2489539752714336"/></g>
+<text x="30" y="64" font-size="44">🍦</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#C026D3" stroke-width="2.6"/><ellipse cx="175.39007676979372" cy="81.16791205354872" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(12.434868966813106 175.39007676979372 81.16791205354872)"/><ellipse cx="162.40881428098268" cy="97.0902640613751" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(61.49326319790963 162.40881428098268 97.0902640613751)"/><ellipse cx="149.0779786829106" cy="99.984904306184" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(92.03226957342675 149.0779786829106 99.984904306184)"/><ellipse cx="129.6260503370221" cy="90.90996910826347" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(141.5926204497441 129.6260503370221 90.90996910826347)"/><ellipse cx="124.06325823726766" cy="74.32685420194751" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(183.9975839430081 124.06325823726766 74.32685420194751)"/><ellipse cx="139.2201590356222" cy="54.16001114280688" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(245.50528736811242 139.2201590356222 54.16001114280688)"/><ellipse cx="151.70040671779142" cy="52.051381326396665" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(273.7498351592869 151.70040671779142 52.051381326396665)"/><ellipse cx="170.6867419643639" cy="61.46164961508205" rx="17" ry="20" fill="url(#bg1)" stroke="#C026D3" stroke-width="2.6" transform="rotate(322.7161180395359 170.6867419643639 61.46164961508205)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#7c3f93" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Vanilla orchid</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Vanilla planifolia</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Giant water lily illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="191.60189725458622" cy="141.084921117872" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="210.72273588739336" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="135.84138818085194" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="56" font-size="44">🪷</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EC4899" stroke-width="2.6"/><ellipse cx="175.93241526335922" cy="77.72934430172721" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(4.1320863626812985 175.93241526335922 77.72934430172721)"/><ellipse cx="163.72010084435817" cy="96.38639642816906" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(58.15007282908097 163.72010084435817 96.38639642816906)"/><ellipse cx="138.81006894760742" cy="97.66352479394621" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(115.49180294847362 138.81006894760742 97.66352479394621)"/><ellipse cx="128.1093502106112" cy="88.94940565654467" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(147.34640621764285 128.1093502106112 88.94940565654467)"/><ellipse cx="125.12092718124104" cy="69.02898225586014" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(196.88544202790183 125.12092718124104 69.02898225586014)"/><ellipse cx="134.0085460397606" cy="57.07639624964026" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(232.04401623943784 134.0085460397606 57.07639624964026)"/><ellipse cx="152.14789352375254" cy="52.08203570694522" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(274.7386786311708 152.14789352375254 52.08203570694522)"/><ellipse cx="170.47190750811816" cy="61.20480158870823" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(321.9414364497485 170.47190750811816 61.20480158870823)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#965471" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Giant water lily</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Victoria amazonica</text>
+</g>
+</svg>

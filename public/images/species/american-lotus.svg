@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="American lotus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9ade"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaef2"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="423.53899732232094" cy="120.18894150853157" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="234.82054852880538" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="146.28799872472882" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="478.55116174556315" cy="70.29138180427253" r="2.3861617252696306"/><circle cx="542.2175189107656" cy="77.0127763133496" r="3.3229183370713145"/><circle cx="184.95064413174987" cy="151.94070996716619" r="1.888289917493239"/></g>
+<text x="30" y="54" font-size="44">🪷</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F472B6" stroke-width="2.6"/><ellipse cx="173.13025308015563" cy="86.9605965890907" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(27.17382281583038 173.13025308015563 86.9605965890907)"/><ellipse cx="159.58628479737501" cy="98.3091316120346" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(68.36433373148776 159.58628479737501 98.3091316120346)"/><ellipse cx="146.4741249568144" cy="99.77829321213429" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(97.79392816154036 146.4741249568144 99.77829321213429)"/><ellipse cx="127.60857985072927" cy="88.19804517577501" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(149.4525414988387 127.60857985072927 88.19804517577501)"/><ellipse cx="125.21596041141686" cy="68.74627255146383" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(197.59211098183238 125.21596041141686 68.74627255146383)"/><ellipse cx="133.5259618607472" cy="57.4324719244011" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(230.68252574394745 133.5259618607472 57.4324719244011)"/><ellipse cx="156.90760936745744" cy="52.86251148641736" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(285.4072009611541 156.90760936745744 52.86251148641736)"/><ellipse cx="173.27512948947611" cy="65.30391820793523" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(333.53378207904876 173.27512948947611 65.30391820793523)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#9b7886" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">American lotus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Nelumbo lutea</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common death adder illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#44413f"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f1ef"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#585553"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#c4c1bf"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#585553" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#585553" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="235.3600463271141" cy="190.1344613917172" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="259.6717422315851" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="130.99536546505988" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="98.84085045196116" cy="51.56158372759819" r="2.2619083269964904"/><circle cx="377.88419210352004" cy="116.94308214820921" r="4.065792098874226"/><circle cx="385.6032386329025" cy="143.38425422087312" r="2.600583687890321"/></g>
+<text x="30" y="63" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M40,165.33841001907896 L70,193.43393302066283 L100,175.96649130133707 L130,121.51273983687929 L160,104.8231212067895 L190,129.58624606396907 L220,182.9624181518514 L250,183.57376302032435 L280,166.66131480058868" stroke="#1C1917" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,165.33841001907896 L70,193.43393302066283 L100,175.96649130133707 L130,121.51273983687929 L160,104.8231212067895 L190,129.58624606396907 L220,182.9624181518514 L250,183.57376302032435 L280,166.66131480058868" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,165.33841001907896 L70,193.43393302066283 L100,175.96649130133707 L130,121.51273983687929 L160,104.8231212067895 L190,129.58624606396907 L220,182.9624181518514 L250,183.57376302032435 L280,166.66131480058868" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="157.33841001907896" r="13" fill="url(#bg1)" stroke="#1C1917" stroke-width="3"/><circle cx="24" cy="155.33841001907896" r="2.8" fill="#1c1917"/><path d="M36 149.33841001907896 l-7 -7 M34 151.33841001907896 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common death adder</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Acanthophis antarcticus</text>
+</g>
+</svg>

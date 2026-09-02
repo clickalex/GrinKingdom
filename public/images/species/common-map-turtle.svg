@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common map turtle illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#52a170" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#52a170" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="374.76549603044987" cy="143.99321073666215" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="243.97367522120476" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="159.9297803454101" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="532.2497516404837" cy="46.83584839105606" r="4.3601537744980305"/><circle cx="170.47271580435336" cy="78.61646670848131" r="3.9502732346300036"/><circle cx="182.217400893569" cy="54.34539018198848" r="2.149102127412334"/></g>
+<text x="30" y="69" font-size="44">🐢</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M86 152 q0 -44 64 -44 q64 0 64 44 q-64 10 -128 0 Z" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><path d="M86 152 q0 -44 64 -44 q64 0 64 44 q-64 10 -128 0 Z" fill="url(#tx)"/><path d="M110 152 l0 40 M150 152 l0 46 M190 152 l0 40" stroke="#166534" stroke-width="3" fill="none"/><path d="M150 152 l-26 34 M150 152 l0 46 M150 152 l26 34" stroke="#F0FDF4" stroke-width="3" fill="none" opacity="0.7"/><circle cx="76" cy="138" r="11" fill="url(#bg2)" stroke="#166534" stroke-width="3"/><circle cx="72" cy="135" r="2.6" fill="#1c1917"/><path d="M100 180 q-14 14 -22 26" stroke="#166534" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M200 180 q14 14 22 26" stroke="#166534" stroke-width="6" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common map turtle</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Graptemys geographica</text>
+</g>
+</svg>

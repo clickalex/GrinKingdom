@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Rapeseed illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffff6f"/><stop offset="1" stop-color="#FDE047"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff83"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffef"/><stop offset="1" stop-color="#fffff3"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="375.0404229015112" cy="208.8355191797018" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="250.89908252935857" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="153.6403960827738" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🌼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FDE047" stroke-width="2.6"/><ellipse cx="175.29056593437767" cy="81.56817221108625" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(13.415271412110254 175.29056593437767 81.56817221108625)"/><ellipse cx="163.3346019339594" cy="96.60320081151434" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(59.144857571696896 163.3346019339594 96.60320081151434)"/><ellipse cx="142.4004051929926" cy="98.95189810030932" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(106.99523112228074 142.4004051929926 98.95189810030932)"/><ellipse cx="129.5268651067549" cy="90.7937512117359" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(141.9458241992899 129.5268651067549 90.7937512117359)"/><ellipse cx="124.00857051417788" cy="75.38382054778451" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(181.4711817394053 124.00857051417788 75.38382054778451)"/><ellipse cx="132.45509563948715" cy="58.28807247379871" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(227.56106739466227 132.45509563948715 58.28807247379871)"/><ellipse cx="161.7182975557295" cy="54.575833980875665" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(296.7888449262141 161.7182975557295 54.575833980875665)"/><ellipse cx="174.0077621284927" cy="66.78644570257936" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(337.4246502793507 174.0077621284927 66.78644570257936)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#a0ba43" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Rapeseed</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Brassica napus</text>
+</g>
+</svg>

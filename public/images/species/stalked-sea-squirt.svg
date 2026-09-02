@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Stalked sea squirt illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8034"/><stop offset="1" stop-color="#EA580C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff9448"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="60" height="60" patternUnits="userSpaceOnUse"><rect width="60" height="60" fill="none"/><ellipse cx="18" cy="16" rx="9" ry="4" fill="#ffffff" opacity="0.35" transform="rotate(-18 18 16)"/><ellipse cx="48" cy="46" rx="8" ry="3.4" fill="#ffffff" opacity="0.28" transform="rotate(-18 48 46)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="364.4336397200823" cy="184.53259650617838" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="236.81920723523945" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="158.79657730460167" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="53" font-size="44">🪸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M70 176 q0 -26 22 -30 q46 -8 92 8 q24 10 24 26 q0 18 -22 18 q-62 -6 -92 -4 q-24 2 -24 -8 Z" fill="url(#bg1)" stroke="#EA580C" stroke-width="3" stroke-linejoin="round"/><path d="M70 176 q0 -26 22 -30 q46 -8 92 8 q24 10 24 26 q0 18 -22 18 q-62 -6 -92 -4 q-24 2 -24 -8 Z" fill="url(#tx)"/><path d="M60 172 l-14 -12 M60 178 l-12 -4" stroke="#EA580C" stroke-width="2.6" fill="none"/><circle cx="56" cy="166" r="3" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Stalked sea squirt</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Styela montereyensis</text>
+</g>
+</svg>

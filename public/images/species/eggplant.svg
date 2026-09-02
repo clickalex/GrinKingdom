@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Eggplant illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b384ff"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c798ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="315.4137662798166" cy="149.1485055629164" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="213.06924884207547" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="132.6249894220382" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="64" font-size="44">🍆</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#8B5CF6" stroke-width="2.6"/><ellipse cx="175.9386266851131" cy="77.64805960750044" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(3.937551195917456 175.9386266851131 77.64805960750044)"/><ellipse cx="161.8827052663916" cy="97.34686616129571" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(62.80456090102583 161.8827052663916 97.34686616129571)"/><ellipse cx="142.31656234271387" cy="98.92810078535965" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(107.18853151890869 142.31656234271387 98.92810078535965)"/><ellipse cx="128.3578516264031" cy="89.3005555749137" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(146.34507058990113 128.3578516264031 89.3005555749137)"/><ellipse cx="125.90328389244743" cy="66.98648244332767" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(202.05912825695643 125.90328389244743 66.98648244332767)"/><ellipse cx="136.1859430149998" cy="55.66773871644219" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(237.9059987938549 136.1859430149998 55.66773871644219)"/><ellipse cx="158.05449356157624" cy="53.18066593403563" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(288.0464677452427 158.05449356157624 53.18066593403563)"/><ellipse cx="171.49058518901398" cy="62.491667321632434" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(325.74707015910894 171.49058518901398 62.491667321632434)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#5c78b1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Eggplant</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Solanum melongena</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Peanut illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8acff"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fcc0ff"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="321.03068321943283" cy="106.26516359858215" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="231.86067280825227" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="159.7066686861217" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="64" font-size="44">🥜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#C084FC" stroke-width="2.6"/><ellipse cx="173.05600288953613" cy="87.09309322650839" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(27.529950253196805 173.05600288953613 87.09309322650839)"/><ellipse cx="164.43092298739523" cy="95.96383986872456" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(56.28684006559625 164.43092298739523 95.96383986872456)"/><ellipse cx="149.63020749692987" cy="99.99757242464685" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(90.81493323525768 149.63020749692987 99.99757242464685)"/><ellipse cx="131.35567824323496" cy="92.7275512974607" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(135.81468744182905 131.35567824323496 92.7275512974607)"/><ellipse cx="124.22236222412684" cy="72.86787190687335" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(187.4987947870397 124.22236222412684 72.86787190687335)"/><ellipse cx="131.83824176460257" cy="58.826041896489386" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(225.69088267254125 131.83824176460257 58.826041896489386)"/><ellipse cx="162.33729517932207" cy="54.87401481408047" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(298.32753904348033 162.33729517932207 54.87401481408047)"/><ellipse cx="174.8770452472072" cy="69.0228194235245" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(343.0991817871327 174.8770452472072 69.0228194235245)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#7c78ac" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Peanut</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Arachis hypogaea</text>
+</g>
+</svg>

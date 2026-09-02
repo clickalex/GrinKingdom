@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="African fungus-farming termite illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ad7536"/><stop offset="1" stop-color="#854D0E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c1894a"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff5b6"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="243.62248122692108" cy="174.53223623335361" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="231.26733350101858" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="138.65964256227016" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="399.32941291481256" cy="124.07216963358223" r="4.046113848220557"/><circle cx="451.5410705562681" cy="59.453870207071304" r="3.5229113535024226"/><circle cx="496.1485690064728" cy="97.40043227560818" r="3.237137213582173"/></g>
+<text x="30" y="61" font-size="44">🐜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><ellipse cx="140" cy="172" rx="24" ry="18" fill="url(#bg1)" stroke="#854D0E" stroke-width="3"/><ellipse cx="172" cy="140" rx="17" ry="13" fill="url(#bg2)" stroke="#854D0E" stroke-width="3"/><circle cx="182" cy="112" r="14" fill="url(#bg1)" stroke="#854D0E" stroke-width="3"/><path d="M168 126 l-4 -8 M178 126 l6 -8" stroke="#854D0E" stroke-width="2.6" fill="none"/><circle cx="186" cy="108" r="2.6" fill="#1c1917"/><line x1="112" y1="190" x2="138" y2="220" stroke="#854D0E" stroke-width="3" stroke-linecap="round"/><line x1="126" y1="196" x2="152" y2="226" stroke="#854D0E" stroke-width="3" stroke-linecap="round"/><line x1="152" y1="198" x2="178" y2="228" stroke="#854D0E" stroke-width="3" stroke-linecap="round"/><line x1="166" y1="192" x2="192" y2="222" stroke="#854D0E" stroke-width="3" stroke-linecap="round"/><line x1="180" y1="184" x2="206" y2="214" stroke="#854D0E" stroke-width="3" stroke-linecap="round"/><line x1="194" y1="174" x2="220" y2="204" stroke="#854D0E" stroke-width="3" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">African fungus-farming termite</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Macrotermes natalensis</text>
+</g>
+</svg>

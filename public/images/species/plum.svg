@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Plum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4f9f"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff63b3"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcfff"/><stop offset="1" stop-color="#fff0ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="195.84660656750202" cy="166.60980759188533" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="226.04419501964003" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="126.528230747208" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="421.4856784231961" cy="60.22113414481282" r="3.226098638959229"/><circle cx="517.9412918165326" cy="87.36700271256268" r="2.6446874442044646"/><circle cx="209.74521516822278" cy="122.19483225606382" r="2.453879653243348"/></g>
+<text x="30" y="68" font-size="44">🍑</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#DB2777" stroke-width="2.6"/><ellipse cx="172.84831939481765" cy="87.4533836037887" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(28.504274143627654 172.84831939481765 87.4533836037887)"/><ellipse cx="160.0548632828491" cy="98.13267689276786" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(67.24909606154804 160.0548632828491 98.13267689276786)"/><ellipse cx="141.34350403576695" cy="98.63073408686483" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(109.44744978753438 141.34350403576695 98.63073408686483)"/><ellipse cx="127.90626187922376" cy="88.65210648842947" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(148.18548379142044 127.90626187922376 88.65210648842947)"/><ellipse cx="125.60628094112911" cy="67.69505324973855" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(200.24526044557413 125.60628094112911 67.69505324973855)"/><ellipse cx="139.21044060179995" cy="54.16410062569176" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(245.48175069631512 139.21044060179995 54.16410062569176)"/><ellipse cx="159.8972356550256" cy="53.806867019744814" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(292.37475085827566 159.8972356550256 53.806867019744814)"/><ellipse cx="174.27794000235434" cy="67.41083846221014" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(339.029837282033 174.27794000235434 67.41083846221014)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#8c405c" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Plum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Prunus domestica</text>
+</g>
+</svg>

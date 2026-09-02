@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Violet carpenter bee illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dc7b31"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#625e5a"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f08f45"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffbb1"/><stop offset="1" stop-color="#fffbcd"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><rect width="26" height="26" fill="none"/><rect width="26" height="9" fill="#f08f45" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="277.2180896252394" cy="161.51015446521342" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="240.66910221241415" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="159.99010739848018" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="388.4925303980708" cy="84.90306454710662" r="3.1482301228679717"/><circle cx="521.6744631994516" cy="83.7933311611414" r="2.1507098958827555"/><circle cx="135.70364226587117" cy="110.0123529881239" r="2.4817049230914563"/></g>
+<text x="30" y="63" font-size="44">🐝</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><ellipse cx="150" cy="150" rx="58" ry="36" fill="url(#bg1)" stroke="#B45309" stroke-width="3"/><path d="M106 138 q44 18 88 0" stroke="#44403C" stroke-width="9" fill="none" opacity="0.9"/><path d="M106 150 q44 18 88 0" stroke="#44403C" stroke-width="9" fill="none" opacity="0.9"/><path d="M106 162 q44 18 88 0" stroke="#44403C" stroke-width="9" fill="none" opacity="0.9"/><ellipse cx="96" cy="138" rx="18" ry="13" fill="url(#bg2)" stroke="#B45309" stroke-width="2.6"/><circle cx="92" cy="135" r="3" fill="#1c1917"/><path d="M150 114 q-16 -26 -40 -30 M150 186 q-16 26 -40 30" stroke="#B45309" stroke-width="2.6" fill="none"/><ellipse cx="130" cy="112" rx="16" ry="10" fill="#ffffff" opacity="0.5" transform="rotate(-30 130 112)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Violet carpenter bee</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Xylocopa violacea</text>
+</g>
+</svg>

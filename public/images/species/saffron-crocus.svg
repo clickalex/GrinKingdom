@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Saffron crocus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#776eff"/><stop offset="1" stop-color="#4F46E5"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8b82ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#f7eeff"/><stop offset="1" stop-color="#e8ffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="201.28636948764324" cy="126.62421044893563" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="244.3112965207547" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="130.32093971967697" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="62" font-size="44">🧡</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#4F46E5" stroke-width="2.6"/><ellipse cx="175.9977769540401" cy="76.31383725957713" rx="18" ry="34" fill="url(#bg1)" stroke="#4F46E5" stroke-width="2.6" transform="rotate(0.7492526220846375 175.9977769540401 76.31383725957713)"/><ellipse cx="128.91070269743565" cy="90.03688751068393" rx="18" ry="34" fill="url(#bg1)" stroke="#4F46E5" stroke-width="2.6" transform="rotate(144.20617125530887 128.91070269743565 90.03688751068393)"/><ellipse cx="138.66620524093273" cy="54.400293959409765" rx="18" ry="34" fill="url(#bg1)" stroke="#4F46E5" stroke-width="2.6" transform="rotate(244.156457298063 138.66620524093273 54.400293959409765)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#385da2" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Saffron crocus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Crocus sativus</text>
+</g>
+</svg>

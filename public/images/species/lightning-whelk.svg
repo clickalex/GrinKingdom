@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Lightning whelk illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a09994"/><stop offset="1" stop-color="#78716C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4ada8"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="185.66668316721916" cy="122.43529661558568" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="256.46497174166143" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="151.6498291026801" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="445.03902095369995" cy="104.56008465029299" r="2.663210380123928"/><circle cx="42.343652518466115" cy="157.6195700932294" r="2.204232101328671"/><circle cx="168.15108191221952" cy="112.64227633364499" r="2.3093298075255007"/></g>
+<text x="30" y="55" font-size="44">🐌</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><circle cx="164" cy="122" r="52" fill="url(#bg1)" stroke="#78716C" stroke-width="3"/><path d="M164 122 m-52 0 a52 52 0 1 1 0.01 0" fill="none" stroke="#FAFAF9" stroke-width="0"/><path d="M164 122 a52 52 0 1 1 -0.01 0 M164 122 a40 40 0 1 0 0.01 0 M164 122 a28 28 0 1 1 -0.01 0" fill="none" stroke="#FAFAF9" stroke-width="4" opacity="0.8"/><path d="M126 162 q-60 8 -68 40 q-4 18 12 20 q26 2 44 -8 q22 -12 30 -32 q6 -16 20 -18" fill="url(#bg2)" stroke="#78716C" stroke-width="3" stroke-linejoin="round"/><circle cx="70" cy="176" r="4" fill="#1c1917"/><path d="M50 178 l-8 -8 M50 182 l-6 -2" stroke="#78716C" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Lightning whelk</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Sinistrofulgur perversum</text>
+</g>
+</svg>

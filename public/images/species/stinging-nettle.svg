@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Stinging nettle illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c1ff53"/><stop offset="1" stop-color="#A3E635"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#A3E635"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#fffffe"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#5eff9a" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#5eff9a" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="182.5423614680767" cy="106.91412258893251" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="211.98624059557915" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="120.3665177244693" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="66" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M99 236 q-24 -46.03229973092675 -48 -92.0645994618535" stroke="#A3E635" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -56.482657013926655 -32 -112.96531402785331" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -60.12624449026771 -16 -120.25248898053542" stroke="#A3E635" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -71.12923212419264 0 -142.25846424838528" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -63.08943757158704 16 -126.17887514317408" stroke="#A3E635" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -50.48838308430277 32 -100.97676616860554" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -43.17498691496439 48 -86.34997382992879" stroke="#A3E635" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Stinging nettle</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Urtica dioica</text>
+</g>
+</svg>

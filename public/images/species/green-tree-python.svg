@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Green tree python illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="46" height="46" patternUnits="userSpaceOnUse"><rect width="46" height="46" fill="none"/><circle cx="12" cy="12" r="6.5" fill="#807c78" opacity="0.55"/><circle cx="36" cy="34" r="5" fill="#807c78" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="324.9715545028448" cy="92.04265692271292" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="216.0838232561946" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="129.93989430367947" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="392.5732016004622" cy="140.04413437098265" r="1.693950851680711"/><circle cx="207.6094536948949" cy="76.9965707976371" r="4.164988941047341"/><circle cx="152.30469348840415" cy="72.24657323211432" r="3.094735420541838"/></g>
+<text x="30" y="55" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M40,187.9205339300088 L70,194.97478358618454 L100,169.6244348509085 L130,127.14480954780124 L160,104.48791755318581 L190,130.70996828710804 L220,179.02546575831553 L250,191.5581144638717 L280,164.56781765920084" stroke="#44403C" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,187.9205339300088 L70,194.97478358618454 L100,169.6244348509085 L130,127.14480954780124 L160,104.48791755318581 L190,130.70996828710804 L220,179.02546575831553 L250,191.5581144638717 L280,164.56781765920084" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,187.9205339300088 L70,194.97478358618454 L100,169.6244348509085 L130,127.14480954780124 L160,104.48791755318581 L190,130.70996828710804 L220,179.02546575831553 L250,191.5581144638717 L280,164.56781765920084" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="179.9205339300088" r="13" fill="url(#bg1)" stroke="#44403C" stroke-width="3"/><circle cx="24" cy="177.9205339300088" r="2.8" fill="#1c1917"/><path d="M36 171.9205339300088 l-7 -7 M34 173.9205339300088 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Green tree python</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Morelia viridis</text>
+</g>
+</svg>

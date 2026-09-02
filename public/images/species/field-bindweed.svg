@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Field bindweed illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4d8bff"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#619fff"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#cdffff"/><stop offset="1" stop-color="#cfffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="206.31406418979168" cy="138.77611150033772" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="262.7293811319396" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="133.68983414955437" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="62" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#2563EB" stroke-width="2.6"/><ellipse cx="174.93531614062104" cy="82.79763328605259" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(16.453358177869585 174.93531614062104 82.79763328605259)"/><ellipse cx="164.04358465983583" cy="96.19783706064467" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(57.30697514869818 164.04358465983583 96.19783706064467)"/><ellipse cx="148.1775108981357" cy="99.9409664524162" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(94.0194859184173 148.1775108981357 99.9409664524162)"/><ellipse cx="128.3763840837692" cy="89.3262142774893" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(146.2714490347144 128.3763840837692 89.3262142774893)"/><ellipse cx="124.01901881621123" cy="75.08219193206595" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(182.19163977805306 124.01901881621123 75.08219193206595)"/><ellipse cx="133.14388321455385" cy="57.72700911960778" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(229.58553166936338 133.14388321455385 57.72700911960778)"/><ellipse cx="155.20028471884845" cy="52.48495211818822" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(281.5375994019365 155.20028471884845 52.48495211818822)"/><ellipse cx="174.45783542385743" cy="67.85731633488628" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(340.16707835302304 174.45783542385743 67.85731633488628)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#1f64a2" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Field bindweed</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Convolvulus arvensis</text>
+</g>
+</svg>

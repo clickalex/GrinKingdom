@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Wallflower illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffff6f"/><stop offset="1" stop-color="#FDE047"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff83"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffef"/><stop offset="1" stop-color="#fffff3"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="427.0442822575569" cy="118.81754446774721" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="234.99852559994906" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="145.42483222670853" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="69" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FDE047" stroke-width="2.6"/><ellipse cx="175.99701505848495" cy="76.3636595638207" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(0.8682064829681722 175.99701505848495 76.3636595638207)"/><ellipse cx="158.71226440730885" cy="98.61249178792778" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(70.4221659148733 158.71226440730885 98.61249178792778)"/><ellipse cx="146.48667293637493" cy="99.77987572736848" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(97.76601948832337 146.48667293637493 99.77987572736848)"/><ellipse cx="126.14491747436307" cy="85.54548297031701" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(156.56375004440167 126.14491747436307 85.54548297031701)"/><ellipse cx="124.81315216585662" cy="70.0447088565858" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(194.36730453328764 124.81315216585662 70.0447088565858)"/><ellipse cx="141.17694221877332" cy="53.424141579285134" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(250.1628213909321 141.17694221877332 53.424141579285134)"/><ellipse cx="162.19943583598052" cy="54.80590930286229" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(297.9829678392924 162.19943583598052 54.80590930286229)"/><ellipse cx="172.7751889456579" cy="64.42317386636556" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(331.1598416172012 172.7751889456579 64.42317386636556)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#a0ba43" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Wallflower</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Erysimum cheiri</text>
+</g>
+</svg>

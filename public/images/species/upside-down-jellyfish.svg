@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Upside-down jellyfish illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d07dff"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e491ff"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="44" height="44" patternUnits="userSpaceOnUse"><rect width="44" height="44" fill="none"/><circle cx="12" cy="12" r="5" fill="#e491ff" opacity="0.85"/><circle cx="36" cy="34" r="4" fill="#e491ff" opacity="0.7"/><circle cx="12" cy="12" r="10" fill="#e491ff" opacity="0.25"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="356.0218992829323" cy="189.25246501341462" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="217.92977910954505" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="143.85158533230424" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="41.99625754728913" cy="55.82974638789892" r="4.327758667292073"/><circle cx="410.3433460649103" cy="158.43172121793032" r="1.6133458376862109"/><circle cx="500.8350681886077" cy="70.59842907823622" r="3.0954958610236645"/></g>
+<text x="30" y="61" font-size="44">🪼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M92 110 q58 -54 116 0 Z" fill="url(#bg1)" stroke="#A855F7" stroke-width="3"/><path d="M92 110 q58 -54 116 0 Z" fill="url(#tx)"/><path d="M104 108 q-15 44 -50 92" stroke="#A855F7" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M122.4 108 q-9 44 -30 92" stroke="#FDE68A" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M140.8 108 q-3 44 -10 92" stroke="#A855F7" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M159.2 108 q3 44 10 92" stroke="#FDE68A" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M177.6 108 q9 44 30 92" stroke="#A855F7" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M196 108 q15 44 50 92" stroke="#FDE68A" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><circle cx="128" cy="82" r="7" fill="#fff" opacity="0.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Upside-down jellyfish</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cassiopea xamachana</text>
+</g>
+</svg>

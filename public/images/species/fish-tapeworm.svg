@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Fish tapeworm illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f1ef"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="390.22164188325405" cy="128.68347270414233" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="213.8645186740905" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="143.6193573847413" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="498.5629897657782" cy="79.82676622457802" r="1.5414368966594338"/><circle cx="49.46441639214754" cy="149.86825373023748" r="1.5095882650930434"/><circle cx="517.9220296349376" cy="56.46631374023855" r="2.2623993933666497"/></g>
+<text x="30" y="62" font-size="44">🪱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M40,160.47114477732924 L70,179.95366333761982 L100,156.9986747872065 L130,125.6358601837296 L160,123.52633406584742 L190,131.01948590552044 L220,162.5018471610338 L250,178.1764445645041 L280,141.71431453237147" stroke="#FAFAF9" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,160.47114477732924 L70,179.95366333761982 L100,156.9986747872065 L130,125.6358601837296 L160,123.52633406584742 L190,131.01948590552044 L220,162.5018471610338 L250,178.1764445645041 L280,141.71431453237147" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,160.47114477732924 L70,179.95366333761982 L100,156.9986747872065 L130,125.6358601837296 L160,123.52633406584742 L190,131.01948590552044 L220,162.5018471610338 L250,178.1764445645041 L280,141.71431453237147" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="152.47114477732924" r="13" fill="url(#bg1)" stroke="#FAFAF9" stroke-width="3"/><circle cx="24" cy="150.47114477732924" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Fish tapeworm</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Diphyllobothrium latum</text>
+</g>
+</svg>

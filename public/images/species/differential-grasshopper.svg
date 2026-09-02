@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Differential grasshopper illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#72ffa8"/><stop offset="1" stop-color="#4ADE80"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#86ffbc"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#f2ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="457.43076145648956" cy="108.71341656893492" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="258.8984725344926" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="129.5027801860124" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="56" font-size="44">🦗</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><ellipse cx="150" cy="150" rx="52" ry="28" fill="url(#bg1)" stroke="#4ADE80" stroke-width="3" transform="rotate(-14 150 150)"/><ellipse cx="150" cy="150" rx="52" ry="28" fill="url(#tx)" transform="rotate(-14 150 150)"/><path d="M106 132 q-36 -44 -16 -66 q26 -6 38 16 q-10 34 -22 50 Z" fill="url(#bg2)" stroke="#4ADE80" stroke-width="3"/><circle cx="96" cy="118" r="9" fill="url(#bg1)" stroke="#4ADE80" stroke-width="2.6"/><circle cx="92" cy="115" r="2.4" fill="#1c1917"/><path d="M124 176 q-20 34 -34 68 M138 178 q-6 36 -12 74" stroke="#4ADE80" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Differential grasshopper</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Melanoplus differentialis</text>
+</g>
+</svg>

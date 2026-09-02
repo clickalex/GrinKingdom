@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Giant hogweed illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="342.90043130517006" cy="113.76078656874597" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="240.0476630218327" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="123.80818037316203" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="464.6885981131345" cy="146.94415628910065" r="3.5927522876299918"/><circle cx="388.9618824608624" cy="129.854538384825" r="3.192410612013191"/><circle cx="481.13652154803276" cy="48.36723763495684" r="3.4418343405704945"/></g>
+<text x="30" y="69" font-size="44">⚠️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F5F5F4" stroke-width="2.6"/><ellipse cx="175.95422380407607" cy="77.42353507972494" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(3.4004355316240735 175.95422380407607 77.42353507972494)"/><ellipse cx="163.16542064844612" cy="96.69569956151219" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(59.578171135924215 163.16542064844612 96.69569956151219)"/><ellipse cx="147.01676540992898" cy="99.84149394156586" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(96.5886168783332 147.01676540992898 99.84149394156586)"/><ellipse cx="128.82628162092362" cy="89.92817705155157" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(144.52549003230945 128.82628162092362 89.92817705155157)"/><ellipse cx="126.79136916378894" cy="65.18149692676101" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(206.79315879765466 126.79136916378894 65.18149692676101)"/><ellipse cx="139.20649492804137" cy="54.16576222197888" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(245.4721935741293 139.20649492804137 54.16576222197888)"/><ellipse cx="159.95360791286225" cy="53.82835927121752" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(292.5091564947019 159.95360791286225 53.82835927121752)"/><ellipse cx="174.81959565590287" cy="68.85061152416161" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(342.6690131648324 174.81959565590287 68.85061152416161)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9cd4b0" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Giant hogweed</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Heracleum mantegazzianum</text>
+</g>
+</svg>

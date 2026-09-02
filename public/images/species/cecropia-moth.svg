@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cecropia moth illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a09994"/><stop offset="1" stop-color="#78716C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4ada8"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#b4ada8" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#b4ada8" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="269.1117910295725" cy="150.4455557372421" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="213.29032082576305" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="154.15603881701827" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="530.1154338289052" cy="73.1353783980012" r="3.206204299349338"/><circle cx="225.04797026515007" cy="61.57291032373905" r="1.539948903489858"/><circle cx="249.81077396310866" cy="152.14994392357767" r="2.60361820156686"/></g>
+<text x="30" y="65" font-size="44">🌙</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 150 q-8 34 -58 40 q-40 6 -44 -22 q-4 -30 26 -30 q22 0 26 6 q4 -6 26 -6 q30 0 26 30 q-4 28 -44 22 q-50 -6 -58 -40 Z" fill="url(#bg1)" stroke="#78716C" stroke-width="3"/><path d="M150 150 q-8 34 -58 40 q-40 6 -44 -22 q-4 -30 26 -30 q22 0 26 6 q4 -6 26 -6 q30 0 26 30 q-4 28 -44 22 q-50 -6 -58 -40 Z" fill="url(#tx)" opacity="0.9"/><ellipse cx="150" cy="150" rx="6" ry="26" fill="#FEF3C7" stroke="#aea590" stroke-width="2.6"/><path d="M150 124 q-8 -14 -16 -18 M150 176 q-8 14 -16 18" stroke="#78716C" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cecropia moth</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Hyalophora cecropia</text>
+</g>
+</svg>

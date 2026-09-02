@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Spinach illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e14444"/><stop offset="1" stop-color="#B91C1C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f55858"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffc4c4"/><stop offset="1" stop-color="#ffe9d6"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="333.23341585695744" cy="199.36508936807513" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="213.75433581881225" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="159.40360499545932" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="67" font-size="44">🥬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#B91C1C" stroke-width="2.6"/><ellipse cx="175.7202343982976" cy="79.5112786318182" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(8.412756320391617 175.7202343982976 79.5112786318182)"/><ellipse cx="166.06787853655072" cy="94.86836245990318" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(51.83010994248642 166.06787853655072 94.86836245990318)"/><ellipse cx="139.69441391771105" cy="98.03419410315706" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(113.35136346905817 139.69441391771105 98.03419410315706)"/><ellipse cx="125.1033362373556" cy="82.91729811061353" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(163.24853485900064 125.1033362373556 82.91729811061353)"/><ellipse cx="126.09916867219357" cy="66.55253150437225" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(203.18146306707297 126.09916867219357 66.55253150437225)"/><ellipse cx="135.3669545288547" cy="56.161919776612876" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(235.74968714208734 135.3669545288547 56.161919776612876)"/><ellipse cx="161.93818684312194" cy="54.67952673441034" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(297.332983699171 161.93818684312194 54.67952673441034)"/><ellipse cx="172.59640516355475" cy="64.12840987341971" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(330.35335353065614 172.59640516355475 64.12840987341971)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#783926" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Spinach</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Spinacia oleracea</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Bodo saltans illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFE4E6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bd3057"/><stop offset="1" stop-color="#9F1239"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#9F1239"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="307.27679044008255" cy="128.5954839270562" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="266.36116560548544" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="139.4219032395631" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="505.81565473228693" cy="124.51434916816652" r="3.9922557142563164"/><circle cx="53.140615560114384" cy="118.05177645757794" r="4.226319884648547"/><circle cx="293.83649174124" cy="124.77201409637928" r="3.922332770191133"/></g>
+<text x="30" y="69" font-size="44">🦠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M84 150 q66 -52 132 0 q-66 52 -132 0 Z" fill="url(#bg1)" stroke="#FFE4E6" stroke-width="3"/><path d="M84 150 q66 -52 132 0 q-66 52 -132 0 Z" fill="url(#tx)"/><path d="M84 150 q-46 -22 -70 -4" stroke="#FFE4E6" stroke-width="3" fill="none" stroke-linecap="round"/><circle cx="120" cy="136" r="6" fill="#ff5c5c"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Bodo saltans</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Bodo saltans</text>
+</g>
+</svg>

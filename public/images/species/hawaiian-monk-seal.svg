@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Hawaiian monk seal illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5b697d"/><stop offset="1" stop-color="#334155"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F8FAFC"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6f7d91"/><stop offset="1" stop-color="#F8FAFC"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#dbe9fd"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#6f7d91" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="216.37121982872486" cy="162.04012636095285" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="229.69141277018934" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="123.3169823884964" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="187.8243344463408" cy="153.8794731721282" r="1.5463701321277767"/><circle cx="315.9346620924771" cy="94.00710376910865" r="4.484388481127098"/><circle cx="158.86113489978015" cy="117.85014343447983" r="3.7433915867004544"/></g>
+<text x="30" y="61" font-size="44">🦭</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M92 178 q0 -44 34 -52 q50 -10 92 6 q26 10 26 40 q0 40 -40 44 q-64 6 -96 4 q-16 -1 -16 -16 Z" fill="url(#bg1)" stroke="#334155" stroke-width="3" stroke-linejoin="round"/><path d="M92 178 q0 -44 34 -52 q50 -10 92 6 q26 10 26 40 q0 40 -40 44 q-64 6 -96 4 q-16 -1 -16 -16 Z" fill="url(#tx)"/><circle cx="112" cy="150" r="4" fill="#334155"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Hawaiian monk seal</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Neomonachus schauinslandi</text>
+</g>
+</svg>

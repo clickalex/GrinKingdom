@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Spanish moss illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="166.10839530825615" cy="168.09239108115435" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="264.6500693075359" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="158.4364468511194" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="346.6535494942218" cy="127.16262748464942" r="2.252524219220504"/><circle cx="237.61389028280973" cy="97.74340296164155" r="4.290032295975834"/><circle cx="50.03197946585715" cy="145.8169632870704" r="3.6850722532253712"/></g>
+<text x="30" y="70" font-size="44">🌫️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EC4899" stroke-width="2.6"/><ellipse cx="175.58673296644753" cy="80.26208677320514" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(10.229237839729981 175.58673296644753 80.26208677320514)"/><ellipse cx="162.14693933536313" cy="97.21976701107852" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(62.14795424550371 162.14693933536313 97.21976701107852)"/><ellipse cx="147.25552320315123" cy="99.86591860607138" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(96.05924712213618 147.25552320315123 99.86591860607138)"/><ellipse cx="129.17705630247337" cy="90.37171825587322" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(143.21445293025855 129.17705630247337 90.37171825587322)"/><ellipse cx="126.584392741247" cy="65.56844100863879" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(205.76291622186008 126.584392741247 65.56844100863879)"/><ellipse cx="139.240938758218" cy="54.15128203398727" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(245.55559814800245 139.240938758218 54.15128203398727)"/><ellipse cx="152.67613704433535" cy="52.12746944709808" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(275.90782289545405 152.67613704433535 52.12746944709808)"/><ellipse cx="172.69193331289785" cy="64.2846968528234" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(330.78175319399236 172.69193331289785 64.2846968528234)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#965e74" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Spanish moss</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Tillandsia usneoides</text>
+</g>
+</svg>

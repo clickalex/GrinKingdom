@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="European adder illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ad7536"/><stop offset="1" stop-color="#854D0E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c1894a"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff5b6"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#c1894a" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#c1894a" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="263.27141135931015" cy="139.66857134364545" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="216.99686927720904" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="135.99040827713907" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="541.0750140342861" cy="58.183749271556735" r="2.29840517998673"/><circle cx="294.930826574564" cy="89.69057012349367" r="2.8497008308768272"/><circle cx="263.2256827130914" cy="129.33157781139016" r="2.5777820523362607"/></g>
+<text x="30" y="68" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M40,151.94121958704554 L70,191.5667339700525 L100,169.06079467043108 L130,107.93740377237036 L160,107.48030117764705 L190,147.2014556200696 L220,165.26567130951986 L250,188.98013331290738 L280,138.4712588305269" stroke="#854D0E" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,151.94121958704554 L70,191.5667339700525 L100,169.06079467043108 L130,107.93740377237036 L160,107.48030117764705 L190,147.2014556200696 L220,165.26567130951986 L250,188.98013331290738 L280,138.4712588305269" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,151.94121958704554 L70,191.5667339700525 L100,169.06079467043108 L130,107.93740377237036 L160,107.48030117764705 L190,147.2014556200696 L220,165.26567130951986 L250,188.98013331290738 L280,138.4712588305269" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="143.94121958704554" r="13" fill="url(#bg1)" stroke="#854D0E" stroke-width="3"/><circle cx="24" cy="141.94121958704554" r="2.8" fill="#1c1917"/><path d="M36 135.94121958704554 l-7 -7 M34 137.94121958704554 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">European adder</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Vipera berus</text>
+</g>
+</svg>

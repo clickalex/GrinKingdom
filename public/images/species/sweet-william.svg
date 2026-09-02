@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sweet William illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="350.4123266786337" cy="154.46278008632362" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="242.07228607032448" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="123.26052515767515" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="124.757942231372" cy="149.89144363440573" r="1.9745473070070148"/><circle cx="261.0813212580979" cy="133.3528099115938" r="3.3803689386695623"/><circle cx="109.7691052313894" cy="111.48298698477447" r="3.5703734583221376"/></g>
+<text x="30" y="63" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EC4899" stroke-width="2.6"/><ellipse cx="174.70372278184" cy="83.4835344398471" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(18.16858068867927 174.70372278184 83.4835344398471)"/><ellipse cx="160.23618137993037" cy="98.06174298116659" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(66.81512361084944 160.23618137993037 98.06174298116659)"/><ellipse cx="140.05690122050234" cy="98.17565823645722" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(112.48409019403589 140.05690122050234 98.17565823645722)"/><ellipse cx="129.47957038911775" cy="90.73781182850416" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(142.11522537047568 129.47957038911775 90.73781182850416)"/><ellipse cx="124.29318776822542" cy="72.40594515987135" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(188.61257139013654 124.29318776822542 72.40594515987135)"/><ellipse cx="137.0199628771983" cy="55.2047622051126" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(240.05078444803723 137.0199628771983 55.2047622051126)"/><ellipse cx="158.19299481403317" cy="53.22271759035419" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(288.36776755444333 158.19299481403317 53.22271759035419)"/><ellipse cx="174.6531498549649" cy="68.37568622898795" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(341.47733668677654 174.6531498549649 68.37568622898795)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#965471" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sweet William</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Dianthus barbatus</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Honduran white bat illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#514d4c"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f1ef"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#656160"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#d1cdcc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#656160" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="262.6855565607548" cy="169.36666837893426" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="237.7524299081415" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="126.89261405728757" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="226.47609412670135" cy="74.83071414753795" r="1.6176982002798468"/><circle cx="306.8799417465925" cy="138.0995257664472" r="3.657514467369765"/><circle cx="533.7550099473447" cy="70.3232757281512" r="1.5232646057847887"/></g>
+<text x="30" y="67" font-size="44">🍃</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M150 150 q-8 -52 -52 -88 q44 8 52 30 q12 -24 56 -30 q-44 34 -56 88 Z" fill="url(#bg1)" stroke="#292524" stroke-width="3"/><path d="M150 150 q-8 -52 -52 -88 q44 8 52 30 q12 -24 56 -30 q-44 34 -56 88 Z" fill="url(#tx)"/><circle cx="150" cy="150" r="22" fill="url(#bg2)" stroke="#292524" stroke-width="3"/><path d="M140 138 l-8 -8 M160 138 l8 -8" stroke="#292524" stroke-width="4" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Honduran white bat</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ectophylla alba</text>
+</g>
+</svg>

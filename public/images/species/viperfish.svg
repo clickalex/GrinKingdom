@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Viperfish illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#514d4c"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff66b7"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#656160"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#d1cdcc"/><stop offset="1" stop-color="#ffe3ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="44" height="44" patternUnits="userSpaceOnUse"><rect width="44" height="44" fill="none"/><circle cx="12" cy="12" r="5" fill="#656160" opacity="0.85"/><circle cx="36" cy="34" r="4" fill="#656160" opacity="0.7"/><circle cx="12" cy="12" r="10" fill="#656160" opacity="0.25"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="220.22371716797352" cy="99.33255901560187" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="257.8794198296964" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="126.08793931081891" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="483.11688089743257" cy="73.78217298537493" r="3.472010356374085"/><circle cx="293.32531368359923" cy="141.5752014145255" r="2.4593441169708967"/><circle cx="94.20568165369332" cy="154.42425351589918" r="1.6444674963131547"/></g>
+<text x="30" y="59" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M60 130 q70 -80 160 -10 q40 30 44 44 q-10 20 -40 6 q-60 -30 -118 20 q-30 26 -46 16 q-10 -6 0 -20 q18 -30 0 -56 Z" fill="url(#bg1)" stroke="#292524" stroke-width="3" stroke-linejoin="round"/><path d="M60 130 q70 -80 160 -10 q40 30 44 44 q-10 20 -40 6 q-60 -30 -118 20 q-30 26 -46 16 q-10 -6 0 -20 q18 -30 0 -56 Z" fill="url(#tx)"/><circle cx="84" cy="108" r="3.6" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Viperfish</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Chauliodus sloani</text>
+</g>
+</svg>

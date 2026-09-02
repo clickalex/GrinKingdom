@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Strawberry illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4f9f"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff63b3"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcfff"/><stop offset="1" stop-color="#fff0ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="165.7794965058565" cy="153.86948369443417" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="269.26995819434524" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="121.3843768183142" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">🍓</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#DB2777" stroke-width="2.6"/><ellipse cx="174.83189724866878" cy="83.11289793576708" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(17.239751594412393 174.83189724866878 83.11289793576708)"/><ellipse cx="158.22425739234438" cy="98.76768043183527" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(71.5596260455047 158.22425739234438 98.76768043183527)"/><ellipse cx="142.42253332407196" cy="98.95813115082828" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(106.94424785557204 142.42253332407196 98.95813115082828)"/><ellipse cx="129.36530279057217" cy="90.60123506059922" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(142.52719552069152 129.36530279057217 90.60123506059922)"/><ellipse cx="124.03333582632939" cy="74.78505693604832" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(182.90170315590822 124.03333582632939 74.78505693604832)"/><ellipse cx="132.49066398522726" cy="58.25810728789318" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(227.6671858760121 132.49066398522726 58.25810728789318)"/><ellipse cx="155.88188016008868" cy="52.622204694853195" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(283.07499125425807 155.88188016008868 52.622204694853195)"/><ellipse cx="174.5248997194961" cy="68.03104459199851" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(340.6073695758074 174.5248997194961 68.03104459199851)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#8c405c" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Strawberry</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Fragaria × ananassa</text>
+</g>
+</svg>

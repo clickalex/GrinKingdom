@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Thornback ray illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a09994"/><stop offset="1" stop-color="#78716C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f1ef"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4ada8"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#b4ada8" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#b4ada8" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="440.22450521588326" cy="183.624012703076" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="240.35345164127648" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="158.45050977542996" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="530.1696850731969" cy="106.32278650999069" r="2.8104815231636167"/><circle cx="55.76268824748695" cy="75.96758162602782" r="2.5248216670006514"/><circle cx="64.38725574873388" cy="59.171940982341766" r="1.7950774552300572"/></g>
+<text x="30" y="64" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M60 170 q60 -70 90 -70 q30 0 90 70 q-8 10 -18 8 q-40 -8 -72 -8 q-32 0 -72 8 q-10 2 -18 -8 Z" fill="url(#bg1)" stroke="#78716C" stroke-width="3" stroke-linejoin="round"/><path d="M60 170 q60 -70 90 -70 q30 0 90 70 q-8 10 -18 8 q-40 -8 -72 -8 q-32 0 -72 8 q-10 2 -18 -8 Z" fill="url(#tx)"/><path d="M150 178 q-2 34 8 62 q6 16 12 10 q4 -4 0 -14 q-6 -24 -10 -58" fill="none" stroke="#78716C" stroke-width="5" stroke-linecap="round"/><circle cx="140" cy="128" r="3" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Thornback ray</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Raja clavata</text>
+</g>
+</svg>

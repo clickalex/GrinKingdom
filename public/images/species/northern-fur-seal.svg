@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Northern fur seal illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#99673a"/><stop offset="1" stop-color="#713F12"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ad7b4e"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ba"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#ad7b4e" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="145.5214088410139" cy="172.5215025153011" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="247.5883771525696" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="152.83519012853503" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="416.25149932689965" cy="63.41510092839599" r="4.335317520657554"/><circle cx="322.50803977251053" cy="97.99259853549302" r="1.6766984635032713"/><circle cx="270.99431158974767" cy="77.59300660341978" r="3.0376193665433675"/></g>
+<text x="30" y="56" font-size="44">🦭</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M92 178 q0 -44 34 -52 q50 -10 92 6 q26 10 26 40 q0 40 -40 44 q-64 6 -96 4 q-16 -1 -16 -16 Z" fill="url(#bg1)" stroke="#713F12" stroke-width="3" stroke-linejoin="round"/><path d="M92 178 q0 -44 34 -52 q50 -10 92 6 q26 10 26 40 q0 40 -40 44 q-64 6 -96 4 q-16 -1 -16 -16 Z" fill="url(#tx)"/><circle cx="112" cy="150" r="4" fill="#713F12"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Northern fur seal</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Callorhinus ursinus</text>
+</g>
+</svg>

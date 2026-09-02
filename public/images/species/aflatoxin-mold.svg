@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Aflatoxin mold illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="370.7906795293093" cy="194.71121362410486" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="259.29363942705095" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="155.26563932187855" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="469.47988202795386" cy="66.90230775624514" r="2.339366636937484"/><circle cx="322.3917094990611" cy="71.36310828849673" r="4.051168881822377"/><circle cx="199.61240651085973" cy="127.11801757104695" r="1.6344189473893493"/></g>
+<text x="30" y="67" font-size="44">⚠️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><line x1="106" y1="206" x2="100.3268489446491" y2="96" stroke="#BBF7D0" stroke-width="4"/><circle cx="101.60356513038278" cy="92.98245671391487" r="9" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><line x1="128" y1="206" x2="131.29513148777187" y2="96" stroke="#BBF7D0" stroke-width="4"/><circle cx="133.27501056529582" cy="88.00018914975226" r="9" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><line x1="150" y1="206" x2="145.3993733273819" y2="96" stroke="#BBF7D0" stroke-width="4"/><circle cx="151.98352226614952" cy="94.71865481697023" r="9" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><line x1="172" y1="206" x2="174.54131007753313" y2="96" stroke="#BBF7D0" stroke-width="4"/><circle cx="166.60814167559147" cy="89.00403039716184" r="9" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><line x1="194" y1="206" x2="192.20884565543383" y2="96" stroke="#BBF7D0" stroke-width="4"/><circle cx="191.29233680758625" cy="89.80089927278459" r="9" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Aflatoxin mold</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Aspergillus flavus</text>
+</g>
+</svg>

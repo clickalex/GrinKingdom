@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Glomus intraradices illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffef"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b05e2c"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ffffff" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ffffff" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="371.02451503276825" cy="147.83108708448708" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="246.56477293465286" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="155.4207795392722" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="66" font-size="44">🕸️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M188.59533038083464,150 Q206.98924791707978,178.21281005232595 212.29601385141433,185.9666203665547 Q177.2385696737314,193.05871224080926 173.86199468793347,191.33018716943943 Q168.30931404442526,183.2238541941975 150,193.29770726710558 Q135.4063982409425,190.88936030041884 115.45112357381733,209.84040931456707 Q116.64888760639175,193.2969747643591 110.10159314714011,173.03535593673587 Q116.42505403194396,146.04986947588623 95.47082669660449,150 Q93.31281411262626,146.7531367908232 86.67524864871847,113.43943776097149 Q104.15259306329696,92.33656791231326 121.43805686431003,100.5292633260919 Q135.4205264786724,79.48814421805284 150,88.97082226444036 Q152.83797644870356,93.08324392802706 178.97858364973217,99.80762078727912 Q203.39105141528506,97.25261083139729 196.71090707821017,123.03144522430372 Z" fill="url(#bg1)" stroke="#FEF3C7" stroke-width="3"/><path d="M188.59533038083464,150 Q206.98924791707978,178.21281005232595 212.29601385141433,185.9666203665547 Q177.2385696737314,193.05871224080926 173.86199468793347,191.33018716943943 Q168.30931404442526,183.2238541941975 150,193.29770726710558 Q135.4063982409425,190.88936030041884 115.45112357381733,209.84040931456707 Q116.64888760639175,193.2969747643591 110.10159314714011,173.03535593673587 Q116.42505403194396,146.04986947588623 95.47082669660449,150 Q93.31281411262626,146.7531367908232 86.67524864871847,113.43943776097149 Q104.15259306329696,92.33656791231326 121.43805686431003,100.5292633260919 Q135.4205264786724,79.48814421805284 150,88.97082226444036 Q152.83797644870356,93.08324392802706 178.97858364973217,99.80762078727912 Q203.39105141528506,97.25261083139729 196.71090707821017,123.03144522430372 Z" fill="url(#tx)"/><circle cx="151.5908437781036" cy="152.7719736425206" r="13" fill="#92400E" opacity="0.8"/><circle cx="122.04530272632837" cy="115.94150239229202" r="5" fill="#ffffff" opacity="0.5"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Glomus intraradices</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Rhizophagus irregularis</text>
+</g>
+</svg>

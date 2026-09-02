@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Horsehair worm illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d27127"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="432.9519920051098" cy="116.20045149698853" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="266.58204175997525" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="157.68326769582927" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="64" font-size="44">🪱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M40,171.18916121814888 L70,179.59087493664927 L100,156.4161939255734 L130,129.32256476903743 L160,120.1516473460176 L190,146.74132343859404 L220,166.7548539663118 L250,174.27775539673422 L280,163.93161988034927" stroke="#FFFBEB" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,171.18916121814888 L70,179.59087493664927 L100,156.4161939255734 L130,129.32256476903743 L160,120.1516473460176 L190,146.74132343859404 L220,166.7548539663118 L250,174.27775539673422 L280,163.93161988034927" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,171.18916121814888 L70,179.59087493664927 L100,156.4161939255734 L130,129.32256476903743 L160,120.1516473460176 L190,146.74132343859404 L220,166.7548539663118 L250,174.27775539673422 L280,163.93161988034927" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="163.18916121814888" r="13" fill="url(#bg1)" stroke="#FFFBEB" stroke-width="3"/><circle cx="24" cy="161.18916121814888" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Horsehair worm</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Paragordius varius</text>
+</g>
+</svg>

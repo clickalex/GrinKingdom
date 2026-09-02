@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Celery illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="194.85090382397175" cy="98.76129996031523" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="233.31897002644837" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="127.35425852239132" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="69" font-size="44">🥬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#E7E5E4" stroke-width="2.6"/><ellipse cx="175.67327384185182" cy="79.79282526874138" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(9.092823341691403 175.67327384185182 79.79282526874138)"/><ellipse cx="162.15789127932152" cy="97.21442206052436" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(62.12065404609224 162.15789127932152 97.21442206052436)"/><ellipse cx="147.80509027682893" cy="99.91432705040077" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(94.84265071223372 147.80509027682893 99.91432705040077)"/><ellipse cx="130.89311096584802" cy="92.27672276430306" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(137.29710658998695 130.89311096584802 92.27672276430306)"/><ellipse cx="124.10316478515223" cy="73.86413366783098" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(185.1057600644599 124.10316478515223 73.86413366783098)"/><ellipse cx="135.71472530537238" cy="55.94710346093923" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(236.67183287624104 135.71472530537238 55.94710346093923)"/><ellipse cx="155.70153293454356" cy="52.58416517208954" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(282.6673187537835 155.70153293454356 52.58416517208954)"/><ellipse cx="170.1510918911833" cy="60.83416652073695" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(320.80884021421895 170.1510918911833 60.83416652073695)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#93bda1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Celery</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Apium graveolens</text>
+</g>
+</svg>

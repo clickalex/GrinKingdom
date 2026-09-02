@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Petunia illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a462ff"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b876ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe2ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="296.74139454960823" cy="143.23016189038754" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="262.29855253826827" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="140.9202760271728" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="493.1538536120206" cy="119.58152315579355" r="4.270684012910351"/><circle cx="66.32352675311267" cy="77.89405134506524" r="4.163992415880784"/><circle cx="203.8222431857139" cy="123.95655932836235" r="2.5964834773913026"/></g>
+<text x="30" y="61" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#7C3AED" stroke-width="2.6"/><ellipse cx="175.89290928754812" cy="78.1760446749948" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(5.202068179686191 175.89290928754812 78.1760446749948)"/><ellipse cx="163.5729171021594" cy="96.47017352100929" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(58.531127121864635 163.5729171021594 96.47017352100929)"/><ellipse cx="143.3261949663256" cy="99.19588402042474" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(104.8734409607958 143.3261949663256 99.19588402042474)"/><ellipse cx="129.45024188154864" cy="90.70295054382878" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(142.22059884760776 129.45024188154864 90.70295054382878)"/><ellipse cx="124.15706428360885" cy="73.36596582219889" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(186.3009864599657 124.15706428360885 73.36596582219889)"/><ellipse cx="142.53138893968594" cy="53.01149525344987" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(253.30635553860478 142.53138893968594 53.01149525344987)"/><ellipse cx="153.59100945995993" cy="52.23001373463281" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(277.93882736977014 153.59100945995993 52.23001373463281)"/><ellipse cx="171.1363050492692" cy="62.0234872257738" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(324.3836693851057 171.1363050492692 62.0234872257738)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#5356a7" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Petunia</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Petunia × atkinsiana</text>
+</g>
+</svg>

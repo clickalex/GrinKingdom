@@ -1,7 +1,6 @@
 // GrinKingdom seed rows — fungi.
 
 export const FUNGI_ROWS = [
-  ['mushroom-amanita', 'Fly agaric', 'Amanita muscaria', '🍄', 'The fairytale toadstool — pretty, poisonous and legendary.'],
   ['mushroom-amanita', 'Death cap', 'Amanita phalloides', '☠️', 'The world\'s deadliest mushroom, disguised as an innocent white cap.'],
   ['mushroom-amanita', 'Caesar\'s mushroom', 'Amanita caesarea', '🍄', 'The emperor\'s favorite — prized since Roman times.'],
   ['mushroom-agaricus', 'Field mushroom', 'Agaricus campestris', '🍄', 'The meadow mushroom that started our love of champignons.'],
@@ -62,7 +61,6 @@ export const FUNGI_ROWS = [
   ['earthstar', 'Collared earthstar', 'Geastrum triplex', '⭐', 'A puffball that peels open into a star on a saucer.'],
   ['birdsnest', 'Common bird\'s nest', 'Crucibulum laeve', '🪺', 'A cup of tiny eggs that splashes spores out in rain.'],
   ['birdsnest', 'Fluted bird\'s nest', 'Cyathus striatus', '🪺', 'A striped nest whose "eggs" fire out like cannonballs.'],
-  ['truffle', 'Black truffle', 'Tuber melanosporum', '🖤', 'The Périgord black diamond of haute cuisine.'],
   ['truffle', 'White truffle', 'Tuber magnatum', '🤍', 'The rarest truffle, worth more than gold by weight.'],
   ['truffle', 'Oregon white truffle', 'Tuber oregonense', '🤍', 'The Pacific Northwest truffle foraged with dogs.'],
   ['mold-asco', 'Green bread mold', 'Penicillium chrysogenum', '🧀', 'The accidental mold that gave the world penicillin.'],
@@ -83,7 +81,7 @@ export const FUNGI_ROWS = [
   ['mold-capnodiales', 'Black spot of roses', 'Diplocarpon rosae', '🌹', 'The fungus behind those black circles on rose leaves.'],
   ['mold-capnodiales', 'Sooty blotch', 'Gloeodes pomigena', '🍏', 'A harmless film that smudges apples.'],
   ['yeast', 'Brewer\'s yeast', 'Saccharomyces cerevisiae', '🍺', 'The yeast that built bread, beer and modern biology.'],
-  ['yeast', 'Baker\'s yeast', 'Saccharomyces cerevisiae var. boulardii', '🍞', 'A probiotic yeast that can calm upset guts.'],
+  ['yeast', 'Boulardii yeast', 'Saccharomyces cerevisiae var. boulardii', '🍞', 'A probiotic yeast that can calm upset guts.'],
   ['yeast-other', 'Kombucha yeast', 'Brettanomyces bruxellensis', '🍵', 'The wild yeast that gives sour beer its funk.'],
   ['yeast-other', 'Kefir yeast', 'Kluyveromyces marxianus', '🥛', 'A milk-loving yeast from kefir grains.'],
   ['candida', 'Candida albicans', 'Candida albicans', '🦠', 'The yeast that lives in all of us — until it gets ideas.'],

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Burmese python illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#514d4c"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#656160"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#d1cdcc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="46" height="46" patternUnits="userSpaceOnUse"><rect width="46" height="46" fill="none"/><circle cx="12" cy="12" r="6.5" fill="#656160" opacity="0.55"/><circle cx="36" cy="34" r="5" fill="#656160" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="227.5129160284996" cy="106.28812096081674" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="236.44211133476347" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="121.35352940298617" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="63.99274962954223" cy="122.72047970443964" r="3.846967407502234"/><circle cx="46.9816863629967" cy="73.53770318441093" r="2.2275597313418984"/><circle cx="116.28959299996495" cy="116.01941779255867" r="2.910823439480737"/></g>
+<text x="30" y="55" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M40,159.78455980280995 L70,195.61313653939112 L100,183.76811812659815 L130,123.43532663790756 L160,107.61026890221393 L190,126.62943325760554 L220,189.4741728751707 L250,195.69264478574146 L280,144.5287192695788" stroke="#292524" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,159.78455980280995 L70,195.61313653939112 L100,183.76811812659815 L130,123.43532663790756 L160,107.61026890221393 L190,126.62943325760554 L220,189.4741728751707 L250,195.69264478574146 L280,144.5287192695788" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,159.78455980280995 L70,195.61313653939112 L100,183.76811812659815 L130,123.43532663790756 L160,107.61026890221393 L190,126.62943325760554 L220,189.4741728751707 L250,195.69264478574146 L280,144.5287192695788" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="151.78455980280995" r="13" fill="url(#bg1)" stroke="#292524" stroke-width="3"/><circle cx="24" cy="149.78455980280995" r="2.8" fill="#1c1917"/><path d="M36 143.78455980280995 l-7 -7 M34 145.78455980280995 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Burmese python</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Python bivittatus</text>
+</g>
+</svg>

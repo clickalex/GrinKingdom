@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common dodder illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#88cdff"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9ce1ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f2ffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="236.57417125999928" cy="192.195477001369" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="241.4893511077389" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="146.3928844872862" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="127.71210458129644" cy="102.89889889769256" r="3.586815907387063"/><circle cx="475.1969610154629" cy="96.81201641447842" r="3.5514246930833906"/><circle cx="125.18715495243669" cy="61.07295734807849" r="2.5032300199382007"/></g>
+<text x="30" y="65" font-size="44">🧵</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#60A5FA" stroke-width="2.6"/><ellipse cx="175.36827016587748" cy="81.25836898797299" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(12.656101295319798 175.36827016587748 81.25836898797299)"/><ellipse cx="160.24951382133747" cy="98.05646803193196" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(66.7831580520594 160.24951382133747 98.05646803193196)"/><ellipse cx="144.0465719105864" cy="99.36235832680579" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(103.23691001323908 144.0465719105864 99.36235832680579)"/><ellipse cx="127.20526259169002" cy="87.54399669646006" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(151.24927502029587 127.20526259169002 87.54399669646006)"/><ellipse cx="125.39819948729526" cy="68.23564385186697" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(198.87562124758935 125.39819948729526 68.23564385186697)"/><ellipse cx="136.22249921467227" cy="55.646614927037376" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(238.0010396288457 136.22249921467227 55.646614927037376)"/><ellipse cx="152.55715577440736" cy="52.116359808618796" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(275.64428755686913 152.55715577440736 52.116359808618796)"/><ellipse cx="174.2873223995842" cy="67.43346963732034" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(339.0876863095902 174.2873223995842 67.43346963732034)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#42a4b4" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common dodder</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cuscuta epithymum</text>
+</g>
+</svg>

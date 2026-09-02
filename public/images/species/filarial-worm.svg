@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Filarial worm illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffef"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f79524"/><stop offset="1" stop-color="#D97706"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#D97706"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="264.221797734499" cy="116.2167405243963" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="220.21162460558116" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="158.26540349051356" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="81.64853462949395" cy="97.8911029919982" r="3.105790658388287"/><circle cx="431.809159880504" cy="112.59240926243365" r="4.399276645621285"/><circle cx="401.7555863689631" cy="139.08675408922136" r="1.6274433857761323"/></g>
+<text x="30" y="53" font-size="44">🪱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M40,167.92440002448177 L70,177.5998811752729 L100,170.15930034592293 L130,124.74745700785788 L160,120.41805108640536 L190,140.92050954012743 L220,177.07693702213442 L250,179.96163625038562 L280,139.4581934410285" stroke="#FEF3C7" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,167.92440002448177 L70,177.5998811752729 L100,170.15930034592293 L130,124.74745700785788 L160,120.41805108640536 L190,140.92050954012743 L220,177.07693702213442 L250,179.96163625038562 L280,139.4581934410285" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,167.92440002448177 L70,177.5998811752729 L100,170.15930034592293 L130,124.74745700785788 L160,120.41805108640536 L190,140.92050954012743 L220,177.07693702213442 L250,179.96163625038562 L280,139.4581934410285" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="159.92440002448177" r="13" fill="url(#bg1)" stroke="#FEF3C7" stroke-width="3"/><circle cx="24" cy="157.92440002448177" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Filarial worm</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Wuchereria bancrofti</text>
+</g>
+</svg>

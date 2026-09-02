@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Yellow-lipped sea krait illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b7672"/><stop offset="1" stop-color="#134E4A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#edffff"/><stop offset="1" stop-color="#CFFAFE"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4f8a86"/><stop offset="1" stop-color="#CFFAFE"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bbf6f2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#4f8a86" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#4f8a86" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="338.67243357002735" cy="115.8115429803729" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="246.35831225663424" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="132.6073490921408" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="70" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M40,168.8975020112132 L70,195.61459672133245 L100,182.86577382807232 L130,130.85939819577726 L160,111.56830723505966 L190,118.82420354706103 L220,170.42314443300984 L250,195.98562489068235 L280,141.7771679826822" stroke="#134E4A" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,168.8975020112132 L70,195.61459672133245 L100,182.86577382807232 L130,130.85939819577726 L160,111.56830723505966 L190,118.82420354706103 L220,170.42314443300984 L250,195.98562489068235 L280,141.7771679826822" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,168.8975020112132 L70,195.61459672133245 L100,182.86577382807232 L130,130.85939819577726 L160,111.56830723505966 L190,118.82420354706103 L220,170.42314443300984 L250,195.98562489068235 L280,141.7771679826822" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="160.8975020112132" r="13" fill="url(#bg1)" stroke="#134E4A" stroke-width="3"/><circle cx="24" cy="158.8975020112132" r="2.8" fill="#1c1917"/><path d="M36 152.8975020112132 l-7 -7 M34 154.8975020112132 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Yellow-lipped sea krait</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Laticauda colubrina</text>
+</g>
+</svg>

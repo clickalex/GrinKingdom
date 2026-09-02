@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Fluted giant clam illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4d8bff"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#619fff"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#cdffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="44" height="44" patternUnits="userSpaceOnUse"><rect width="44" height="44" fill="none"/><circle cx="12" cy="12" r="5" fill="#619fff" opacity="0.85"/><circle cx="36" cy="34" r="4" fill="#619fff" opacity="0.7"/><circle cx="12" cy="12" r="10" fill="#619fff" opacity="0.25"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="392.80025981366634" cy="139.80252530425787" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="217.2165481885895" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="120.60185988433659" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="66" font-size="44">🦪</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M70 172 q14 -52 80 -54 q66 2 80 54 q-80 8 -160 0 Z" fill="url(#bg1)" stroke="#2563EB" stroke-width="3"/><path d="M70 172 q14 -52 80 -54 q66 2 80 54 q-80 8 -160 0 Z" fill="url(#tx)"/><path d="M150 118 q-2 30 0 54 M118 148 q32 -8 64 0" stroke="#FEF3C7" stroke-width="3" fill="none" opacity="0.7"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Fluted giant clam</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Tridacna squamosa</text>
+</g>
+</svg>

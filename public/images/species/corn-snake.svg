@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Corn snake illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#52a170" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#52a170" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="390.22581435739994" cy="154.69060940667987" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="265.4127460392192" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="150.90469091199338" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="66" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M40,177.68101800322808 L70,193.30778538989694 L100,153.03016273576645 L130,109.27537206143134 L160,105.67349452744165 L190,127.5031746074283 L220,192.7189100392983 L250,193.30894620041127 L280,176.43363546303866" stroke="#166534" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,177.68101800322808 L70,193.30778538989694 L100,153.03016273576645 L130,109.27537206143134 L160,105.67349452744165 L190,127.5031746074283 L220,192.7189100392983 L250,193.30894620041127 L280,176.43363546303866" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,177.68101800322808 L70,193.30778538989694 L100,153.03016273576645 L130,109.27537206143134 L160,105.67349452744165 L190,127.5031746074283 L220,192.7189100392983 L250,193.30894620041127 L280,176.43363546303866" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="169.68101800322808" r="13" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><circle cx="24" cy="167.68101800322808" r="2.8" fill="#1c1917"/><path d="M36 161.68101800322808 l-7 -7 M34 163.68101800322808 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Corn snake</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pantherophis guttatus</text>
+</g>
+</svg>

@@ -4,6 +4,7 @@ import Mascot from './Mascot.jsx'
 const links = [
   { to: '/', label: 'Home', end: true },
   { to: '/explore', label: 'Explore' },
+  { to: '/family-tree', label: '🌳 Family Tree' },
   { to: '/3d-gallery', label: '3D Gallery' },
   { to: '/about', label: 'About' },
 ]

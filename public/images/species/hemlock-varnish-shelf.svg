@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Hemlock varnish shelf illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a74545"/><stop offset="1" stop-color="#7F1D1D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#bb5959"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffc5c5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="217.52497054636478" cy="132.28665059432387" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="236.7074489314109" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="138.39265630580485" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="184.58025796338916" cy="46.777009861543775" r="2.8575843286234885"/><circle cx="234.997784383595" cy="115.04107872955501" r="1.8096496278885752"/><circle cx="197.50854131765664" cy="141.4057664386928" r="1.711963702691719"/></g>
+<text x="30" y="67" font-size="44">🍄</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M150 236 q-6 -110 -8 -170 M150 236 q-10 -90 -60 -132 M150 236 q0 -100 40 -140 M150 236 q12 -80 72 -106" stroke="#7F1D1D" stroke-width="11" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M150 236 q-6 -110 -8 -170" stroke="#FFFBEB" stroke-width="4" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Hemlock varnish shelf</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ganoderma tsugae</text>
+</g>
+</svg>

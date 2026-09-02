@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="American giant millipede illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2dedb"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#807c78" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#807c78" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="334.88716028630733" cy="155.6895656324923" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="263.907570540905" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="142.34924096614122" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="305.8911991957575" cy="131.8980756867677" r="4.430149306543171"/><circle cx="421.8252129200846" cy="126.58098093234003" r="3.477931961417198"/><circle cx="239.1818395163864" cy="94.25651693716645" r="3.6887045439798385"/></g>
+<text x="30" y="61" font-size="44">🐛</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M40,170.7290895205947 L70,179.27982759564787 L100,173.9722517949322 L130,127.20632178006267 L160,121.49527414977842 L190,154.95714421416497 L220,178.15582606599082 L250,174.24477050864218 L280,140.38829091666773" stroke="#44403C" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,170.7290895205947 L70,179.27982759564787 L100,173.9722517949322 L130,127.20632178006267 L160,121.49527414977842 L190,154.95714421416497 L220,178.15582606599082 L250,174.24477050864218 L280,140.38829091666773" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,170.7290895205947 L70,179.27982759564787 L100,173.9722517949322 L130,127.20632178006267 L160,121.49527414977842 L190,154.95714421416497 L220,178.15582606599082 L250,174.24477050864218 L280,140.38829091666773" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="162.7290895205947" r="13" fill="url(#bg1)" stroke="#44403C" stroke-width="3"/><circle cx="24" cy="160.7290895205947" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">American giant millipede</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Narceus americanus</text>
+</g>
+</svg>

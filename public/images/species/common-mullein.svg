@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common mullein illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bb5bff"/><stop offset="1" stop-color="#9333EA"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cf6fff"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffdbff"/><stop offset="1" stop-color="#fff7ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="141.59101113677025" cy="113.85921752080321" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="242.00659212190658" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="132.77792254462838" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#9333EA" stroke-width="2.6"/><ellipse cx="173.06491097850932" cy="87.07730313015092" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(27.487449014220218 173.06491097850932 87.07730313015092)"/><ellipse cx="167.65202174999828" cy="93.62100724035298" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(47.2403890326245 167.65202174999828 93.62100724035298)"/><ellipse cx="145.69029260866668" cy="99.66799511748724" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(99.54126969028287 145.69029260866668 99.66799511748724)"/><ellipse cx="126.12363828207978" cy="85.50004252888795" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(156.68193237405345 126.12363828207978 85.50004252888795)"/><ellipse cx="125.26707924600925" cy="68.59909694433071" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(197.9610844108721 125.26707924600925 68.59909694433071)"/><ellipse cx="141.26833217118423" cy="53.39388616530431" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(250.37677680654858 141.26833217118423 53.39388616530431)"/><ellipse cx="157.6901856375273" cy="53.07382694374648" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(287.20409778683137 157.6901856375273 53.07382694374648)"/><ellipse cx="171.05135764620252" cy="61.91467061839143" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(324.06346791568035 171.05135764620252 61.91467061839143)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#6147a1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common mullein</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Verbascum thapsus</text>
+</g>
+</svg>

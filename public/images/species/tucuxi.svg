@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Tucuxi illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4f9f"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FDF2F8"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff63b3"/><stop offset="1" stop-color="#FDF2F8"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcfff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="205.95392532646656" cy="128.99463127367198" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="229.49122910387814" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="137.3790620546788" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="107.48757302761078" cy="87.77717025019228" r="3.1036033302079886"/><circle cx="40.70600435137749" cy="141.69437936507165" r="4.0238956867251545"/><circle cx="335.31863261014223" cy="147.67001183703542" r="2.7873900218401104"/></g>
+<text x="30" y="55" font-size="44">🐬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M60 170 q40 -64 140 -56 q70 6 100 40 q-70 16 -110 6 q-20 22 -56 16 q-30 -5 -74 -6 Z" fill="url(#bg1)" stroke="#DB2777" stroke-width="3" stroke-linejoin="round"/><path d="M60 170 q40 -64 140 -56 q70 6 100 40 q-70 16 -110 6 q-20 22 -56 16 q-30 -5 -74 -6 Z" fill="url(#tx)"/><circle cx="86" cy="140" r="4" fill="#1c1917"/><path d="M236 148 q30 4 46 -4" stroke="#DB2777" stroke-width="4" fill="none"/><path d="M210 130 q16 -26 44 -30 q-2 22 -18 30" fill="url(#bg2)" stroke="#DB2777" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Tucuxi</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Sotalia fluviatilis</text>
+</g>
+</svg>

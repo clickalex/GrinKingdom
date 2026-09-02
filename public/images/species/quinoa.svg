@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Quinoa illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4e4e"/><stop offset="1" stop-color="#DC2626"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6262"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcece"/><stop offset="1" stop-color="#fffadf"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="353.24296586215496" cy="196.20534539222717" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="223.6654809722677" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="124.95581358671188" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="70" font-size="44">🌾</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#DC2626" stroke-width="2.6"/><ellipse cx="175.33785690606337" cy="81.38186361924588" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(12.958445301861246 175.33785690606337 81.38186361924588)"/><ellipse cx="162.1969109404854" cy="97.19532888494425" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(62.02333268164071 162.1969109404854 97.19532888494425)"/><ellipse cx="147.4567095771099" cy="99.88490164956363" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(95.61358465593077 147.4567095771099 99.88490164956363)"/><ellipse cx="129.95301522821248" cy="91.28294285003362" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(140.44718089058387 129.95301522821248 91.28294285003362)"/><ellipse cx="124.03035520281914" cy="74.84061056777449" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(182.7689160475316 124.03035520281914 74.84061056777449)"/><ellipse cx="140.25808670530967" cy="53.748386395634675" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(247.99490922981832 140.25808670530967 53.748386395634675)"/><ellipse cx="154.04062112758743" cy="52.29159302603729" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(278.94048895895185 154.04062112758743 52.29159302603729)"/><ellipse cx="173.65181794271228" cy="66.03284175368711" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(335.46189924508036 173.65181794271228 66.03284175368711)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#8c4a2f" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Quinoa</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Chenopodium quinoa</text>
+</g>
+</svg>

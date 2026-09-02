@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Virginia creeper illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a462ff"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b876ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe2ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#b876ff" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#b876ff" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="284.5080614835024" cy="93.73077780939639" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="223.29750072676688" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="151.38146112672985" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="168.64135653711855" cy="72.19595301896334" r="2.021122727310285"/><circle cx="264.65208505280316" cy="143.21958167478442" r="4.182898712111637"/><circle cx="267.4696649424732" cy="144.6885748859495" r="3.543592758011073"/></g>
+<text x="30" y="54" font-size="44">🍁</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#7C3AED" stroke-width="2.6"/><ellipse cx="174.79199299478944" cy="83.2305319117638" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(17.534028207059023 174.79199299478944 83.2305319117638)"/><ellipse cx="166.17802994757974" cy="94.78799093500712" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(51.520695009287145 166.17802994757974 94.78799093500712)"/><ellipse cx="146.3673362253791" cy="99.76459259721733" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(98.03151905324339 146.3673362253791 99.76459259721733)"/><ellipse cx="128.24475703914243" cy="89.14240486104063" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(146.79746789610257 128.24475703914243 89.14240486104063)"/><ellipse cx="125.55304052810285" cy="67.82953476970226" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(199.903442888179 125.55304052810285 67.82953476970226)"/><ellipse cx="135.01859899542944" cy="56.38472129027137" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(234.8157457245979 135.01859899542944 56.38472129027137)"/><ellipse cx="156.5187511248862" cy="52.76657589506289" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(284.5201930084535 156.5187511248862 52.76657589506289)"/><ellipse cx="173.47468019211504" cy="65.68218862297064" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(334.5382270303482 173.47468019211504 65.68218862297064)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#5356a7" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Virginia creeper</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Parthenocissus quinquefolia</text>
+</g>
+</svg>

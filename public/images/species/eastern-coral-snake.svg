@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Eastern coral snake illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#514d4c"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#656160"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#d1cdcc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#656160" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#656160" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="144.8852749913931" cy="204.30949025787413" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="250.27596827130765" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="126.93347585387528" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="65" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M40,178.32761917279018 L70,194.67539646050574 L100,179.3163881830585 L130,134.4990358160885 L160,111.24193733356495 L190,145.33721891064712 L220,187.6102903338715 L250,195.0589741748947 L280,171.37553017488457" stroke="#292524" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,178.32761917279018 L70,194.67539646050574 L100,179.3163881830585 L130,134.4990358160885 L160,111.24193733356495 L190,145.33721891064712 L220,187.6102903338715 L250,195.0589741748947 L280,171.37553017488457" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,178.32761917279018 L70,194.67539646050574 L100,179.3163881830585 L130,134.4990358160885 L160,111.24193733356495 L190,145.33721891064712 L220,187.6102903338715 L250,195.0589741748947 L280,171.37553017488457" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="170.32761917279018" r="13" fill="url(#bg1)" stroke="#292524" stroke-width="3"/><circle cx="24" cy="168.32761917279018" r="2.8" fill="#1c1917"/><path d="M36 162.32761917279018 l-7 -7 M34 164.32761917279018 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Eastern coral snake</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Micrurus fulvius</text>
+</g>
+</svg>

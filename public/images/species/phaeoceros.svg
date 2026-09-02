@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Phaeoceros illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="288.7760830670595" cy="175.13306273147464" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="223.37122270837426" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="122.17993120662868" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="57" font-size="44">🌱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><circle cx="219.28308548871428" cy="181.7613673163578" r="19.424227341078222" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="66.54121355619282" cy="160.85740248672664" r="18.93445589952171" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="68.45360335428268" cy="174.3929794523865" r="19.83268805220723" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="186.22957814019173" cy="188.5520483367145" r="21.387974757235497" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="117.57072106003761" cy="166.62783566862345" r="23.785451497882605" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="138.0778253870085" cy="211.56897784676403" r="24.43501817760989" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="109.14240766782314" cy="162.99303169362247" r="25.774061151780188" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="227.64789070934057" cy="210.4992505395785" r="19.31577552203089" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="178.4412706643343" cy="216.96119767148048" r="12.180885665584356" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="189.59938413463533" cy="198.37816588114947" r="29.8300723945722" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="189.5861943718046" cy="211.35618826374412" r="19.678335682488978" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="196.93494491279125" cy="211.29726015497" r="20.027225621044636" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="145.85102448239923" cy="157.49215420801193" r="21.91944540431723" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="171.16617140360177" cy="243.48482654895633" r="21.17398944636807" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Phaeoceros</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Phaeoceros laevis</text>
+</g>
+</svg>

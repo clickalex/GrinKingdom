@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Silver fir illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a88b59"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#f4ffe7"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="277.81192272901535" cy="124.6439937595278" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="260.5197090189904" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="132.9504535999149" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🌲</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><rect x="140" y="186" width="20" height="70" fill="#8A6D3B" stroke="#506938" stroke-width="3"/><polygon points="150,116 102,168 198,168" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><polygon points="150,72 111,124 189,124" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><polygon points="150,28 120,80 180,80" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><polygon points="150,-16 129,36 171,36" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><polygon points="150,6 78,72 222,72" fill="url(#tx)" opacity="0.7"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Silver fir</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Abies alba</text>
+</g>
+</svg>

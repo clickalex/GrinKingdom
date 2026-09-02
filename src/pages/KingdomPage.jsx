@@ -3,6 +3,7 @@ import { Link, useParams } from 'react-router-dom'
 import { KINGDOMS, KINGDOM_MAP } from '../data/kingdoms.js'
 import { speciesByKingdom } from '../data/species.js'
 import SpeciesCard from '../components/SpeciesCard.jsx'
+import { setRealPhotos as setRealPhotosPref, useRealPhotosPref } from '../lib/photos.js'
 import NotFound from './NotFound.jsx'
 
 const PER_PAGE = 36
@@ -11,6 +12,8 @@ export default function KingdomPage() {
   const { kingdomId } = useParams()
   const k = KINGDOM_MAP[kingdomId]
   const [page, setPage] = useState(1)
+  const realPhotos = useRealPhotosPref()
+  const setRealPhotos = (v) => setRealPhotosPref(v)
   useEffect(() => setPage(1), [kingdomId])
   if (!k) return <NotFound />
 
@@ -45,6 +48,16 @@ export default function KingdomPage() {
           <p className="section-sub">
             Click any card for quick facts, taxonomy, a species photo and a rotatable 3D specimen.
           </p>
+          <div className="explore-tools" style={{ marginTop: 12 }}>
+            <button
+              type="button"
+              className={`fchip realphoto-toggle ${realPhotos ? 'on' : ''}`}
+              onClick={() => setRealPhotos(!realPhotos)}
+              title="Show real licensed photographs (via GBIF & Wikipedia) instead of illustrations"
+            >
+              📷 Real photos {realPhotos ? 'on' : 'off'}
+            </button>
+          </div>
         </div>
 
         {members.length > 0 ? (

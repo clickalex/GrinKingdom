@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Rice illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#52df86" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#52df86" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="142.69237831234932" cy="125.76274260878563" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="239.3197960127145" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="122.62285536155105" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="257.3659124597907" cy="69.2234056070447" r="2.374951494857669"/><circle cx="173.45764011144638" cy="84.25722440704703" r="3.5113563342019916"/><circle cx="139.6749229170382" cy="107.18566167168319" r="3.7818083439487964"/></g>
+<text x="30" y="56" font-size="44">🍚</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M99 236 q-24 -41.02477154578082 -48 -82.04954309156165" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -53.62679571402259 -32 -107.25359142804518" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -64.79252736875787 -16 -129.58505473751575" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -68.31738933851011 0 -136.63477867702022" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -62.38559688697569 16 -124.77119377395138" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -53.50773629755713 32 -107.01547259511426" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -46.912120474502444 48 -93.82424094900489" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Rice</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Oryza sativa</text>
+</g>
+</svg>

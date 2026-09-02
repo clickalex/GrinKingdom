@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="American robin illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ba6836"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ce7c4a"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe8b6"/><stop offset="1" stop-color="#fffff0"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="30" height="16" patternUnits="userSpaceOnUse"><rect width="30" height="16" fill="none"/><path d="M3 8 q7 -6 12 0 q7 -6 12 0" stroke="#ce7c4a" stroke-width="2.4" fill="none" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="370.5433066934347" cy="120.2078711707145" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="240.34625065047294" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="159.0659417025745" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="92.73817648179829" cy="77.73965487256646" r="3.388740942114964"/><circle cx="257.7453996054828" cy="42.495196936652064" r="4.348292518872768"/><circle cx="407.08779704757035" cy="70.78538281843066" r="2.6531569166108966"/></g>
+<text x="30" y="68" font-size="44">🐦</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M96 148 q14 -38 48 -36 q40 2 50 30 q6 16 -2 24 q-12 12 -34 10 q-16 -2 -30 6 q-12 7 -24 4 q-10 -3 -6 -12 q5 -10 -2 -16 Z" fill="url(#bg1)" stroke="#92400E" stroke-width="3" stroke-linejoin="round"/><path d="M96 148 q14 -38 48 -36 q40 2 50 30 q6 16 -2 24 q-12 12 -34 10 q-16 -2 -30 6 q-12 7 -24 4 q-10 -3 -6 -12 q5 -10 -2 -16 Z" fill="url(#tx)"/><circle cx="108" cy="126" r="3.4" fill="#1c1917"/><path d="M92 132 q-14 -4 -24 2" stroke="#FDE68A" stroke-width="4" fill="none"/><path d="M128 176 q-14 20 -10 42 M128 176 q-6 30 -2 46" stroke="#92400E" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 170 q4 26 2 52" stroke="#FDE68A" stroke-width="6" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">American robin</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Turdus migratorius</text>
+</g>
+</svg>

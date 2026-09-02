@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Yellow-eyed penguin illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFF7ED"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#FFF7ED"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="295.65770864486694" cy="96.63066797889769" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="239.76663974113762" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="153.88851990923285" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="53" font-size="44">🐧</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M108 160 q-2 -56 42 -58 q44 2 42 58 q-42 26 -84 0 Z" fill="url(#bg1)" stroke="#44403C" stroke-width="3"/><path d="M128 152 q22 -30 44 0 q-22 14 -44 0 Z" fill="#FFF7ED" opacity="0.9"/><path d="M108 160 q-2 -56 42 -58 q44 2 42 58 q-42 26 -84 0 Z" fill="url(#tx)"/><circle cx="136" cy="124" r="3.6" fill="#1c1917"/><circle cx="164" cy="124" r="3.6" fill="#1c1917"/><path d="M150 134 l-7 8 M150 142 l0 6 M150 150 l7 8" stroke="#FFF7ED" stroke-width="2.6" fill="none"/><path d="M116 132 q-24 10 -38 4" fill="none" stroke="#44403C" stroke-width="6" stroke-linecap="round"/><path d="M184 132 q24 10 38 4" fill="none" stroke="#44403C" stroke-width="6" stroke-linecap="round"/><path d="M132 210 l-6 16 M168 210 l6 16" stroke="#FFF7ED" stroke-width="6" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Yellow-eyed penguin</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Megadyptes antipodes</text>
+</g>
+</svg>

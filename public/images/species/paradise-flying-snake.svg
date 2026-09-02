@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Paradise flying snake illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#52df86" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#52df86" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="367.83505514264107" cy="101.30542354658246" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="253.71009511873126" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="121.51313974522054" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="550.6700399238616" cy="110.7097328081727" r="4.348736902233213"/><circle cx="515.831550154835" cy="70.04323824308813" r="2.067762276157737"/><circle cx="316.9842200446874" cy="158.27539366669953" r="3.4535782446619123"/></g>
+<text x="30" y="57" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M40,162.20040427709148 L70,195.57018227333708 L100,152.16424470917875 L130,129.04018680365874 L160,110.90916298095044 L190,137.24156180131354 L220,178.79309706665998 L250,195.97977350558156 L280,155.27126167260596" stroke="#16A34A" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,162.20040427709148 L70,195.57018227333708 L100,152.16424470917875 L130,129.04018680365874 L160,110.90916298095044 L190,137.24156180131354 L220,178.79309706665998 L250,195.97977350558156 L280,155.27126167260596" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,162.20040427709148 L70,195.57018227333708 L100,152.16424470917875 L130,129.04018680365874 L160,110.90916298095044 L190,137.24156180131354 L220,178.79309706665998 L250,195.97977350558156 L280,155.27126167260596" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="154.20040427709148" r="13" fill="url(#bg1)" stroke="#16A34A" stroke-width="3"/><circle cx="24" cy="152.20040427709148" r="2.8" fill="#1c1917"/><path d="M36 146.20040427709148 l-7 -7 M34 148.20040427709148 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Paradise flying snake</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Chrysopelea paradisi</text>
+</g>
+</svg>

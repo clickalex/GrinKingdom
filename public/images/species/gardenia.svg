@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Gardenia illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="290.5528122931719" cy="173.78224049694836" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="225.2128017693758" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="124.09764083102345" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="466.4594643935561" cy="63.352885972708464" r="3.9145614642184228"/><circle cx="371.80685134604573" cy="52.43129285052419" r="4.232372389174998"/><circle cx="61.773298513144255" cy="142.79322474263608" r="4.407268643612042"/></g>
+<text x="30" y="64" font-size="44">🤍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#E7E5E4" stroke-width="2.6"/><ellipse cx="173.31028598857898" cy="86.63064724042628" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(26.291848005516783 173.31028598857898 86.63064724042628)"/><ellipse cx="164.1253172958896" cy="96.1492154436107" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(57.09269906103624 164.1253172958896 96.1492154436107)"/><ellipse cx="141.32399291617037" cy="98.6243668394471" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(109.49305402013752 141.32399291617037 98.6243668394471)"/><ellipse cx="126.43020996345685" cy="86.13137363397429" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(155.03019555777445 126.43020996345685 86.13137363397429)"/><ellipse cx="126.04472015811325" cy="66.67077578003045" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(202.87473295183634 126.04472015811325 66.67077578003045)"/><ellipse cx="135.94895869855185" cy="55.80658225444178" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(237.28744765787144 135.94895869855185 55.80658225444178)"/><ellipse cx="156.10498940793318" cy="52.67099336803648" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(283.58026315590814 156.10498940793318 52.67099336803648)"/><ellipse cx="174.11490383494086" cy="67.02802407870976" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(338.0478379198316 174.11490383494086 67.02802407870976)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#93bda1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Gardenia</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Gardenia jasminoides</text>
+</g>
+</svg>

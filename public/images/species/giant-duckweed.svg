@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Giant duckweed illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#5eff9a" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#5eff9a" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="144.71669428050518" cy="156.04107283987105" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="253.82999824360013" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="122.45831923559308" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🟢</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M99 236 q-24 -45.32775799953379 -48 -90.65551599906757" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -53.176770641701296 -32 -106.35354128340259" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -60.749651971040294 -16 -121.49930394208059" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -74.36974064051174 0 -148.73948128102347" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -61.23653832660057 16 -122.47307665320113" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -53.392834909493104 32 -106.78566981898621" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -47.988046555779874 48 -95.97609311155975" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Giant duckweed</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Spirodela polyrhiza</text>
+</g>
+</svg>

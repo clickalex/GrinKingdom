@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Snow goose illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2b91c9"/><stop offset="1" stop-color="#0369A1"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F0F9FF"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3fa5dd"/><stop offset="1" stop-color="#F0F9FF"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#abffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="30" height="16" patternUnits="userSpaceOnUse"><rect width="30" height="16" fill="none"/><path d="M3 8 q7 -6 12 0 q7 -6 12 0" stroke="#3fa5dd" stroke-width="2.4" fill="none" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="379.9844918400049" cy="109.56945880316198" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="258.03197050932795" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="140.69369533099234" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="67" font-size="44">🪿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M96 150 q10 -40 46 -42 q44 -2 62 18 q10 10 6 22 q-4 8 -16 6 q-28 -6 -46 -2 q-16 4 -28 16 q-10 10 -20 8 q-8 -2 -4 -12 q4 -8 0 -14 Z" fill="url(#bg1)" stroke="#0369A1" stroke-width="3" stroke-linejoin="round"/><path d="M96 150 q10 -40 46 -42 q44 -2 62 18 q10 10 6 22 q-4 8 -16 6 q-28 -6 -46 -2 q-16 4 -28 16 q-10 10 -20 8 q-8 -2 -4 -12 q4 -8 0 -14 Z" fill="url(#tx)"/><circle cx="106" cy="132" r="3.4" fill="#1c1917"/><path d="M92 142 q-16 -2 -28 4 q-6 4 -2 8" stroke="#F0F9FF" stroke-width="4" fill="none"/><path d="M140 168 q-8 26 -4 44 M140 168 q8 26 4 44" stroke="#0369A1" stroke-width="5" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Snow goose</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Anser caerulescens</text>
+</g>
+</svg>

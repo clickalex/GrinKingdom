@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Soybean illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d07dff"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e491ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="455.1765454560518" cy="192.83621435053647" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="248.02753309719265" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="132.459537955001" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="258.4818735253066" cy="100.15990667976439" r="2.6307547374162823"/><circle cx="238.4173594787717" cy="133.29117867164314" r="4.354685472557321"/><circle cx="262.1743718814105" cy="135.40010781027377" r="2.1278184349648654"/></g>
+<text x="30" y="69" font-size="44">🫘</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#A855F7" stroke-width="2.6"/><ellipse cx="173.3089096756368" cy="86.63321832012805" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(26.298694456406714 173.3089096756368 86.63321832012805)"/><ellipse cx="163.2764947397948" cy="96.63515053992184" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(59.29390307827886 163.2764947397948 96.63515053992184)"/><ellipse cx="139.1627326359772" cy="97.81575940814248" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(114.63385534293774 139.1627326359772 97.81575940814248)"/><ellipse cx="127.87682988323124" cy="88.60820844998058" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(148.30872935898026 127.87682988323124 88.60820844998058)"/><ellipse cx="124.37022843492862" cy="71.96426277149442" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(189.68060587618638 124.37022843492862 71.96426277149442)"/><ellipse cx="133.35316887505374" cy="57.56425617030601" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(230.18858618000726 133.35316887505374 57.56425617030601)"/><ellipse cx="155.12107344055218" cy="52.47014443627974" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(281.35949911772883 155.12107344055218 52.47014443627974)"/><ellipse cx="168.43602641078064" cy="59.076877282218646" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(315.159943340207 168.43602641078064 59.076877282218646)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#6d66ad" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Soybean</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Glycine max</text>
+</g>
+</svg>

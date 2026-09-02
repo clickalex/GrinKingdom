@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Blue lotus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9ade"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaef2"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="259.81155827641487" cy="139.09932598471642" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="245.94191654585302" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="144.92965386249125" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="62" font-size="44">💙</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F472B6" stroke-width="2.6"/><ellipse cx="175.87809767583389" cy="78.32132478233643" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(5.550431913111815 175.87809767583389 78.32132478233643)"/><ellipse cx="157.38642156549548" cy="99.01112051842483" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(73.49535133524036 157.38642156549548 99.01112051842483)"/><ellipse cx="144.7731211589771" cy="99.51002332025533" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(101.59741943932731 144.7731211589771 99.51002332025533)"/><ellipse cx="128.86087126329426" cy="89.97287355511227" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(144.3943558697326 128.86087126329426 89.97287355511227)"/><ellipse cx="124.30693142527007" cy="72.32316002761408" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(188.8125136187939 124.30693142527007 72.32316002761408)"/><ellipse cx="140.4417993847477" cy="53.68060315763253" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(248.43089777360106 140.4417993847477 53.68060315763253)"/><ellipse cx="159.452596475075" cy="53.64231431372307" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(291.3190757662816 159.452596475075 53.64231431372307)"/><ellipse cx="169.49100021456275" cy="60.116077286182374" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(318.56040258406006 169.49100021456275 60.116077286182374)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#9b7886" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Blue lotus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Nymphaea caerulea</text>
+</g>
+</svg>

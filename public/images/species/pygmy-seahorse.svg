@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pygmy seahorse illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ffda47" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ffda47" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="267.7931363135576" cy="167.71811035461724" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="258.72024062555283" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="148.78186136484146" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="64" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 60 q-14 8 -16 30 q-2 30 14 40 q20 12 20 40 q0 22 -12 34 q-12 14 -4 30 q8 14 22 4 q26 -18 30 -52 q4 -32 -12 -48 q-10 -10 -10 -26 q0 -14 -8 -22 Z" fill="url(#bg1)" stroke="#F59E0B" stroke-width="3" stroke-linejoin="round"/><path d="M150 60 q-14 8 -16 30 q-2 30 14 40 q20 12 20 40 q0 22 -12 34 q-12 14 -4 30 q8 14 22 4 q26 -18 30 -52 q4 -32 -12 -48 q-10 -10 -10 -26 q0 -14 -8 -22 Z" fill="url(#tx)"/><path d="M136 54 q-8 -14 -20 -12 M136 60 q-2 -10 -10 -14 M150 66 q4 -6 8 -2" stroke="#FEF3C7" stroke-width="3" fill="none" stroke-linecap="round"/><circle cx="140" cy="74" r="3" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pygmy seahorse</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Hippocampus bargibanti</text>
+</g>
+</svg>

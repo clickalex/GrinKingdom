@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cushion moss illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="211.45790547132492" cy="124.95777385309339" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="243.30442889593542" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="154.4449338503182" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="62" font-size="44">🌱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><circle cx="223.91212575137615" cy="189.9574460927397" r="16.580148906446993" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="141.75437106750906" cy="171.21009384281933" r="18.082094684243202" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="223.2734301360324" cy="232.46139253024012" r="16.471601604949683" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="107.40734755061567" cy="200.1892107538879" r="21.68435954907909" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="130.4172184690833" cy="237.0685599045828" r="25.62079548323527" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="125.49788976553828" cy="248.9981765858829" r="19.11696133436635" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="190.7279098732397" cy="203.7569788750261" r="14.178085089661181" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="94.21975383069366" cy="244.29376469925046" r="25.509990935213864" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="177.10563333705068" cy="221.7934208456427" r="27.872989329043776" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="184.28033286239952" cy="180.02468547783792" r="23.622572913765907" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="225.79078387934715" cy="171.2528550066054" r="19.03620436275378" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="168.66875296924263" cy="226.38370252680033" r="20.281308171339333" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="169.66595394071192" cy="180.93374946620315" r="12.382433690596372" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="180.05088843405247" cy="242.21634652931243" r="26.401247944682837" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cushion moss</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Leucobryum glaucum</text>
+</g>
+</svg>

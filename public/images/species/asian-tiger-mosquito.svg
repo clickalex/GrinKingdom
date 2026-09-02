@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Asian tiger mosquito illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#514d4c"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2dedb"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#656160"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#d1cdcc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><rect width="26" height="26" fill="none"/><rect width="26" height="9" fill="#656160" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="353.4492815285921" cy="132.94571586884558" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="244.76644536014646" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="137.05554481595755" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="84.54479941166937" cy="137.5618355628103" r="3.0415880237706006"/><circle cx="64.7671107109636" cy="64.83661085367203" r="3.2394857991021127"/><circle cx="370.9443374257535" cy="132.73338930681348" r="3.976434161653742"/></g>
+<text x="30" y="65" font-size="44">🦟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><ellipse cx="150" cy="150" rx="58" ry="36" fill="url(#bg1)" stroke="#292524" stroke-width="3"/><path d="M106 138 q44 18 88 0" stroke="#C4C0BD" stroke-width="9" fill="none" opacity="0.9"/><path d="M106 150 q44 18 88 0" stroke="#C4C0BD" stroke-width="9" fill="none" opacity="0.9"/><path d="M106 162 q44 18 88 0" stroke="#C4C0BD" stroke-width="9" fill="none" opacity="0.9"/><ellipse cx="96" cy="138" rx="18" ry="13" fill="url(#bg2)" stroke="#292524" stroke-width="2.6"/><circle cx="92" cy="135" r="3" fill="#1c1917"/><path d="M150 114 q-16 -26 -40 -30 M150 186 q-16 26 -40 30" stroke="#292524" stroke-width="2.6" fill="none"/><ellipse cx="130" cy="112" rx="16" ry="10" fill="#ffffff" opacity="0.5" transform="rotate(-30 130 112)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Asian tiger mosquito</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Aedes albopictus</text>
+</g>
+</svg>

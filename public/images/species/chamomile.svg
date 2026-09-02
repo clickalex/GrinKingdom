@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Chamomile illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffb2"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffc6"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="289.65919837355614" cy="175.96417271532118" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="213.71170117054135" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="131.49660906754434" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="551.313984496519" cy="100.58501887135208" r="2.0304854612331837"/><circle cx="50.10233376175165" cy="50.83828558214009" r="2.8336898521520197"/><circle cx="337.68577804788947" cy="127.8914196882397" r="2.723674106877297"/></g>
+<text x="30" y="61" font-size="44">🍵</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FDE68A" stroke-width="2.6"/><ellipse cx="175.89426179077242" cy="78.1622880014097" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(5.16909157280612 175.89426179077242 78.1622880014097)"/><ellipse cx="159.85407785422618" cy="98.20949068796399" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(67.72806049576393 159.85407785422618 98.20949068796399)"/><ellipse cx="147.74802367650955" cy="99.90980571541158" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(94.96886986001164 147.74802367650955 99.90980571541158)"/><ellipse cx="130.23620639050557" cy="91.59405791687846" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(139.4770625090416 130.23620639050557 91.59405791687846)"/><ellipse cx="124.91117334990135" cy="69.70201876325554" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(195.2134606243044 124.91117334990135 69.70201876325554)"/><ellipse cx="136.5867598710535" cy="55.44033959898965" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(238.94278002846983 136.5867598710535 55.44033959898965)"/><ellipse cx="156.69285919135731" cy="52.808794316061466" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(284.91689029539623 156.69285919135731 52.808794316061466)"/><ellipse cx="174.12165229469315" cy="67.0434948956476" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(338.08765337368004 174.12165229469315 67.0434948956476)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#a1b268" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Chamomile</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Matricaria chamomilla</text>
+</g>
+</svg>

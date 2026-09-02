@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Hair-cap moss illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="331.34698435664177" cy="130.88599839247763" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="211.5030702156946" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="155.90056244283915" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><circle cx="113.00355638377368" cy="187.3500261688605" r="27.321328135672957" fill="url(#bg2)" stroke="#166534" stroke-width="2.4"/><circle cx="182.39424065686762" cy="181.70491245109588" r="28.778660944662988" fill="url(#bg2)" stroke="#166534" stroke-width="2.4"/><circle cx="181.91540641710162" cy="196.4328140253201" r="12.1159173916094" fill="url(#bg1)" stroke="#166534" stroke-width="2.4"/><circle cx="140.0657276250422" cy="183.34199029486626" r="26.712007025722414" fill="url(#bg1)" stroke="#166534" stroke-width="2.4"/><circle cx="135.3784214006737" cy="152.10276269353926" r="16.008255718275905" fill="url(#bg2)" stroke="#166534" stroke-width="2.4"/><circle cx="194.89331911783665" cy="213.2372846128419" r="14.112183629069477" fill="url(#bg2)" stroke="#166534" stroke-width="2.4"/><circle cx="199.48951355181634" cy="179.5052385656163" r="27.843870404642075" fill="url(#bg1)" stroke="#166534" stroke-width="2.4"/><circle cx="62.00583423022181" cy="207.83267160877585" r="18.991657443344593" fill="url(#bg2)" stroke="#166534" stroke-width="2.4"/><circle cx="152.34637352172285" cy="159.40199049655348" r="16.953501094132662" fill="url(#bg1)" stroke="#166534" stroke-width="2.4"/><circle cx="80.2973355492577" cy="161.03126702364534" r="17.00819530058652" fill="url(#bg1)" stroke="#166534" stroke-width="2.4"/><circle cx="109.49861743021756" cy="184.18094203807414" r="27.046727277338505" fill="url(#bg2)" stroke="#166534" stroke-width="2.4"/><circle cx="86.32887708954513" cy="184.35237994417548" r="19.37118141911924" fill="url(#bg2)" stroke="#166534" stroke-width="2.4"/><circle cx="193.76174404285848" cy="235.14583841897547" r="25.519929990638047" fill="url(#bg1)" stroke="#166534" stroke-width="2.4"/><circle cx="79.42013149615377" cy="150.491468119435" r="20.42851650249213" fill="url(#bg2)" stroke="#166534" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Hair-cap moss</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Polytrichum commune</text>
+</g>
+</svg>

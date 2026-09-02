@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sage illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a64af6"/><stop offset="1" stop-color="#7E22CE"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ba5eff"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcaff"/><stop offset="1" stop-color="#ffedff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="319.16975423693657" cy="119.45356098935008" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="218.0205962760374" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="158.05264838039875" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="331.411600233987" cy="67.88752858527005" r="2.1465872812550515"/><circle cx="381.6112201754004" cy="86.0230118688196" r="2.8904768940992653"/><circle cx="113.17041117697954" cy="65.9799937531352" r="2.5179565348662436"/></g>
+<text x="30" y="62" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#7E22CE" stroke-width="2.6"/><ellipse cx="175.83523681961412" cy="78.69761843280381" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(6.453727912641653 175.83523681961412 78.69761843280381)"/><ellipse cx="163.53900318050134" cy="96.48930108668002" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(58.61870896339495 163.53900318050134 96.48930108668002)"/><ellipse cx="144.43047218025447" cy="99.44288941293395" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(102.36933688357409 144.43047218025447 99.44288941293395)"/><ellipse cx="128.47317945206922" cy="89.45908188178376" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(145.88919943881567 128.47317945206922 89.45908188178376)"/><ellipse cx="124.79247301397277" cy="70.11973313620612" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(194.18249084680662 124.79247301397277 70.11973313620612)"/><ellipse cx="131.77575540345154" cy="58.882536879973316" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(225.49813468080262 131.77575540345154 58.882536879973316)"/><ellipse cx="151.07088956011066" cy="52.020366116666054" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(272.36056975956757 151.07088956011066 52.020366116666054)"/><ellipse cx="174.64871907687487" cy="68.36348956161119" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(341.4466257883803 174.64871907687487 68.36348956161119)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#543d90" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sage</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Salvia officinalis</text>
+</g>
+</svg>

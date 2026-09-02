@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Plantain illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffdb30"/><stop offset="1" stop-color="#EAB308"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffef44"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb0"/><stop offset="1" stop-color="#ffffcd"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="277.16097578406334" cy="119.68546645715833" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="264.54190763644874" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="120.06283176131546" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="237.2803067136556" cy="95.21638862788677" r="3.122883982490748"/><circle cx="402.13497871533036" cy="79.03884215280414" r="2.551102740224451"/><circle cx="446.16452406160533" cy="80.79787243157625" r="1.7295754321385175"/></g>
+<text x="30" y="57" font-size="44">🍌</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 230 q-8 -70 6 -140 q10 70 6 140 Z" fill="#15803D" stroke="#809a23" stroke-width="3"/><path d="M150 92 q-104 38 -236 16" stroke="#EAB308" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q-92 40 -216 18" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q-52 42 -118 6" stroke="#EAB308" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q-46 40 -108 14" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q0 46 0 -4" stroke="#EAB308" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q0 40 0 10" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q52 42 118 6" stroke="#EAB308" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q46 40 108 14" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q104 38 236 16" stroke="#EAB308" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q92 40 216 18" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><circle cx="150" cy="92" r="7" fill="#15803D"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Plantain</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Musa × paradisiaca</text>
+</g>
+</svg>

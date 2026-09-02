@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cookiecutter shark illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#465163"/><stop offset="1" stop-color="#1E293B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#657387"/><stop offset="1" stop-color="#475569"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5a6577"/><stop offset="1" stop-color="#475569"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#c6d1e3"/><stop offset="1" stop-color="#deebfd"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="44" height="44" patternUnits="userSpaceOnUse"><rect width="44" height="44" fill="none"/><circle cx="12" cy="12" r="5" fill="#5a6577" opacity="0.85"/><circle cx="36" cy="34" r="4" fill="#5a6577" opacity="0.7"/><circle cx="12" cy="12" r="10" fill="#5a6577" opacity="0.25"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="455.1073894649744" cy="108.88842545449734" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="247.1677443338558" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="153.7605620920658" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="424.6192314848304" cy="107.3475497495383" r="2.2323276260867715"/><circle cx="513.2935253623873" cy="79.46351974271238" r="4.15436996659264"/><circle cx="40.78893015161157" cy="99.92509682662785" r="2.7168437785003334"/></g>
+<text x="30" y="68" font-size="44">🦈</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><path d="M44 160 q40 -46 104 -46 q56 0 100 30 q20 14 22 26 q-2 16 -22 30 q-44 30 -100 30 q-64 0 -104 -46 Z" fill="url(#bg1)" stroke="#1E293B" stroke-width="3" stroke-linejoin="round"/><path d="M44 160 q40 -46 104 -46 q56 0 100 30 q20 14 22 26 q-2 16 -22 30 q-44 30 -100 30 q-64 0 -104 -46 Z" fill="url(#tx)"/><path d="M112 92 q30 -30 58 -34 q-2 26 -26 40" fill="url(#bg2)" stroke="#1E293B" stroke-width="3"/><circle cx="76" cy="148" r="4" fill="#1c1917"/><path d="M120 170 q16 14 14 30 q-16 -8 -14 -30 Z" fill="#475569" stroke="#1E293B" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cookiecutter shark</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Isistius brasiliensis</text>
+</g>
+</svg>

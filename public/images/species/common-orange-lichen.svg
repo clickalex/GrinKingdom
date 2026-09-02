@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common orange lichen illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#acf43e"/><stop offset="1" stop-color="#84CC16"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#625e5a"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c0ff52"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbe"/><stop offset="1" stop-color="#ffffd5"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="none"/><path d="M6 8 L14 6 L12 14 M26 20 L34 18 L32 28 M16 30 L24 28 L22 38" stroke="#c0ff52" stroke-width="1.6" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="401.51885256171227" cy="204.38334798440337" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="232.40828664042056" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="134.10726364701986" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="65" font-size="44">🟠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><circle cx="171.45084233488888" cy="203.42028769664466" r="29.84043179405853" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="215.13410930056125" cy="210.36310496274382" r="22.81737793330103" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="100.48173274844885" cy="171.58025274984539" r="14.014042326249182" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="79.51974953524768" cy="180.309315235354" r="28.177572607062757" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="126.94142418913543" cy="196.66109147947282" r="28.672832238022238" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="73.79242439288646" cy="191.71082868706435" r="24.41149710305035" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="65.05111330188811" cy="228.86785080190748" r="14.783520965371281" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="170.14448785688728" cy="237.39784779027104" r="18.155282315332443" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="131.06044978369027" cy="226.4227352105081" r="19.749678649473935" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="126.66040449868888" cy="209.21649795491248" r="25.66835822397843" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="93.15829681232572" cy="152.55068850237876" r="28.97852234635502" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="76.49118267931044" cy="166.97354891803116" r="28.401718536391854" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="66.93547648843378" cy="242.0163157163188" r="23.714336279779673" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="199.3203289853409" cy="244.329950097017" r="14.468912453390658" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common orange lichen</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Xanthoria parietina</text>
+</g>
+</svg>

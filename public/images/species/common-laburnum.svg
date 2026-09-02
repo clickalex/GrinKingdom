@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common laburnum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#896f47"/><stop offset="1" stop-color="#6B5129"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#6B5129"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#e7ffe5"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="365.2135097980499" cy="109.98779808171093" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="263.9653195347637" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="136.90503579564393" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="460.8105266280472" cy="139.16382851079106" r="2.250517660053447"/><circle cx="48.75829593278468" cy="112.21864463761449" r="2.4367163165006787"/><circle cx="430.82010108977556" cy="159.28621176630259" r="1.8032440727110952"/></g>
+<text x="30" y="53" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M138 210 q-6 -70 12 -128 q18 58 12 128 Z" fill="#6B5129" stroke="#376d35" stroke-width="3"/><circle cx="92" cy="92" r="44" fill="url(#bg1)" stroke="#15803D" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#bg1)" stroke="#15803D" stroke-width="3"/><circle cx="206" cy="96" r="42" fill="url(#bg1)" stroke="#15803D" stroke-width="3"/><circle cx="124" cy="52" r="36" fill="url(#bg1)" stroke="#15803D" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#tx)" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common laburnum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Laburnum anagyroides</text>
+</g>
+</svg>

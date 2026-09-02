@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Oregano illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d07dff"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e491ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="210.95511056482792" cy="129.1206817701459" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="216.37677307706326" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="139.47768302634358" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="345.95262846909463" cy="114.35626341030002" r="2.0220758265350014"/><circle cx="291.2676134612411" cy="134.2710617929697" r="3.1784841818735003"/><circle cx="357.2599823586643" cy="47.268640557304025" r="3.4050567504018545"/></g>
+<text x="30" y="55" font-size="44">🍕</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#A855F7" stroke-width="2.6"/><ellipse cx="173.57775751384096" cy="86.11556492646145" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(24.928179660186846 173.57775751384096 86.11556492646145)"/><ellipse cx="165.9400798638862" cy="94.96050004432945" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(52.187458616342425 165.9400798638862 94.96050004432945)"/><ellipse cx="138.78695266039898" cy="97.65333788006023" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(115.54825134035387 138.78695266039898 97.65333788006023)"/><ellipse cx="125.79232072031729" cy="84.75650561212707" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(158.60137746100526 125.79232072031729 84.75650561212707)"/><ellipse cx="124.47412121156962" cy="71.43757970692378" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(190.95866948629697 124.47412121156962 71.43757970692378)"/><ellipse cx="132.30721494184417" cy="58.413861800985195" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(227.11791924515433 132.30721494184417 58.413861800985195)"/><ellipse cx="159.1914807053163" cy="53.54973909669048" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(290.70267326507076 159.1914807053163 53.54973909669048)"/><ellipse cx="170.19179788304723" cy="60.880369171873205" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(320.9510123226803 170.19179788304723 60.880369171873205)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#6e74b2" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Oregano</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Origanum vulgare</text>
+</g>
+</svg>

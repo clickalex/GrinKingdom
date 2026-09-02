@@ -1,15 +1,29 @@
-import { useState } from 'react'
+import { useEffect, useState } from 'react'
 import { Link, useParams } from 'react-router-dom'
 import { SPECIES, SPECIES_MAP, speciesImage } from '../data/species.js'
 import { KINGDOM_MAP } from '../data/kingdoms.js'
 import SpecimenViewer from '../components/SpecimenViewer.jsx'
 import SpeciesCard from '../components/SpeciesCard.jsx'
+import RealPhotoGallery from '../components/RealPhotos.jsx'
+import { useSpeciesPhotos } from '../lib/photos.js'
 import NotFound from './NotFound.jsx'
 
 export default function SpeciesDetail() {
   const { slug } = useParams()
   const s = SPECIES_MAP[slug]
   const [imgOk, setImgOk] = useState(true)
+  const [view, setView] = useState('photos') // 'photos' | 'art'
+  const { photos: realPhotos, loading: photosLoading } = useSpeciesPhotos(s || {}, true)
+
+  /* If no real photos turn up, gracefully fall back to the illustration tab. */
+  useEffect(() => {
+    if (!photosLoading && realPhotos.length === 0) setView('art')
+  }, [photosLoading, realPhotos.length])
+  useEffect(() => {
+    setView('photos')
+    setImgOk(true)
+  }, [slug])
+
   if (!s) return <NotFound />
 
   const k = KINGDOM_MAP[s.kingdom]
@@ -76,25 +90,52 @@ export default function SpeciesDetail() {
         </div>
 
         <div className="detail-cols">
-          {/* photo */}
+          {/* photo — real photographs + illustration */}
           <div className="panel">
-            <h2 className="panel-title">📷 Species illustration</h2>
-            <div className="detail-photo">
-              {imgOk ? (
-                <img
-                  src={speciesImage(s.slug)}
-                  alt={`Illustration of ${s.name}`}
-                  onError={() => setImgOk(false)}
-                />
-              ) : (
-                <span className="detail-photo-fallback" style={{ background: `${k?.color || '#7C3AED'}1e` }}>
-                  {s.emoji}
-                </span>
-              )}
-              <p className="detail-photo-caption">
-                {s.emoji} {s.name} ({s.sci}) — a hand-styled specimen plate generated just for this species.
-              </p>
+            <div className="panel-title-row">
+              <h2 className="panel-title">📷 Species photo</h2>
+              <div className="viewtabs" role="tablist" aria-label="Photo view">
+                <button
+                  type="button"
+                  role="tab"
+                  aria-selected={view === 'photos'}
+                  className={`viewtab ${view === 'photos' ? 'on' : ''}`}
+                  onClick={() => setView('photos')}
+                >
+                  📷 Real photos{!photosLoading ? ` (${realPhotos.length})` : ''}
+                </button>
+                <button
+                  type="button"
+                  role="tab"
+                  aria-selected={view === 'art'}
+                  className={`viewtab ${view === 'art' ? 'on' : ''}`}
+                  onClick={() => setView('art')}
+                >
+                  🎨 Illustration
+                </button>
+              </div>
             </div>
+
+            {view === 'photos' ? (
+              <RealPhotoGallery species={s} />
+            ) : (
+              <div className="detail-photo">
+                {imgOk ? (
+                  <img
+                    src={speciesImage(s.slug)}
+                    alt={`Illustration of ${s.name}`}
+                    onError={() => setImgOk(false)}
+                  />
+                ) : (
+                  <span className="detail-photo-fallback" style={{ background: `${k?.color || '#7C3AED'}1e` }}>
+                    {s.emoji}
+                  </span>
+                )}
+                <p className="detail-photo-caption">
+                  {s.emoji} {s.name} ({s.sci}) — a hand-styled specimen plate generated just for this species.
+                </p>
+              </div>
+            )}
             <a className="gbif-inline" href={gbifUrl} target="_blank" rel="noreferrer">
               🌐 Find {s.name} in the global GBIF database ↗
             </a>
@@ -111,6 +152,9 @@ export default function SpeciesDetail() {
                 </li>
               ))}
             </ol>
+            <Link className="gbif-inline" to={`/family-tree?species=${s.slug}`}>
+              🌳 See {s.name}&apos;s branch on the family tree ↗
+            </Link>
           </div>
 
           {/* fun facts */}

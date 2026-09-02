@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Early blight illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#514d4c"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2dedb"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#656160"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#d1cdcc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="144.47645500302315" cy="102.00858609750867" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="254.8775826394558" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="148.94880826584995" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">🍅</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><line x1="106" y1="206" x2="104.70703318435699" y2="96" stroke="#C4C0BD" stroke-width="4"/><circle cx="106.91077153012156" cy="94.78052983805537" r="9" fill="url(#bg1)" stroke="#292524" stroke-width="2.4"/><line x1="128" y1="206" x2="123.50902265217155" y2="96" stroke="#C4C0BD" stroke-width="4"/><circle cx="128.20363765303046" cy="90.78166963346303" r="9" fill="url(#bg1)" stroke="#292524" stroke-width="2.4"/><line x1="150" y1="206" x2="145.65421459358186" y2="96" stroke="#C4C0BD" stroke-width="4"/><circle cx="147.9262810992077" cy="91.56432287022471" r="9" fill="url(#bg1)" stroke="#292524" stroke-width="2.4"/><line x1="172" y1="206" x2="172.20766710769385" y2="96" stroke="#C4C0BD" stroke-width="4"/><circle cx="176.6525407526642" cy="90.02361348457634" r="9" fill="url(#bg1)" stroke="#292524" stroke-width="2.4"/><line x1="194" y1="206" x2="191.39774786215276" y2="96" stroke="#C4C0BD" stroke-width="4"/><circle cx="188.63588225189596" cy="90.1966048758477" r="9" fill="url(#bg1)" stroke="#292524" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Early blight</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Alternaria solani</text>
+</g>
+</svg>

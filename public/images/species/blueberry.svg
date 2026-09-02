@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Blueberry illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="206.72561667859554" cy="179.10282636992633" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="228.7318451050669" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="150.03538358025253" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="509.41211652942" cy="88.43861939385533" r="3.545535497367382"/><circle cx="350.8648472651839" cy="117.17928476631641" r="4.14395437692292"/><circle cx="223.6237182840705" cy="104.77374017238617" r="4.388657950563356"/></g>
+<text x="30" y="67" font-size="44">🫐</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EC4899" stroke-width="2.6"/><ellipse cx="175.47661128808994" cy="80.79131853458861" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(11.515806983028389 175.47661128808994 80.79131853458861)"/><ellipse cx="162.06573276741784" cy="97.25920689668824" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(62.350166378141985 162.06573276741784 97.25920689668824)"/><ellipse cx="149.51741873022877" cy="99.99586559628142" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(91.06351760991454 149.51741873022877 99.99586559628142)"/><ellipse cx="129.21452259273835" cy="90.41785664895504" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(143.07679673743715 129.21452259273835 90.41785664895504)"/><ellipse cx="125.14570938351207" cy="68.95406018759445" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(197.0724569562863 125.14570938351207 68.95406018759445)"/><ellipse cx="141.80723940248768" cy="53.22264580643029" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(251.63277629095828 141.80723940248768 53.22264580643029)"/><ellipse cx="154.63579882180528" cy="52.38457163912097" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(280.2707526099594 154.63579882180528 52.38457163912097)"/><ellipse cx="173.112079528678" cy="65.00678630534344" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(332.73861424398046 173.112079528678 65.00678630534344)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#965e74" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Blueberry</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Vaccinium corymbosum</text>
+</g>
+</svg>

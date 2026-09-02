@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Powdery mildew illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6f7d91"/><stop offset="1" stop-color="#475569"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F8FAFC"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8391a5"/><stop offset="1" stop-color="#F8FAFC"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#effdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="425.39582058787346" cy="171.580574484542" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="252.05878710374236" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="122.63546299189329" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="61" font-size="44">🌾</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><line x1="106" y1="206" x2="100.72535033151507" y2="96" stroke="#F8FAFC" stroke-width="4"/><circle cx="103.43319612368941" cy="92.78664284013212" r="9" fill="url(#bg1)" stroke="#475569" stroke-width="2.4"/><line x1="128" y1="206" x2="127.78976564388722" y2="96" stroke="#F8FAFC" stroke-width="4"/><circle cx="123.91321163251996" cy="88.49050308391452" r="9" fill="url(#bg1)" stroke="#475569" stroke-width="2.4"/><line x1="150" y1="206" x2="151.46728034410626" y2="96" stroke="#F8FAFC" stroke-width="4"/><circle cx="150.01018662191927" cy="91.40284691937268" r="9" fill="url(#bg1)" stroke="#475569" stroke-width="2.4"/><line x1="172" y1="206" x2="168.5877065351233" y2="96" stroke="#F8FAFC" stroke-width="4"/><circle cx="167.4769947072491" cy="93.43706178106368" r="9" fill="url(#bg1)" stroke="#475569" stroke-width="2.4"/><line x1="194" y1="206" x2="199.70550541952252" y2="96" stroke="#F8FAFC" stroke-width="4"/><circle cx="193.44878612924367" cy="91.49062667414546" r="9" fill="url(#bg1)" stroke="#475569" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Powdery mildew</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Blumeria graminis</text>
+</g>
+</svg>

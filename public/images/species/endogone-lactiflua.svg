@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Endogone lactiflua illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffef"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b05e2c"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ffffff" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ffffff" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="358.8134254515171" cy="123.29295619390905" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="248.0825344612822" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="147.2980021405965" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">🕸️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M197.5358619429171,150 Q185.26788739015595,157.97053238074295 201.84265702391536,179.93137198826298 Q189.45152786786915,182.23743136739125 183.9047177126631,208.72469369461297 Q178.67377938283607,211.38987912214128 150,196.72492100857198 Q136.9909460984636,192.2254028451048 113.69948452571408,212.87433714240348 Q120.48788814221962,194.89737068841944 98.29676865131566,179.8508745371364 Q110.06024055973147,171.29119084472768 101.32997338473797,150 Q109.49200333152613,128.5766857175622 116.49299164601965,130.6547197070904 Q124.86434911154856,109.9534248262879 118.93941425718364,96.20148738059262 Q127.86470225919038,109.06991789236223 150,107.95127991493791 Q154.45256614824757,113.90142294439154 178.28565347474068,101.00781105646197 Q177.77224764097684,122.79502847511918 193.50215048548236,124.88402170687911 Z" fill="url(#bg1)" stroke="#FEF3C7" stroke-width="3"/><path d="M197.5358619429171,150 Q185.26788739015595,157.97053238074295 201.84265702391536,179.93137198826298 Q189.45152786786915,182.23743136739125 183.9047177126631,208.72469369461297 Q178.67377938283607,211.38987912214128 150,196.72492100857198 Q136.9909460984636,192.2254028451048 113.69948452571408,212.87433714240348 Q120.48788814221962,194.89737068841944 98.29676865131566,179.8508745371364 Q110.06024055973147,171.29119084472768 101.32997338473797,150 Q109.49200333152613,128.5766857175622 116.49299164601965,130.6547197070904 Q124.86434911154856,109.9534248262879 118.93941425718364,96.20148738059262 Q127.86470225919038,109.06991789236223 150,107.95127991493791 Q154.45256614824757,113.90142294439154 178.28565347474068,101.00781105646197 Q177.77224764097684,122.79502847511918 193.50215048548236,124.88402170687911 Z" fill="url(#tx)"/><circle cx="146.54256421141326" cy="156.82810437865555" r="13" fill="#92400E" opacity="0.8"/><circle cx="124.37830106168985" cy="127.77199259027839" r="5" fill="#ffffff" opacity="0.5"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Endogone lactiflua</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Endogone lactiflua</text>
+</g>
+</svg>

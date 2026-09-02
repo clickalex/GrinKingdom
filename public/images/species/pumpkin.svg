@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pumpkin illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffdb30"/><stop offset="1" stop-color="#EAB308"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffef44"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb0"/><stop offset="1" stop-color="#ffffcd"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="286.1480762809515" cy="190.75870469212532" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="238.14684708137065" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="121.41671122051775" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="80.22052614949644" cy="79.93703647516668" r="3.6541579104959965"/><circle cx="390.73886420577765" cy="91.59400271251798" r="2.490343763725832"/><circle cx="359.0791110601276" cy="140.1383708231151" r="4.435801579384133"/></g>
+<text x="30" y="68" font-size="44">🎃</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EAB308" stroke-width="2.6"/><ellipse cx="175.78051076066907" cy="79.11191463765795" rx="17" ry="20" fill="url(#bg1)" stroke="#EAB308" stroke-width="2.6" transform="rotate(7.450125166871089 175.78051076066907 79.11191463765795)"/><ellipse cx="166.56271455651367" cy="94.50018615911468" rx="17" ry="20" fill="url(#bg1)" stroke="#EAB308" stroke-width="2.6" transform="rotate(50.42947818751354 166.56271455651367 94.50018615911468)"/><ellipse cx="140.88734906718403" cy="98.47762613924883" rx="17" ry="20" fill="url(#bg1)" stroke="#EAB308" stroke-width="2.6" transform="rotate(110.51707905605433 140.88734906718403 98.47762613924883)"/><ellipse cx="128.25428131775078" cy="89.15582880580143" rx="17" ry="20" fill="url(#bg1)" stroke="#EAB308" stroke-width="2.6" transform="rotate(146.7591593193892 128.25428131775078 89.15582880580143)"/><ellipse cx="125.42492870066782" cy="68.16385050663692" rx="17" ry="20" fill="url(#bg1)" stroke="#EAB308" stroke-width="2.6" transform="rotate(199.0568544075012 125.42492870066782 68.16385050663692)"/><ellipse cx="132.6905461128728" cy="58.09176512805868" rx="17" ry="20" fill="url(#bg1)" stroke="#EAB308" stroke-width="2.6" transform="rotate(228.26024708618854 132.6905461128728 58.09176512805868)"/><ellipse cx="157.47564350417844" cy="53.01344300696747" rx="17" ry="20" fill="url(#bg1)" stroke="#EAB308" stroke-width="2.6" transform="rotate(286.70982431068416 157.47564350417844 53.01344300696747)"/><ellipse cx="169.25555933564024" cy="59.87325082323926" rx="17" ry="20" fill="url(#bg1)" stroke="#EAB308" stroke-width="2.6" transform="rotate(317.78241811089123 169.25555933564024 59.87325082323926)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#959f1d" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pumpkin</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cucurbita pepo</text>
+</g>
+</svg>

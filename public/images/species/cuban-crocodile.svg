@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cuban crocodile illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#52df86" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#52df86" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="244.4001144170761" cy="176.4476492162794" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="253.55492155998945" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="146.23445478267968" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="385.58550680056214" cy="43.84947690181434" r="2.842010596767068"/><circle cx="61.21373442001641" cy="110.20836203359067" r="4.245152754709125"/><circle cx="225.77388998121023" cy="71.0319443512708" r="4.301171685336158"/></g>
+<text x="30" y="66" font-size="44">🐊</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M54 168 q8 -40 40 -44 q40 -4 68 6 q36 12 52 30 q10 10 6 20 q-6 8 -18 4 q-40 -14 -76 -8 q-30 5 -44 12 q-14 6 -24 2 q-8 -3 -4 -10 q6 -8 0 -12 Z" fill="url(#bg1)" stroke="#16A34A" stroke-width="3" stroke-linejoin="round"/><path d="M54 168 q8 -40 40 -44 q40 -4 68 6 q36 12 52 30 q10 10 6 20 q-6 8 -18 4 q-40 -14 -76 -8 q-30 5 -44 12 q-14 6 -24 2 q-8 -3 -4 -10 q6 -8 0 -12 Z" fill="url(#tx)"/><circle cx="72" cy="138" r="3.6" fill="#1c1917"/><line x1="78" y1="172" x2="84" y2="190" stroke="#16A34A" stroke-width="3.4" stroke-linecap="round"/><line x1="100" y1="176" x2="106" y2="194" stroke="#16A34A" stroke-width="3.4" stroke-linecap="round"/><line x1="122" y1="178" x2="128" y2="196" stroke="#16A34A" stroke-width="3.4" stroke-linecap="round"/><line x1="144" y1="178" x2="150" y2="196" stroke="#16A34A" stroke-width="3.4" stroke-linecap="round"/><path d="M198 176 q26 20 22 44 q-2 14 -14 10" fill="none" stroke="#16A34A" stroke-width="7" stroke-linecap="round"/><path d="M40 150 q-20 -8 -28 4 q-6 10 4 14" fill="none" stroke="#16A34A" stroke-width="4"/><circle cx="60" cy="128" r="5" fill="#DCFCE7"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cuban crocodile</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Crocodylus rhombifer</text>
+</g>
+</svg>

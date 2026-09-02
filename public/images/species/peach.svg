@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Peach illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff67b6"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7bca"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="170.54269820451736" cy="204.91409987211227" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="262.45268750935793" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="123.94748896360397" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="280.7236488722265" cy="59.43449940532446" r="2.006810564780608"/><circle cx="241.05285274796188" cy="131.5947711840272" r="1.920636281138286"/><circle cx="441.6276157926768" cy="83.4197797998786" r="3.529289820464328"/></g>
+<text x="30" y="53" font-size="44">🍑</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F43F8E" stroke-width="2.6"/><ellipse cx="175.97157217568466" cy="77.12199942025843" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(2.6795529673709435 175.97157217568466 77.12199942025843)"/><ellipse cx="164.41612927207848" cy="95.97294489887247" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(56.326022793131564 164.41612927207848 95.97294489887247)"/><ellipse cx="137.6621376030218" cy="97.1257029310795" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(118.32895906915726 137.6621376030218 97.1257029310795)"/><ellipse cx="125.5017278922303" cy="84.03844003591125" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(160.43141453128814 125.5017278922303 84.03844003591125)"/><ellipse cx="127.02975377209732" cy="64.7563399836871" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(207.9360535577302 127.02975377209732 64.7563399836871)"/><ellipse cx="140.57718753903941" cy="53.63160418883422" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(248.75136317914505 140.57718753903941 53.63160418883422)"/><ellipse cx="157.46936794411695" cy="53.0117047891865" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(286.69538579103676 157.46936794411695 53.0117047891865)"/><ellipse cx="171.85131448723692" cy="62.99410967631043" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(327.1861013376472 171.85131448723692 62.99410967631043)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9b6773" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Peach</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Prunus persica</text>
+</g>
+</svg>

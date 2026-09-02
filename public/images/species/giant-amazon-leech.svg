@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Giant Amazon leech illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#44413f"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f1ef"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#585553"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#c4c1bf"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="210.8031826466322" cy="147.08714188076556" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="265.95271254424006" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="131.9532720465213" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="54" font-size="44">🪱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M40,155.6672457158525 L70,178.09102428959307 L100,173.26785611611183 L130,129.40970175536333 L160,126.13687169449435 L190,134.37751362878 L220,167.8200638184193 L250,179.82755531023645 L280,160.35503950284658" stroke="#1C1917" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,155.6672457158525 L70,178.09102428959307 L100,173.26785611611183 L130,129.40970175536333 L160,126.13687169449435 L190,134.37751362878 L220,167.8200638184193 L250,179.82755531023645 L280,160.35503950284658" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,155.6672457158525 L70,178.09102428959307 L100,173.26785611611183 L130,129.40970175536333 L160,126.13687169449435 L190,134.37751362878 L220,167.8200638184193 L250,179.82755531023645 L280,160.35503950284658" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="147.6672457158525" r="13" fill="url(#bg1)" stroke="#1C1917" stroke-width="3"/><circle cx="24" cy="145.6672457158525" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Giant Amazon leech</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Haementeria ghilianii</text>
+</g>
+</svg>

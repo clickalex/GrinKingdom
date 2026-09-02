@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Bradyrhizobium japonicum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a4ffca"/><stop offset="1" stop-color="#86EFAC"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#86EFAC"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#f2ffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#51bc79" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#51bc79" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="457.07963585853577" cy="175.9718957170844" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="266.4150520507246" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="121.95561058819294" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="329.79382977820933" cy="142.11167875677347" r="2.1878743367269635"/><circle cx="217.97242373228073" cy="54.88634544424713" r="2.2075562831014395"/><circle cx="308.14568211324513" cy="120.82935884594917" r="4.4904839938972145"/></g>
+<text x="30" y="66" font-size="44">🫘</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#15803D" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Bradyrhizobium japonicum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Bradyrhizobium japonicum</text>
+</g>
+</svg>

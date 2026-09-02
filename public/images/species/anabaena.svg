@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Anabaena illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#35bcb0"/><stop offset="1" stop-color="#0D9488"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7cfff2"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#49d0c4"/><stop offset="1" stop-color="#5EEAD4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#b5ffff"/><stop offset="1" stop-color="#ddffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="44" height="44" patternUnits="userSpaceOnUse"><rect width="44" height="44" fill="none"/><circle cx="12" cy="12" r="5" fill="#49d0c4" opacity="0.85"/><circle cx="36" cy="34" r="4" fill="#49d0c4" opacity="0.7"/><circle cx="12" cy="12" r="10" fill="#49d0c4" opacity="0.25"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="329.78853456676006" cy="189.7047941107303" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="259.10127877257764" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="151.47857417352498" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="311.77610700950027" cy="79.08017915673554" r="3.836584190838039"/><circle cx="519.6978188212961" cy="154.92938256822526" r="1.880337567999959"/><circle cx="339.70629647374153" cy="81.02546691894531" r="2.234684599097818"/></g>
+<text x="30" y="60" font-size="44">🟢</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><circle cx="70" cy="150" r="26" fill="url(#bg1)" stroke="#0D9488" stroke-width="3"/><circle cx="112" cy="150" r="26" fill="url(#bg2)" stroke="#0D9488" stroke-width="3"/><circle cx="154" cy="150" r="26" fill="url(#bg1)" stroke="#0D9488" stroke-width="3"/><circle cx="196" cy="150" r="26" fill="url(#bg2)" stroke="#0D9488" stroke-width="3"/><circle cx="238" cy="150" r="26" fill="url(#bg1)" stroke="#0D9488" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Anabaena</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Anabaena cylindrica</text>
+</g>
+</svg>

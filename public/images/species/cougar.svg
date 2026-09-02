@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cougar illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ea6934"/><stop offset="1" stop-color="#C2410C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fe7d48"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe9b4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><rect width="26" height="26" fill="none"/><rect width="26" height="9" fill="#fe7d48" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="432.58083663880825" cy="156.82733207009733" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="222.30508650653064" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="128.5316279437393" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="380.01915474422276" cy="150.69463391788304" r="4.000453890999779"/><circle cx="71.5200500562787" cy="45.42677556164563" r="2.451036692596972"/><circle cx="322.3756525758654" cy="77.97160046175122" r="2.432216852903366"/></g>
+<text x="30" y="55" font-size="44">🐆</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><g stroke="#C2410C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M96 210 q-6 -58 54 -62 q60 4 54 62 Z" fill="url(#bg1)"/><path d="M112 152 q-26 -18 -44 -6 M188 152 q26 -18 44 -6" fill="url(#bg1)" stroke="#C2410C"/><circle cx="172" cy="132" r="5" fill="#C2410C"/><path d="M110 208 l-6 26 M134 210 l-2 26 M164 210 l4 26 M190 208 l8 24" fill="none"/><path d="M204 194 q34 6 40 26 q6 20 -8 24" fill="none"/></g><path d="M96 210 q-6 -58 54 -62 q60 4 54 62 Z" fill="url(#tx)" opacity="0.9"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cougar</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Puma concolor</text>
+</g>
+</svg>

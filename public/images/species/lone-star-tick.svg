@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Lone star tick illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f1ef"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="280.93126870691776" cy="168.53973881341517" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="230.4054317297414" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="143.67034030146897" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="316.40142587944865" cy="40.696574626490474" r="2.946430803509429"/><circle cx="56.28207546658814" cy="78.54587303474545" r="3.482624898897484"/><circle cx="260.1240592263639" cy="55.29673174954951" r="4.409370156470686"/></g>
+<text x="30" y="63" font-size="44">🕷️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><ellipse cx="150" cy="128" rx="30" ry="34" fill="url(#bg1)" stroke="#44403C" stroke-width="3"/><ellipse cx="150" cy="128" rx="30" ry="34" fill="url(#tx)"/><circle cx="150" cy="84" r="19" fill="url(#bg2)" stroke="#44403C" stroke-width="3"/><circle cx="142" cy="80" r="1.8" fill="#1c1917"/><circle cx="147" cy="80" r="1.8" fill="#1c1917"/><circle cx="152" cy="80" r="1.8" fill="#1c1917"/><circle cx="157" cy="80" r="1.8" fill="#1c1917"/><path d="M124 116 q-40 8 -66 90" stroke="#44403C" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M124 126 q-40 8 -66 106" stroke="#44403C" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M124 136 q-40 8 -66 122" stroke="#44403C" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M124 146 q-40 8 -66 138" stroke="#44403C" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 116 q40 8 66 90" stroke="#44403C" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 126 q40 8 66 106" stroke="#44403C" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 136 q40 8 66 122" stroke="#44403C" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 146 q40 8 66 138" stroke="#44403C" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Lone star tick</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Amblyomma americanum</text>
+</g>
+</svg>

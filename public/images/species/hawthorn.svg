@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Hawthorn illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4f9f"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#896f47"/><stop offset="1" stop-color="#6B5129"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff63b3"/><stop offset="1" stop-color="#6B5129"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcfff"/><stop offset="1" stop-color="#ffe8ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="402.3214014619589" cy="127.15979978442192" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="234.96250775177032" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="140.48903869464993" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="331.6982944589108" cy="136.55136567540467" r="2.7646270715631545"/><circle cx="497.9529515095055" cy="84.94145754724741" r="2.8082451762165874"/><circle cx="281.99738652445376" cy="112.9319869261235" r="3.394874197198078"/></g>
+<text x="30" y="55" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M138 210 q-6 -70 12 -128 q18 58 12 128 Z" fill="#6B5129" stroke="#ae3858" stroke-width="3"/><circle cx="92" cy="92" r="44" fill="url(#bg1)" stroke="#DB2777" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#bg1)" stroke="#DB2777" stroke-width="3"/><circle cx="206" cy="96" r="42" fill="url(#bg1)" stroke="#DB2777" stroke-width="3"/><circle cx="124" cy="52" r="36" fill="url(#bg1)" stroke="#DB2777" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#tx)" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Hawthorn</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Crataegus monogyna</text>
+</g>
+</svg>

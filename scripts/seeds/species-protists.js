@@ -46,7 +46,6 @@ export const PROTIST_ROWS = [
   ['golden-alga', 'Mallomonas', 'Mallomonas caudata', '🌟', 'A golden alga armored in intricate silica scales.'],
   ['brown-alga', 'Fucus vesiculosus', 'Fucus vesiculosus', '🪸', 'Bladder wrack — the air-bladder seaweed of rocky shores.'],
   ['brown-alga', 'Sargassum', 'Sargassum natans', '🪸', 'The floating golden seaweed that forms the Sargasso Sea.'],
-  ['brown-alga-kelp', 'Giant kelp', 'Macrocystis pyrifera', '🌲', 'The fastest-growing organism on Earth, up to 60 cm a day.'],
   ['brown-alga-kelp', 'Bull kelp', 'Nereocystis luetkeana', '🌲', 'The whip-cracked kelp with a bulb that pops.'],
   ['brown-alga-kelp', 'Sugar kelp', 'Saccharina latissima', '🌲', 'The sweet, ruffled kelp farmed for food and packaging.'],
   ['red-alga', 'Irish moss', 'Chondrus crispus', '🌺', 'The red seaweed that thickens your ice cream as carrageenan.'],

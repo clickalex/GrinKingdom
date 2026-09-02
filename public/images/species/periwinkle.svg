@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Periwinkle illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="374.16809916496277" cy="207.87245817482471" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="268.6889781849459" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="151.94461569190025" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="245.0833531934768" cy="50.911841336637735" r="2.3685734434984624"/><circle cx="430.66868477500975" cy="78.38839101605117" r="3.2737667122855783"/><circle cx="171.52084377594292" cy="88.87951635755599" r="2.024885010905564"/></g>
+<text x="30" y="69" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EC4899" stroke-width="2.6"/><ellipse cx="175.37821774332593" cy="81.21730917565918" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(12.55565692692188 175.37821774332593 81.21730917565918)"/><ellipse cx="163.16768710960812" cy="96.69447090929103" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(59.572378962085274 163.16768710960812 96.69447090929103)"/><ellipse cx="146.68454242303355" cy="99.80407139259412" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(97.32616730529634 146.68454242303355 99.80407139259412)"/><ellipse cx="126.38093879232213" cy="86.03312633471964" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(155.28865667278572 126.38093879232213 86.03312633471964)"/><ellipse cx="124.217745515129" cy="72.90041906865942" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(187.4204309327947 124.217745515129 72.90041906865942)"/><ellipse cx="141.0563910830168" cy="53.464596194058245" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(249.88015383203825 141.0563910830168 53.464596194058245)"/><ellipse cx="153.22924521832192" cy="52.18583231517136" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(277.13465957319136 153.22924521832192 52.18583231517136)"/><ellipse cx="170.78221087392382" cy="61.57813165851062" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(323.0648159186223 170.78221087392382 61.57813165851062)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#965e74" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Periwinkle</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Catharanthus roseus</text>
+</g>
+</svg>

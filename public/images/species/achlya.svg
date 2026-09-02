@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Achlya illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F1F5F9"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8292a9"/><stop offset="1" stop-color="#64748B"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#64748B"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="152.73409739136696" cy="170.66135122440755" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="241.9716195948422" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="128.95426739007235" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="56" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><line x1="106" y1="206" x2="111.62138245999813" y2="96" stroke="#64748B" stroke-width="4"/><circle cx="108.91946358699352" cy="93.29013085365295" r="9" fill="url(#bg1)" stroke="#F1F5F9" stroke-width="2.4"/><line x1="128" y1="206" x2="133.24974618759006" y2="96" stroke="#64748B" stroke-width="4"/><circle cx="130.0251101348549" cy="90.31231786496937" r="9" fill="url(#bg1)" stroke="#F1F5F9" stroke-width="2.4"/><line x1="150" y1="206" x2="149.67649991065264" y2="96" stroke="#64748B" stroke-width="4"/><circle cx="149.97132520191371" cy="93.59767083451152" r="9" fill="url(#bg1)" stroke="#F1F5F9" stroke-width="2.4"/><line x1="172" y1="206" x2="169.37662396021187" y2="96" stroke="#64748B" stroke-width="4"/><circle cx="170.86010774690658" cy="89.71928183920681" r="9" fill="url(#bg1)" stroke="#F1F5F9" stroke-width="2.4"/><line x1="194" y1="206" x2="191.81328644230962" y2="96" stroke="#64748B" stroke-width="4"/><circle cx="193.10146339144558" cy="89.85204116813838" r="9" fill="url(#bg1)" stroke="#F1F5F9" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Achlya</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Achlya bisexualis</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sclerotinia sclerotiorum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8c9cb3"/><stop offset="1" stop-color="#64748B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a0b0c7"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="203.12720246613026" cy="164.86256604082882" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="244.7237351210788" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="149.73523680120707" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">🟤</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><line x1="106" y1="206" x2="108.16720472835004" y2="96" stroke="#E2E8F0" stroke-width="4"/><circle cx="101.86591458134353" cy="95.56888713687658" r="9" fill="url(#bg1)" stroke="#64748B" stroke-width="2.4"/><line x1="128" y1="206" x2="130.2896977411583" y2="96" stroke="#E2E8F0" stroke-width="4"/><circle cx="132.30012371763587" cy="89.92113810963929" r="9" fill="url(#bg1)" stroke="#64748B" stroke-width="2.4"/><line x1="150" y1="206" x2="144.34720742236823" y2="96" stroke="#E2E8F0" stroke-width="4"/><circle cx="144.4501822963357" cy="88.62422067299485" r="9" fill="url(#bg1)" stroke="#64748B" stroke-width="2.4"/><line x1="172" y1="206" x2="177.27471745572984" y2="96" stroke="#E2E8F0" stroke-width="4"/><circle cx="176.07859492581338" cy="89.90389360114932" r="9" fill="url(#bg1)" stroke="#64748B" stroke-width="2.4"/><line x1="194" y1="206" x2="190.2840619366616" y2="96" stroke="#E2E8F0" stroke-width="4"/><circle cx="191.5033981250599" cy="88.24586486257613" r="9" fill="url(#bg1)" stroke="#64748B" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sclerotinia sclerotiorum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Sclerotinia sclerotiorum</text>
+</g>
+</svg>

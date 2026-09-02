@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Fishing spider illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f7b76"/><stop offset="1" stop-color="#57534E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f1ef"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#938f8a"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffbf6"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#938f8a" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="146.3469561189413" cy="157.3287900723517" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="263.71991522144526" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="149.31102353148162" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="129.54986322671175" cy="119.67179709114134" r="1.9643372695427388"/><circle cx="193.13675107434392" cy="130.78824792057276" r="1.6279526429716498"/><circle cx="364.6129199489951" cy="47.28575305081904" r="2.059911333024502"/></g>
+<text x="30" y="55" font-size="44">🕷️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><ellipse cx="150" cy="128" rx="30" ry="34" fill="url(#bg1)" stroke="#57534E" stroke-width="3"/><ellipse cx="150" cy="128" rx="30" ry="34" fill="url(#tx)"/><circle cx="150" cy="84" r="19" fill="url(#bg2)" stroke="#57534E" stroke-width="3"/><circle cx="142" cy="80" r="1.8" fill="#1c1917"/><circle cx="147" cy="80" r="1.8" fill="#1c1917"/><circle cx="152" cy="80" r="1.8" fill="#1c1917"/><circle cx="157" cy="80" r="1.8" fill="#1c1917"/><path d="M124 116 q-40 8 -66 90" stroke="#57534E" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M124 126 q-40 8 -66 106" stroke="#57534E" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M124 136 q-40 8 -66 122" stroke="#57534E" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M124 146 q-40 8 -66 138" stroke="#57534E" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 116 q40 8 66 90" stroke="#57534E" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 126 q40 8 66 106" stroke="#57534E" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 136 q40 8 66 122" stroke="#57534E" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 146 q40 8 66 138" stroke="#57534E" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Fishing spider</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Dolomedes fimbriatus</text>
+</g>
+</svg>

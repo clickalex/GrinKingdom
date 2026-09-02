@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cabbage illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff43d"/><stop offset="1" stop-color="#FACC15"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff51"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbd"/><stop offset="1" stop-color="#ffffda"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="212.0478741824627" cy="156.875986084342" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="252.01173533219844" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="132.2712115291506" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="72.95588402077556" cy="115.2942603174597" r="2.5458262371830642"/><circle cx="238.65971110761166" cy="151.31142134778202" r="3.169656079262495"/><circle cx="332.2369788493961" cy="49.51582469046116" r="3.6472089802846313"/></g>
+<text x="30" y="67" font-size="44">🥬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FACC15" stroke-width="2.6"/><ellipse cx="173.3887085896112" cy="86.48285066515318" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(25.898959002603576 173.3887085896112 86.48285066515318)"/><ellipse cx="161.41776211073497" cy="97.56199236700851" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(63.95067785620318 161.41776211073497 97.56199236700851)"/><ellipse cx="143.32825688274977" cy="99.19638942318153" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(104.86873968289315 143.32825688274977 99.19638942318153)"/><ellipse cx="128.3123009453528" cy="89.23718408867398" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(146.52663097857322 128.3123009453528 89.23718408867398)"/><ellipse cx="124.75322225990543" cy="70.26500889695642" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(193.82504664368372 124.75322225990543 70.26500889695642)"/><ellipse cx="136.41967237837338" cy="55.53401479156655" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(238.51197873988735 136.41967237837338 55.53401479156655)"/><ellipse cx="162.36762591195196" cy="54.88913129143856" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(298.4034984910447 162.36762591195196 54.88913129143856)"/><ellipse cx="171.66796544329748" cy="62.73530838152416" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(326.44786831198377 171.66796544329748 62.73530838152416)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9fbc2a" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cabbage</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Brassica oleracea</text>
+</g>
+</svg>

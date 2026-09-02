@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cranberry illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4f9f"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff63b3"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcfff"/><stop offset="1" stop-color="#fff0ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="408.12314599752426" cy="205.69645176641643" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="268.4215687215328" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="147.05297047272325" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="66" font-size="44">🔴</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#DB2777" stroke-width="2.6"/><ellipse cx="174.69726877516493" cy="83.50166362882496" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(18.214137930381334 174.69726877516493 83.50166362882496)"/><ellipse cx="167.52004842114513" cy="93.73287958043231" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(47.63524418286354 167.52004842114513 93.73287958043231)"/><ellipse cx="137.6922708132711" cy="97.14067443437841" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(118.25354700389201 137.6922708132711 97.14067443437841)"/><ellipse cx="129.8773771977123" cy="91.1980081660105" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(140.70966405987147 129.8773771977123 91.1980081660105)"/><ellipse cx="124.02479003419343" cy="74.9522091951704" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(182.50221159455333 124.02479003419343 74.9522091951704)"/><ellipse cx="132.86940033352556" cy="57.94581988286238" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(228.7863101570433 132.86940033352556 57.94581988286238)"/><ellipse cx="159.5703897193552" cy="53.68505419660473" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(291.59798860877214 159.5703897193552 53.68505419660473)"/><ellipse cx="173.8843142474658" cy="66.51700595875721" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(336.72624526734654 173.8843142474658 66.51700595875721)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#8c405c" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cranberry</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Vaccinium macrocarpon</text>
+</g>
+</svg>

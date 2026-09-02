@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Purple heron illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5b697d"/><stop offset="1" stop-color="#334155"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F8FAFC"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6f7d91"/><stop offset="1" stop-color="#F8FAFC"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#dbe9fd"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="30" height="16" patternUnits="userSpaceOnUse"><rect width="30" height="16" fill="none"/><path d="M3 8 q7 -6 12 0 q7 -6 12 0" stroke="#6f7d91" stroke-width="2.4" fill="none" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="432.09192380309105" cy="188.72296465560794" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="259.534720312804" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="155.2775306906551" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="100.89452757500112" cy="111.25074663199484" r="3.566285440698266"/><circle cx="66.47094430401921" cy="147.0749856159091" r="2.4172711113933474"/><circle cx="204.40333059988916" cy="74.18411139398813" r="3.1247056040447205"/></g>
+<text x="30" y="58" font-size="44">🐦</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M96 148 q14 -38 48 -36 q40 2 50 30 q6 16 -2 24 q-12 12 -34 10 q-16 -2 -30 6 q-12 7 -24 4 q-10 -3 -6 -12 q5 -10 -2 -16 Z" fill="url(#bg1)" stroke="#334155" stroke-width="3" stroke-linejoin="round"/><path d="M96 148 q14 -38 48 -36 q40 2 50 30 q6 16 -2 24 q-12 12 -34 10 q-16 -2 -30 6 q-12 7 -24 4 q-10 -3 -6 -12 q5 -10 -2 -16 Z" fill="url(#tx)"/><circle cx="108" cy="126" r="3.4" fill="#1c1917"/><path d="M92 132 q-14 -4 -24 2" stroke="#F8FAFC" stroke-width="4" fill="none"/><path d="M128 176 q-14 20 -10 42 M128 176 q-6 30 -2 46" stroke="#334155" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 170 q4 26 2 52" stroke="#F8FAFC" stroke-width="6" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Purple heron</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ardea purpurea</text>
+</g>
+</svg>

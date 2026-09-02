@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Garden asparagus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5ffee"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#51bc79" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#51bc79" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="273.6811004579067" cy="133.4865525830537" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="251.70005289372057" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="145.6396453641355" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="149.89417306147516" cy="103.6417621653527" r="3.2990796624217182"/><circle cx="539.7324231360108" cy="45.04196367226541" r="3.2042716573923826"/><circle cx="130.53493560291827" cy="92.36443718895316" r="3.2898031000513583"/></g>
+<text x="30" y="64" font-size="44">🥬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M99 236 q-24 -47.29360662819818 -48 -94.58721325639635" stroke="#A7F3D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -54.65273896837607 -32 -109.30547793675214" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -62.140243703499436 -16 -124.28048740699887" stroke="#A7F3D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -73.9018222829327 0 -147.8036445658654" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -64.41671415767632 16 -128.83342831535265" stroke="#A7F3D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -52.91392517904751 32 -105.82785035809502" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -44.46081019588746 48 -88.92162039177492" stroke="#A7F3D0" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Garden asparagus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Asparagus officinalis</text>
+</g>
+</svg>

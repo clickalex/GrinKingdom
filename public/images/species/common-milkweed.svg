@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common milkweed illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff67b6"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7bca"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="414.57988664507866" cy="203.21968998759985" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="215.94970882404596" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="123.97216120734811" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="198.89885501936078" cy="78.99388042278588" r="3.666508600814268"/><circle cx="341.922720791772" cy="156.9189647771418" r="3.371990425279364"/><circle cx="401.52140310034156" cy="96.46657614037395" r="2.4641657257452607"/></g>
+<text x="30" y="64" font-size="44">🦋</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F43F8E" stroke-width="2.6"/><ellipse cx="173.28587843689576" cy="86.67612849536813" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(26.413018489569613 173.28587843689576 86.67612849536813)"/><ellipse cx="157.4102751808516" cy="99.00458486989831" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(73.44051876334649 157.4102751808516 99.00458486989831)"/><ellipse cx="145.1645237119081" cy="99.58128537202734" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(100.718265563842 145.1645237119081 99.58128537202734)"/><ellipse cx="131.24508593036944" cy="92.62187561007698" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(136.16546009759756 131.24508593036944 92.62187561007698)"/><ellipse cx="124.12347826363833" cy="73.66375397566068" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(185.5862226446413 124.12347826363833 73.66375397566068)"/><ellipse cx="134.60186745719884" cy="56.66164830152006" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(233.68416684040912 134.60186745719884 56.66164830152006)"/><ellipse cx="160.7855633020163" cy="54.162418543598406" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(294.50857079048785 160.7855633020163 54.162418543598406)"/><ellipse cx="173.79661478350883" cy="66.33096751389841" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(336.24188318275753 173.79661478350883 66.33096751389841)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9b6773" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common milkweed</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Asclepias syriaca</text>
+</g>
+</svg>

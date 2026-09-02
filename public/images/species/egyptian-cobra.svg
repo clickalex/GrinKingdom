@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Egyptian cobra illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2dedb"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#807c78" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#807c78" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="219.62516151368618" cy="196.2178556062281" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="231.1413596291095" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="142.28128058835864" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="263.7726176716387" cy="70.52666758187115" r="2.5959643721580505"/><circle cx="186.71132341958582" cy="147.95244989916682" r="2.3880293425172567"/><circle cx="236.27550687640905" cy="107.36067444086075" r="3.1628923919051886"/></g>
+<text x="30" y="68" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M40,161.0870886854285 L70,195.8107721534075 L100,184.35276285473725 L130,116.21848247622762 L160,104.16164984250372 L190,121.07851530227174 L220,180.49806604891307 L250,195.70705424915204 L280,164.79871121019488" stroke="#44403C" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,161.0870886854285 L70,195.8107721534075 L100,184.35276285473725 L130,116.21848247622762 L160,104.16164984250372 L190,121.07851530227174 L220,180.49806604891307 L250,195.70705424915204 L280,164.79871121019488" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,161.0870886854285 L70,195.8107721534075 L100,184.35276285473725 L130,116.21848247622762 L160,104.16164984250372 L190,121.07851530227174 L220,180.49806604891307 L250,195.70705424915204 L280,164.79871121019488" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="153.0870886854285" r="13" fill="url(#bg1)" stroke="#44403C" stroke-width="3"/><circle cx="24" cy="151.0870886854285" r="2.8" fill="#1c1917"/><path d="M36 145.0870886854285 l-7 -7 M34 147.0870886854285 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Egyptian cobra</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Naja haje</text>
+</g>
+</svg>

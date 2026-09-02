@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Blue-ringed octopus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c14343"/><stop offset="1" stop-color="#991B1B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFF1F2"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d55757"/><stop offset="1" stop-color="#FFF1F2"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffc3c3"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#d55757" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#d55757" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="312.94162578880787" cy="197.75523388758302" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="232.5896134134382" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="122.34301317483187" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🐙</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M108 132 q-8 -42 42 -46 q50 4 42 46 Z" fill="url(#bg1)" stroke="#991B1B" stroke-width="3"/><path d="M108 132 q-8 -42 42 -46 q50 4 42 46 Z" fill="url(#tx)"/><circle cx="138" cy="106" r="5" fill="#1c1917"/><circle cx="162" cy="106" r="5" fill="#1c1917"/><path d="M106 128 q-32 44 -68 74" stroke="#991B1B" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M128 128 q-16 44 -34 74" stroke="#991B1B" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 128 q0 44 0 74" stroke="#991B1B" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M172 128 q16 44 34 74" stroke="#991B1B" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M194 128 q32 44 68 74" stroke="#991B1B" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Blue-ringed octopus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Hapalochlaena maculosa</text>
+</g>
+</svg>

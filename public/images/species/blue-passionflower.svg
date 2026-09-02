@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Blue passionflower illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a462ff"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b876ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe2ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#b876ff" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#b876ff" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="219.2527637630701" cy="175.44689607806504" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="231.65776262059808" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="155.78605456277728" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="139.51700358651578" cy="123.97094356827438" r="3.162204250926152"/><circle cx="169.9373119790107" cy="85.53764773532748" r="3.4085044031962752"/><circle cx="199.775515710935" cy="135.2596974093467" r="1.9115957049652934"/></g>
+<text x="30" y="53" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#7C3AED" stroke-width="2.6"/><ellipse cx="174.96948573043852" cy="82.6899061382708" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(16.185381642179017 174.96948573043852 82.6899061382708)"/><ellipse cx="160.17334952871275" cy="98.08649298730072" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(66.9656652957155 160.17334952871275 98.08649298730072)"/><ellipse cx="146.07889217287294" cy="99.72549966811084" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(98.67397676512651 146.07889217287294 99.72549966811084)"/><ellipse cx="129.89572128104797" cy="91.21867987872935" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(140.64587083340538 129.89572128104797 91.21867987872935)"/><ellipse cx="125.11267358370506" cy="69.05413082011644" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(196.82270966188196 125.11267358370506 69.05413082011644)"/><ellipse cx="141.81868236684" cy="53.21914148031243" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(251.6593445062001 141.81868236684 53.21914148031243)"/><ellipse cx="153.83074938726887" cy="52.26192585751577" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(278.4726050992718 153.83074938726887 52.26192585751577)"/><ellipse cx="173.80088672305578" cy="66.3399309262082" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(336.2652609992958 173.80088672305578 66.3399309262082)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#5364ac" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Blue passionflower</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Passiflora caerulea</text>
+</g>
+</svg>

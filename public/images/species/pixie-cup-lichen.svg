@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pixie cup lichen illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8dcb35"/><stop offset="1" stop-color="#65A30D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#968f8a"/><stop offset="1" stop-color="#78716C"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a1df49"/><stop offset="1" stop-color="#78716C"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb5"/><stop offset="1" stop-color="#ffffe3"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="368.17829951643944" cy="90.05353485234082" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="241.41692967619747" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="126.87141295522451" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="69" font-size="44">🧚</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><circle cx="163.7879583472386" cy="167.00794901698828" r="26.588113641366363" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="145.26824693195522" cy="160.42434272821993" r="27.03476101672277" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="87.77613747864962" cy="244.76555574219674" r="22.087075161281973" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="183.11067662201822" cy="160.54429514333606" r="18.365676655434072" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="210.08506440091878" cy="175.46638215426356" r="14.897088004276156" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="115.46346207149327" cy="161.71965380199254" r="19.657452342566103" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="169.86153395846486" cy="229.69233416952193" r="28.12880510604009" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="68.31515795085579" cy="233.20740403141826" r="17.72746887942776" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="239.20132059138268" cy="166.54147580266" r="25.427776849363" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="74.35365127399564" cy="166.23213274870068" r="28.167779417708516" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="160.7147815776989" cy="212.66654767096043" r="19.341364613268524" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="218.3804909326136" cy="249.33790070936084" r="15.510592626873404" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="189.49467790313065" cy="188.60756629146636" r="13.463552399072796" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="114.88432465586811" cy="176.16694238968194" r="22.591250337660313" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pixie cup lichen</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cladonia pyxidata</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="California poppy illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e14444"/><stop offset="1" stop-color="#B91C1C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f55858"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffc4c4"/><stop offset="1" stop-color="#ffe9d6"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="401.5147254616022" cy="119.9040587246418" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="222.57178536616266" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="134.9763795826584" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="190.6729250960052" cy="56.679424131289124" r="4.344809895381331"/><circle cx="445.1526567712426" cy="90.26345046237111" r="2.1881770736072212"/><circle cx="547.8199767973274" cy="46.93152317777276" r="2.551502540241927"/></g>
+<text x="30" y="60" font-size="44">🧡</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#B91C1C" stroke-width="2.6"/><ellipse cx="174.84423983590887" cy="83.07607836284792" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(17.14773936134912 174.84423983590887 83.07607836284792)"/><ellipse cx="163.26022260017095" cy="96.64406379274291" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(59.33559997576929 163.26022260017095 96.64406379274291)"/><ellipse cx="137.88917262557578" cy="97.23734734828423" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(117.76207714030618 137.88917262557578 97.23734734828423)"/><ellipse cx="126.66411522854143" cy="86.58268469600418" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(153.83579610207596 126.66411522854143 86.58268469600418)"/><ellipse cx="125.89690444577269" cy="67.0010280017264" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(202.02166549645213 125.89690444577269 67.0010280017264)"/><ellipse cx="137.08383286672998" cy="55.1709041934093" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(240.21309239439879 137.08383286672998 55.1709041934093)"/><ellipse cx="153.40331917163456" cy="52.206496301952406" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(277.5214232904713 153.40331917163456 52.206496301952406)"/><ellipse cx="172.37900411486967" cy="63.782555595326656" rx="17" ry="20" fill="url(#bg1)" stroke="#B91C1C" stroke-width="2.6" transform="rotate(329.398750704216 172.37900411486967 63.782555595326656)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#783926" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">California poppy</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Eschscholzia californica</text>
+</g>
+</svg>

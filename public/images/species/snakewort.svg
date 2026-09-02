@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Snakewort illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38e1a9"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5ffee"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4cf5bd"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#b8ffff"/><stop offset="1" stop-color="#fcffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="226.46458879113197" cy="167.84640471450984" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="267.04429424833506" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="157.32562483288348" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="64" font-size="44">🌱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><circle cx="224.5106400316581" cy="187.00967838522047" r="15.129876371473074" fill="url(#bg2)" stroke="#10B981" stroke-width="2.4"/><circle cx="106.99922572821379" cy="161.6824907483533" r="14.630052299704403" fill="url(#bg2)" stroke="#10B981" stroke-width="2.4"/><circle cx="201.0966773936525" cy="218.13188432715833" r="24.182104513049126" fill="url(#bg1)" stroke="#10B981" stroke-width="2.4"/><circle cx="113.95622421987355" cy="243.15211756620556" r="23.456671899184585" fill="url(#bg2)" stroke="#10B981" stroke-width="2.4"/><circle cx="128.59664110466838" cy="208.8450165465474" r="23.66234152391553" fill="url(#bg1)" stroke="#10B981" stroke-width="2.4"/><circle cx="71.0541455168277" cy="157.3160776635632" r="28.541260418482125" fill="url(#bg2)" stroke="#10B981" stroke-width="2.4"/><circle cx="185.29859001282603" cy="204.52468865551054" r="20.451781581155956" fill="url(#bg1)" stroke="#10B981" stroke-width="2.4"/><circle cx="109.16676120366901" cy="198.202618281357" r="29.698216897901148" fill="url(#bg2)" stroke="#10B981" stroke-width="2.4"/><circle cx="146.98869814630598" cy="204.0583076654002" r="12.8432243373245" fill="url(#bg2)" stroke="#10B981" stroke-width="2.4"/><circle cx="151.2182754278183" cy="243.22783153038472" r="16.491776992566884" fill="url(#bg2)" stroke="#10B981" stroke-width="2.4"/><circle cx="67.23144496791065" cy="236.37711158953607" r="20.87652968801558" fill="url(#bg1)" stroke="#10B981" stroke-width="2.4"/><circle cx="70.88946773204952" cy="158.91638416796923" r="18.1822273847647" fill="url(#bg2)" stroke="#10B981" stroke-width="2.4"/><circle cx="166.57518137712032" cy="197.94110094662756" r="26.70335857383907" fill="url(#bg1)" stroke="#10B981" stroke-width="2.4"/><circle cx="63.68363635148853" cy="167.613884806633" r="12.602968260180205" fill="url(#bg2)" stroke="#10B981" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Snakewort</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Conocephalum conicum</text>
+</g>
+</svg>

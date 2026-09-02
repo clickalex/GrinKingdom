@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Monterey cypress illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9a7d51"/><stop offset="1" stop-color="#7C5F33"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#7C5F33"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#efffe4"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="359.38588850200176" cy="114.33989753946662" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="257.5747926067561" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="146.08023495413363" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="62.17634662054479" cy="159.09944240003824" r="3.9282678379677236"/><circle cx="288.83766825310886" cy="127.26341341622174" r="1.5809940516483039"/><circle cx="290.6202417053282" cy="96.91044163890183" r="2.6307863029651344"/></g>
+<text x="30" y="54" font-size="44">🌲</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><rect x="140" y="186" width="20" height="70" fill="#7C5F33" stroke="#496234" stroke-width="3"/><polygon points="150,116 102,168 198,168" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><polygon points="150,72 111,124 189,124" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><polygon points="150,28 120,80 180,80" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><polygon points="150,-16 129,36 171,36" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><polygon points="150,6 78,72 222,72" fill="url(#tx)" opacity="0.7"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Monterey cypress</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Hesperocyparis macrocarpa</text>
+</g>
+</svg>

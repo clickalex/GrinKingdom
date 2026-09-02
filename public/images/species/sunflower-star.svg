@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sunflower star illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ea6934"/><stop offset="1" stop-color="#C2410C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fe7d48"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe9b4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#fe7d48" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#fe7d48" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="224.66343134641647" cy="91.70641207136214" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="243.3149794768542" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="128.973038662225" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="66" font-size="44">⭐</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><polygon points="150,74 171.16026908252903,120.8753882025019 222.28029523843168,126.51470842750399 184.23803458662553,161.12461179749812 194.67167917422796,211.485291572496 150,186 105.32832082577205,211.485291572496 115.76196541337447,161.12461179749812 77.71970476156832,126.514708427504 128.83973091747097,120.8753882025019" fill="url(#bg1)" stroke="#C2410C" stroke-width="3" stroke-linejoin="round"/><polygon points="150,74 171.16026908252903,120.8753882025019 222.28029523843168,126.51470842750399 184.23803458662553,161.12461179749812 194.67167917422796,211.485291572496 150,186 105.32832082577205,211.485291572496 115.76196541337447,161.12461179749812 77.71970476156832,126.514708427504 128.83973091747097,120.8753882025019" fill="url(#tx)"/><circle cx="150" cy="150" r="9" fill="#FFFBEB" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sunflower star</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pycnopodia helianthoides</text>
+</g>
+</svg>

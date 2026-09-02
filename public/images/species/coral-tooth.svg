@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Coral tooth illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFF7ED"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="none"/><circle cx="3" cy="3" r="1.1" fill="#ffffff" opacity="0.5"/><circle cx="8" cy="7" r="1.1" fill="#ffffff" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="321.4115469157696" cy="156.6349207609892" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="234.9032906955108" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="138.6651653982699" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="373.08724674396217" cy="81.80835095234215" r="1.6312842769548297"/><circle cx="411.5478059928864" cy="43.91757491976023" r="2.665407445980236"/><circle cx="142.41815337911248" cy="158.94656118005514" r="1.7030135239474475"/></g>
+<text x="30" y="63" font-size="44">🍄</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M76 150 q74 -92 148 0 Z" fill="url(#bg1)" stroke="#FFF7ED" stroke-width="3"/><path d="M76 150 q74 -92 148 0 Z" fill="url(#tx)"/><rect x="136" y="150" width="28" height="58" fill="#FFFBEB" stroke="#fff9ec" stroke-width="3"/><line x1="150" y1="150" x2="150" y2="168" stroke="#FFF7ED" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Coral tooth</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Hericium coralloides</text>
+</g>
+</svg>

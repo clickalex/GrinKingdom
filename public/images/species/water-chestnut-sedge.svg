@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Water chestnut sedge illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#5eff9a" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#5eff9a" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="369.86052975058556" cy="161.59083056263626" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="256.55892869923264" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="121.16300187073648" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">🌰</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M99 236 q-24 -42.62541680643335 -48 -85.2508336128667" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -55.98322763689794 -32 -111.96645527379587" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -59.830613907193765 -16 -119.66122781438753" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -74.22155895526521 0 -148.44311791053042" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -64.56444354006089 16 -129.12888708012179" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -50.79951615817845 32 -101.5990323163569" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -42.406882603652775 48 -84.81376520730555" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Water chestnut sedge</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Eleocharis dulcis</text>
+</g>
+</svg>

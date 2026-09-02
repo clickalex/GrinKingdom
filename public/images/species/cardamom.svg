@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cardamom illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dc7b31"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f08f45"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffbb1"/><stop offset="1" stop-color="#ffffca"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="353.34914341568947" cy="193.18547031842172" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="216.5311503689736" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="155.20546901971102" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="460.1181655097753" cy="147.93181270360947" r="3.963788512861356"/><circle cx="113.50739129818976" cy="78.0399913713336" r="2.5642991540953517"/><circle cx="528.7856438662857" cy="61.536345249041915" r="1.999128964729607"/></g>
+<text x="30" y="68" font-size="44">☕</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#B45309" stroke-width="2.6"/><ellipse cx="174.95650119612952" cy="82.73106325461198" rx="17" ry="20" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6" transform="rotate(16.287718693348545 174.95650119612952 82.73106325461198)"/><ellipse cx="158.50446774046102" cy="98.67979578101836" rx="17" ry="20" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6" transform="rotate(70.90745692519972 158.50446774046102 98.67979578101836)"/><ellipse cx="148.82241445026267" cy="99.97537124951738" rx="17" ry="20" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6" transform="rotate(92.59591426608563 148.82241445026267 99.97537124951738)"/><ellipse cx="131.4615205654202" cy="92.82748673456427" rx="17" ry="20" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6" transform="rotate(135.48103760340229 131.4615205654202 92.82748673456427)"/><ellipse cx="124.77032309047448" cy="70.2012396560971" rx="17" ry="20" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6" transform="rotate(193.98187943303336 124.77032309047448 70.2012396560971)"/><ellipse cx="138.0225814763232" cy="54.69828351594259" rx="17" ry="20" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6" transform="rotate(242.56965383343956 138.0225814763232 54.69828351594259)"/><ellipse cx="151.74662162217058" cy="52.05421544443356" rx="17" ry="20" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6" transform="rotate(273.8519027114689 151.74662162217058 52.05421544443356)"/><ellipse cx="173.6563477832039" cy="66.04200592409745" rx="17" ry="20" fill="url(#bg1)" stroke="#B45309" stroke-width="2.6" transform="rotate(335.4859468470441 173.6563477832039 66.04200592409745)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#755a1a" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cardamom</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Elettaria cardamomum</text>
+</g>
+</svg>
