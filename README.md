@@ -1,19 +1,18 @@
 # 🌍 GrinKingdom — The Species Kingdom
 
 A playful, colorful encyclopedia of **every kingdom of life** — from viruses to humans.
-Explore species with photos, fun facts, scientific classification, and an interactive
-**rotatable 3D viewer**.
-
-> **Status:** early development. Homepage + site shell live; catalog, detail pages and 3D next.
+Explore **1,000 species** with photos, fun facts, scientific classification, and an interactive
+**rotatable 3D viewer** for every one of them.
 
 ---
 
-## ✨ What's planned
+## ✨ Features
 
-- 🔍 **Explore** — searchable, filterable catalog across all 8 kingdoms
-- 📄 **Species pages** — quick facts, taxonomy, fun facts, related species
-- 🧊 **3D viewer** — drag to rotate/tilt/zoom any species (Three.js)
-- 🌐 **Live tree-of-life search** — reach millions of species via the GBIF API
+- 🧭 **Explore** — a searchable, filterable catalog of 1,000 species with pagination & sorting
+- 📄 **Species pages** — species photo, quick facts, taxonomy, fun facts, prev/next & related species
+- 🧊 **3D viewer** — drag to rotate/tilt/zoom any species (Three.js), auto-rotating exhibits
+- 📷 **Species photos** — every species gets its own generated specimen illustration (offline-safe SVG)
+- 🌐 **Live tree-of-life search** — reach millions of described species via the GBIF API
 - 🎨 Playful, colorful, fully responsive design
 
 ## 🧱 The 8 kingdoms
@@ -29,7 +28,8 @@ Viruses 🦠 · Archaea 🌋 · Bacteria 🧫 · Protists 🫧 · Fungi 🍄 · 
 | Framework | React 18 + Vite 5 |
 | Routing | React Router (hash routing, works on any static host) |
 | 3D | Three.js (WebGL) |
-| Data | JSON modules (no backend) |
+| Data | JS modules (no backend) — 48 hand-curated + 952 generated species |
+| Images | Generated SVG specimen plates (no external hotlinks) |
 | Hosting | GitHub Pages now → any host + custom domain later |
 
 ---
@@ -41,6 +41,15 @@ npm install
 npm run dev        # http://localhost:5173
 npm run build      # static output in ./dist
 npm run preview    # preview the production build
+```
+
+### Regenerating the species database & illustrations
+
+The 952 generated species live in `scripts/seeds/` (species lists + group configs + fact banks).
+To rebuild `src/data/species-extra.js` and the 1,000 SVG specimen plates in `public/images/species/`:
+
+```bash
+npm run gen
 ```
 
 ---
@@ -71,16 +80,22 @@ The site will appear at: **`https://clickalex.github.io/GrinKingdom/`**
 
 ```
 src/
-├── data/          # kingdoms + species database
-├── components/    # Navbar, Footer, cards, 3D viewer, ...
-├── pages/         # Home, Explore, Species, Kingdom, 3D Gallery, About
-└── styles/        # global design system
+├── data/            # kingdoms + species database (curated + generated)
+├── components/      # Navbar, Footer, cards, 3D viewer, ...
+├── pages/           # Home, Explore, Species, Kingdom, 3D Gallery, About
+├── three/           # procedural 3D specimen builders (Three.js)
+└── styles/          # global design system
+scripts/
+├── seeds/           # species seed lists, group configs, fact banks
+├── gen-species.mjs  # data + SVG specimen generator (npm run gen)
+└── smoke-ssr.mjs    # server-render smoke test for every page & species
+public/images/species/  # 1,000 generated specimen illustrations
 ```
 
 ## 🙏 Data & credits
 
 - Live species search powered by the [GBIF API](https://www.gbif.org/) (free).
-- Illustrations are original, generated for this project.
+- Illustrations are original, generated for this project (no external image hotlinks).
 
 ---
 

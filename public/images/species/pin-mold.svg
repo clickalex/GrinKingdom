@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pin mold illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d0cac6"/><stop offset="1" stop-color="#A8A29E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e4deda"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="415.45512452721596" cy="91.59908945672214" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="269.3992899544537" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="155.73391783982515" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="550.9241240285337" cy="110.6806540582329" r="1.6887723051477224"/><circle cx="424.9960896745324" cy="67.89944326505065" r="2.8934987895190716"/><circle cx="397.7357352897525" cy="59.82539133168757" r="3.857797290896997"/></g>
+<text x="30" y="62" font-size="44">📌</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><line x1="106" y1="206" x2="102.65547514148057" y2="96" stroke="#F5F5F4" stroke-width="4"/><circle cx="103.73139532655478" cy="88.0996370408684" r="9" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><line x1="128" y1="206" x2="122.71962928585708" y2="96" stroke="#F5F5F4" stroke-width="4"/><circle cx="122.02714828308672" cy="93.67341732420027" r="9" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><line x1="150" y1="206" x2="152.6998276328668" y2="96" stroke="#F5F5F4" stroke-width="4"/><circle cx="148.60683688055724" cy="92.88267431221902" r="9" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><line x1="172" y1="206" x2="167.97562409099191" y2="96" stroke="#F5F5F4" stroke-width="4"/><circle cx="172.70766145084053" cy="90.62374753318727" r="9" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><line x1="194" y1="206" x2="195.46135603170842" y2="96" stroke="#F5F5F4" stroke-width="4"/><circle cx="189.16634345520288" cy="92.68292678706348" r="9" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pin mold</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Mucor mucedo</text>
+</g>
+</svg>

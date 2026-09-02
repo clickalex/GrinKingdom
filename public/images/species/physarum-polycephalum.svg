@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Physarum polycephalum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff43d"/><stop offset="1" stop-color="#FACC15"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffbc29"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff51"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbd"/><stop offset="1" stop-color="#ffffc1"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="44" height="44" patternUnits="userSpaceOnUse"><rect width="44" height="44" fill="none"/><circle cx="12" cy="12" r="5" fill="#ffff51" opacity="0.85"/><circle cx="36" cy="34" r="4" fill="#ffff51" opacity="0.7"/><circle cx="12" cy="12" r="10" fill="#ffff51" opacity="0.25"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="446.99627719819546" cy="190.07975122891366" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="267.83437160309404" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="129.98853765428066" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">🍮</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M204.85541766136885,150 Q200.6460573907676,160.56746949558146 192.84240534374766,174.73507425794378 Q173.09621192437734,169.29961749575313 174.6338432766497,192.66706814084628 Q167.24756925739348,210.59883413151118 150,203.63007373269647 Q149.0408785857726,214.51568818370194 124.53973378101365,194.09847466551395 Q109.42243751907233,175.57163124646374 88.37800739892711,185.57747401623055 Q94.6839916566431,172.81641602679156 110.6190373301506,150 Q115.30443965491179,140.19851338723674 108.56454246931322,126.07722744066268 Q98.44602925946276,94.99268158128046 114.0491385166533,87.73128133497256 Q123.20732662105002,76.59520978688755 150,90.57328991033137 Q145.963767868001,94.43161786797717 173.8187306607142,108.74474832384438 Q192.54212201075998,121.93840480114594 212.6227174553349,113.84475721977648 Z" fill="url(#bg1)" stroke="#FACC15" stroke-width="3"/><path d="M204.85541766136885,150 Q200.6460573907676,160.56746949558146 192.84240534374766,174.73507425794378 Q173.09621192437734,169.29961749575313 174.6338432766497,192.66706814084628 Q167.24756925739348,210.59883413151118 150,203.63007373269647 Q149.0408785857726,214.51568818370194 124.53973378101365,194.09847466551395 Q109.42243751907233,175.57163124646374 88.37800739892711,185.57747401623055 Q94.6839916566431,172.81641602679156 110.6190373301506,150 Q115.30443965491179,140.19851338723674 108.56454246931322,126.07722744066268 Q98.44602925946276,94.99268158128046 114.0491385166533,87.73128133497256 Q123.20732662105002,76.59520978688755 150,90.57328991033137 Q145.963767868001,94.43161786797717 173.8187306607142,108.74474832384438 Q192.54212201075998,121.93840480114594 212.6227174553349,113.84475721977648 Z" fill="url(#tx)"/><circle cx="151.4080419111997" cy="150.4494450474158" r="13" fill="#F59E0B" opacity="0.8"/><circle cx="125.71484558284283" cy="124.65586504712701" r="5" fill="#ffffff" opacity="0.5"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Physarum polycephalum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Physarum polycephalum</text>
+</g>
+</svg>

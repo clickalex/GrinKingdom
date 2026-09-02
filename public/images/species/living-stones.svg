@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Living stones illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#cdffff"/><stop offset="1" stop-color="#A5F3FC"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#40e37c"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e1ffff"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="155.5066941678524" cy="154.78987178765237" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="234.05331735033542" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="131.3400116097182" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">🪨</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><rect x="128" y="84" width="44" height="152" rx="22" fill="url(#bg1)" stroke="#A5F3FC" stroke-width="3"/><ellipse cx="184" cy="150" rx="26" ry="17" fill="url(#bg1)" stroke="#A5F3FC" stroke-width="2.6" transform="rotate(0 184 150)"/><ellipse cx="171.19865326319695" cy="173.4549444740409" rx="26" ry="17" fill="url(#bg2)" stroke="#A5F3FC" stroke-width="2.6" transform="rotate(51.42857142857143 171.19865326319695 173.4549444740409)"/><ellipse cx="142.4342882454853" cy="179.2478373654547" rx="26" ry="17" fill="url(#bg1)" stroke="#A5F3FC" stroke-width="2.6" transform="rotate(102.85714285714286 142.4342882454853 179.2478373654547)"/><ellipse cx="119.36705849131775" cy="163.01651217352673" rx="26" ry="17" fill="url(#bg2)" stroke="#A5F3FC" stroke-width="2.6" transform="rotate(154.2857142857143 119.36705849131775 163.01651217352673)"/><ellipse cx="119.36705849131775" cy="136.98348782647327" rx="26" ry="17" fill="url(#bg1)" stroke="#A5F3FC" stroke-width="2.6" transform="rotate(205.71428571428572 119.36705849131775 136.98348782647327)"/><ellipse cx="142.4342882454853" cy="120.7521626345453" rx="26" ry="17" fill="url(#bg2)" stroke="#A5F3FC" stroke-width="2.6" transform="rotate(257.1428571428571 142.4342882454853 120.7521626345453)"/><ellipse cx="171.19865326319695" cy="126.5450555259591" rx="26" ry="17" fill="url(#bg1)" stroke="#A5F3FC" stroke-width="2.6" transform="rotate(308.5714285714286 171.19865326319695 126.5450555259591)"/><circle cx="150" cy="150" r="12" fill="#22C55E"/><rect x="128" y="84" width="44" height="152" rx="22" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Living stones</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lithops lesliei</text>
+</g>
+</svg>

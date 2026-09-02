@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Bdellovibrio bacteriovorus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8b8eff"/><stop offset="1" stop-color="#6366F1"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e5f0ff"/><stop offset="1" stop-color="#C7D2FE"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9fa2ff"/><stop offset="1" stop-color="#C7D2FE"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="257.6650135219097" cy="147.86814426071942" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="248.28107896260917" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="144.74000449292362" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="130.21698847413063" cy="114.61227643303573" r="1.7232606508769095"/><circle cx="438.0169791355729" cy="138.11994994990528" r="3.8858836290892214"/><circle cx="52.22011145204306" cy="76.36009975336492" r="3.6332974252291024"/></g>
+<text x="30" y="53" font-size="44">🎯</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#6366F1" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/><path d="M150 178 q-40 46 -90 30" stroke="#6366F1" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M150 178 q40 46 90 30" stroke="#6366F1" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Bdellovibrio bacteriovorus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Bdellovibrio bacteriovorus</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Saprolegnia illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b2c1d6"/><stop offset="1" stop-color="#94A3B8"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#94A3B8"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="420.65118603408337" cy="94.41982998512685" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="245.36580168642104" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="154.94758935645223" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="63" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><line x1="106" y1="206" x2="108.39950882829726" y2="96" stroke="#94A3B8" stroke-width="4"/><circle cx="100.95656877662987" cy="92.66899267025292" r="9" fill="url(#bg1)" stroke="#E2E8F0" stroke-width="2.4"/><line x1="128" y1="206" x2="129.03203836269677" y2="96" stroke="#94A3B8" stroke-width="4"/><circle cx="133.50841774605215" cy="93.42660649493337" r="9" fill="url(#bg1)" stroke="#E2E8F0" stroke-width="2.4"/><line x1="150" y1="206" x2="152.5326463887468" y2="96" stroke="#94A3B8" stroke-width="4"/><circle cx="144.72250235639513" cy="89.82466576248407" r="9" fill="url(#bg1)" stroke="#E2E8F0" stroke-width="2.4"/><line x1="172" y1="206" x2="168.00361778959632" y2="96" stroke="#94A3B8" stroke-width="4"/><circle cx="173.27649509627372" cy="90.95654747076333" r="9" fill="url(#bg1)" stroke="#E2E8F0" stroke-width="2.4"/><line x1="194" y1="206" x2="194.11540738493204" y2="96" stroke="#94A3B8" stroke-width="4"/><circle cx="199.81847057770938" cy="92.11812354251742" r="9" fill="url(#bg1)" stroke="#E2E8F0" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Saprolegnia</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Saprolegnia parasitica</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Lupin illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d07dff"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e491ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="171.91927790641785" cy="127.53007647581398" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="211.62292050663382" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="158.76950111240149" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🌺</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#A855F7" stroke-width="2.6"/><ellipse cx="172.8434226045978" cy="87.46170322388441" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(28.52687789429366 172.8434226045978 87.46170322388441)"/><ellipse cx="165.17142473278807" cy="95.49043362782922" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(54.301755046451646 165.17142473278807 95.49043362782922)"/><ellipse cx="148.33398871377352" cy="99.95067842805835" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(93.67387916016767 148.33398871377352 99.95067842805835)"/><ellipse cx="129.964107891119" cy="91.29533245619295" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(140.40880898787833 129.964107891119 91.29533245619295)"/><ellipse cx="124.04158236767975" cy="74.64318555347072" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(183.24088381338657 124.04158236767975 74.64318555347072)"/><ellipse cx="131.6514084774197" cy="58.996101519785576" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(225.1126584675214 131.6514084774197 58.996101519785576)"/><ellipse cx="162.40699071555366" cy="54.908821816794145" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(298.5021639153289 162.40699071555366 54.908821816794145)"/><ellipse cx="169.14784242415092" cy="59.76433562844742" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(317.4303455780762 169.14784242415092 59.76433562844742)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#6d66ad" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Lupin</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lupinus polyphyllus</text>
+</g>
+</svg>

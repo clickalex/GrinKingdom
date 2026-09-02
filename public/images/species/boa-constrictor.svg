@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Boa constrictor illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ba6836"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ce7c4a"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe8b6"/><stop offset="1" stop-color="#fffff0"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#ce7c4a" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#ce7c4a" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="353.09655368328094" cy="206.03073826991022" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="256.6905507585034" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="131.33272220380604" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="69.89839633926749" cy="53.192270919680595" r="2.3172235081437975"/><circle cx="98.86779767461121" cy="107.84247905947268" r="4.386010654270649"/><circle cx="532.3037119489163" cy="53.76769513823092" r="3.5942878858186305"/></g>
+<text x="30" y="52" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M40,178.74952167216344 L70,194.52664085183494 L100,162.36645949155985 L130,131.14961336987278 L160,105.2212136170555 L190,152.49561424463712 L220,166.16133259514794 L250,182.17892783626846 L280,157.99353734538752" stroke="#92400E" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,178.74952167216344 L70,194.52664085183494 L100,162.36645949155985 L130,131.14961336987278 L160,105.2212136170555 L190,152.49561424463712 L220,166.16133259514794 L250,182.17892783626846 L280,157.99353734538752" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,178.74952167216344 L70,194.52664085183494 L100,162.36645949155985 L130,131.14961336987278 L160,105.2212136170555 L190,152.49561424463712 L220,166.16133259514794 L250,182.17892783626846 L280,157.99353734538752" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="170.74952167216344" r="13" fill="url(#bg1)" stroke="#92400E" stroke-width="3"/><circle cx="24" cy="168.74952167216344" r="2.8" fill="#1c1917"/><path d="M36 162.74952167216344 l-7 -7 M34 164.74952167216344 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Boa constrictor</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Boa constrictor</text>
+</g>
+</svg>

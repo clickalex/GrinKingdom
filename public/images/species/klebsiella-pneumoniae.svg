@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Klebsiella pneumoniae illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ce0ce"/><stop offset="1" stop-color="#14B8A6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b7ffff"/><stop offset="1" stop-color="#99F6E4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#50f4e2"/><stop offset="1" stop-color="#99F6E4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bcffff"/><stop offset="1" stop-color="#f9ffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#50f4e2" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#50f4e2" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="219.98922608792782" cy="138.82431400939822" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="231.90947526600212" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="130.8887515962124" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="278.87778288684785" cy="140.6708843074739" r="3.7320441242773086"/><circle cx="170.865490231663" cy="102.88651382550597" r="1.6939743245020509"/><circle cx="354.7599780280143" cy="48.48157676868141" r="2.5570855736732483"/></g>
+<text x="30" y="56" font-size="44">🏥</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#14B8A6" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/><path d="M150 178 q-40 46 -90 30" stroke="#14B8A6" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M150 178 q40 46 90 30" stroke="#14B8A6" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Klebsiella pneumoniae</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Klebsiella pneumoniae</text>
+</g>
+</svg>

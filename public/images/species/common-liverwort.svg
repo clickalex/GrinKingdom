@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common liverwort illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5cfbc1"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#efffff"/><stop offset="1" stop-color="#D1FAE5"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#70ffd5"/><stop offset="1" stop-color="#D1FAE5"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#dcffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="172.5746836513281" cy="205.7599948067218" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="257.07531245425344" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="124.77049753069878" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="68" font-size="44">🌱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><circle cx="135.24920531082898" cy="180.34433452412486" r="27.10679946374148" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="214.50468922499567" cy="206.5709362970665" r="12.904477588366717" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="152.23721771501005" cy="178.02702265325934" r="27.035664011724293" fill="url(#bg2)" stroke="#34D399" stroke-width="2.4"/><circle cx="235.52224135491997" cy="222.97402708791196" r="12.391115297097713" fill="url(#bg2)" stroke="#34D399" stroke-width="2.4"/><circle cx="195.35061748232692" cy="151.0044694878161" r="28.917600037995726" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="172.91985564865172" cy="175.5873879417777" r="28.260080742649734" fill="url(#bg2)" stroke="#34D399" stroke-width="2.4"/><circle cx="165.56640210561454" cy="249.5153309777379" r="14.794644899200648" fill="url(#bg2)" stroke="#34D399" stroke-width="2.4"/><circle cx="79.13216593209654" cy="242.24097377154976" r="13.58419997105375" fill="url(#bg2)" stroke="#34D399" stroke-width="2.4"/><circle cx="147.18657279387116" cy="177.88043143227696" r="21.768423013854772" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="217.55791082046926" cy="191.76852283999324" r="23.641845130361617" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="171.42489049583673" cy="215.6496803741902" r="27.313859256450087" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="224.8220993578434" cy="218.59602956101298" r="18.47058839444071" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="158.56498484965414" cy="187.8576601156965" r="26.464576462749392" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="141.26699198037386" cy="198.38685444556177" r="20.315149430651218" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common liverwort</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Marchantia polymorpha</text>
+</g>
+</svg>

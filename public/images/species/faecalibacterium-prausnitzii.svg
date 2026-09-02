@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Faecalibacterium prausnitzii illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38e1a9"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5ffee"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4cf5bd"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#b8ffff"/><stop offset="1" stop-color="#fcffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#4cf5bd" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#4cf5bd" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="423.1601380556822" cy="152.10432032123208" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="240.4748379299417" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="146.3059210497886" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="132.13835334405303" cy="81.93924004212022" r="1.6534466093871742"/><circle cx="228.92859576269984" cy="80.99228603765368" r="3.312566762790084"/><circle cx="533.8809821475297" cy="98.48529420793056" r="1.8393313076812774"/></g>
+<text x="30" y="57" font-size="44">🧫</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#10B981" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Faecalibacterium prausnitzii</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Faecalibacterium prausnitzii</text>
+</g>
+</svg>

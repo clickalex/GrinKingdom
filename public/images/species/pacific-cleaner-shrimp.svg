@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pacific cleaner shrimp illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff67b6"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7bca"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><rect width="26" height="26" fill="none"/><rect width="26" height="9" fill="#ff7bca" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="302.71371722221375" cy="169.95942804962397" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="213.45913158729672" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="154.79297241196036" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="334.0112361125648" cy="64.87914658151567" r="3.234072288265452"/><circle cx="246.86964040622115" cy="103.41856379061937" r="3.3701739362441003"/><circle cx="407.89833321236074" cy="98.76287864521146" r="3.681220121216029"/></g>
+<text x="30" y="58" font-size="44">🦐</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M70 168 q30 -40 74 -44 q60 -6 86 24 q14 16 10 26 q-6 10 -24 8 q-44 -6 -66 6 q-30 14 -44 26 q-14 12 -26 8 q-10 -4 -6 -18 q6 -20 -4 -36 Z" fill="url(#bg1)" stroke="#F43F8E" stroke-width="3" stroke-linejoin="round"/><path d="M70 168 q30 -40 74 -44 q60 -6 86 24 q14 16 10 26 q-6 10 -24 8 q-44 -6 -66 6 q-30 14 -44 26 q-14 12 -26 8 q-10 -4 -6 -18 q6 -20 -4 -36 Z" fill="url(#tx)"/><path d="M60 166 q-22 4 -30 -6 M62 176 q-18 8 -24 2" stroke="#F5F5F4" stroke-width="3" fill="none" stroke-linecap="round"/><circle cx="96" cy="140" r="4" fill="#1c1917"/><path d="M136 190 q18 12 14 30 q-20 -8 -14 -30 Z" fill="#F5F5F4" stroke="#F43F8E" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pacific cleaner shrimp</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lysmata amboinensis</text>
+</g>
+</svg>

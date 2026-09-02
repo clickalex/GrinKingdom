@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cinnamon bracket illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#807c78" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#807c78" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="140.17459511756897" cy="144.1136734932661" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="269.4587425002828" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="122.56897572427988" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="57" font-size="44">🪵</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M150 236 q-6 -110 -8 -170 M150 236 q-10 -90 -60 -132 M150 236 q0 -100 40 -140 M150 236 q12 -80 72 -106" stroke="#44403C" stroke-width="11" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M150 236 q-6 -110 -8 -170" stroke="#FDE68A" stroke-width="4" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cinnamon bracket</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Hymenochaete rubiginosa</text>
+</g>
+</svg>

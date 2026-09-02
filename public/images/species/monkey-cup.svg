@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Monkey cup illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6262"/><stop offset="1" stop-color="#EF4444"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#EF4444"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#fffff8"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="266.2648403644562" cy="184.25115013495088" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="213.35913735441864" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="132.8391766641289" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="62" font-size="44">🏺</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M150 240 q-8 -70 2 -138" stroke="#EF4444" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.6"/><path d="M126 92 q-24 -4 -34 26 q24 -2 34 -26 Z" fill="url(#bg2)" stroke="#16A34A" stroke-width="3"/><path d="M174 92 q24 -4 34 26 q-24 -2 -34 -26 Z" fill="url(#bg2)" stroke="#16A34A" stroke-width="3"/><line x1="124" y1="104" x2="110" y2="94" stroke="#fff" stroke-width="2.4"/><line x1="176" y1="104" x2="190" y2="94" stroke="#fff" stroke-width="2.4"/><path d="M128 92 h44 v26 h-44 Z" fill="url(#bg1)" stroke="#16A34A" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Monkey cup</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Nepenthes rajah</text>
+</g>
+</svg>

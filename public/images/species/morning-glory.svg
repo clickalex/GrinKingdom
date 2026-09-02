@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Morning glory illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#88cdff"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9ce1ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f2ffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="401.1305669695139" cy="175.47660601325333" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="212.52012368291616" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="135.89402393437922" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="58" font-size="44">🌅</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#60A5FA" stroke-width="2.6"/><ellipse cx="175.7668927614106" cy="79.20657810270961" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(7.678101500100269 175.7668927614106 79.20657810270961)"/><ellipse cx="162.01408191181886" cy="97.28411697138489" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(62.47858749486497 162.01408191181886 97.28411697138489)"/><ellipse cx="145.1290252422735" cy="99.57505942025443" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(100.79789248948528 145.1290252422735 99.57505942025443)"/><ellipse cx="126.78419777854165" cy="86.8053843467356" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(153.24192121893424 126.78419777854165 86.8053843467356)"/><ellipse cx="126.20576881372794" cy="66.32597054250714" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(203.77115143111965 126.20576881372794 66.32597054250714)"/><ellipse cx="132.1377980015252" cy="58.56039830569614" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(226.6062878904382 132.1377980015252 58.56039830569614)"/><ellipse cx="151.5908701207406" cy="52.04496877526503" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(273.50796598783216 151.5908701207406 52.04496877526503)"/><ellipse cx="170.30952842467542" cy="61.0153293429997" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(321.36467774719245 170.30952842467542 61.0153293429997)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#42a4b4" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Morning glory</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ipomoea purpurea</text>
+</g>
+</svg>

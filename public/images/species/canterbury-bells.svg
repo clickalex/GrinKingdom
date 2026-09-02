@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Canterbury bells illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a462ff"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b876ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe2ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="149.0304146707058" cy="146.15028267726302" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="249.715880099684" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="151.45864005200565" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="62" font-size="44">🔔</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#7C3AED" stroke-width="2.6"/><ellipse cx="175.21496865280082" cy="81.8530178534132" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(14.115403428107955 175.21496865280082 81.8530178534132)"/><ellipse cx="165.9942570500448" cy="94.92158511381372" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(52.036181638933854 165.9942570500448 94.92158511381372)"/><ellipse cx="140.2725119751451" cy="98.25699021218398" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(111.97080842816052 140.2725119751451 98.25699021218398)"/><ellipse cx="127.93512889700305" cy="88.69495792889425" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(148.06501775733716 127.93512889700305 88.69495792889425)"/><ellipse cx="124.19425280255761" cy="73.07173409175792" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(187.00818193877194 124.19425280255761 73.07173409175792)"/><ellipse cx="135.04054802458336" cy="56.370452969426466" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(234.8749050745886 135.04054802458336 56.370452969426466)"/><ellipse cx="151.4586111264071" cy="52.03779685873162" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(273.21600619002623 151.4586111264071 52.03779685873162)"/><ellipse cx="169.47266419840986" cy="60.0969263031423" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(318.4993862697186 169.47266419840986 60.0969263031423)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#5356a7" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Canterbury bells</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Campanula medium</text>
+</g>
+</svg>

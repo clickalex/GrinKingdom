@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Stag's horn clubmoss illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#52df86" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#52df86" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="180.38226380944252" cy="113.99235743097961" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="249.49420016258955" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="143.18966989405453" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="356.2768780067563" cy="50.57360480539501" r="4.201980084646493"/><circle cx="409.5414078235626" cy="125.92088032513857" r="3.354093620320782"/><circle cx="371.9525428954512" cy="119.90595701150596" r="4.177705648820847"/></g>
+<text x="30" y="62" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M99 236 q-24 -44.85200342698954 -48 -89.70400685397908" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -56.52076063957065 -32 -113.0415212791413" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -64.47674739384092 -16 -128.95349478768185" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -70.74495608988218 0 -141.48991217976436" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -65.98370749899186 16 -131.96741499798372" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -56.368653528159484 32 -112.73730705631897" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -43.63378316326998 48 -87.26756632653996" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Stag's horn clubmoss</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lycopodium clavatum</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Giant moray illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9f2e"/><stop offset="1" stop-color="#D97706"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a3735"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb342"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffae"/><stop offset="1" stop-color="#ffffbd"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#ffb342" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#ffb342" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="444.812211766839" cy="150.59947759844363" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="247.13869588449597" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="126.36591270565987" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="58" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M60 130 q70 -80 160 -10 q40 30 44 44 q-10 20 -40 6 q-60 -30 -118 20 q-30 26 -46 16 q-10 -6 0 -20 q18 -30 0 -56 Z" fill="url(#bg1)" stroke="#D97706" stroke-width="3" stroke-linejoin="round"/><path d="M60 130 q70 -80 160 -10 q40 30 44 44 q-10 20 -40 6 q-60 -30 -118 20 q-30 26 -46 16 q-10 -6 0 -20 q18 -30 0 -56 Z" fill="url(#tx)"/><circle cx="84" cy="108" r="3.6" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Giant moray</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Gymnothorax javanicus</text>
+</g>
+</svg>

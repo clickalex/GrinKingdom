@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Gregarina illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fffdff"/><stop offset="1" stop-color="#E9D5FF"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9c40ec"/><stop offset="1" stop-color="#7E22CE"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#7E22CE"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="379.21929359436035" cy="175.66380763426423" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="247.38600009586662" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="120.31112841330469" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">🦠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M40,159.98779237978346 L70,179.51543884711614 L100,162.48733917625293 L130,125.02055389783678 L160,120.20405285536843 L190,142.88958278095058 L220,177.75493335692954 L250,173.92799781544957 L280,167.50544192065604" stroke="#E9D5FF" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,159.98779237978346 L70,179.51543884711614 L100,162.48733917625293 L130,125.02055389783678 L160,120.20405285536843 L190,142.88958278095058 L220,177.75493335692954 L250,173.92799781544957 L280,167.50544192065604" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,159.98779237978346 L70,179.51543884711614 L100,162.48733917625293 L130,125.02055389783678 L160,120.20405285536843 L190,142.88958278095058 L220,177.75493335692954 L250,173.92799781544957 L280,167.50544192065604" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="151.98779237978346" r="13" fill="url(#bg1)" stroke="#E9D5FF" stroke-width="3"/><circle cx="24" cy="149.98779237978346" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Gregarina</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Gregarina polymorpha</text>
+</g>
+</svg>

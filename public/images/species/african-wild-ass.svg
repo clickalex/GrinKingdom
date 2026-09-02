@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="African wild ass illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFF7ED"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#FFF7ED"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><rect width="26" height="26" fill="none"/><rect width="26" height="9" fill="#807c78" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="223.51615846157074" cy="198.00910868681967" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="261.48345563560724" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="146.3416761904955" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="304.75478290580213" cy="80.84918814711273" r="4.0546424626372755"/><circle cx="482.4284732621163" cy="55.75202745385468" r="2.2356768243480474"/><circle cx="101.18163235485554" cy="158.87132077477872" r="3.985629369271919"/></g>
+<text x="30" y="67" font-size="44">🐴</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><g stroke="#44403C" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M96 210 q-6 -58 54 -62 q60 4 54 62 Z" fill="url(#bg1)"/><path d="M96 210 q-6 -58 54 -62 q60 4 54 62 Z" fill="url(#tx)"/><path d="M112 152 q-26 -18 -44 -6 M188 152 q26 -18 44 -6" fill="url(#bg1)" stroke="#44403C"/><circle cx="172" cy="132" r="5" fill="#44403C"/><path d="M110 208 l-6 26 M134 210 l-2 26 M164 210 l4 26 M190 208 l8 24" fill="none"/><path d="M96 190 q-22 4 -34 -14 M96 206 q-20 10 -30 0" fill="none"/></g></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">African wild ass</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Equus africanus</text>
+</g>
+</svg>

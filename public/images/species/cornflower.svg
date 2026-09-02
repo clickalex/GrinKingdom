@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cornflower illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffcf"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="449.9118412286043" cy="181.18909648619592" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="210.43767726514488" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="124.22770258039236" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">💙</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.6"/><ellipse cx="174.43711325776783" cy="84.19552460144266" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(19.967081027996276 174.43711325776783 84.19552460144266)"/><ellipse cx="160.56694473052576" cy="97.92846273721295" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(66.01979805444019 160.56694473052576 97.92846273721295)"/><ellipse cx="148.70713041398935" cy="99.97030982878141" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(92.8502512341688 148.70713041398935 99.97030982878141)"/><ellipse cx="126.45411577866206" cy="86.1786272245753" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(154.90569136777748 126.45411577866206 86.1786272245753)"/><ellipse cx="126.25071266250728" cy="66.23232158353788" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(204.01567780629566 126.25071266250728 66.23232158353788)"/><ellipse cx="137.79334069926034" cy="54.80945344536025" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(241.99900498856016 137.79334069926034 54.80945344536025)"/><ellipse cx="160.5014144150568" cy="54.04473044871139" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(293.8222485565482 160.5014144150568 54.04473044871139)"/><ellipse cx="172.98571355330844" cy="64.78330596645748" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(332.13678965430495 172.98571355330844 64.78330596645748)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#9b921f" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cornflower</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Centaurea cyanus</text>
+</g>
+</svg>

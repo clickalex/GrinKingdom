@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Signal crayfish illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4e4e"/><stop offset="1" stop-color="#DC2626"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FEF2F2"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6262"/><stop offset="1" stop-color="#FEF2F2"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcece"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ff6262" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ff6262" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="254.36527207493782" cy="208.69239301420748" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="242.18331454787403" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="136.70355018228292" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="61" font-size="44">🦞</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M70 168 q30 -40 74 -44 q60 -6 86 24 q14 16 10 26 q-6 10 -24 8 q-44 -6 -66 6 q-30 14 -44 26 q-14 12 -26 8 q-10 -4 -6 -18 q6 -20 -4 -36 Z" fill="url(#bg1)" stroke="#DC2626" stroke-width="3" stroke-linejoin="round"/><path d="M70 168 q30 -40 74 -44 q60 -6 86 24 q14 16 10 26 q-6 10 -24 8 q-44 -6 -66 6 q-30 14 -44 26 q-14 12 -26 8 q-10 -4 -6 -18 q6 -20 -4 -36 Z" fill="url(#tx)"/><path d="M60 166 q-22 4 -30 -6 M62 176 q-18 8 -24 2" stroke="#FEF2F2" stroke-width="3" fill="none" stroke-linecap="round"/><circle cx="96" cy="140" r="4" fill="#1c1917"/><path d="M136 190 q18 12 14 30 q-20 -8 -14 -30 Z" fill="#FEF2F2" stroke="#DC2626" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Signal crayfish</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pacifastacus leniusculus</text>
+</g>
+</svg>

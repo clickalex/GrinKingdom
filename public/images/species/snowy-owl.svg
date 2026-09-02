@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Snowy owl illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ba6836"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ce7c4a"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe8b6"/><stop offset="1" stop-color="#fffff0"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="30" height="16" patternUnits="userSpaceOnUse"><rect width="30" height="16" fill="none"/><path d="M3 8 q7 -6 12 0 q7 -6 12 0" stroke="#ce7c4a" stroke-width="2.4" fill="none" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="249.80603076517582" cy="186.77272081375122" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="237.7556939329952" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="140.20129464566708" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="326.55238188803196" cy="124.61937790736556" r="2.566109381848946"/><circle cx="304.50567667372525" cy="95.14098913408816" r="3.0282236323691905"/><circle cx="381.5369427856058" cy="159.83234162442386" r="2.1901473810430616"/></g>
+<text x="30" y="62" font-size="44">🦉</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M110 150 q-2 -52 40 -54 q42 2 40 54 q0 30 -40 30 q-40 0 -40 -30 Z" fill="url(#bg1)" stroke="#92400E" stroke-width="3"/><path d="M110 150 q-2 -52 40 -54 q42 2 40 54 q0 30 -40 30 q-40 0 -40 -30 Z" fill="url(#tx)"/><path d="M126 108 q-10 -16 2 -28 q12 4 16 14 M174 108 q10 -16 -2 -28 q-12 4 -16 14" fill="#FDE68A" stroke="#92400E" stroke-width="2.6"/><circle cx="134" cy="126" r="9" fill="#fbbf24" stroke="#92400E" stroke-width="2.4"/><circle cx="166" cy="126" r="9" fill="#fbbf24" stroke="#92400E" stroke-width="2.4"/><circle cx="134" cy="126" r="3.4" fill="#1c1917"/><circle cx="166" cy="126" r="3.4" fill="#1c1917"/><path d="M150 148 l-4 6 M150 154 l0 5 M150 160 l4 5" stroke="#FDE68A" stroke-width="2.6" fill="none"/><path d="M124 172 l-8 18 M176 172 l8 18" stroke="#92400E" stroke-width="5" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Snowy owl</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Bubo scandiacus</text>
+</g>
+</svg>

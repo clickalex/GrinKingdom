@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sacred lotus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd0fc"/><stop offset="1" stop-color="#F9A8D4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe4ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="272.41679199039936" cy="198.21088079363108" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="245.72621652390808" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="141.5760336536914" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="53" font-size="44">🪷</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F9A8D4" stroke-width="2.6"/><ellipse cx="175.94302150131932" cy="77.58802377096792" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(3.7938993176343025 175.94302150131932 77.58802377096792)"/><ellipse cx="159.43386422360012" cy="98.36442621621882" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(68.7252297881532 159.43386422360012 98.36442621621882)"/><ellipse cx="144.85948084068065" cy="99.52624230843956" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(101.40321090768423 144.85948084068065 99.52624230843956)"/><ellipse cx="126.29130892943759" cy="85.85135299984937" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(155.76544599857587 126.29130892943759 85.85135299984937)"/><ellipse cx="126.50130523496377" cy="65.72887266579521" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(205.33839680633363 126.50130523496377 65.72887266579521)"/><ellipse cx="138.29224183384028" cy="54.57092482590552" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(243.23716998193305 138.29224183384028 54.57092482590552)"/><ellipse cx="150.3228705892647" cy="52.00185058171519" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(270.7115229839447 150.3228705892647 52.00185058171519)"/><ellipse cx="173.8654687419603" cy="66.47666402470583" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(336.62136351714395 173.8654687419603 66.47666402470583)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9ea69d" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sacred lotus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Nelumbo nucifera</text>
+</g>
+</svg>

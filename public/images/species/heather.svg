@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Heather illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff67b6"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7bca"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="271.9654194265604" cy="105.13907457701862" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="213.3433947013691" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="131.55825160443783" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="379.15893889032304" cy="87.78173226863146" r="1.716716208262369"/><circle cx="266.11299846321344" cy="42.13279811665416" r="3.2156498227268457"/><circle cx="375.85082116536796" cy="79.15323694236577" r="2.309604462934658"/></g>
+<text x="30" y="69" font-size="44">💜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F43F8E" stroke-width="2.6"/><ellipse cx="174.37622760670502" cy="84.34859304446039" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(20.356359328777994 174.37622760670502 84.34859304446039)"/><ellipse cx="158.2798835669854" cy="98.75049489660964" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(71.43035993299577 158.2798835669854 98.75049489660964)"/><ellipse cx="138.56517052636437" cy="97.55428446088106" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(116.0911933694527 138.56517052636437 97.55428446088106)"/><ellipse cx="129.15307067468947" cy="90.3420591041421" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(143.30281201263185 129.15307067468947 90.3420591041421)"/><ellipse cx="124.08227752199417" cy="74.09218476878317" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(184.5593838042402 124.08227752199417 74.09218476878317)"/><ellipse cx="133.99229310362514" cy="57.08810867361248" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(231.99857785236546 133.99229310362514 57.08810867361248)"/><ellipse cx="156.60513449357242" cy="52.787373799198875" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(284.7169233940145 156.60513449357242 52.787373799198875)"/><ellipse cx="169.75963345716298" cy="60.401450618963814" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(319.46295507347605 169.75963345716298 60.401450618963814)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9b6773" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Heather</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Calluna vulgaris</text>
+</g>
+</svg>

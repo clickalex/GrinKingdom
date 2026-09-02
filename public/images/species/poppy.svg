@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Poppy illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6c6c"/><stop offset="1" stop-color="#EF4444"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff8080"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffecec"/><stop offset="1" stop-color="#fffff6"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="452.3490138351917" cy="117.44448750279844" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="237.53186051733792" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="150.91427102684975" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="61" font-size="44">🌹</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EF4444" stroke-width="2.6"/><ellipse cx="175.62111919799764" cy="80.08228105834651" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(9.793345165389578 175.62111919799764 80.08228105834651)"/><ellipse cx="164.92267650209044" cy="95.65338348785697" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(54.97393006430996 164.92267650209044 95.65338348785697)"/><ellipse cx="142.6471713911544" cy="99.02028578632996" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(106.42745450534943 142.6471713911544 99.02028578632996)"/><ellipse cx="125.12780042237112" cy="82.99188502427629" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(163.06248931722033 125.12780042237112 82.99188502427629)"/><ellipse cx="124.09089577780604" cy="73.99492087230954" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(184.7923598025913 124.09089577780604 73.99492087230954)"/><ellipse cx="133.83216694323602" cy="57.2045314079045" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(231.54939366325075 133.83216694323602 57.2045314079045)"/><ellipse cx="158.093213302476" cy="53.19234201903606" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(288.13623150537757 158.093213302476 53.19234201903606)"/><ellipse cx="174.20668970622114" cy="67.24116372485896" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(338.59540133229603 174.20668970622114 67.24116372485896)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#986a46" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Poppy</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Papaver rhoeas</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Reindeer lichen illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d0cac6"/><stop offset="1" stop-color="#A8A29E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e4deda"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="150.3194011747837" cy="192.91729333810508" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="263.2145235640928" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="130.33818757161498" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="70" font-size="44">🦌</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><circle cx="131.92146180197597" cy="214.19063813518733" r="21.701971587259322" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="129.2181689897552" cy="211.40465806238353" r="28.696682490874082" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="101.9963817531243" cy="184.89200442563742" r="23.499735825229436" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="186.09208228066564" cy="189.49164741206914" r="28.30641340976581" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="76.94799061864614" cy="164.72800557967275" r="18.537145843729377" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="142.68379647284746" cy="208.95558472257107" r="28.059513655956835" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="213.56431030668318" cy="234.3950437847525" r="18.510103217326105" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="214.25117688719183" cy="245.81257249228656" r="20.793007488828152" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="85.48201665747911" cy="166.80923593230546" r="28.613448423799127" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="180.98828067071736" cy="196.2222241796553" r="17.31344557693228" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="187.02951977960765" cy="233.3467114949599" r="16.728964576497674" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="64.46257834788412" cy="168.94847168587148" r="29.09748096484691" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="192.1604657638818" cy="244.73473315592855" r="25.622381490189582" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="78.28051033895463" cy="225.50405466463417" r="25.109738265629858" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Reindeer lichen</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cladonia rangiferina</text>
+</g>
+</svg>

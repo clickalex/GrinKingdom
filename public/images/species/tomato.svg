@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Tomato illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a462ff"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b876ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe2ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="408.59838113188744" cy="117.1490818541497" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="222.74441253393888" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="143.9390996005386" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="345.8634427655488" cy="155.6502873171121" r="3.468181731412187"/><circle cx="280.0597597565502" cy="44.06492327339947" r="2.991160764126107"/><circle cx="107.91758010163903" cy="46.086362693458796" r="2.0207552870269865"/></g>
+<text x="30" y="63" font-size="44">🍅</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#7C3AED" stroke-width="2.6"/><ellipse cx="175.95012000293298" cy="77.48591641678517" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(3.549634377286924 175.95012000293298 77.48591641678517)"/><ellipse cx="166.83485975639508" cy="94.2896807917576" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(49.64702883836055 166.83485975639508 94.2896807917576)"/><ellipse cx="139.20535164660149" cy="97.83375618387984" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(114.53057579236382 139.20535164660149 97.83375618387984)"/><ellipse cx="127.73443603586807" cy="88.39279023930804" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(148.9111784974182 127.73443603586807 88.39279023930804)"/><ellipse cx="124.8417156267178" cy="69.9427070976109" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(194.61881971943896 124.8417156267178 69.9427070976109)"/><ellipse cx="135.54387600587162" cy="56.05170159181468" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(236.22005130759123 135.54387600587162 56.05170159181468)"/><ellipse cx="156.69530300806804" cy="52.80939537586838" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(284.9224635830166 156.69530300806804 52.80939537586838)"/><ellipse cx="174.13935601141196" cy="67.08422886779955" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(338.1924325509832 174.13935601141196 67.08422886779955)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#5356a7" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Tomato</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Solanum lycopersicum</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Snapdragon illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d07dff"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e491ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="177.92038187384605" cy="155.19436036236584" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="256.1513095954433" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="150.32398883253336" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="206.06815033592284" cy="149.6061244327575" r="3.6614193795248866"/><circle cx="293.66646775975823" cy="62.647340977564454" r="2.034862882923335"/><circle cx="50.105641689151525" cy="158.31850674003363" r="3.69042542623356"/></g>
+<text x="30" y="63" font-size="44">🐉</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#A855F7" stroke-width="2.6"/><ellipse cx="174.33589029351026" cy="84.44826927466725" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(20.610379740271494 174.33589029351026 84.44826927466725)"/><ellipse cx="166.8139777262098" cy="94.30604097840964" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(49.7073865663855 166.8139777262098 94.30604097840964)"/><ellipse cx="145.6997941151599" cy="99.66946764038747" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(99.52003832072226 145.6997941151599 99.66946764038747)"/><ellipse cx="129.81776431587866" cy="91.13050530485148" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(140.91757581194935 129.81776431587866 91.13050530485148)"/><ellipse cx="127.04638584048573" cy="64.72743552320149" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(208.01418775353451 127.04638584048573 64.72743552320149)"/><ellipse cx="137.5385730647908" cy="54.93618476396442" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(241.3612428316282 137.5385730647908 54.93618476396442)"/><ellipse cx="151.5212838813895" cy="52.041117552966476" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(273.3543444946301 151.5212838813895 52.041117552966476)"/><ellipse cx="168.77154579294523" cy="59.39412917135104" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(316.2184053294753 168.77154579294523 59.39412917135104)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#6d66ad" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Snapdragon</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Antirrhinum majus</text>
+</g>
+</svg>

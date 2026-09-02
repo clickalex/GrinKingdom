@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Grapevine illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b384ff"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c798ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#c798ff" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#c798ff" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="303.4449274837971" cy="124.14419707842171" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="220.87048828136176" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="152.99809348769486" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="287.35481975600123" cy="106.64631576277316" r="4.103597764391452"/><circle cx="281.69432046823204" cy="146.31794173270464" r="4.429073501843959"/><circle cx="148.55924807488918" cy="136.25043299980462" r="4.4647323524113744"/></g>
+<text x="30" y="60" font-size="44">🍇</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#8B5CF6" stroke-width="2.6"/><ellipse cx="175.88370863478" cy="78.26739473652117" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(5.421091002027344 175.88370863478 78.26739473652117)"/><ellipse cx="164.1089346759412" cy="96.15899326121178" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(57.13569033940535 164.1089346759412 96.15899326121178)"/><ellipse cx="138.2510655219783" cy="97.409864115337" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(116.8645014975774 138.2510655219783 97.409864115337)"/><ellipse cx="131.11652838783002" cy="92.49738870884654" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(136.57604742799117 131.11652838783002 92.49738870884654)"/><ellipse cx="124.96272874154971" cy="69.52956340606242" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(195.64055663531371 124.96272874154971 69.52956340606242)"/><ellipse cx="140.11978778975546" cy="53.8004048011216" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(247.66581177250433 140.11978778975546 53.8004048011216)"/><ellipse cx="157.57260240144404" cy="53.040501343892224" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(286.9330424099703 157.57260240144404 53.040501343892224)"/><ellipse cx="174.54064930638256" cy="68.07246557299246" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(340.712168863482 174.54064930638256 68.07246557299246)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#5c78b1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Grapevine</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Vitis vinifera</text>
+</g>
+</svg>

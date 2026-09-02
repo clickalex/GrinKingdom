@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Spirogyra illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#5eff9a" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#5eff9a" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="309.2712691426277" cy="174.50532568618655" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="227.79001054354012" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="123.1897952966392" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="205.43498382903636" cy="124.54608945176005" r="3.033356357831508"/><circle cx="110.65145255066454" cy="138.6551027558744" r="2.1033416998106986"/><circle cx="491.474141664803" cy="44.480932522565126" r="3.6496560014784336"/></g>
+<text x="30" y="55" font-size="44">🟢</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M99 236 q-24 -43.98759417515248 -48 -87.97518835030496" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -56.59110719198361 -32 -113.18221438396722" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -61.061150579713285 -16 -122.12230115942657" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -71.22602096642368 0 -142.45204193284735" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -61.129550237208605 16 -122.25910047441721" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -53.965425808914006 32 -107.93085161782801" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -44.406023163115606 48 -88.81204632623121" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Spirogyra</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Spirogyra porticalis</text>
+</g>
+</svg>

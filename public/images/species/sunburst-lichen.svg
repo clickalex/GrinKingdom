@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sunburst lichen illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9b3e"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaf52"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbe"/><stop offset="1" stop-color="#fffff4"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="none"/><path d="M6 8 L14 6 L12 14 M26 20 L34 18 L32 28 M16 30 L24 28 L22 38" stroke="#ffaf52" stroke-width="1.6" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="320.5796603858471" cy="177.64000307768583" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="263.2172099640593" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="146.9887680374086" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="57" font-size="44">🟠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><circle cx="109.00311791338027" cy="222.220059344545" r="20.257599702570587" fill="url(#bg1)" stroke="#F97316" stroke-width="2.4"/><circle cx="202.37057839985937" cy="211.2541012931615" r="12.681738666258752" fill="url(#bg1)" stroke="#F97316" stroke-width="2.4"/><circle cx="204.4602938136086" cy="208.3340928191319" r="14.088073977269232" fill="url(#bg2)" stroke="#F97316" stroke-width="2.4"/><circle cx="227.02449127100408" cy="172.35472032334656" r="28.326356258243322" fill="url(#bg2)" stroke="#F97316" stroke-width="2.4"/><circle cx="147.01659286860377" cy="215.6902961898595" r="20.32330731069669" fill="url(#bg2)" stroke="#F97316" stroke-width="2.4"/><circle cx="108.00490113906562" cy="177.19468621071428" r="26.16447291802615" fill="url(#bg1)" stroke="#F97316" stroke-width="2.4"/><circle cx="231.31369879469275" cy="214.17312168050557" r="17.694690709467977" fill="url(#bg2)" stroke="#F97316" stroke-width="2.4"/><circle cx="210.46672644093633" cy="239.67157742008567" r="21.702744578942657" fill="url(#bg1)" stroke="#F97316" stroke-width="2.4"/><circle cx="89.59275192115456" cy="184.33941374532878" r="22.635250861756504" fill="url(#bg2)" stroke="#F97316" stroke-width="2.4"/><circle cx="186.2263080244884" cy="207.32868833001703" r="17.6375432331115" fill="url(#bg1)" stroke="#F97316" stroke-width="2.4"/><circle cx="172.95759118627757" cy="176.70944440178573" r="18.405470872297883" fill="url(#bg1)" stroke="#F97316" stroke-width="2.4"/><circle cx="204.54346257727593" cy="167.0448074117303" r="14.544860119465739" fill="url(#bg2)" stroke="#F97316" stroke-width="2.4"/><circle cx="158.4770058793947" cy="208.66136197000742" r="23.753220750018954" fill="url(#bg1)" stroke="#F97316" stroke-width="2.4"/><circle cx="230.23286679759622" cy="209.1083771083504" r="20.899055155925453" fill="url(#bg2)" stroke="#F97316" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sunburst lichen</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Xanthoria elegans</text>
+</g>
+</svg>

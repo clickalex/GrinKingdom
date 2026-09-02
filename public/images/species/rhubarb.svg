@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Rhubarb illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffd4"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="375.8647818863392" cy="101.18000163696706" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="211.87383407726884" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="146.7439293116331" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.6"/><ellipse cx="175.04464761155887" cy="82.44606670853936" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(15.580149641881329 175.04464761155887 82.44606670853936)"/><ellipse cx="161.83158699482834" cy="97.37104592756927" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(62.93113839361133 161.83158699482834 97.37104592756927)"/><ellipse cx="140.42105069245855" cy="98.3118162161051" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(111.61827701869103 140.42105069245855 98.3118162161051)"/><ellipse cx="128.4948557842522" cy="89.48857575030587" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(145.80411400474657 128.4948557842522 89.48857575030587)"/><ellipse cx="124.7937437737807" cy="70.11509343285623" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(194.19391583229734 124.7937437737807 70.11509343285623)"/><ellipse cx="137.67070628313093" cy="54.870034967024324" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(241.6924905445507 137.67070628313093 54.870034967024324)"/><ellipse cx="154.10260963561976" cy="52.30066568213339" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(279.07879852873646 154.10260963561976 52.30066568213339)"/><ellipse cx="173.00720018952623" cy="64.82090431428172" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(332.23827245825066 173.00720018952623 64.82090431428172)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9ca024" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Rhubarb</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Rheum rhabarbarum</text>
+</g>
+</svg>

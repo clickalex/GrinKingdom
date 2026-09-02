@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Golden poison frog illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff43d"/><stop offset="1" stop-color="#FACC15"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#474342"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff51"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbd"/><stop offset="1" stop-color="#ffffcb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="46" height="46" patternUnits="userSpaceOnUse"><rect width="46" height="46" fill="none"/><circle cx="12" cy="12" r="6.5" fill="#ffff51" opacity="0.55"/><circle cx="36" cy="34" r="5" fill="#ffff51" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="299.8621705174446" cy="201.44385002553463" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="260.8201902313158" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="144.10389843396842" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="187.7544023282826" cy="148.2258580531925" r="2.9859816790558398"/><circle cx="211.1476077325642" cy="110.05885525606573" r="4.491882031783462"/><circle cx="75.24774511344731" cy="42.43749060668051" r="1.6928889567498118"/></g>
+<text x="30" y="65" font-size="44">🐸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M96 168 q0 -46 54 -46 q54 0 54 46 q-54 8 -108 0 Z" fill="url(#bg1)" stroke="#FACC15" stroke-width="3"/><path d="M96 168 q0 -46 54 -46 q54 0 54 46 q-54 8 -108 0 Z" fill="url(#tx)"/><circle cx="104" cy="110" r="15" fill="url(#bg1)" stroke="#FACC15" stroke-width="3"/><circle cx="196" cy="110" r="15" fill="url(#bg1)" stroke="#FACC15" stroke-width="3"/><circle cx="104" cy="106" r="6" fill="#1c1917"/><circle cx="196" cy="106" r="6" fill="#1c1917"/><path d="M138 158 q12 10 24 0" stroke="#FACC15" stroke-width="2.6" fill="none"/><path d="M104 164 q-26 12 -34 34" stroke="#FACC15" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M196 164 q26 12 34 34" stroke="#FACC15" stroke-width="6" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Golden poison frog</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Phyllobates terribilis</text>
+</g>
+</svg>

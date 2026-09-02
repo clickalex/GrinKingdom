@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Carnation illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd0fc"/><stop offset="1" stop-color="#F9A8D4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffe4ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="383.1331591308117" cy="148.094298010692" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="215.1484634494409" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="137.61814986355603" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="173.70167476125062" cy="105.28872047550976" r="2.872914981096983"/><circle cx="553.5698673687875" cy="153.76009137369692" r="4.127218017121777"/><circle cx="209.98052537441254" cy="133.1191882211715" r="4.341049652080983"/></g>
+<text x="30" y="59" font-size="44">💐</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F9A8D4" stroke-width="2.6"/><ellipse cx="173.42262513464686" cy="86.41812569869123" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(25.727312393387933 173.42262513464686 86.41812569869123)"/><ellipse cx="161.97887315636382" cy="97.30101951863736" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(62.56604217748284 161.97887315636382 97.30101951863736)"/><ellipse cx="139.53038374073984" cy="97.96820557499048" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(113.74567202407073 139.53038374073984 97.96820557499048)"/><ellipse cx="128.73941820538462" cy="89.81496986113842" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(144.85667490615756 128.73941820538462 89.81496986113842)"/><ellipse cx="125.37659081766353" cy="68.29423035094403" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(198.72787227633052 125.37659081766353 68.29423035094403)"/><ellipse cx="134.8688992156726" cy="56.482875123247666" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(234.4111014925455 134.8688992156726 56.482875123247666)"/><ellipse cx="152.18897762250737" cy="52.08520966131449" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(274.8295315330039 152.18897762250737 52.08520966131449)"/><ellipse cx="174.63929437044337" cy="68.33761786332104" rx="17" ry="20" fill="url(#bg1)" stroke="#F9A8D4" stroke-width="2.6" transform="rotate(341.3814632023671 174.63929437044337 68.33761786332104)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9ea69d" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Carnation</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Dianthus caryophyllus</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Giant bamboo illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#72ffa8"/><stop offset="1" stop-color="#4ADE80"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#86ffbc"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#f2ffff"/><stop offset="1" stop-color="#e5ffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><rect width="26" height="26" fill="none"/><rect width="26" height="9" fill="#86ffbc" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="196.96473814547062" cy="94.69662143848836" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="262.1210091607645" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="134.2218014691025" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="354.18083030730486" cy="73.19901704788208" r="1.7578304701019078"/><circle cx="445.8497997466475" cy="144.4349069520831" r="4.363419662928209"/><circle cx="202.078300639987" cy="137.2095612436533" r="3.4615537289064378"/></g>
+<text x="30" y="63" font-size="44">🎋</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M99 236 q-24 -45.66071309661493 -48 -91.32142619322985" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -56.91199028561823 -32 -113.82398057123646" stroke="#4ADE80" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -63.91273094038479 -16 -127.82546188076958" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -74.99348012753762 0 -149.98696025507525" stroke="#4ADE80" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -64.4463680149056 16 -128.8927360298112" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -54.14955847384408 32 -108.29911694768816" stroke="#4ADE80" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -44.182583450106904 48 -88.36516690021381" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><line x1="150" y1="236" x2="150" y2="26" stroke="#4ADE80" stroke-width="16" stroke-linecap="round"/><line x1="142" y1="200" x2="158" y2="186" stroke="#166534" stroke-width="4"/><line x1="142" y1="166" x2="158" y2="152" stroke="#166534" stroke-width="4"/><line x1="142" y1="132" x2="158" y2="118" stroke="#166534" stroke-width="4"/><line x1="142" y1="98" x2="158" y2="84" stroke="#166534" stroke-width="4"/><line x1="142" y1="64" x2="158" y2="50" stroke="#166534" stroke-width="4"/><path d="M138 40 q-34 -16 -58 2 M162 34 q34 -16 58 2" stroke="#4ADE80" stroke-width="8" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Giant bamboo</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Phyllostachys edulis</text>
+</g>
+</svg>

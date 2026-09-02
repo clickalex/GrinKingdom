@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Steller sea lion illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ad7536"/><stop offset="1" stop-color="#854D0E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c1894a"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff5b6"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#c1894a" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="364.326945617795" cy="172.75797978043556" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="267.37259403336793" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="159.16031991131604" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="231.7170539777726" cy="97.55401279777288" r="1.9048239500261843"/><circle cx="96.16900412365794" cy="77.75649596005678" r="1.5365409781225026"/><circle cx="310.6023877300322" cy="74.43823893554509" r="1.7815041064750403"/></g>
+<text x="30" y="57" font-size="44">🦭</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M92 178 q0 -44 34 -52 q50 -10 92 6 q26 10 26 40 q0 40 -40 44 q-64 6 -96 4 q-16 -1 -16 -16 Z" fill="url(#bg1)" stroke="#854D0E" stroke-width="3" stroke-linejoin="round"/><path d="M92 178 q0 -44 34 -52 q50 -10 92 6 q26 10 26 40 q0 40 -40 44 q-64 6 -96 4 q-16 -1 -16 -16 Z" fill="url(#tx)"/><circle cx="112" cy="150" r="4" fill="#854D0E"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Steller sea lion</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Eumetopias jubatus</text>
+</g>
+</svg>

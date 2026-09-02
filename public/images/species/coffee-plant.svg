@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Coffee plant illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="224.86714534461498" cy="94.0959635283798" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="228.3612947165966" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="153.2259037811309" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="126.61194376647472" cy="145.36407967098057" r="1.6260464424267411"/><circle cx="85.79432291910052" cy="80.16019687987864" r="2.0255615792702883"/><circle cx="297.10912061855197" cy="124.94354974478483" r="2.946986939292401"/></g>
+<text x="30" y="66" font-size="44">☕</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F5F5F4" stroke-width="2.6"/><ellipse cx="173.73832399040822" cy="85.79036003176066" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(24.074971478893335 173.73832399040822 85.79036003176066)"/><ellipse cx="167.58285383117422" cy="93.67983308808746" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(47.447646273821036 167.58285383117422 93.67983308808746)"/><ellipse cx="140.60171281354158" cy="98.37718572265179" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(111.1906600256646 140.60171281354158 98.37718572265179)"/><ellipse cx="127.92354939158288" cy="88.67779293806898" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(148.1132917201218 127.92354939158288 88.67779293806898)"/><ellipse cx="124.50349393263981" cy="71.29971819841576" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(191.29409474702112 124.50349393263981 71.29971819841576)"/><ellipse cx="135.07145383052435" cy="56.350415133903184" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(234.958132917317 135.07145383052435 56.350415133903184)"/><ellipse cx="156.62248381682468" cy="52.79158615565323" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(284.75645624878604 156.62248381682468 52.79158615565323)"/><ellipse cx="169.0821240738522" cy="59.69854148908594" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(317.21669822133356 169.0821240738522 59.69854148908594)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9cd4b0" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Coffee plant</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Coffea arabica</text>
+</g>
+</svg>

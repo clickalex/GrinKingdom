@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Vibrio cholerae illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2edefc"/><stop offset="1" stop-color="#06B6D4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c3ffff"/><stop offset="1" stop-color="#A5F3FC"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#42f2ff"/><stop offset="1" stop-color="#A5F3FC"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#aeffff"/><stop offset="1" stop-color="#f6ffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#42f2ff" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#42f2ff" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="426.8865480273962" cy="163.55777733027935" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="240.44806512538344" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="145.56344129145145" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="355.38025001063943" cy="92.10623025894165" r="1.5960595335345715"/><circle cx="481.9567756727338" cy="82.16619881801307" r="3.0718650086782873"/><circle cx="414.339255169034" cy="53.551365761086345" r="2.160679934313521"/></g>
+<text x="30" y="70" font-size="44">💧</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#06B6D4" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/><path d="M150 178 q-40 46 -90 30" stroke="#06B6D4" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M150 178 q40 46 90 30" stroke="#06B6D4" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Vibrio cholerae</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Vibrio cholerae</text>
+</g>
+</svg>

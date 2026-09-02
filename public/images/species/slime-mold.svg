@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Slime mold illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffff6f"/><stop offset="1" stop-color="#FDE047"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffbc29"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff83"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffef"/><stop offset="1" stop-color="#ffffdf"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ffff83" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ffff83" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="232.69787050783634" cy="155.71818410418928" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="254.24601915758103" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="157.61869029141963" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="66" font-size="44">🟡</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M198.1555486675352,150 Q214.5492495796612,153.97932560020126 201.14626405108095,179.52930931793526 Q182.33108391961701,178.79446300424473 184.40547412866727,209.59202924934826 Q177.43472896632738,213.16624314387167 150,212.0182455284521 Q141.0778138623573,204.52495865708238 123.08316334802659,196.62132866025013 Q119.95080026367351,195.58294120522237 110.99693595408736,172.51842952612787 Q104.84901441901593,148.6258807000704 89.65812708437443,150 Q104.47681341740918,145.13320475653745 98.24359589166306,120.11842615576461 Q122.70611587401162,104.55094836680011 123.87046806141731,104.74232310438114 Q141.22759456001222,80.45925719202289 150,86.60154212452471 Q159.37459231517278,102.01338277514758 180.9689589808695,96.36018958761755 Q179.5329334353284,106.1415613872438 183.79824416929873,130.48657463071865 Z" fill="url(#bg1)" stroke="#FDE047" stroke-width="3"/><path d="M198.1555486675352,150 Q214.5492495796612,153.97932560020126 201.14626405108095,179.52930931793526 Q182.33108391961701,178.79446300424473 184.40547412866727,209.59202924934826 Q177.43472896632738,213.16624314387167 150,212.0182455284521 Q141.0778138623573,204.52495865708238 123.08316334802659,196.62132866025013 Q119.95080026367351,195.58294120522237 110.99693595408736,172.51842952612787 Q104.84901441901593,148.6258807000704 89.65812708437443,150 Q104.47681341740918,145.13320475653745 98.24359589166306,120.11842615576461 Q122.70611587401162,104.55094836680011 123.87046806141731,104.74232310438114 Q141.22759456001222,80.45925719202289 150,86.60154212452471 Q159.37459231517278,102.01338277514758 180.9689589808695,96.36018958761755 Q179.5329334353284,106.1415613872438 183.79824416929873,130.48657463071865 Z" fill="url(#tx)"/><circle cx="150.14720851089805" cy="150.7527932105586" r="13" fill="#F59E0B" opacity="0.8"/><circle cx="127.75594510138035" cy="123.70594995841384" r="5" fill="#ffffff" opacity="0.5"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Slime mold</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Physarum polycephalum</text>
+</g>
+</svg>

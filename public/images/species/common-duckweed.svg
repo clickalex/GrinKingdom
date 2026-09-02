@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common duckweed illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#72ffa8"/><stop offset="1" stop-color="#4ADE80"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#86ffbc"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#f2ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#86ffbc" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#86ffbc" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="267.83472187817097" cy="189.9521179497242" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="233.14345344901085" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="148.4067623782903" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="225.6346432119608" cy="112.47550652362406" r="3.6292852435726672"/><circle cx="172.40653159096837" cy="61.99527459219098" r="3.334230654872954"/><circle cx="100.92857409268618" cy="156.13020078279078" r="3.4595192077104002"/></g>
+<text x="30" y="67" font-size="44">🟢</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M99 236 q-24 -43.228682077955455 -48 -86.45736415591091" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -56.66741541353986 -32 -113.33483082707971" stroke="#4ADE80" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -64.15533033711836 -16 -128.31066067423671" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -71.73814220610075 0 -143.4762844122015" stroke="#4ADE80" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -59.925055206986144 16 -119.85011041397229" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -50.215299231233075 32 -100.43059846246615" stroke="#4ADE80" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -45.35377679346129 48 -90.70755358692259" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common duckweed</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lemna minor</text>
+</g>
+</svg>

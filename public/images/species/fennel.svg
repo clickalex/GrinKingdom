@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Fennel illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="342.93064430356026" cy="127.89699403569102" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="232.27607752662152" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="156.3022033777088" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="552.8632204886526" cy="64.03175005689263" r="3.8610493736341596"/><circle cx="328.06707944720984" cy="142.8763326536864" r="3.196544558973983"/><circle cx="397.45108742266893" cy="159.40812073647976" r="3.935302600963041"/></g>
+<text x="30" y="64" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#E7E5E4" stroke-width="2.6"/><ellipse cx="173.5572321253923" cy="86.15622970305206" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(25.035279687745184 173.5572321253923 86.15622970305206)"/><ellipse cx="167.6047655880717" cy="93.661243785538" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(47.38206378458635 167.6047655880717 93.661243785538)"/><ellipse cx="144.69678357087562" cy="99.49545202785346" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(101.76920243888294 144.69678357087562 99.49545202785346)"/><ellipse cx="128.97514977297092" cy="90.11902424299709" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(143.9640552526926 128.97514977297092 90.11902424299709)"/><ellipse cx="126.91736567102188" cy="64.95419785470058" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(207.40270867812697 126.91736567102188 64.95419785470058)"/><ellipse cx="137.21149068659545" cy="55.1038946107828" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(240.5367146279998 137.21149068659545 55.1038946107828)"/><ellipse cx="157.5256550395975" cy="53.02735221248507" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(286.8249276857736 157.5256550395975 53.02735221248507)"/><ellipse cx="174.69345892054253" cy="68.48765731128483" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(341.75902084517224 174.69345892054253 68.48765731128483)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#93bda1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Fennel</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Foeniculum vulgare</text>
+</g>
+</svg>

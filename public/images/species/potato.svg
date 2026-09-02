@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Potato illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b384ff"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c798ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="283.3303827792406" cy="133.18297843448818" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="258.0567187909037" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="154.12193748168647" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="433.8976298086345" cy="82.80883181840181" r="3.9107944623101503"/><circle cx="141.59650777466595" cy="101.70824706554413" r="4.077731024706736"/><circle cx="394.5993163343519" cy="77.03160285018384" r="3.6461676831822842"/></g>
+<text x="30" y="60" font-size="44">🥔</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#8B5CF6" stroke-width="2.6"/><ellipse cx="173.87375561564448" cy="85.50562155811954" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(23.33257199781556 173.87375561564448 85.50562155811954)"/><ellipse cx="167.74614935440962" cy="93.5402634642999" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(46.95722239634367 167.74614935440962 93.5402634642999)"/><ellipse cx="148.6671612358099" cy="99.96844447699758" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(92.93844317701064 148.6671612358099 99.96844447699758)"/><ellipse cx="131.3970871360217" cy="92.76678795694322" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(135.68391611304156 131.3970871360217 92.76678795694322)"/><ellipse cx="124.04028426693628" cy="74.66451501523193" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(183.18988318439037 124.04028426693628 74.66451501523193)"/><ellipse cx="140.7836348241828" cy="53.558433501894626" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(249.23869245398996 140.7836348241828 53.558433501894626)"/><ellipse cx="161.77667835946428" cy="54.60312775971276" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(296.93305751366927 161.77667835946428 54.60312775971276)"/><ellipse cx="170.56157849497782" cy="61.31113722818021" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(322.2631386464707 170.56157849497782 61.31113722818021)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#5c78b1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Potato</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Solanum tuberosum</text>
+</g>
+</svg>

@@ -1,6 +1,6 @@
 import { useMemo, useState } from 'react'
 import { Link } from 'react-router-dom'
-import { SPECIES } from '../data/species.js'
+import { SPECIES, speciesImage } from '../data/species.js'
 import { KINGDOMS, KINGDOM_MAP } from '../data/kingdoms.js'
 import SpecimenViewer from '../components/SpecimenViewer.jsx'
 
@@ -66,6 +66,7 @@ export default function Gallery3D() {
                   <SpecimenViewer model={s.model} />
                 </div>
                 <div className="pod-caption">
+                  <img className="pod-thumb" src={speciesImage(s.slug)} alt={`Illustration of ${s.name}`} loading="lazy" />
                   <div>
                     <strong>
                       {s.emoji} {s.name}

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Penicillium illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5cfbc1"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5ffee"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#70ffd5"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#dcffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#70ffd5" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#70ffd5" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="229.673610329628" cy="110.02428998239338" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="260.2408905280754" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="131.2195832375437" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="200.1895851176232" cy="117.86359155550599" r="2.8260709054302424"/><circle cx="45.004552491009235" cy="84.97725461609662" r="1.7302441480569541"/><circle cx="54.57902956753969" cy="141.3723650854081" r="2.174878226593137"/></g>
+<text x="30" y="69" font-size="44">💊</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><line x1="106" y1="206" x2="105.4395649349317" y2="96" stroke="#A7F3D0" stroke-width="4"/><circle cx="104.91037368495017" cy="95.30426784977317" r="9" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><line x1="128" y1="206" x2="122.83374710101634" y2="96" stroke="#A7F3D0" stroke-width="4"/><circle cx="123.72388474922627" cy="88.65197309479117" r="9" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><line x1="150" y1="206" x2="152.89131276123226" y2="96" stroke="#A7F3D0" stroke-width="4"/><circle cx="154.18041856214404" cy="89.49356946721673" r="9" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><line x1="172" y1="206" x2="171.32034280337393" y2="96" stroke="#A7F3D0" stroke-width="4"/><circle cx="173.3859065482393" cy="91.67260355688632" r="9" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><line x1="194" y1="206" x2="195.2874323260039" y2="96" stroke="#A7F3D0" stroke-width="4"/><circle cx="188.73777007125318" cy="91.72840927913785" r="9" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Penicillium</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Penicillium chrysogenum</text>
+</g>
+</svg>

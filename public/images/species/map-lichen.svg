@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Map lichen illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#cbff5d"/><stop offset="1" stop-color="#A3E635"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#75716c"/><stop offset="1" stop-color="#57534E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dfff71"/><stop offset="1" stop-color="#57534E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffdd"/><stop offset="1" stop-color="#ffffef"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="none"/><path d="M6 8 L14 6 L12 14 M26 20 L34 18 L32 28 M16 30 L24 28 L22 38" stroke="#dfff71" stroke-width="1.6" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="424.58373434841633" cy="92.03287362121046" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="213.29343843273818" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="150.29805088415742" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="69" font-size="44">🗺️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><circle cx="229.3651952315122" cy="157.12457061745226" r="18.636377460323274" fill="url(#bg1)" stroke="#A3E635" stroke-width="2.4"/><circle cx="180.80584812909365" cy="174.6072108624503" r="22.950233722105622" fill="url(#bg2)" stroke="#A3E635" stroke-width="2.4"/><circle cx="191.47644178010523" cy="154.94532729499042" r="27.581298771779984" fill="url(#bg1)" stroke="#A3E635" stroke-width="2.4"/><circle cx="200.1929201418534" cy="227.5058262515813" r="13.167873480822891" fill="url(#bg1)" stroke="#A3E635" stroke-width="2.4"/><circle cx="134.96284798253328" cy="202.30265613645315" r="27.272763703018427" fill="url(#bg1)" stroke="#A3E635" stroke-width="2.4"/><circle cx="210.2872260985896" cy="174.36842028982937" r="13.59987175790593" fill="url(#bg2)" stroke="#A3E635" stroke-width="2.4"/><circle cx="71.49014672264457" cy="244.91950436495245" r="17.74842937057838" fill="url(#bg2)" stroke="#A3E635" stroke-width="2.4"/><circle cx="187.09432186558843" cy="160.64647685270756" r="17.96086640562862" fill="url(#bg2)" stroke="#A3E635" stroke-width="2.4"/><circle cx="138.77639234997332" cy="172.27798018138856" r="21.062787818256766" fill="url(#bg2)" stroke="#A3E635" stroke-width="2.4"/><circle cx="169.74343264941126" cy="176.53396965470165" r="28.750056966673583" fill="url(#bg1)" stroke="#A3E635" stroke-width="2.4"/><circle cx="75.52311284467578" cy="238.26265293173492" r="14.013521420303732" fill="url(#bg2)" stroke="#A3E635" stroke-width="2.4"/><circle cx="174.311223202385" cy="157.042354834266" r="24.955153122078627" fill="url(#bg2)" stroke="#A3E635" stroke-width="2.4"/><circle cx="117.01189157087356" cy="198.96581976208836" r="22.75850772438571" fill="url(#bg1)" stroke="#A3E635" stroke-width="2.4"/><circle cx="230.42629928793758" cy="189.32717458810657" r="17.67952387360856" fill="url(#bg1)" stroke="#A3E635" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Map lichen</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Rhizocarpon geographicum</text>
+</g>
+</svg>

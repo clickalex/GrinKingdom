@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Carrot illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="442.9539617151022" cy="160.26427891105413" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="237.30945847928524" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="131.04136171750724" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="517.3084724228829" cy="69.27221080288291" r="3.616920933360234"/><circle cx="96.97777929715812" cy="94.11430386826396" r="2.5636579322163016"/><circle cx="337.9879405442625" cy="41.30503620021045" r="2.9293661469127983"/></g>
+<text x="30" y="61" font-size="44">🥕</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F5F5F4" stroke-width="2.6"/><ellipse cx="174.8538560459435" cy="83.04724584637057" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(17.075718638419225 174.8538560459435 83.04724584637057)"/><ellipse cx="164.2284328023677" cy="96.0873012961669" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(56.82162165948313 164.2284328023677 96.0873012961669)"/><ellipse cx="142.15517614966566" cy="98.88148761832278" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(107.56117967643328 142.15517614966566 98.88148761832278)"/><ellipse cx="129.6366497593424" cy="90.92230197127193" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(141.55503788745494 129.6366497593424 90.92230197127193)"/><ellipse cx="125.10133621899627" cy="69.08883844332475" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(196.73616657606453 125.10133621899627 69.08883844332475)"/><ellipse cx="133.29867222510194" cy="57.60630194104766" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(230.03206795288543 133.29867222510194 57.60630194104766)"/><ellipse cx="154.57799036945318" cy="52.37496456262438" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(280.1413129012558 154.57799036945318 52.37496456262438)"/><ellipse cx="172.56980331294312" cy="64.08536951987503" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(330.2350557014383 172.56980331294312 64.08536951987503)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9cd4b0" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Carrot</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Daucus carota</text>
+</g>
+</svg>

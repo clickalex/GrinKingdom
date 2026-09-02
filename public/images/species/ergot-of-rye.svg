@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Ergot of rye illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a462ff"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2d3ff"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b876ff"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe2ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="448.7007725983858" cy="166.90921051427722" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="229.41731137689203" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="129.2040914390236" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="408.24008913710713" cy="154.64402101002634" r="3.188607595162466"/><circle cx="489.5607331581414" cy="150.03192201256752" r="3.437314126873389"/><circle cx="443.4199975244701" cy="48.01203987561166" r="3.400231807027012"/></g>
+<text x="30" y="68" font-size="44">🟣</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M146 236 q-6 -60 4 -150" stroke="#C4B5FD" stroke-width="7" fill="none"/><circle cx="120.24979883339256" cy="200" r="10" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6"/><circle cx="171.37410932779312" cy="174" r="9.2" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6"/><circle cx="127.8324044700712" cy="148" r="8.4" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6"/><circle cx="175.9744439078495" cy="122" r="7.6" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6"/><circle cx="123.70999193843454" cy="96" r="6.8" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6"/><circle cx="169.67150702420622" cy="70" r="6" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6"/><circle cx="150" cy="86" r="13" fill="#C4B5FD"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Ergot of rye</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Claviceps purpurea</text>
+</g>
+</svg>

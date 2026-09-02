@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Lavender illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d07dff"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e491ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="211.60604186356068" cy="171.28625507466495" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="265.3822641726583" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="152.8911068663001" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="66" font-size="44">💜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#A855F7" stroke-width="2.6"/><ellipse cx="175.56947250189523" cy="80.34945343799843" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(10.441250440053574 175.56947250189523 80.34945343799843)"/><ellipse cx="166.99059066767973" cy="94.1665625836605" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(49.19518206941861 166.99059066767973 94.1665625836605)"/><ellipse cx="145.70285158476852" cy="99.66994076978615" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(99.51320660409785 145.70285158476852 99.66994076978615)"/><ellipse cx="126.21419346456094" cy="85.69166624069321" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(156.18283252215406 126.21419346456094 85.69166624069321)"/><ellipse cx="125.36278082252659" cy="68.3319343169668" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(198.63285518691924 125.36278082252659 68.3319343169668)"/><ellipse cx="133.3113827872989" cy="57.59647448297593" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(230.06860556960274 133.3113827872989 57.59647448297593)"/><ellipse cx="153.43930592883854" cy="52.21090584003783" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(277.601422374713 153.43930592883854 52.21090584003783)"/><ellipse cx="173.24407055227903" cy="65.24652291842273" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(333.380617448129 173.24407055227903 65.24652291842273)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#6e74b2" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Lavender</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lavandula angustifolia</text>
+</g>
+</svg>

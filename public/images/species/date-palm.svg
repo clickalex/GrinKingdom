@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Date palm illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9a7d51"/><stop offset="1" stop-color="#7C5F33"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#7C5F33"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#eeffe9"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="454.2836797237396" cy="199.47631266899407" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="214.88798398990184" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="145.06010591983795" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="168.58230660669506" cy="138.4811812825501" r="3.7231908983085304"/><circle cx="481.91581970080733" cy="103.38717613369226" r="3.465233287308365"/><circle cx="102.86974136717618" cy="116.95326250046492" r="3.083236745093018"/></g>
+<text x="30" y="64" font-size="44">🌴</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><path d="M150 230 q-8 -70 6 -140 q10 70 6 140 Z" fill="#7C5F33" stroke="#497038" stroke-width="3"/><path d="M150 92 q-104 38 -236 16" stroke="#15803D" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q-92 40 -216 18" stroke="#7C5F33" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q-52 42 -118 6" stroke="#15803D" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q-46 40 -108 14" stroke="#7C5F33" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q0 46 0 -4" stroke="#15803D" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q0 40 0 10" stroke="#7C5F33" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q52 42 118 6" stroke="#15803D" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q46 40 108 14" stroke="#7C5F33" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q104 38 236 16" stroke="#15803D" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q92 40 216 18" stroke="#7C5F33" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><circle cx="150" cy="92" r="7" fill="#7C5F33"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Date palm</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Phoenix dactylifera</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Opium poppy illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4e4e"/><stop offset="1" stop-color="#DC2626"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6262"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcece"/><stop offset="1" stop-color="#fffadf"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="394.9807942658663" cy="121.23565231449902" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="244.28227285388857" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="122.29134552180767" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="75.50906120799482" cy="140.8527810499072" r="2.1276461135130376"/><circle cx="80.12458221055567" cy="85.91732735745609" r="2.247788559878245"/><circle cx="501.9632646627724" cy="99.74456091411412" r="2.8879188266582787"/></g>
+<text x="30" y="65" font-size="44">🌹</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#DC2626" stroke-width="2.6"/><ellipse cx="175.88094429054027" cy="78.29412429143956" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(5.485193227852306 175.88094429054027 78.29412429143956)"/><ellipse cx="162.71904387256635" cy="96.93220006238704" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(60.712381030325616 162.71904387256635 96.93220006238704)"/><ellipse cx="147.41058539439476" cy="99.88067850721026" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(95.71572657980148 147.41058539439476 99.88067850721026)"/><ellipse cx="126.07123173614669" cy="85.38701832728361" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(156.97543414709548 126.07123173614669 85.38701832728361)"/><ellipse cx="126.75946700585783" cy="65.24000996312155" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(206.63677592033616 126.75946700585783 65.24000996312155)"/><ellipse cx="133.12823332294636" cy="57.73931982379715" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(229.54022016105898 133.12823332294636 57.73931982379715)"/><ellipse cx="153.2056952911079" cy="52.1831213760108" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(277.0823609881393 153.2056952911079 52.1831213760108)"/><ellipse cx="170.2329050227833" cy="60.92726592243793" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(321.09502821536165 170.2329050227833 60.92726592243793)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#8c4a2f" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Opium poppy</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Papaver somniferum</text>
+</g>
+</svg>

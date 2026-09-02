@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Brahminy blind snake illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a09994"/><stop offset="1" stop-color="#78716C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4ada8"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="350.5898626893759" cy="131.58933324739337" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="222.69965801853687" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="157.38111013546586" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="64" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M40,161.74672019243732 L70,179.77989707926918 L100,152.3281407693088 L130,140.54343935444493 L160,121.39365642545752 L190,140.84092025657253 L220,172.03472373235354 L250,173.39475543535485 L280,147.41261460086736" stroke="#78716C" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,161.74672019243732 L70,179.77989707926918 L100,152.3281407693088 L130,140.54343935444493 L160,121.39365642545752 L190,140.84092025657253 L220,172.03472373235354 L250,173.39475543535485 L280,147.41261460086736" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,161.74672019243732 L70,179.77989707926918 L100,152.3281407693088 L130,140.54343935444493 L160,121.39365642545752 L190,140.84092025657253 L220,172.03472373235354 L250,173.39475543535485 L280,147.41261460086736" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="153.74672019243732" r="13" fill="url(#bg1)" stroke="#78716C" stroke-width="3"/><circle cx="24" cy="151.74672019243732" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Brahminy blind snake</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Indotyphlops braminus</text>
+</g>
+</svg>

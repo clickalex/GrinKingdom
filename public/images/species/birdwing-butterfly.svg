@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Birdwing butterfly illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffdb30"/><stop offset="1" stop-color="#EAB308"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a3735"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffef44"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb0"/><stop offset="1" stop-color="#ffffbe"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#ffef44" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#ffef44" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="269.5830190181732" cy="152.28170248679817" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="217.2574322205037" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="157.4346498027444" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="98.54589996859431" cy="47.36598515883088" r="1.5119092797394842"/><circle cx="209.91454395465553" cy="105.24554624222219" r="4.094267016509548"/><circle cx="442.7770562749356" cy="113.89035171829164" r="3.2253836060408503"/></g>
+<text x="30" y="64" font-size="44">🦋</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M150 150 q-8 34 -58 40 q-40 6 -44 -22 q-4 -30 26 -30 q22 0 26 6 q4 -6 26 -6 q30 0 26 30 q-4 28 -44 22 q-50 -6 -58 -40 Z" fill="url(#bg1)" stroke="#EAB308" stroke-width="3"/><path d="M150 150 q-8 34 -58 40 q-40 6 -44 -22 q-4 -30 26 -30 q22 0 26 6 q4 -6 26 -6 q30 0 26 30 q-4 28 -44 22 q-50 -6 -58 -40 Z" fill="url(#tx)" opacity="0.9"/><ellipse cx="150" cy="150" rx="6" ry="26" fill="#1C1917" stroke="#98750e" stroke-width="2.6"/><path d="M150 124 q-8 -14 -16 -18 M150 176 q-8 14 -16 18" stroke="#EAB308" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Birdwing butterfly</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ornithoptera alexandrae</text>
+</g>
+</svg>

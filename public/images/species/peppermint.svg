@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Peppermint illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bb5bff"/><stop offset="1" stop-color="#9333EA"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#cf6fff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffdbff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="159.38266210258007" cy="146.08518191613257" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="223.34886099211872" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="135.06537600420415" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="64" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#9333EA" stroke-width="2.6"/><ellipse cx="175.66900568704432" cy="79.81736082004655" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(9.152148016944606 175.66900568704432 79.81736082004655)"/><ellipse cx="168.05897292219012" cy="93.26606679382421" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(46.00656991386367 168.05897292219012 93.26606679382421)"/><ellipse cx="146.25239743379646" cy="99.74938035950728" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(98.28739831005765 146.25239743379646 99.74938035950728)"/><ellipse cx="130.44272610298276" cy="91.81435895941935" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(138.78155687231938 130.44272610298276 91.81435895941935)"/><ellipse cx="125.87302090133666" cy="67.05572853375338" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(201.8808702047171 125.87302090133666 67.05572853375338)"/><ellipse cx="142.29738437909342" cy="53.0773827338412" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(252.76722524865073 142.29738437909342 53.0773827338412)"/><ellipse cx="160.51077892380675" cy="54.04854902239652" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(293.8448088381294 160.51077892380675 54.04854902239652)"/><ellipse cx="172.7901552605272" cy="64.44829720255781" rx="17" ry="20" fill="url(#bg1)" stroke="#9333EA" stroke-width="2.6" transform="rotate(331.228289077308 172.7901552605272 64.44829720255781)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#6152a5" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Peppermint</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Mentha × piperita</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Green shield bug illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="198.19593332707882" cy="202.23219660110772" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="212.49111344106495" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="136.4685982465744" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="65.5550870578736" cy="46.186994928866625" r="2.761580522172153"/><circle cx="462.39488122984767" cy="103.37987555190921" r="2.08649948425591"/><circle cx="292.8349684737623" cy="157.55196903832257" r="1.989438743563369"/></g>
+<text x="30" y="68" font-size="44">🐛</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><ellipse cx="150" cy="152" rx="52" ry="34" fill="url(#bg1)" stroke="#16A34A" stroke-width="3"/><ellipse cx="150" cy="152" rx="52" ry="34" fill="url(#tx)"/><line x1="150" y1="118" x2="150" y2="186" stroke="#16A34A" stroke-width="2.6"/><circle cx="150" cy="118" r="20" fill="url(#bg2)" stroke="#16A34A" stroke-width="3"/><path d="M134 112 l-10 -8 M166 112 l10 -8" stroke="#16A34A" stroke-width="2.6" fill="none"/><circle cx="143" cy="114" r="2.4" fill="#1c1917"/><line x1="100" y1="168" x2="116" y2="196" stroke="#16A34A" stroke-width="3" stroke-linecap="round"/><line x1="114" y1="176" x2="130" y2="204" stroke="#16A34A" stroke-width="3" stroke-linecap="round"/><line x1="128" y1="184" x2="144" y2="212" stroke="#16A34A" stroke-width="3" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Green shield bug</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Palomena prasina</text>
+</g>
+</svg>

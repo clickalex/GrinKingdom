@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Flax illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#88cdff"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9ce1ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f2ffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="316.79437808692455" cy="156.42496917396784" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="213.82476238533854" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="130.40250789374113" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">💙</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#60A5FA" stroke-width="2.6"/><ellipse cx="175.47286001641328" cy="80.80828302348009" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(11.557141780441212 175.47286001641328 80.80828302348009)"/><ellipse cx="166.25997619245553" cy="94.7276173446345" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(51.289644463941436 166.25997619245553 94.7276173446345)"/><ellipse cx="139.07602583993304" cy="97.77888037711385" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(114.84423806936032 139.07602583993304 97.77888037711385)"/><ellipse cx="125.42787814414294" cy="83.8440265442445" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(160.92324895622093 125.42787814414294 83.8440265442445)"/><ellipse cx="124.38963149791091" cy="71.86063805408688" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(189.93165984447586 124.38963149791091 71.86063805408688)"/><ellipse cx="131.71525645389397" cy="58.93759901998929" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(225.31090804323432 131.71525645389397 58.93759901998929)"/><ellipse cx="151.42352268260737" cy="52.03599889469528" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(273.1385633040814 151.42352268260737 52.03599889469528)"/><ellipse cx="170.4823310352846" cy="61.21709915248783" rx="17" ry="20" fill="url(#bg1)" stroke="#60A5FA" stroke-width="2.6" transform="rotate(321.97871293418547 170.4823310352846 61.21709915248783)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#42a4b4" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Flax</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Linum usitatissimum</text>
+</g>
+</svg>

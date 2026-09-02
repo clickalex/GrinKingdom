@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Venus flytrap illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff5dac"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="60" height="60" patternUnits="userSpaceOnUse"><rect width="60" height="60" fill="none"/><ellipse cx="18" cy="16" rx="9" ry="4" fill="#ffffff" opacity="0.35" transform="rotate(-18 18 16)"/><ellipse cx="48" cy="46" rx="8" ry="3.4" fill="#ffffff" opacity="0.28" transform="rotate(-18 48 46)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="365.6701499968767" cy="127.6577553525567" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="229.25741932354867" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="151.72262208536267" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="337.6681902911514" cy="93.22363493032753" r="3.883649427210912"/><circle cx="167.9040341451764" cy="43.40281592682004" r="2.7768580389674753"/><circle cx="275.7149798143655" cy="74.72352676093578" r="3.990584731567651"/></g>
+<text x="30" y="58" font-size="44">😬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M150 240 q-8 -70 2 -138" stroke="#F43F8E" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.6"/><path d="M126 92 q-24 -4 -34 26 q24 -2 34 -26 Z" fill="url(#bg2)" stroke="#22C55E" stroke-width="3"/><path d="M174 92 q24 -4 34 26 q-24 -2 -34 -26 Z" fill="url(#bg2)" stroke="#22C55E" stroke-width="3"/><line x1="124" y1="104" x2="110" y2="94" stroke="#fff" stroke-width="2.4"/><line x1="176" y1="104" x2="190" y2="94" stroke="#fff" stroke-width="2.4"/><path d="M128 92 h44 v26 h-44 Z" fill="url(#bg1)" stroke="#22C55E" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Venus flytrap</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Dionaea muscipula</text>
+</g>
+</svg>

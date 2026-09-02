@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Gaboon viper illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c98a2f"/><stop offset="1" stop-color="#A16207"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dd9e43"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffaf"/><stop offset="1" stop-color="#ffffeb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#dd9e43" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#dd9e43" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="423.1855756789446" cy="140.00996181741357" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="220.45142983552068" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="153.6864120606333" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="62" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M40,182.0336308018155 L70,193.31680773967622 L100,150.2382144890253 L130,137.28844312918693 L160,104.20775012693872 L190,136.9723016285882 L220,168.48161209241417 L250,195.97052392442382 L280,135.15471201031946" stroke="#A16207" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,182.0336308018155 L70,193.31680773967622 L100,150.2382144890253 L130,137.28844312918693 L160,104.20775012693872 L190,136.9723016285882 L220,168.48161209241417 L250,195.97052392442382 L280,135.15471201031946" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,182.0336308018155 L70,193.31680773967622 L100,150.2382144890253 L130,137.28844312918693 L160,104.20775012693872 L190,136.9723016285882 L220,168.48161209241417 L250,195.97052392442382 L280,135.15471201031946" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="174.0336308018155" r="13" fill="url(#bg1)" stroke="#A16207" stroke-width="3"/><circle cx="24" cy="172.0336308018155" r="2.8" fill="#1c1917"/><path d="M36 166.0336308018155 l-7 -7 M34 168.0336308018155 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Gaboon viper</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Bitis gabonica</text>
+</g>
+</svg>

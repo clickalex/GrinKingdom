@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Spring gentian illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#63aaff"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#77beff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#e3ffff"/><stop offset="1" stop-color="#dcffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="340.3436740487814" cy="123.95267735235393" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="263.24878870043904" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="130.4593410436064" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="78.31410809420049" cy="149.80103514157236" r="1.5253685403149575"/><circle cx="404.8277764208615" cy="50.35913157276809" r="3.6651602669153363"/><circle cx="178.33420261740685" cy="94.73163103684783" r="3.6312557626515627"/></g>
+<text x="30" y="62" font-size="44">💙</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#3B82F6" stroke-width="2.6"/><ellipse cx="173.96192186430875" cy="85.31467865009033" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(22.83704921070001 173.96192186430875 85.31467865009033)"/><ellipse cx="164.6149465229398" cy="95.84944526835079" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(55.7979251996881 164.6149465229398 95.84944526835079)"/><ellipse cx="141.5244934635879" cy="98.68903152477897" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(109.02502041656406 141.5244934635879 98.68903152477897)"/><ellipse cx="131.36508281796034" cy="92.73647826080395" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(135.78496041750853 131.36508281796034 92.73647826080395)"/><ellipse cx="125.3038031638844" cy="68.4953300125839" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(198.22169382715066 125.3038031638844 68.4953300125839)"/><ellipse cx="131.71679709708846" cy="58.93619235593981" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(225.31568338600079 131.71679709708846 58.93619235593981)"/><ellipse cx="155.75398675878125" cy="52.59510044230397" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(282.78582174214057 155.75398675878125 52.59510044230397)"/><ellipse cx="171.01718109248" cy="61.871250040567894" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(323.93533735547146 171.01718109248 61.871250040567894)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#2c8fb1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Spring gentian</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Gentiana verna</text>
+</g>
+</svg>
