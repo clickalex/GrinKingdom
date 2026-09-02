@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Caddisfly illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6f7d91"/><stop offset="1" stop-color="#475569"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8391a5"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#effdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#8391a5" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#8391a5" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="314.5541622489691" cy="167.97245543450117" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="244.4832715485245" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="158.8132881000638" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="90.97533920779824" cy="54.09776465035975" r="4.204252382274717"/><circle cx="507.2168399672955" cy="137.29487373493612" r="3.5769022442400455"/><circle cx="202.30894691310823" cy="67.59714679792523" r="3.662509612273425"/></g>
+<text x="30" y="57" font-size="44">🪰</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><circle cx="150" cy="150" r="60" fill="url(#bg1)" stroke="#475569" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Caddisfly</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Limnephilus flavicornis</text>
+</g>
+</svg>

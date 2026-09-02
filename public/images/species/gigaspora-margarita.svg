@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Gigaspora margarita illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffef"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b05e2c"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ffffff" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ffffff" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="458.1698998063803" cy="114.65877961367369" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="216.64330149069428" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="125.76582089066505" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🕸️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M204.1496298899874,150 Q193.08874133208803,154.253810957307 197.88423112087028,177.6459737275727 Q186.67293556782454,192.53086595925026 180.82820489956066,203.39601719218285 Q159.43334954953752,216.125438850033 150,217.18916683737189 Q133.46690179104917,216.09885352552655 116.88446948817001,207.35778136608695 Q108.72579757572734,208.90215863153125 90.64109666657868,184.27087881835178 Q89.14416589035304,178.53568120137788 98.44446999207139,150 Q86.5612344634744,134.66113618132658 99.54350066651156,120.86892652744427 Q121.90674512111829,98.72049502567965 115.22421820042652,89.76657905020974 Q131.33454402326606,100.28312829118799 150,94.71802450343966 Q176.60667059221305,90.63212896036107 180.08444658713415,97.89220999349155 Q180.11964268943515,102.09637864064547 211.16829205180028,114.68447011802343 Z" fill="url(#bg1)" stroke="#FEF3C7" stroke-width="3"/><path d="M204.1496298899874,150 Q193.08874133208803,154.253810957307 197.88423112087028,177.6459737275727 Q186.67293556782454,192.53086595925026 180.82820489956066,203.39601719218285 Q159.43334954953752,216.125438850033 150,217.18916683737189 Q133.46690179104917,216.09885352552655 116.88446948817001,207.35778136608695 Q108.72579757572734,208.90215863153125 90.64109666657868,184.27087881835178 Q89.14416589035304,178.53568120137788 98.44446999207139,150 Q86.5612344634744,134.66113618132658 99.54350066651156,120.86892652744427 Q121.90674512111829,98.72049502567965 115.22421820042652,89.76657905020974 Q131.33454402326606,100.28312829118799 150,94.71802450343966 Q176.60667059221305,90.63212896036107 180.08444658713415,97.89220999349155 Q180.11964268943515,102.09637864064547 211.16829205180028,114.68447011802343 Z" fill="url(#tx)"/><circle cx="154.6158412238583" cy="159.6768913557753" r="13" fill="#92400E" opacity="0.8"/><circle cx="120.82900976762176" cy="127.3797981068492" r="5" fill="#ffffff" opacity="0.5"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Gigaspora margarita</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Gigaspora margarita</text>
+</g>
+</svg>

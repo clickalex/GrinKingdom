@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Redback spider illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#514d4c"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d73a3a"/><stop offset="1" stop-color="#B91C1C"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#656160"/><stop offset="1" stop-color="#B91C1C"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#d1cdcc"/><stop offset="1" stop-color="#ffd1d1"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="44" height="44" patternUnits="userSpaceOnUse"><rect width="44" height="44" fill="none"/><circle cx="12" cy="12" r="5" fill="#656160" opacity="0.85"/><circle cx="36" cy="34" r="4" fill="#656160" opacity="0.7"/><circle cx="12" cy="12" r="10" fill="#656160" opacity="0.25"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="431.83994106948376" cy="92.86735572852194" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="232.00681569054723" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="157.14755577035248" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="278.74532946385443" cy="98.6851981561631" r="3.526096794521436"/><circle cx="57.18913562595844" cy="61.63119005970657" r="3.817346502095461"/><circle cx="514.5254258811474" cy="81.94341965019703" r="3.1107014240697026"/></g>
+<text x="30" y="57" font-size="44">🕷️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><ellipse cx="150" cy="128" rx="30" ry="34" fill="url(#bg1)" stroke="#292524" stroke-width="3"/><ellipse cx="150" cy="128" rx="30" ry="34" fill="url(#tx)"/><circle cx="150" cy="84" r="19" fill="url(#bg2)" stroke="#292524" stroke-width="3"/><circle cx="142" cy="80" r="1.8" fill="#1c1917"/><circle cx="147" cy="80" r="1.8" fill="#1c1917"/><circle cx="152" cy="80" r="1.8" fill="#1c1917"/><circle cx="157" cy="80" r="1.8" fill="#1c1917"/><path d="M124 116 q-40 8 -66 90" stroke="#292524" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M124 126 q-40 8 -66 106" stroke="#292524" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M124 136 q-40 8 -66 122" stroke="#292524" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M124 146 q-40 8 -66 138" stroke="#292524" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 116 q40 8 66 90" stroke="#292524" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 126 q40 8 66 106" stroke="#292524" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 136 q40 8 66 122" stroke="#292524" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M176 146 q40 8 66 138" stroke="#292524" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Redback spider</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Latrodectus hasselti</text>
+</g>
+</svg>

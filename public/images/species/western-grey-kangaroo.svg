@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Western grey kangaroo illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#99673a"/><stop offset="1" stop-color="#713F12"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ad7b4e"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ba"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#ad7b4e" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="426.34430184960365" cy="106.93141710944474" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="231.3038894534111" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="120.16700799576938" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="469.9647137429565" cy="130.96143446862698" r="3.189027733867988"/><circle cx="486.0390383657068" cy="153.47750028595328" r="2.3222639397718012"/><circle cx="340.31891719438136" cy="71.8038238119334" r="4.253307342063636"/></g>
+<text x="30" y="59" font-size="44">🦘</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><g stroke="#713F12" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M108 214 q-8 -70 34 -86 q46 -18 72 18" fill="none" stroke-width="13"/><path d="M108 214 q-8 -70 34 -86 q46 -18 72 18" fill="none" stroke="url(#bg1)" stroke-width="8" opacity="0"/><path d="M104 160 q-30 -30 -14 -56 M104 154 q-18 -12 -12 -30" fill="none"/><circle cx="106" cy="132" r="17" fill="url(#bg1)" stroke="#713F12"/><circle cx="100" cy="128" r="2.6" fill="#1c1917"/><ellipse cx="142" cy="128" rx="24" ry="34" fill="url(#bg1)" stroke="#713F12"/><ellipse cx="142" cy="128" rx="24" ry="34" fill="url(#tx)"/><path d="M142 170 q-4 46 6 74 M142 170 q8 44 26 60" fill="none" stroke-width="9"/><path d="M196 176 q34 34 26 66 q-4 16 -18 8" fill="none"/><path d="M164 232 q-12 34 -30 48" fill="none" stroke-width="9"/></g></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Western grey kangaroo</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Macropus fuliginosus</text>
+</g>
+</svg>

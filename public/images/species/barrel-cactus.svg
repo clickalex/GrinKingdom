@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Barrel cactus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="157.63109132647514" cy="146.72823912464082" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="260.43275577016175" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="136.25981241464615" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="291.60335671156645" cy="72.93349218554795" r="2.4253215591888875"/><circle cx="319.6106918808073" cy="98.29847793094814" r="3.392193166539073"/><circle cx="47.69825121387839" cy="144.8996651545167" r="3.133903721580282"/></g>
+<text x="30" y="61" font-size="44">🌵</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><rect x="128" y="84" width="44" height="152" rx="22" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><path d="M128 150 q-44 6 -44 44 q0 22 22 22 q22 0 22 -22" fill="none" stroke="#166534" stroke-width="22" stroke-linecap="round"/><path d="M172 190 q44 6 44 34 q0 16 -16 16 q-16 0 -16 -16" fill="none" stroke="#166534" stroke-width="18" stroke-linecap="round"/><rect x="128" y="84" width="44" height="152" rx="22" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Barrel cactus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ferocactus wislizeni</text>
+</g>
+</svg>

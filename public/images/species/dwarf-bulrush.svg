@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Dwarf bulrush illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a05d37"/><stop offset="1" stop-color="#78350F"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4714b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffddb7"/><stop offset="1" stop-color="#ffffd1"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="152.35134832561016" cy="129.11136707291007" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="233.11482676304877" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="122.62584366835654" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="53" font-size="44">🌾</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M99 236 q-24 -46.5271430707071 -48 -93.0542861414142" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -53.70529038552195 -32 -107.4105807710439" stroke="#78350F" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -60.80228892969899 -16 -121.60457785939798" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -74.5287578231655 0 -149.057515646331" stroke="#78350F" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -62.34036577283405 16 -124.6807315456681" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -55.45204798853956 32 -110.90409597707912" stroke="#78350F" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -46.03898465633392 48 -92.07796931266785" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Dwarf bulrush</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Typha minima</text>
+</g>
+</svg>

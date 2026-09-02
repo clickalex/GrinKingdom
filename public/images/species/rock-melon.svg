@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Rock melon illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff43d"/><stop offset="1" stop-color="#FACC15"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff51"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbd"/><stop offset="1" stop-color="#ffffda"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="214.5722036063671" cy="207.27425881661475" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="240.52426910027862" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="122.5646117888391" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="55" font-size="44">🍈</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FACC15" stroke-width="2.6"/><ellipse cx="175.82316279474074" cy="78.79438777343826" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(6.686275036477853 175.82316279474074 78.79438777343826)"/><ellipse cx="157.4544196271188" cy="98.99242921903274" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(73.33900221533143 157.4544196271188 98.99242921903274)"/><ellipse cx="143.52031727145535" cy="99.24273437281764" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(104.43127580490949 143.52031727145535 99.24273437281764)"/><ellipse cx="127.57560062370716" cy="88.1463143693301" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(149.595836953305 127.57560062370716 88.1463143693301)"/><ellipse cx="124.07403120778345" cy="74.19017069907882" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(184.32475467332634 124.07403120778345 74.19017069907882)"/><ellipse cx="133.15768309767637" cy="57.716170037890166" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(229.6254615022 133.15768309767637 57.716170037890166)"/><ellipse cx="151.70416081672573" cy="52.0516086973861" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(273.75812579497983 151.70416081672573 52.0516086973861)"/><ellipse cx="172.044095829692" cy="63.27432618275438" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(327.9785705743126 172.044095829692 63.27432618275438)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9fbc2a" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Rock melon</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cucumis melo</text>
+</g>
+</svg>

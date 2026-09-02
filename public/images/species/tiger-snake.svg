@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Tiger snake illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2dedb"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#807c78" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#807c78" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="322.29380287230015" cy="166.40351713635027" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="216.83885267470032" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="153.98961814120412" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="67" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M40,184.98073841243024 L70,195.96736824875035 L100,180.19081693198353 L130,110.17833073515858 L160,104.49155150441057 L190,148.39518917464142 L220,188.60040933654437 L250,195.4921041124719 L280,172.29569597959795" stroke="#44403C" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,184.98073841243024 L70,195.96736824875035 L100,180.19081693198353 L130,110.17833073515858 L160,104.49155150441057 L190,148.39518917464142 L220,188.60040933654437 L250,195.4921041124719 L280,172.29569597959795" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,184.98073841243024 L70,195.96736824875035 L100,180.19081693198353 L130,110.17833073515858 L160,104.49155150441057 L190,148.39518917464142 L220,188.60040933654437 L250,195.4921041124719 L280,172.29569597959795" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="176.98073841243024" r="13" fill="url(#bg1)" stroke="#44403C" stroke-width="3"/><circle cx="24" cy="174.98073841243024" r="2.8" fill="#1c1917"/><path d="M36 168.98073841243024 l-7 -7 M34 170.98073841243024 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Tiger snake</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Notechis scutatus</text>
+</g>
+</svg>

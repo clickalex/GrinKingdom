@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pear illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="310.6479934602976" cy="130.68252199329436" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="253.48554572090507" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="142.0414790417999" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="58" font-size="44">🍐</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EC4899" stroke-width="2.6"/><ellipse cx="175.74749659564168" cy="79.33669249856676" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(7.9916541272141846 175.74749659564168 79.33669249856676)"/><ellipse cx="161.5492272957559" cy="97.50225118769137" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(63.6277665092246 161.5492272957559 97.50225118769137)"/><ellipse cx="145.30709656178965" cy="99.6058159835385" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(100.39866839273539 145.30709656178965 99.6058159835385)"/><ellipse cx="129.19042974516236" cy="90.38821369154921" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(143.1652664368585 129.19042974516236 90.38821369154921)"/><ellipse cx="126.00431282271019" cy="66.75968200548806" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(202.6445628272128 126.00431282271019 66.75968200548806)"/><ellipse cx="137.69609698554476" cy="54.85742793185732" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(241.75602464404506 137.69609698554476 54.85742793185732)"/><ellipse cx="153.652058773301" cy="52.23794043862041" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(278.0746851751171 153.652058773301 52.23794043862041)"/><ellipse cx="174.4940800220887" cy="67.95068222321993" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(340.40385161638756 174.4940800220887 67.95068222321993)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#965e74" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pear</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pyrus communis</text>
+</g>
+</svg>

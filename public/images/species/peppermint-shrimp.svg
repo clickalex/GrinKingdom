@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Peppermint shrimp illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><rect width="26" height="26" fill="none"/><rect width="26" height="9" fill="#ff84d5" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="210.58119341731071" cy="191.89484023489058" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="265.3343366459012" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="141.40158810652792" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="430.2555547654629" cy="115.10473685339093" r="1.516390590928495"/><circle cx="110.30172633938491" cy="68.95315273664892" r="1.5920908784028143"/><circle cx="547.693790057674" cy="63.64323269575834" r="3.9057360598817468"/></g>
+<text x="30" y="66" font-size="44">🦐</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M70 168 q30 -40 74 -44 q60 -6 86 24 q14 16 10 26 q-6 10 -24 8 q-44 -6 -66 6 q-30 14 -44 26 q-14 12 -26 8 q-10 -4 -6 -18 q6 -20 -4 -36 Z" fill="url(#bg1)" stroke="#EC4899" stroke-width="3" stroke-linejoin="round"/><path d="M70 168 q30 -40 74 -44 q60 -6 86 24 q14 16 10 26 q-6 10 -24 8 q-44 -6 -66 6 q-30 14 -44 26 q-14 12 -26 8 q-10 -4 -6 -18 q6 -20 -4 -36 Z" fill="url(#tx)"/><path d="M60 166 q-22 4 -30 -6 M62 176 q-18 8 -24 2" stroke="#FAFAF9" stroke-width="3" fill="none" stroke-linecap="round"/><circle cx="96" cy="140" r="4" fill="#1c1917"/><path d="M136 190 q18 12 14 30 q-20 -8 -14 -30 Z" fill="#FAFAF9" stroke="#EC4899" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Peppermint shrimp</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lysmata wurdemanni</text>
+</g>
+</svg>

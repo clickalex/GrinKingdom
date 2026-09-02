@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Black bamboo illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="327.37098827958107" cy="94.82837065123022" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="230.44359587598592" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="157.0344457309693" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="63" font-size="44">🎋</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M99 236 q-24 -43.643613575259224 -48 -87.28722715051845" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -53.00133796571754 -32 -106.00267593143508" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -65.38096351874992 -16 -130.76192703749985" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -73.29693433060311 0 -146.59386866120622" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -65.81489438959397 16 -131.62978877918795" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -51.82579549658112 32 -103.65159099316224" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -41.20801114081405 48 -82.4160222816281" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><line x1="150" y1="236" x2="150" y2="26" stroke="#166534" stroke-width="16" stroke-linecap="round"/><line x1="142" y1="200" x2="158" y2="186" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="166" x2="158" y2="152" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="132" x2="158" y2="118" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="98" x2="158" y2="84" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="64" x2="158" y2="50" stroke="#F5F5F4" stroke-width="4"/><path d="M138 40 q-34 -16 -58 2 M162 34 q34 -16 58 2" stroke="#166534" stroke-width="8" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Black bamboo</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Phyllostachys nigra</text>
+</g>
+</svg>

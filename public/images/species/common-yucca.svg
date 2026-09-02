@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common yucca illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8cffd5"/><stop offset="1" stop-color="#6EE7B7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#6EE7B7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#e9ffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#52a170" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#52a170" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="140.63287027180195" cy="108.70528550818563" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="246.66832043789327" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="145.39438440464437" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="61" font-size="44">🗡️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M99 236 q-24 -47.282415301539004 -48 -94.56483060307801" stroke="#6EE7B7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -50.97957002162002 -32 -101.95914004324004" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -64.08827327354811 -16 -128.17654654709622" stroke="#6EE7B7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -69.94221322820522 0 -139.88442645641044" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -62.205883180489764 16 -124.41176636097953" stroke="#6EE7B7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -53.5139194894582 32 -107.0278389789164" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -42.40089044556953 48 -84.80178089113906" stroke="#6EE7B7" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common yucca</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Yucca filamentosa</text>
+</g>
+</svg>

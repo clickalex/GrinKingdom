@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Arizona bark scorpion illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6d422b"/><stop offset="1" stop-color="#451A03"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#81563f"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#edc2ab"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="441.8352151662111" cy="114.19073578901589" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="229.70162635669112" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="129.51382322236896" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="401.05894233100116" cy="52.21162585541606" r="3.49792305752635"/><circle cx="151.95051643066108" cy="123.20104542188346" r="2.6198205021210015"/><circle cx="291.94437433965504" cy="116.03560120798647" r="3.7280701061245054"/></g>
+<text x="30" y="69" font-size="44">🦂</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><ellipse cx="138" cy="158" rx="30" ry="22" fill="url(#bg1)" stroke="#451A03" stroke-width="3"/><circle cx="112" cy="140" r="13" fill="url(#bg2)" stroke="#451A03" stroke-width="3"/><path d="M96 132 q-20 -16 -8 -30 M96 134 q-14 -4 -16 -14" fill="none" stroke="#451A03" stroke-width="5" stroke-linecap="round"/><path d="M164 150 q40 -8 62 -24 q22 6 26 20 q4 14 -12 18 q-20 4 -30 -4 M164 160 q36 4 56 18 q16 10 8 22 q-10 10 -24 0 q-16 -10 -22 -26 M164 170 q26 16 34 40 q4 12 -6 14 q-12 0 -16 -12 q-6 -22 -14 -42" fill="none" stroke="#451A03" stroke-width="5" stroke-linecap="round"/><circle cx="190" cy="148" r="6" fill="#FFFBEB"/><line x1="112" y1="166" x2="120" y2="192" stroke="#451A03" stroke-width="3" stroke-linecap="round"/><line x1="120" y1="171" x2="128" y2="197" stroke="#451A03" stroke-width="3" stroke-linecap="round"/><line x1="128" y1="176" x2="136" y2="202" stroke="#451A03" stroke-width="3" stroke-linecap="round"/><line x1="136" y1="181" x2="144" y2="207" stroke="#451A03" stroke-width="3" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Arizona bark scorpion</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Centruroides sculpturatus</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Monocystis illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F3E8FF"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#893fc6"/><stop offset="1" stop-color="#6B21A8"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#6B21A8"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="265.4357863217592" cy="175.88661337271333" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="221.5722112962976" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="127.66271268948913" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="69" font-size="44">🦠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M40,159.8799107421369 L70,179.97861606912124 L100,168.6311800381361 L130,126.86975469477908 L160,121.22477106912805 L190,138.88382677471253 L220,165.01192877893808 L250,178.0247732467559 L280,166.41069661586832" stroke="#F3E8FF" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,159.8799107421369 L70,179.97861606912124 L100,168.6311800381361 L130,126.86975469477908 L160,121.22477106912805 L190,138.88382677471253 L220,165.01192877893808 L250,178.0247732467559 L280,166.41069661586832" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,159.8799107421369 L70,179.97861606912124 L100,168.6311800381361 L130,126.86975469477908 L160,121.22477106912805 L190,138.88382677471253 L220,165.01192877893808 L250,178.0247732467559 L280,166.41069661586832" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="151.8799107421369" r="13" fill="url(#bg1)" stroke="#F3E8FF" stroke-width="3"/><circle cx="24" cy="149.8799107421369" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Monocystis</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Monocystis lumbrici</text>
+</g>
+</svg>

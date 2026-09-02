@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cladophora illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#52df86" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#52df86" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="267.90425948798656" cy="113.14781159162521" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="268.23188118170947" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="141.73217707313597" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="65" font-size="44">🟢</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M99 236 q-24 -41.16232435661368 -48 -82.32464871322736" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -50.34939952613786 -32 -100.69879905227572" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -65.94186610565521 -16 -131.88373221131042" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -69.41712988470681 0 -138.83425976941362" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -61.18804605631158 16 -122.37609211262316" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -56.9912231604103 32 -113.9824463208206" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -42.97864563879557 48 -85.95729127759114" stroke="#BBF7D0" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cladophora</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cladophora glomerata</text>
+</g>
+</svg>

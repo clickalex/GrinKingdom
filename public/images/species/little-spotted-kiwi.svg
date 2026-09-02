@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Little spotted kiwi illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ad7536"/><stop offset="1" stop-color="#854D0E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c1894a"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff5b6"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="10" height="10" patternUnits="userSpaceOnUse"><rect width="10" height="10" fill="none"/><circle cx="3" cy="3" r="1.1" fill="#c1894a" opacity="0.5"/><circle cx="8" cy="7" r="1.1" fill="#c1894a" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="259.5155621320009" cy="160.08734196424484" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="250.69986750371754" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="122.25770898163319" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="545.5766173638403" cy="78.25055693276227" r="3.705672430805862"/><circle cx="346.7145173251629" cy="76.41237041912973" r="2.8632274449337274"/><circle cx="289.97545059770346" cy="135.92945964075625" r="2.9046631443779916"/></g>
+<text x="30" y="68" font-size="44">🥝</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M118 128 q-8 -34 24 -42 q36 -8 44 10 q-40 12 -68 32 Z" fill="url(#bg1)" stroke="#854D0E" stroke-width="3"/><path d="M118 128 q-8 -34 24 -42 q36 -8 44 10 q-40 12 -68 32 Z" fill="url(#tx)"/><path d="M120 118 q-8 -16 -20 -20 M122 122 q-6 -12 -16 -14" stroke="#854D0E" stroke-width="3" fill="none"/><circle cx="114" cy="108" r="3" fill="#1c1917"/><path d="M128 156 q-8 40 2 70 M172 156 q8 40 -2 70" stroke="#FEF3C7" stroke-width="13" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M142 218 l-6 22 M158 218 l6 22" stroke="#854D0E" stroke-width="6" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Little spotted kiwi</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Apteryx owenii</text>
+</g>
+</svg>

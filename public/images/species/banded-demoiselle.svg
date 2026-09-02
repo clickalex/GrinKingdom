@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Banded demoiselle illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#36cdff"/><stop offset="1" stop-color="#0EA5E9"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c3ffff"/><stop offset="1" stop-color="#A5F3FC"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4ae1ff"/><stop offset="1" stop-color="#A5F3FC"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#b6ffff"/><stop offset="1" stop-color="#faffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="294.6132695674896" cy="164.6160866227001" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="255.63178662210703" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="151.44682504236698" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="53" font-size="44">🪰</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><line x1="150" y1="60" x2="150" y2="212" stroke="#A5F3FC" stroke-width="8" stroke-linecap="round"/><ellipse cx="150" cy="64" rx="10" ry="14" fill="url(#bg1)" stroke="#0EA5E9" stroke-width="2.6"/><circle cx="146" cy="56" r="3.6" fill="#1c1917"/><circle cx="154" cy="56" r="3.6" fill="#1c1917"/><ellipse cx="88" cy="100" rx="52" ry="13" fill="url(#bg2)" stroke="#0EA5E9" stroke-width="2.6" opacity="0.92" transform="rotate(16 88 100)"/><ellipse cx="84" cy="136" rx="46" ry="12" fill="url(#bg1)" stroke="#0EA5E9" stroke-width="2.6" opacity="0.92" transform="rotate(14 84 136)"/><ellipse cx="212" cy="100" rx="52" ry="13" fill="url(#bg2)" stroke="#0EA5E9" stroke-width="2.6" opacity="0.92" transform="rotate(-16 212 100)"/><ellipse cx="216" cy="136" rx="46" ry="12" fill="url(#bg1)" stroke="#0EA5E9" stroke-width="2.6" opacity="0.92" transform="rotate(-14 216 136)"/><circle cx="150" cy="208" r="5" fill="#0EA5E9"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Banded demoiselle</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Calopteryx splendens</text>
+</g>
+</svg>

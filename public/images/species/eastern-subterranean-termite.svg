@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Eastern subterranean termite illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c98a2f"/><stop offset="1" stop-color="#A16207"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dd9e43"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffaf"/><stop offset="1" stop-color="#ffffeb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="175.90576864778996" cy="118.49749789573252" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="216.2750036548823" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="133.0509881861508" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="188.09363898821175" cy="133.62046606838703" r="3.3822044818662107"/><circle cx="172.75210346095264" cy="149.79515607468784" r="2.1613800460472703"/><circle cx="45.154593186452985" cy="54.78247329592705" r="3.08845675480552"/></g>
+<text x="30" y="58" font-size="44">🐜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><ellipse cx="140" cy="172" rx="24" ry="18" fill="url(#bg1)" stroke="#A16207" stroke-width="3"/><ellipse cx="172" cy="140" rx="17" ry="13" fill="url(#bg2)" stroke="#A16207" stroke-width="3"/><circle cx="182" cy="112" r="14" fill="url(#bg1)" stroke="#A16207" stroke-width="3"/><path d="M168 126 l-4 -8 M178 126 l6 -8" stroke="#A16207" stroke-width="2.6" fill="none"/><circle cx="186" cy="108" r="2.6" fill="#1c1917"/><line x1="112" y1="190" x2="138" y2="220" stroke="#A16207" stroke-width="3" stroke-linecap="round"/><line x1="126" y1="196" x2="152" y2="226" stroke="#A16207" stroke-width="3" stroke-linecap="round"/><line x1="152" y1="198" x2="178" y2="228" stroke="#A16207" stroke-width="3" stroke-linecap="round"/><line x1="166" y1="192" x2="192" y2="222" stroke="#A16207" stroke-width="3" stroke-linecap="round"/><line x1="180" y1="184" x2="206" y2="214" stroke="#A16207" stroke-width="3" stroke-linecap="round"/><line x1="194" y1="174" x2="220" y2="204" stroke="#A16207" stroke-width="3" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Eastern subterranean termite</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Reticulitermes flavipes</text>
+</g>
+</svg>

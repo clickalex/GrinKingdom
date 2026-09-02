@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Naked mole-rat illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffeed2"/><stop offset="1" stop-color="#F5C6AA"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd892"/><stop offset="1" stop-color="#FDBA74"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffe6"/><stop offset="1" stop-color="#FDBA74"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#ffffe6" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="402.7436029911041" cy="182.64958846382797" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="217.89306010119617" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="141.1046818178147" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="54" font-size="44">🦷</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M40,172.31507244858875 L70,179.5818933685009 L100,169.93185179097094 L130,127.8713929605733 L160,120.07772848726779 L190,139.18621747320995 L220,175.013914626902 L250,170.00114150644487 L280,143.54299229838622" stroke="#F5C6AA" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,172.31507244858875 L70,179.5818933685009 L100,169.93185179097094 L130,127.8713929605733 L160,120.07772848726779 L190,139.18621747320995 L220,175.013914626902 L250,170.00114150644487 L280,143.54299229838622" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,172.31507244858875 L70,179.5818933685009 L100,169.93185179097094 L130,127.8713929605733 L160,120.07772848726779 L190,139.18621747320995 L220,175.013914626902 L250,170.00114150644487 L280,143.54299229838622" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="164.31507244858875" r="13" fill="url(#bg1)" stroke="#F5C6AA" stroke-width="3"/><circle cx="24" cy="162.31507244858875" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Naked mole-rat</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Heterocephalus glaber</text>
+</g>
+</svg>

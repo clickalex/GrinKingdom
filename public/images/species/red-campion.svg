@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Red campion illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9ade"/><stop offset="1" stop-color="#F472B6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaef2"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="312.4802991002798" cy="149.5365143660456" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="246.9222471769899" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="143.85106975212693" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="69" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F472B6" stroke-width="2.6"/><ellipse cx="175.9676813387047" cy="77.19627560195136" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(2.8570815367306226 175.9676813387047 77.19627560195136)"/><ellipse cx="162.72502571303602" cy="96.92910204068512" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(60.697265875053226 162.72502571303602 96.92910204068512)"/><ellipse cx="140.46025687220475" cy="98.32612439464843" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(111.5253716516824 140.46025687220475 98.32612439464843)"/><ellipse cx="128.8403316626386" cy="89.94635851239627" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(144.4721736756999 128.8403316626386 89.94635851239627)"/><ellipse cx="124.17785124140735" cy="73.19763917950637" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(186.70544000701028 124.17785124140735 73.19763917950637)"/><ellipse cx="135.9561073368908" cy="55.802345417541815" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(237.30616863275728 135.9561073368908 55.802345417541815)"/><ellipse cx="161.12240023810224" cy="54.306863264088555" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(295.3270487938732 161.12240023810224 54.306863264088555)"/><ellipse cx="173.31889282334453" cy="65.38544869518098" rx="17" ry="20" fill="url(#bg1)" stroke="#F472B6" stroke-width="2.6" transform="rotate(333.7510041993885 173.31889282334453 65.38544869518098)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#9b7886" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Red campion</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Silene dioica</text>
+</g>
+</svg>

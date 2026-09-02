@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Candidatus Prometheoarchaeum syntrophicum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a462ff"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2d3ff"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b876ff"/><stop offset="1" stop-color="#C4B5FD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe2ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#b876ff" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#b876ff" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="332.765082642436" cy="119.24044973216951" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="220.2009696420282" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="135.03288105130196" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="460.97075467929244" cy="101.03817123919725" r="1.9934367493260652"/><circle cx="348.2423875108361" cy="121.91997453570366" r="3.8875674325972795"/><circle cx="296.2334426678717" cy="90.95221027731895" r="3.4255532613024116"/></g>
+<text x="30" y="57" font-size="44">🦠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M212.38146834541112,150 Q197.91569969646224,179.68244146648794 207.91435677523836,183.4368694741279 Q189.55343988124804,188.08410794335248 181.21966539276764,204.0740466555733 Q172.12289053178392,194.01843527146445 150,213.8042736100033 Q144.6933158223983,215.3746564891036 124.45884359581397,194.23858057611343 Q109.95873515822942,175.37277721891508 103.64348964724721,176.7639437308535 Q102.33346953688205,148.9738740543835 93.2864172514528,150 Q101.45886164781673,141.02053085761145 99.08599101694372,120.60478320810944 Q125.89417194406536,109.27486295372717 127.47207007277754,110.98048077669932 Q131.69763155514374,107.089581817654 150,89.51591186132282 Q158.26960991113447,110.1107707410095 178.5134747135453,100.61321309580912 Q169.54933127133813,111.43600003653893 186.1485901987494,129.12960171792653 Z" fill="url(#bg1)" stroke="#7C3AED" stroke-width="3"/><path d="M212.38146834541112,150 Q197.91569969646224,179.68244146648794 207.91435677523836,183.4368694741279 Q189.55343988124804,188.08410794335248 181.21966539276764,204.0740466555733 Q172.12289053178392,194.01843527146445 150,213.8042736100033 Q144.6933158223983,215.3746564891036 124.45884359581397,194.23858057611343 Q109.95873515822942,175.37277721891508 103.64348964724721,176.7639437308535 Q102.33346953688205,148.9738740543835 93.2864172514528,150 Q101.45886164781673,141.02053085761145 99.08599101694372,120.60478320810944 Q125.89417194406536,109.27486295372717 127.47207007277754,110.98048077669932 Q131.69763155514374,107.089581817654 150,89.51591186132282 Q158.26960991113447,110.1107707410095 178.5134747135453,100.61321309580912 Q169.54933127133813,111.43600003653893 186.1485901987494,129.12960171792653 Z" fill="url(#tx)"/><circle cx="143.5405962727964" cy="155.87188087403774" r="13" fill="#C4B5FD" opacity="0.8"/><circle cx="117.13168143108487" cy="119.60351555421948" r="5" fill="#ffffff" opacity="0.5"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Candidatus Prometheoarchaeum syntrophicum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Candidatus Prometheoarchaeum syntrophicum</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cryptosporidium parvum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffb2"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b05e2c"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffc6"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="389.36400569975376" cy="187.46515564620495" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="267.22364868968725" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="127.10202500224113" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="171.87490073032677" cy="84.77467734366655" r="2.2580113119911402"/><circle cx="301.272447751835" cy="143.43941471539438" r="2.359003300080076"/><circle cx="356.92809597589076" cy="65.95903360284865" r="2.3516635335981846"/></g>
+<text x="30" y="63" font-size="44">💧</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><circle cx="150" cy="150" r="62" fill="url(#bg1)" stroke="#FDE68A" stroke-width="3"/><circle cx="150" cy="150" r="62" fill="url(#tx)"/><circle cx="126" cy="126" r="15" fill="#ffffff" opacity="0.32"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cryptosporidium parvum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cryptosporidium parvum</text>
+</g>
+</svg>

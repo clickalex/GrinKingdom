@@ -2,6 +2,7 @@ import { useEffect, useMemo, useState } from 'react'
 import { SPECIES, HABITATS, DIETS, STATUSES } from '../data/species.js'
 import { KINGDOMS, KINGDOM_MAP } from '../data/kingdoms.js'
 import SpeciesCard from '../components/SpeciesCard.jsx'
+import { setRealPhotos as setRealPhotosPref, useRealPhotosPref } from '../lib/photos.js'
 
 function ChipRow({ label, options, value, onChange, colorFor }) {
   return (
@@ -96,6 +97,8 @@ export default function Explore() {
   const [sort, setSort] = useState('featured')
   const [page, setPage] = useState(1)
   const PER_PAGE = 24
+  const realPhotos = useRealPhotosPref()
+  const setRealPhotos = (v) => setRealPhotosPref(v)
 
   const filtered = useMemo(() => {
     const q = query.trim().toLowerCase()
@@ -173,6 +176,14 @@ export default function Explore() {
               )}
             </span>
             <div className="explore-tools">
+              <button
+                type="button"
+                className={`fchip realphoto-toggle ${realPhotos ? 'on' : ''}`}
+                onClick={() => setRealPhotos(!realPhotos)}
+                title="Show real licensed photographs (via GBIF & Wikipedia) instead of illustrations"
+              >
+                📷 Real photos {realPhotos ? 'on' : 'off'}
+              </button>
               <select className="sort-select" value={sort} onChange={(e) => setSort(e.target.value)} aria-label="Sort species">
                 <option value="featured">✨ Featured order</option>
                 <option value="az">🔤 Name A → Z</option>

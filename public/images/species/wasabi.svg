@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Wasabi illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffff6f"/><stop offset="1" stop-color="#FDE047"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff83"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffef"/><stop offset="1" stop-color="#fffff3"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="256.94267489016056" cy="206.309701949358" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="217.8034012997523" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="139.86436212435365" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="265.50799764692783" cy="147.84188767895103" r="1.8874732630793005"/><circle cx="146.40537993051112" cy="153.52249585092068" r="1.8877500370144844"/><circle cx="257.85142036154866" cy="77.23383579403162" r="2.3430690604727715"/></g>
+<text x="30" y="54" font-size="44">🍣</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FDE047" stroke-width="2.6"/><ellipse cx="175.06624932099874" cy="82.37412153212493" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(15.401918376790146 175.06624932099874 82.37412153212493)"/><ellipse cx="165.44562921921454" cy="95.30605041674157" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(53.55415977243715 165.44562921921454 95.30605041674157)"/><ellipse cx="147.9435222575501" cy="99.92480942260569" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(94.53656532950217 147.9435222575501 99.92480942260569)"/><ellipse cx="131.42597222288157" cy="92.79405200204619" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(135.59287631482115 131.42597222288157 92.79405200204619)"/><ellipse cx="124.00753421437075" cy="75.42226711636638" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(181.37936890250907 124.00753421437075 75.42226711636638)"/><ellipse cx="141.92900084881447" cy="53.18563567961309" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(251.91527305510223 141.92900084881447 53.18563567961309)"/><ellipse cx="157.40487783881082" cy="52.99393430592583" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(286.5470729423052 157.40487783881082 52.99393430592583)"/><ellipse cx="170.77810696471332" cy="61.57309404289879" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE047" stroke-width="2.6" transform="rotate(323.0497685383032 170.77810696471332 61.57309404289879)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#a0ba43" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Wasabi</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Eutrema japonicum</text>
+</g>
+</svg>

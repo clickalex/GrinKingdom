@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Dog rose illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4f9f"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff63b3"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcfff"/><stop offset="1" stop-color="#fff0ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="309.92129921913147" cy="184.04153063893318" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="222.04337901435792" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="140.35077613778412" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="533.6159340105951" cy="44.68375259079039" r="3.517472038278356"/><circle cx="205.44041971676052" cy="120.80256318673491" r="3.7330685465130955"/><circle cx="401.89488992094994" cy="151.68433976359665" r="4.483682567020878"/></g>
+<text x="30" y="52" font-size="44">🌹</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#DB2777" stroke-width="2.6"/><ellipse cx="174.2582589435522" cy="84.63641311282899" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(21.09101785097851 174.2582589435522 84.63641311282899)"/><ellipse cx="164.03522866425962" cy="96.20278545931303" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(57.32885279822858 164.03522866425962 96.20278545931303)"/><ellipse cx="143.48880039343507" cy="99.23522833852319" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(104.50300345002499 143.48880039343507 99.23522833852319)"/><ellipse cx="127.31912266298482" cy="87.73353149424068" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(150.7318800998281 127.31912266298482 87.73353149424068)"/><ellipse cx="124.48991095919662" cy="71.36294100375258" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(191.1402219308721 124.48991095919662 71.36294100375258)"/><ellipse cx="137.58454994748917" cy="54.913063804785125" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(241.4766212485638 137.58454994748917 54.913063804785125)"/><ellipse cx="158.74564440655232" cy="53.398490210712836" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(289.6559255971778 158.74564440655232 53.398490210712836)"/><ellipse cx="168.5191530197779" cy="59.15439061541459" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(315.4203278138102 168.5191530197779 59.15439061541459)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#8c405c" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Dog rose</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Rosa canina</text>
+</g>
+</svg>

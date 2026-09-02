@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Beard lichen illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#acf43e"/><stop offset="1" stop-color="#84CC16"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c0ff52"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbe"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="197.66309902071953" cy="132.43850271217525" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="235.88276719674468" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="125.90440900065005" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="381.80323481559753" cy="107.02114768326283" r="2.1995463464409113"/><circle cx="87.74393350817263" cy="100.36298141814768" r="1.846103735268116"/><circle cx="291.5008279122412" cy="56.333500891923904" r="2.120816724607721"/></g>
+<text x="30" y="53" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><circle cx="131.91332988906652" cy="226.46983510348946" r="18.064142680261284" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="179.6308719785884" cy="175.60834337491542" r="18.960368054453284" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="61.05776856187731" cy="161.6297277621925" r="24.177439518738538" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="142.23951553925872" cy="181.01162393577397" r="26.362979389261454" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="113.06229701265693" cy="240.1994438143447" r="22.83547315048054" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="82.80832684133202" cy="193.0673145921901" r="15.13391558965668" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="224.3261280655861" cy="177.03214823268354" r="15.213373295031488" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="93.33339426666498" cy="193.67789591196924" r="14.814673314336687" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="127.56048934534192" cy="232.9940496943891" r="19.14379012165591" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="110.13122925069183" cy="232.8722304198891" r="17.614764468278736" fill="url(#bg2)" stroke="#84CC16" stroke-width="2.4"/><circle cx="101.47296907380223" cy="235.81626482773572" r="14.566640905570239" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="229.52656392473727" cy="160.27411001268774" r="18.149770183023065" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="198.49231840576977" cy="197.49834593385458" r="18.17884667403996" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="182.71958301309496" cy="170.6115520792082" r="15.576084116008133" fill="url(#bg1)" stroke="#84CC16" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Beard lichen</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Usnea subfloridana</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Wild Bactrian camel illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c49346"/><stop offset="1" stop-color="#9C6B1E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d8a75a"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffc6"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#d8a75a" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="318.28238144516945" cy="132.5631087552756" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="257.3234730726108" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="142.8438287228346" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="57" font-size="44">🐫</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><g stroke="#9C6B1E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M96 210 q-6 -58 54 -62 q60 4 54 62 Z" fill="url(#bg1)"/><path d="M96 210 q-6 -58 54 -62 q60 4 54 62 Z" fill="url(#tx)"/><path d="M112 152 q-26 -18 -44 -6 M188 152 q26 -18 44 -6" fill="url(#bg1)" stroke="#9C6B1E"/><circle cx="172" cy="132" r="5" fill="#9C6B1E"/><path d="M110 208 l-6 26 M134 210 l-2 26 M164 210 l4 26 M190 208 l8 24" fill="none"/><path d="M96 190 q-22 4 -34 -14 M96 206 q-20 10 -30 0" fill="none"/></g></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Wild Bactrian camel</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Camelus ferus</text>
+</g>
+</svg>

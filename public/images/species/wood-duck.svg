@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Wood duck illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2aacef"/><stop offset="1" stop-color="#0284C7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8ffff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3ec0ff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#aaffff"/><stop offset="1" stop-color="#fcffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="30" height="16" patternUnits="userSpaceOnUse"><rect width="30" height="16" fill="none"/><path d="M3 8 q7 -6 12 0 q7 -6 12 0" stroke="#3ec0ff" stroke-width="2.4" fill="none" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="302.67305597662926" cy="91.92012255080044" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="213.14188149757683" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="147.66108268871903" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="334.1020875237882" cy="48.53090055286884" r="1.627136639552191"/><circle cx="102.20763673074543" cy="105.32264390960336" r="2.577132176840678"/><circle cx="164.09033043310046" cy="126.56042601913214" r="3.9097216576337814"/></g>
+<text x="30" y="53" font-size="44">🦆</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><path d="M96 150 q10 -40 46 -42 q44 -2 62 18 q10 10 6 22 q-4 8 -16 6 q-28 -6 -46 -2 q-16 4 -28 16 q-10 10 -20 8 q-8 -2 -4 -12 q4 -8 0 -14 Z" fill="url(#bg1)" stroke="#0284C7" stroke-width="3" stroke-linejoin="round"/><path d="M96 150 q10 -40 46 -42 q44 -2 62 18 q10 10 6 22 q-4 8 -16 6 q-28 -6 -46 -2 q-16 4 -28 16 q-10 10 -20 8 q-8 -2 -4 -12 q4 -8 0 -14 Z" fill="url(#tx)"/><circle cx="106" cy="132" r="3.4" fill="#1c1917"/><path d="M92 142 q-16 -2 -28 4 q-6 4 -2 8" stroke="#BAE6FD" stroke-width="4" fill="none"/><path d="M140 168 q-8 26 -4 44 M140 168 q8 26 4 44" stroke="#0284C7" stroke-width="5" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Wood duck</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Aix sponsa</text>
+</g>
+</svg>

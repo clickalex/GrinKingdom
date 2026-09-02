@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Finless porpoise illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8c9cb3"/><stop offset="1" stop-color="#64748B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a0b0c7"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="390.93160435557365" cy="183.2559478841722" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="269.2546923318878" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="153.27689342200756" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="493.97943744435906" cy="57.05155774950981" r="2.9454984550829977"/><circle cx="392.16451335698366" cy="152.01115377247334" r="3.0342055396176875"/><circle cx="64.23017024062574" cy="58.24304330162704" r="2.593992377165705"/></g>
+<text x="30" y="54" font-size="44">🐬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M60 170 q40 -64 140 -56 q70 6 100 40 q-70 16 -110 6 q-20 22 -56 16 q-30 -5 -74 -6 Z" fill="url(#bg1)" stroke="#64748B" stroke-width="3" stroke-linejoin="round"/><path d="M60 170 q40 -64 140 -56 q70 6 100 40 q-70 16 -110 6 q-20 22 -56 16 q-30 -5 -74 -6 Z" fill="url(#tx)"/><circle cx="86" cy="140" r="4" fill="#1c1917"/><path d="M236 148 q30 4 46 -4" stroke="#64748B" stroke-width="4" fill="none"/><path d="M210 130 q16 -26 44 -30 q-2 22 -18 30" fill="url(#bg2)" stroke="#64748B" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Finless porpoise</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Neophocaena phocaenoides</text>
+</g>
+</svg>

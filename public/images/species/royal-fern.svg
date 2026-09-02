@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Royal fern illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#52a170" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#52a170" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="152.7994193136692" cy="98.82333763875067" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="257.2138628270477" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="156.5607012808323" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="364.5501175150275" cy="78.52570530958474" r="1.6372587529476732"/><circle cx="428.08916051872075" cy="78.16495462320745" r="1.908793146489188"/><circle cx="136.32167938165367" cy="78.35626415908337" r="2.109109102981165"/></g>
+<text x="30" y="65" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 236 q-4 -96 -8 -206" stroke="#F0FDF4" stroke-width="5" fill="none"/><path d="M150 208 q-14 -10 -22 -22 M150 208 q14 -10 22 -22" stroke="#166534" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 192 q-14 -10 -22 -22 M150 192 q14 -10 22 -22" stroke="#166534" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 176 q-14 -10 -22 -22 M150 176 q14 -10 22 -22" stroke="#166534" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 160 q-34 -10 -42 -22 M150 160 q34 -10 42 -22" stroke="#166534" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 144 q-34 -10 -42 -22 M150 144 q34 -10 42 -22" stroke="#166534" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 128 q-34 -10 -42 -22 M150 128 q34 -10 42 -22" stroke="#166534" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 112 q-34 -10 -42 -22 M150 112 q34 -10 42 -22" stroke="#166534" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 96 q-34 -10 -42 -22 M150 96 q34 -10 42 -22" stroke="#166534" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 80 q-18 -10 -26 -22 M150 80 q18 -10 26 -22" stroke="#166534" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 64 q-18 -10 -26 -22 M150 64 q18 -10 26 -22" stroke="#166534" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 48 q-18 -10 -26 -22 M150 48 q18 -10 26 -22" stroke="#166534" stroke-width="5" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Royal fern</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Osmunda regalis</text>
+</g>
+</svg>

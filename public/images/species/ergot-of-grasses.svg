@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Ergot of grasses illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9550ff"/><stop offset="1" stop-color="#6D28D9"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5a9ff"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a964ff"/><stop offset="1" stop-color="#A78BFA"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffd0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="257.37938337028027" cy="201.10976982861757" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="263.0887562222779" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="154.93588907644153" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="66.62618746049702" cy="145.43042142875493" r="3.295617781346664"/><circle cx="499.05991015024483" cy="89.6702107321471" r="1.7334501380100846"/><circle cx="212.02713347040117" cy="118.18432306870818" r="3.067420956445858"/></g>
+<text x="30" y="59" font-size="44">🟣</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><path d="M146 236 q-6 -60 4 -150" stroke="#A78BFA" stroke-width="7" fill="none"/><circle cx="125.73978342488408" cy="200" r="10" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6"/><circle cx="174.80617450922728" cy="174" r="9.2" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6"/><circle cx="121.98917934671044" cy="148" r="8.4" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6"/><circle cx="179.3151516560465" cy="122" r="7.6" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6"/><circle cx="127.98008046392351" cy="96" r="6.8" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6"/><circle cx="170.66299281455576" cy="70" r="6" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6"/><circle cx="150" cy="86" r="13" fill="#A78BFA"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Ergot of grasses</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Claviceps paspali</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sordaria fimicola illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8034"/><stop offset="1" stop-color="#EA580C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd892"/><stop offset="1" stop-color="#FDBA74"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff9448"/><stop offset="1" stop-color="#FDBA74"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb4"/><stop offset="1" stop-color="#ffffe6"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="417.0013114064932" cy="96.19131035171449" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="216.21956196147949" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="151.66866122744977" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="61" font-size="44">🟠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><line x1="106" y1="206" x2="106.49214438907802" y2="96" stroke="#FDBA74" stroke-width="4"/><circle cx="100.83977633528411" cy="94.91458401456475" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="128" y1="206" x2="127.03167769405991" y2="96" stroke="#FDBA74" stroke-width="4"/><circle cx="133.17314556147903" cy="93.2484545763582" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="150" y1="206" x2="152.15810127742589" y2="96" stroke="#FDBA74" stroke-width="4"/><circle cx="154.27156930882484" cy="95.55951232649386" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="172" y1="206" x2="168.74068429227918" y2="96" stroke="#FDBA74" stroke-width="4"/><circle cx="171.4215794634074" cy="89.1253844499588" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="194" y1="206" x2="195.17292306758463" y2="96" stroke="#FDBA74" stroke-width="4"/><circle cx="197.8400443047285" cy="92.2060478888452" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sordaria fimicola</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Sordaria fimicola</text>
+</g>
+</svg>

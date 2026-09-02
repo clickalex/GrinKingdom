@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sorghum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#5eff9a" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#5eff9a" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="311.4007306843996" cy="139.21118918806314" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="269.93536775931716" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="134.92476357147098" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="408.32762245088816" cy="73.41135957278311" r="2.3845795097295195"/><circle cx="165.56813362054527" cy="147.3721340019256" r="2.5241286617238075"/><circle cx="422.52120764926076" cy="144.15904644876719" r="1.8084996496327221"/></g>
+<text x="30" y="61" font-size="44">🌾</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M99 236 q-24 -42.359351156279445 -48 -84.71870231255889" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -53.937716227490455 -32 -107.87543245498091" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -59.048733363859355 -16 -118.09746672771871" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -74.28340816008858 0 -148.56681632017717" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -63.545326481806114 16 -127.09065296361223" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -52.19657564489171 32 -104.39315128978342" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -44.414604279911146 48 -88.82920855982229" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sorghum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Sorghum bicolor</text>
+</g>
+</svg>

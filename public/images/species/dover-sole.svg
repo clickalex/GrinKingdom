@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Dover sole illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7f7b76"/><stop offset="1" stop-color="#57534E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e2dedb"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#938f8a"/><stop offset="1" stop-color="#C4C0BD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffbf6"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#938f8a" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#938f8a" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="234.25687409937382" cy="172.7805474679917" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="267.89754662197083" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="141.5679377131164" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="486.94251891225576" cy="143.17846363410354" r="2.9154810961335897"/><circle cx="154.5010236185044" cy="128.48426926881075" r="2.652262762421742"/><circle cx="441.6999784298241" cy="97.21499767154455" r="4.105816711205989"/></g>
+<text x="30" y="60" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M60 170 q60 -70 90 -70 q30 0 90 70 q-8 10 -18 8 q-40 -8 -72 -8 q-32 0 -72 8 q-10 2 -18 -8 Z" fill="url(#bg1)" stroke="#57534E" stroke-width="3" stroke-linejoin="round"/><path d="M60 170 q60 -70 90 -70 q30 0 90 70 q-8 10 -18 8 q-40 -8 -72 -8 q-32 0 -72 8 q-10 2 -18 -8 Z" fill="url(#tx)"/><path d="M150 178 q-2 34 8 62 q6 16 12 10 q4 -4 0 -14 q-6 -24 -10 -58" fill="none" stroke="#57534E" stroke-width="5" stroke-linecap="round"/><circle cx="140" cy="128" r="3" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Dover sole</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Solea solea</text>
+</g>
+</svg>

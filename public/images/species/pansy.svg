@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pansy illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a462ff"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b876ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe2ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="272.935246899724" cy="124.23241194337606" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="269.16726887226105" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="141.06366271153092" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="78.16718015819788" cy="112.97242226079106" r="2.476422772044316"/><circle cx="100.01229515299201" cy="50.543590215966105" r="4.400936084333807"/><circle cx="312.43253288790584" cy="135.72057138197124" r="3.914308252511546"/></g>
+<text x="30" y="52" font-size="44">😊</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#7C3AED" stroke-width="2.6"/><ellipse cx="174.50284073750157" cy="84.02656631625418" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(19.538504239979 174.50284073750157 84.02656631625418)"/><ellipse cx="165.20055002082046" cy="95.47108798625793" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(54.22268267347203 165.20055002082046 95.47108798625793)"/><ellipse cx="149.59164344927177" cy="99.99703966820937" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(90.89992572806126 149.59164344927177 99.99703966820937)"/><ellipse cx="128.58636145275233" cy="89.61205437763485" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(145.44695819035314 128.58636145275233 89.61205437763485)"/><ellipse cx="125.08942526000757" cy="69.125507949158" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(196.6447742360293 125.08942526000757 69.125507949158)"/><ellipse cx="140.73021289455835" cy="53.577189502724195" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(249.11273952350712 140.73021289455835 53.577189502724195)"/><ellipse cx="154.64525400982384" cy="52.386154825104256" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(280.2919288777693 154.64525400982384 52.386154825104256)"/><ellipse cx="168.71104867529814" cy="59.33605410606378" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(316.02606321372394 168.71104867529814 59.33605410606378)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#5356a7" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pansy</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Viola × wittrockiana</text>
+</g>
+</svg>

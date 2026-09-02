@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Basil illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a64af6"/><stop offset="1" stop-color="#7E22CE"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ba5eff"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcaff"/><stop offset="1" stop-color="#ffedff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="450.1003835350275" cy="128.82308358326554" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="264.97573051135987" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="128.1294939480722" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="53" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#7E22CE" stroke-width="2.6"/><ellipse cx="175.94992790235054" cy="77.48877223599762" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(3.5564652734882376 175.94992790235054 77.48877223599762)"/><ellipse cx="167.89071056836872" cy="93.4146840800386" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(46.51976925056154 167.89071056836872 93.4146840800386)"/><ellipse cx="141.3074264723871" cy="98.61894789134905" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(109.53178561501217 141.3074264723871 98.61894789134905)"/><ellipse cx="130.44091720310595" cy="91.81245265039963" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(138.78760679241802 130.44091720310595 91.81245265039963)"/><ellipse cx="124.41002456568309" cy="71.75453277079266" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(190.18892332183475 124.41002456568309 71.75453277079266)"/><ellipse cx="142.24573087457978" cy="53.09222649603687" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(252.6480086856183 142.24573087457978 53.09222649603687)"/><ellipse cx="160.91784483433872" cy="54.21850092354778" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(294.829354346777 160.91784483433872 54.21850092354778)"/><ellipse cx="172.03346994182434" cy="63.25865576688632" rx="17" ry="20" fill="url(#bg1)" stroke="#7E22CE" stroke-width="2.6" transform="rotate(327.9344361330518 172.03346994182434 63.25865576688632)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#543d90" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Basil</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ocimum basilicum</text>
+</g>
+</svg>

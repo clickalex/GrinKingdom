@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="European larch illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2d563e"/><stop offset="1" stop-color="#052E16"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#896f47"/><stop offset="1" stop-color="#6B5129"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#416a52"/><stop offset="1" stop-color="#6B5129"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#add6be"/><stop offset="1" stop-color="#deecce"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="315.32885402441025" cy="145.45417129062116" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="257.06485971808434" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="149.46265726350248" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="286.81775918230414" cy="104.07610900700092" r="2.6462775953114033"/><circle cx="346.4568778220564" cy="117.47949209995568" r="2.2740094314794987"/><circle cx="502.4578735418618" cy="57.573074009269476" r="3.297566134482622"/></g>
+<text x="30" y="69" font-size="44">🍂</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><rect x="140" y="186" width="20" height="70" fill="#6B5129" stroke="#384020" stroke-width="3"/><polygon points="150,116 102,168 198,168" fill="url(#bg1)" stroke="#052E16" stroke-width="3"/><polygon points="150,72 111,124 189,124" fill="url(#bg1)" stroke="#052E16" stroke-width="3"/><polygon points="150,28 120,80 180,80" fill="url(#bg1)" stroke="#052E16" stroke-width="3"/><polygon points="150,-16 129,36 171,36" fill="url(#bg1)" stroke="#052E16" stroke-width="3"/><polygon points="150,6 78,72 222,72" fill="url(#tx)" opacity="0.7"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">European larch</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Larix decidua</text>
+</g>
+</svg>

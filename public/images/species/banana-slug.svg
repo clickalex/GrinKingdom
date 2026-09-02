@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Banana slug illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9f2e"/><stop offset="1" stop-color="#D97706"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb342"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffae"/><stop offset="1" stop-color="#ffffeb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="364.82522681355476" cy="109.27482208237052" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="254.4298231601715" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="132.45500234887004" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="135.95189917832613" cy="87.59106987155974" r="2.2413040939718485"/><circle cx="211.44926608540118" cy="132.1466719545424" r="3.1131091739516705"/><circle cx="535.6450123433024" cy="74.07734371721745" r="2.7082097239326686"/></g>
+<text x="30" y="62" font-size="44">🐌</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M70 176 q0 -26 22 -30 q46 -8 92 8 q24 10 24 26 q0 18 -22 18 q-62 -6 -92 -4 q-24 2 -24 -8 Z" fill="url(#bg1)" stroke="#D97706" stroke-width="3" stroke-linejoin="round"/><path d="M70 176 q0 -26 22 -30 q46 -8 92 8 q24 10 24 26 q0 18 -22 18 q-62 -6 -92 -4 q-24 2 -24 -8 Z" fill="url(#tx)"/><path d="M60 172 l-14 -12 M60 178 l-12 -4" stroke="#D97706" stroke-width="2.6" fill="none"/><circle cx="56" cy="166" r="3" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Banana slug</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ariolimax columbianus</text>
+</g>
+</svg>

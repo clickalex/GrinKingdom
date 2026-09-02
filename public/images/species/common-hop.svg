@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common hop illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#5eff9a" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#5eff9a" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="346.9565521925688" cy="117.1923360787332" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="266.4594926778227" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="159.04949503019452" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="367.5220213830471" cy="43.77587943337858" r="3.714230058481917"/><circle cx="51.10302998684347" cy="138.3861117810011" r="4.432942260056734"/><circle cx="279.40459072589874" cy="128.87000660412014" r="1.5378347095102072"/></g>
+<text x="30" y="53" font-size="44">🍺</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M99 236 q-24 -46.31650623679161 -48 -92.63301247358322" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -55.046403624117374 -32 -110.09280724823475" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -59.808752400102094 -16 -119.61750480020419" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -72.51679339748807 0 -145.03358679497615" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -61.403418756322935 16 -122.80683751264587" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -56.13409806299023 32 -112.26819612598047" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -43.89467122685164 48 -87.78934245370328" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common hop</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Humulus lupulus</text>
+</g>
+</svg>

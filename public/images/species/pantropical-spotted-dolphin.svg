@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pantropical spotted dolphin illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2aacef"/><stop offset="1" stop-color="#0284C7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8ffff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3ec0ff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#aaffff"/><stop offset="1" stop-color="#fcffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="262.07868963479996" cy="119.81008222326636" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="252.24168155808002" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="148.5378918517381" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="65" font-size="44">🐬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M60 170 q40 -64 140 -56 q70 6 100 40 q-70 16 -110 6 q-20 22 -56 16 q-30 -5 -74 -6 Z" fill="url(#bg1)" stroke="#0284C7" stroke-width="3" stroke-linejoin="round"/><path d="M60 170 q40 -64 140 -56 q70 6 100 40 q-70 16 -110 6 q-20 22 -56 16 q-30 -5 -74 -6 Z" fill="url(#tx)"/><circle cx="86" cy="140" r="4" fill="#1c1917"/><path d="M236 148 q30 4 46 -4" stroke="#0284C7" stroke-width="4" fill="none"/><path d="M210 130 q16 -26 44 -30 q-2 22 -18 30" fill="url(#bg2)" stroke="#0284C7" stroke-width="3"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pantropical spotted dolphin</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Stenella attenuata</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Rosemary illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d07dff"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e491ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="423.39831061661243" cy="178.40050441212952" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="248.38235823903233" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="143.2578865904361" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="440.77475445345044" cy="112.99208874814212" r="3.430995497619733"/><circle cx="213.48034113645554" cy="98.57753126882017" r="4.367529110284522"/><circle cx="159.2020602710545" cy="82.61749062687159" r="1.7578337097074836"/></g>
+<text x="30" y="55" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#A855F7" stroke-width="2.6"/><ellipse cx="175.54629750554045" cy="80.46397974402907" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(10.719390937559355 175.54629750554045 80.46397974402907)"/><ellipse cx="161.76511293704712" cy="97.4022927670895" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(63.09552607254419 161.76511293704712 97.4022927670895)"/><ellipse cx="139.22987207969223" cy="97.84407162605993" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(114.47119341401832 139.22987207969223 97.84407162605993)"/><ellipse cx="127.98173044878997" cy="88.76371429953755" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(147.87139574150862 127.98173044878997 88.76371429953755)"/><ellipse cx="125.67326972627689" cy="67.52928191523607" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(200.66764780821302 125.67326972627689 67.52928191523607)"/><ellipse cx="134.82271515092367" cy="56.513454263096094" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(234.28585169802122 134.82271515092367 56.513454263096094)"/><ellipse cx="160.22360179196096" cy="53.93328738372115" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(293.154722856462 160.22360179196096 53.93328738372115)"/><ellipse cx="172.15858212860394" cy="63.444890175028874" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(328.45758762899953 172.15858212860394 63.444890175028874)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#6e74b2" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Rosemary</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Salvia rosmarinus</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Gympie-gympie illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a2ea34"/><stop offset="1" stop-color="#84CC16"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#84CC16"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#f2ffe5"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#52df86" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#52df86" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="158.35066132247448" cy="90.66233566962183" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="266.98425519280136" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="131.2421916332096" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="513.3644534181803" cy="143.96329782903194" r="4.224556049332023"/><circle cx="161.1604368314147" cy="61.436520079150796" r="3.636936410330236"/><circle cx="99.64164298959076" cy="148.93303656950593" r="1.9084651346784085"/></g>
+<text x="30" y="54" font-size="44">🔥</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M99 236 q-24 -44.33311503776349 -48 -88.66623007552698" stroke="#84CC16" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -51.695448177168146 -32 -103.39089635433629" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -61.796051539015025 -16 -123.59210307803005" stroke="#84CC16" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -69.2239704807289 0 -138.4479409614578" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -61.41132295737043 16 -122.82264591474086" stroke="#84CC16" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -50.191494807600975 32 -100.38298961520195" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -42.91674360516481 48 -85.83348721032962" stroke="#84CC16" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Gympie-gympie</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Dendrocnide moroides</text>
+</g>
+</svg>

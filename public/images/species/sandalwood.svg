@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sandalwood illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c98a2f"/><stop offset="1" stop-color="#A16207"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a88b59"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#dd9e43"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffaf"/><stop offset="1" stop-color="#ffffcc"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#dd9e43" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#dd9e43" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="164.43361639976501" cy="179.35839822515845" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="225.35255930386484" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="135.1370468456298" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="312.7403169963509" cy="155.32389036379755" r="4.238910634769127"/><circle cx="143.70579686947167" cy="77.05451799556613" r="2.1577715263701975"/><circle cx="299.43902251310647" cy="57.76059492491186" r="3.2330933993216604"/></g>
+<text x="30" y="58" font-size="44">🪵</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M138 210 q-6 -70 12 -128 q18 58 12 128 Z" fill="#8A6D3B" stroke="#98661c" stroke-width="3"/><circle cx="92" cy="92" r="44" fill="url(#bg1)" stroke="#A16207" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#bg1)" stroke="#A16207" stroke-width="3"/><circle cx="206" cy="96" r="42" fill="url(#bg1)" stroke="#A16207" stroke-width="3"/><circle cx="124" cy="52" r="36" fill="url(#bg1)" stroke="#A16207" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#tx)" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sandalwood</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Santalum album</text>
+</g>
+</svg>

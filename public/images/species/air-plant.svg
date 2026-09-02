@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Air plant illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4f9f"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff63b3"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcfff"/><stop offset="1" stop-color="#fff0ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="330.2765020728111" cy="173.9221713412553" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="268.80339577328414" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="137.86473697051406" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="68" font-size="44">🌱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#DB2777" stroke-width="2.6"/><ellipse cx="175.90334920743535" cy="78.06746561346415" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(4.941835591080645 175.90334920743535 78.06746561346415)"/><ellipse cx="162.3593970133045" cy="97.11497463344774" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(61.61711511151096 162.3593970133045 97.11497463344774)"/><ellipse cx="139.43547630364898" cy="97.92945667307231" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(113.97436287913044 139.43547630364898 97.92945667307231)"/><ellipse cx="125.8467857329431" cy="84.88373376978811" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(158.2747877636739 125.8467857329431 84.88373376978811)"/><ellipse cx="124.11087688764317" cy="73.78590336031735" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(185.29329291995262 124.11087688764317 73.78590336031735)"/><ellipse cx="136.67899592707155" cy="55.389305575089466" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(239.17975693018917 136.67899592707155 55.389305575089466)"/><ellipse cx="157.4215019731542" cy="52.99849909468918" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(286.5852937871063 157.4215019731542 52.99849909468918)"/><ellipse cx="174.15216421830903" cy="67.11383404994166" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(338.2685372601293 174.15216421830903 67.11383404994166)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#8c405c" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Air plant</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Tillandsia ionantha</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Douglas fir illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3c7b55"/><stop offset="1" stop-color="#14532D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9a7d51"/><stop offset="1" stop-color="#7C5F33"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#508f69"/><stop offset="1" stop-color="#7C5F33"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bcfbd5"/><stop offset="1" stop-color="#eeffdf"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="193.67393925786018" cy="202.5637087225914" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="252.24342703353614" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="151.89727639779449" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="546.9949007406831" cy="57.10054681636393" r="1.6609930121339858"/><circle cx="51.48649434559047" cy="51.49654133245349" r="2.926430858904496"/><circle cx="449.4911573175341" cy="121.25645478256047" r="3.656732398783788"/></g>
+<text x="30" y="52" font-size="44">🌲</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><rect x="140" y="186" width="20" height="70" fill="#7C5F33" stroke="#485930" stroke-width="3"/><polygon points="150,116 102,168 198,168" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,72 111,124 189,124" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,28 120,80 180,80" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,-16 129,36 171,36" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,6 78,72 222,72" fill="url(#tx)" opacity="0.7"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Douglas fir</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pseudotsuga menziesii</text>
+</g>
+</svg>

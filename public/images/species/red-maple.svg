@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Red maple illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ea6934"/><stop offset="1" stop-color="#C2410C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#896f47"/><stop offset="1" stop-color="#6B5129"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fe7d48"/><stop offset="1" stop-color="#6B5129"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe9b4"/><stop offset="1" stop-color="#fff7c8"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="396.4556949585676" cy="127.72617445327342" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="240.47018628101796" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="137.74425545707345" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="262.929807966575" cy="100.97007316537201" r="4.124880497111008"/><circle cx="311.5806102193892" cy="84.38478884287179" r="1.821757113095373"/><circle cx="265.95531122758985" cy="134.3511551246047" r="3.3354769935831428"/></g>
+<text x="30" y="69" font-size="44">🍁</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M138 210 q-6 -70 12 -128 q18 58 12 128 Z" fill="#6B5129" stroke="#9f4718" stroke-width="3"/><circle cx="92" cy="92" r="44" fill="url(#bg1)" stroke="#C2410C" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#bg1)" stroke="#C2410C" stroke-width="3"/><circle cx="206" cy="96" r="42" fill="url(#bg1)" stroke="#C2410C" stroke-width="3"/><circle cx="124" cy="52" r="36" fill="url(#bg1)" stroke="#C2410C" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#tx)" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Red maple</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Acer rubrum</text>
+</g>
+</svg>

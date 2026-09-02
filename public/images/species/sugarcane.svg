@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sugarcane illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#52df86" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#52df86" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="333.06523755192757" cy="133.00406271591783" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="213.66382971871644" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="127.69389860332012" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="212.42546764202416" cy="156.09859229065478" r="2.6119526512920856"/><circle cx="321.29648006521165" cy="131.03907519951463" r="3.427545180777088"/><circle cx="203.43254338018596" cy="153.06334994733334" r="4.134683433221653"/></g>
+<text x="30" y="57" font-size="44">🍬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M99 236 q-24 -45.98664609552361 -48 -91.97329219104722" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -55.4095833003521 -32 -110.8191666007042" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -59.33838166878559 -16 -118.67676333757117" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -71.83074082783423 0 -143.66148165566847" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -62.14909472246654 16 -124.29818944493309" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -55.11894151917659 32 -110.23788303835317" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -43.475831382209435 48 -86.95166276441887" stroke="#FEF3C7" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sugarcane</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Saccharum officinarum</text>
+</g>
+</svg>

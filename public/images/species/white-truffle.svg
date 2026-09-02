@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="White truffle illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c6c0bc"/><stop offset="1" stop-color="#A8A29E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#A8A29E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#807c78" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#807c78" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="402.6524083316326" cy="143.37993401102722" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="234.10419812891632" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="122.32117447070777" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="69" font-size="44">🤍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M96 160 q10 -64 54 -64 q44 0 54 64 q-6 60 -54 60 q-48 0 -54 -60 Z" fill="url(#bg1)" stroke="#44403C" stroke-width="3"/><path d="M96 160 q10 -64 54 -64 q44 0 54 64 q-6 60 -54 60 q-48 0 -54 -60 Z" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">White truffle</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Tuber magnatum</text>
+</g>
+</svg>

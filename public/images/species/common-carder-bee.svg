@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common carder bee illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffdb30"/><stop offset="1" stop-color="#EAB308"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3a3735"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffef44"/><stop offset="1" stop-color="#1C1917"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb0"/><stop offset="1" stop-color="#ffffbe"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="26" height="26" patternUnits="userSpaceOnUse" patternTransform="rotate(24)"><rect width="26" height="26" fill="none"/><rect width="26" height="9" fill="#ffef44" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="347.85260409116745" cy="180.26547828689218" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="216.4982387982309" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="125.89044944383204" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="240.24959651753306" cy="159.62519864551723" r="3.270988364936784"/><circle cx="235.4897798039019" cy="77.98851969651878" r="3.868422769010067"/><circle cx="390.6238261330873" cy="82.24746100604534" r="4.26028331858106"/></g>
+<text x="30" y="55" font-size="44">🐝</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><ellipse cx="150" cy="150" rx="58" ry="36" fill="url(#bg1)" stroke="#EAB308" stroke-width="3"/><path d="M106 138 q44 18 88 0" stroke="#1C1917" stroke-width="9" fill="none" opacity="0.9"/><path d="M106 150 q44 18 88 0" stroke="#1C1917" stroke-width="9" fill="none" opacity="0.9"/><path d="M106 162 q44 18 88 0" stroke="#1C1917" stroke-width="9" fill="none" opacity="0.9"/><ellipse cx="96" cy="138" rx="18" ry="13" fill="url(#bg2)" stroke="#EAB308" stroke-width="2.6"/><circle cx="92" cy="135" r="3" fill="#1c1917"/><path d="M150 114 q-16 -26 -40 -30 M150 186 q-16 26 -40 30" stroke="#EAB308" stroke-width="2.6" fill="none"/><ellipse cx="130" cy="112" rx="16" ry="10" fill="#ffffff" opacity="0.5" transform="rotate(-30 130 112)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common carder bee</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Bombus pascuorum</text>
+</g>
+</svg>

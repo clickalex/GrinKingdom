@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Turmeric illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9f2e"/><stop offset="1" stop-color="#D97706"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb342"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffae"/><stop offset="1" stop-color="#ffffcc"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="386.1158837378025" cy="120.61889011412859" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="210.15539945103228" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="142.7658198773861" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="103.97210920229554" cy="52.177371084690094" r="3.309556406456977"/><circle cx="438.1030218116939" cy="42.46204243041575" r="1.6744052111171186"/><circle cx="404.0049531497061" cy="114.97523220255971" r="4.356423213612288"/></g>
+<text x="30" y="64" font-size="44">🟡</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#D97706" stroke-width="2.6"/><ellipse cx="175.997792874745" cy="76.31271148987982" rx="17" ry="20" fill="url(#bg1)" stroke="#D97706" stroke-width="2.6" transform="rotate(0.7465648159142119 175.997792874745 76.31271148987982)"/><ellipse cx="157.86507442657037" cy="98.87556343459615" rx="17" ry="20" fill="url(#bg1)" stroke="#D97706" stroke-width="2.6" transform="rotate(72.39200695897654 157.86507442657037 98.87556343459615)"/><ellipse cx="141.54679916136715" cy="98.69612079616043" rx="17" ry="20" fill="url(#bg1)" stroke="#D97706" stroke-width="2.6" transform="rotate(108.97303368567655 141.54679916136715 98.69612079616043)"/><ellipse cx="126.99984657963618" cy="87.19144425432907" rx="17" ry="20" fill="url(#bg1)" stroke="#D97706" stroke-width="2.6" transform="rotate(152.20495252764312 126.99984657963618 87.19144425432907)"/><ellipse cx="126.08457143509847" cy="66.58405990068056" rx="17" ry="20" fill="url(#bg1)" stroke="#D97706" stroke-width="2.6" transform="rotate(203.09960887277023 126.08457143509847 66.58405990068056)"/><ellipse cx="134.5577571829164" cy="56.69164149232928" rx="17" ry="20" fill="url(#bg1)" stroke="#D97706" stroke-width="2.6" transform="rotate(233.56343617651612 134.5577571829164 56.69164149232928)"/><ellipse cx="160.47751910378616" cy="54.03500506064836" rx="17" ry="20" fill="url(#bg1)" stroke="#D97706" stroke-width="2.6" transform="rotate(293.76469949702545 160.47751910378616 54.03500506064836)"/><ellipse cx="174.04423448052938" cy="66.86784421540455" rx="17" ry="20" fill="url(#bg1)" stroke="#D97706" stroke-width="2.6" transform="rotate(337.6349405981163 174.04423448052938 66.86784421540455)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#8b7b1c" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Turmeric</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Curcuma longa</text>
+</g>
+</svg>

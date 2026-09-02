@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Zonal geranium illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="154.8340754956007" cy="130.3574697766453" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="223.5746182501316" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="149.69834726303816" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="56" font-size="44">❤️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EC4899" stroke-width="2.6"/><ellipse cx="175.99510731826564" cy="76.46557817784381" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(1.1115557510799459 175.99510731826564 76.46557817784381)"/><ellipse cx="160.3574300943848" cy="98.01347145707422" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(66.524137475186 160.3574300943848 98.01347145707422)"/><ellipse cx="146.06632195543574" cy="99.72372660663893" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(98.70199909029006 146.06632195543574 99.72372660663893)"/><ellipse cx="129.61713704863487" cy="90.89958525661706" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(141.62424854116023 129.61713704863487 90.89958525661706)"/><ellipse cx="124.26599752618193" cy="72.5757557724422" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(188.2027733534686 124.26599752618193 72.5757557724422)"/><ellipse cx="140.58361150984794" cy="53.6292992754213" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(248.76655139876524 140.58361150984794 53.6292992754213)"/><ellipse cx="159.06015726176818" cy="53.504300048445515" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(290.39361450222435 159.06015726176818 53.504300048445515)"/><ellipse cx="169.69037990927305" cy="60.32700901956484" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(319.2287034172355 169.69037990927305 60.32700901956484)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#965e74" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Zonal geranium</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pelargonium × hortorum</text>
+</g>
+</svg>

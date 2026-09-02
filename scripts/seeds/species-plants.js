@@ -22,7 +22,6 @@ export const PLANT_ROWS = [
   ['tree-rutaceae', 'Orange tree', 'Citrus × sinensis', '🍊', 'A hybrid fruit tree that conquered breakfast.'],
   ['tree-rutaceae', 'Lemon tree', 'Citrus limon', '🍋', 'The sour-sunshine tree of Mediterranean groves.'],
   ['tree-malvaceae', 'Kapok', 'Ceiba pentandra', '🌳', 'The jungle giant whose fluff once stuffed life jackets.'],
-  ['tree-malvaceae', 'Cacao tree', 'Theobroma cacao', '🍫', 'The "food of the gods" tree behind every chocolate bar.'],
   ['tree-dipterocarpaceae', 'Meranti', 'Shorea robusta', '🌳', 'The towering timber tree of Southeast Asian rainforests.'],
   ['tree-dipterocarpaceae', 'Kapur', 'Dryobalanops aromatica', '🌳', 'The camphor-scented giant of Borneo.'],
   ['tree-myrtaceae', 'Eucalyptus', 'Eucalyptus globulus', '🌿', 'The blue gum that perfumes Australia and feeds koalas.'],

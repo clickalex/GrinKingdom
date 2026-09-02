@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Great green bush-cricket illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#51bc79" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#51bc79" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="216.35233163833618" cy="106.97225368581712" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="265.9898379491642" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="138.9383113849908" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="64" font-size="44">🦗</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><ellipse cx="150" cy="150" rx="52" ry="28" fill="url(#bg1)" stroke="#15803D" stroke-width="3" transform="rotate(-14 150 150)"/><ellipse cx="150" cy="150" rx="52" ry="28" fill="url(#tx)" transform="rotate(-14 150 150)"/><path d="M106 132 q-36 -44 -16 -66 q26 -6 38 16 q-10 34 -22 50 Z" fill="url(#bg2)" stroke="#15803D" stroke-width="3"/><circle cx="96" cy="118" r="9" fill="url(#bg1)" stroke="#15803D" stroke-width="2.6"/><circle cx="92" cy="115" r="2.4" fill="#1c1917"/><path d="M124 176 q-20 34 -34 68 M138 178 q-6 36 -12 74" stroke="#15803D" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Great green bush-cricket</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Tettigonia viridissima</text>
+</g>
+</svg>

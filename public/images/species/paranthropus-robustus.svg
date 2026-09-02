@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Paranthropus robustus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#99673a"/><stop offset="1" stop-color="#713F12"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7c79c"/><stop offset="1" stop-color="#D9A97E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ad7b4e"/><stop offset="1" stop-color="#D9A97E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ba"/><stop offset="1" stop-color="#ffffed"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="364.4564354419708" cy="101.9940922781825" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="231.312703108415" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="151.2160346377641" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="229.97541857883334" cy="57.365363743156195" r="4.012879567220807"/><circle cx="367.6190582383424" cy="149.22910715453327" r="1.9970894039142877"/><circle cx="295.0474377349019" cy="52.74555875919759" r="4.327684269519523"/></g>
+<text x="30" y="62" font-size="44">🥜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><g stroke="#713F12" stroke-width="3" stroke-linecap="round"><circle cx="150" cy="104" r="30" fill="url(#bg1)"/><circle cx="150" cy="104" r="30" fill="url(#tx)" opacity="0.8"/><circle cx="140" cy="100" r="3.4" fill="#1c1917"/><circle cx="160" cy="100" r="3.4" fill="#1c1917"/><path d="M146 118 q4 8 0 14 M154 118 q-4 8 0 14" fill="none"/><path d="M118 156 q-20 -44 2 -58 M182 156 q20 -44 -2 -58 M126 158 q-34 8 -46 38 q-8 26 12 30 M174 158 q34 8 46 38 q8 26 -12 30 M136 208 q-6 30 -2 62 M164 208 q6 30 2 62 M108 206 q-8 22 0 44 M150 200 q0 24 0 50" fill="none" stroke-width="10" opacity="0.0"/><path d="M126 176 q-40 12 -52 44 q-10 28 8 34 M174 176 q40 12 52 44 q10 28 -8 34" fill="none"/><path d="M136 214 q-6 30 -2 64 M164 214 q6 30 2 64" fill="none"/><rect x="108" y="136" width="84" height="44" rx="16" fill="url(#bg2)" stroke="#713F12" stroke-width="3"/><path d="M134 216 l-2 64 M166 216 l2 64" stroke="#D9A97E" stroke-width="11" stroke-linecap="round"/></g><circle cx="150" cy="96" r="5" fill="#D9A97E"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Paranthropus robustus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Paranthropus robustus</text>
+</g>
+</svg>

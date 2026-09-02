@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cyclamen illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffb2"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffc6"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="220.56005649268627" cy="129.77342731319368" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="255.86697333958" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="159.3574063014239" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="56" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FDE68A" stroke-width="2.6"/><ellipse cx="173.43999448769287" cy="86.38478598493417" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(25.6389942454589 173.43999448769287 86.38478598493417)"/><ellipse cx="158.08501197646456" cy="98.81013629570256" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(71.88278542039762 158.08501197646456 98.81013629570256)"/><ellipse cx="146.30020743895133" cy="99.75576679171664" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(98.18094270817947 146.30020743895133 99.75576679171664)"/><ellipse cx="126.01850852035696" cy="85.27166631369714" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(157.27432347196918 126.01850852035696 85.27166631369714)"/><ellipse cx="125.1206158387105" cy="69.02992911299165" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(196.88307974294435 125.1206158387105 69.02992911299165)"/><ellipse cx="134.98712126584917" cy="56.40523859640724" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(234.73082835053495 134.98712126584917 56.40523859640724)"/><ellipse cx="162.12161386905944" cy="54.7678968203128" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(297.7889425955089 162.12161386905944 54.7678968203128)"/><ellipse cx="170.33909338806916" cy="61.04953656062523" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(321.46914653108445 170.33909338806916 61.04953656062523)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#a1b268" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cyclamen</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cyclamen hederifolium</text>
+</g>
+</svg>

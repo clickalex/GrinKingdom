@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="White oak illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a88b59"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#f4fff4"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="342.4622206389904" cy="186.2750692293048" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="263.1250971229747" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="140.15402790158987" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="63" font-size="44">🌳</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M138 210 q-6 -70 12 -128 q18 58 12 128 Z" fill="#8A6D3B" stroke="#448d44" stroke-width="3"/><circle cx="92" cy="92" r="44" fill="url(#bg1)" stroke="#16A34A" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#bg1)" stroke="#16A34A" stroke-width="3"/><circle cx="206" cy="96" r="42" fill="url(#bg1)" stroke="#16A34A" stroke-width="3"/><circle cx="124" cy="52" r="36" fill="url(#bg1)" stroke="#16A34A" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#tx)" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">White oak</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Quercus alba</text>
+</g>
+</svg>

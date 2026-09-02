@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Wakame illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6d422b"/><stop offset="1" stop-color="#451A03"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#81563f"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#edc2ab"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="233.2588066905737" cy="165.3071782272309" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="260.0591573305428" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="150.74044406414032" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="153.1355901993811" cy="52.271221578121185" r="3.7884876555763185"/><circle cx="354.5086529105902" cy="114.97349209152162" r="3.0269913969095796"/><circle cx="365.6646271701902" cy="82.41394004784524" r="2.315667209448293"/></g>
+<text x="30" y="64" font-size="44">🍜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M150 236 q-30 -60 -18 -120 q10 -50 34 -80" stroke="#451A03" stroke-width="11" fill="none" stroke-linecap="round"/><path d="M138 180 q-44 4 -58 -22 q38 -2 58 14 Z" fill="url(#bg1)" stroke="#451A03" stroke-width="2.6"/><path d="M148 150 q42 6 58 -16 q-40 -4 -58 10 Z" fill="url(#bg1)" stroke="#451A03" stroke-width="2.6"/><path d="M156 118 q-34 -2 -44 -20 q30 0 44 12 Z" fill="url(#bg1)" stroke="#451A03" stroke-width="2.6"/><path d="M150 236 q-30 -60 -18 -120 q10 -50 34 -80" stroke="url(#tx)" stroke-width="11" fill="none" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Wakame</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Undaria pinnatifida</text>
+</g>
+</svg>

@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom'
 import { KINGDOMS } from '../data/kingdoms.js'
-import { SPECIES_MAP, speciesByKingdom } from '../data/species.js'
+import { SPECIES, SPECIES_MAP, speciesByKingdom } from '../data/species.js'
 import TiltCard from '../components/TiltCard.jsx'
 import SpeciesCard from '../components/SpeciesCard.jsx'
 import Mascot from '../components/Mascot.jsx'
@@ -17,7 +17,7 @@ const FLOATERS = [
 ]
 
 const STATS = [
-  { num: '1,000', label: 'species in the catalog' },
+  { num: SPECIES.length.toLocaleString(), label: 'species in the catalog' },
   { num: '2.2M', label: 'described & named so far' },
   { num: '8', label: 'kingdoms of life covered' },
   { num: '100%', label: 'free to explore' },
@@ -27,17 +27,22 @@ const STEPS = [
   {
     e: '🔍',
     title: 'Search & filter',
-    text: 'Type any name — tiger, sequoia, E. coli — or filter by kingdom, habitat, diet and conservation status.',
+    text: `Type any name — tiger, sequoia, E. coli — or filter our ${SPECIES.length.toLocaleString()} species by kingdom, habitat, diet and conservation status.`,
+  },
+  {
+    e: '📷',
+    title: 'See real photos',
+    text: 'Every species page pairs real licensed photographs from GBIF & Wikipedia with its own hand-styled illustration.',
+  },
+  {
+    e: '🌳',
+    title: 'Climb the family tree',
+    text: 'One interactive tree connects every species — kingdom, phylum, class, order, family and genus — down to the leaf.',
   },
   {
     e: '🧊',
     title: 'Rotate in 3D',
     text: 'Every species page has an interactive 3D viewer. Drag to spin, tilt and zoom your favourite life form.',
-  },
-  {
-    e: '🌐',
-    title: 'Search the full tree of life',
-    text: 'Beyond our curated encyclopedia, a live search reaches millions of described species in the global GBIF database.',
   },
 ]
 
@@ -56,12 +61,15 @@ export default function Home() {
             </h1>
             <p className="hero-sub">
               From tiny viruses and glowing bacteria to giant sequoias, blue whales and{' '}
-              <em>you</em> — explore 1,000 species across all 8 kingdoms of life with photos, fun facts and rotatable
-              3D.
+              <em>you</em> — explore {SPECIES.length.toLocaleString()} species across all 8 kingdoms of life with real
+              photos, fun facts and rotatable 3D.
             </p>
             <div className="hero-cta">
               <Link className="btn btn-primary btn-lg" to="/explore">
                 🧭 Start exploring
+              </Link>
+              <Link className="btn btn-ghost btn-lg" to="/family-tree">
+                🌳 Climb the family tree
               </Link>
               <Link className="btn btn-ghost btn-lg" to="/3d-gallery">
                 🧊 Try the 3D gallery
@@ -156,7 +164,7 @@ export default function Home() {
         <div className="container">
           <div className="section-head">
             <h2 className="section-title">How it works</h2>
-            <p className="section-sub">Three steps from "what's that?" to "wow, that's cool."</p>
+            <p className="section-sub">Four steps from &quot;what&apos;s that?&quot; to &quot;wow, that&apos;s cool.&quot;</p>
           </div>
           <div className="steps">
             {STEPS.map((s, i) => (

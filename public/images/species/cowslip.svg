@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cowslip illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffcf"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="335.8688272535801" cy="127.41920803673565" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="231.20304497424513" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="122.05505859106779" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="115.05577833391726" cy="46.97555725462735" r="1.5309158116579056"/><circle cx="206.5400225110352" cy="49.989943131804466" r="1.5507616368122399"/><circle cx="422.21337414346635" cy="156.4272965863347" r="4.088785396423191"/></g>
+<text x="30" y="68" font-size="44">🌼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.6"/><ellipse cx="174.43552289079815" cy="84.19956407835093" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(19.977341659666607 174.43552289079815 84.19956407835093)"/><ellipse cx="162.54616751571479" cy="97.02090956996733" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(61.14825393447002 162.54616751571479 97.02090956996733)"/><ellipse cx="143.87395975317148" cy="99.32430416508973" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(103.62799161736382 143.87395975317148 99.32430416508973)"/><ellipse cx="125.8981465298287" cy="85.00180617627228" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(157.97103572430726 125.8981465298287 85.00180617627228)"/><ellipse cx="124.3374017868615" cy="72.14610653725722" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(189.2404989017569 124.3374017868615 72.14610653725722)"/><ellipse cx="136.07664007626798" cy="55.73136521464042" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(237.62123429351468 136.07664007626798 55.73136521464042)"/><ellipse cx="161.82833536519462" cy="54.62742044870156" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(297.06081486140295 161.82833536519462 54.62742044870156)"/><ellipse cx="169.3500284955547" cy="59.96988758176793" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(318.0931643306691 169.3500284955547 59.96988758176793)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#9b921f" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cowslip</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Primula veris</text>
+</g>
+</svg>

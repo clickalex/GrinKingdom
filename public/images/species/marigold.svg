@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Marigold illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffcf"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="291.8225955963135" cy="97.90962073020637" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="236.69038108550012" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="139.18279803358018" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🌼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.6"/><ellipse cx="175.24369343396202" cy="81.74654803557227" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(13.853461658033787 175.24369343396202 81.74654803557227)"/><ellipse cx="164.5826028777722" cy="95.86970395167873" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(55.88406016169228 164.5826028777722 95.86970395167873)"/><ellipse cx="140.8471585846098" cy="98.46370789570207" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(110.6116739477274 140.8471585846098 98.46370789570207)"/><ellipse cx="128.6188829652266" cy="89.6555444546679" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(145.3208003675354 128.6188829652266 89.6555444546679)"/><ellipse cx="124.08698462454333" cy="74.03845955083983" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(184.68806211360402 124.08698462454333 74.03845955083983)"/><ellipse cx="133.25806065083827" cy="57.637787189178184" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(229.91519527198633 133.25806065083827 57.637787189178184)"/><ellipse cx="158.87541588310958" cy="53.4416355955766" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(289.95988531031384 158.87541588310958 53.4416355955766)"/><ellipse cx="174.40751039536025" cy="67.72965130016313" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(339.84275026206 174.40751039536025 67.72965130016313)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#9b921f" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Marigold</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Tagetes erecta</text>
+</g>
+</svg>

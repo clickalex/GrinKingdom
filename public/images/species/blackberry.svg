@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Blackberry illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="240.63245564699173" cy="110.42050123214722" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="211.8976455135271" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="150.00815735198557" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="80.23738953284919" cy="150.92821962200105" r="4.086977925617248"/><circle cx="97.63067326508462" cy="121.29354355856776" r="2.506809748476371"/><circle cx="204.53338062390685" cy="107.00896905735135" r="4.12068483280018"/></g>
+<text x="30" y="65" font-size="44">🫐</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EC4899" stroke-width="2.6"/><ellipse cx="175.93787491657392" cy="77.65811051828257" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(3.9616031000999543 175.93787491657392 77.65811051828257)"/><ellipse cx="165.38349963016483" cy="95.34827228568582" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(53.72417609420517 165.38349963016483 95.34827228568582)"/><ellipse cx="148.11474095136035" cy="99.93682451368358" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(94.15816404494272 148.11474095136035 99.93682451368358)"/><ellipse cx="129.34448215507726" cy="90.5761294462997" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(142.60267664824062 129.34448215507726 90.5761294462997)"/><ellipse cx="124.3892058299549" cy="71.8628827139873" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(189.92621963215248 124.3892058299549 71.8628827139873)"/><ellipse cx="133.953924098249" cy="57.11583479553417" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(231.89119759361807 133.953924098249 57.11583479553417)"/><ellipse cx="159.1814839226278" cy="53.546253876825986" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(290.6791246337723 159.1814839226278 53.546253876825986)"/><ellipse cx="172.48433914483047" cy="63.94847181884087" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(329.85785317510914 172.48433914483047 63.94847181884087)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#965e74" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Blackberry</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Rubus fruticosus</text>
+</g>
+</svg>

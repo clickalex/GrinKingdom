@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Barley illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#5eff9a" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#5eff9a" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="433.59326131641865" cy="169.75740219466388" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="261.10142220743" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="137.61387901380658" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="57" font-size="44">🌾</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M99 236 q-24 -43.153483730740845 -48 -86.30696746148169" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -55.084088284755126 -32 -110.16817656951025" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -59.2141139942687 -16 -118.4282279885374" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -69.79993716278113 0 -139.59987432556227" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -65.08369129686616 16 -130.16738259373233" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -53.71989415260032 32 -107.43978830520064" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -42.17327567911707 48 -84.34655135823414" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Barley</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Hordeum vulgare</text>
+</g>
+</svg>

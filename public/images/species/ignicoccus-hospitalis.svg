@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Ignicoccus hospitalis illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8034"/><stop offset="1" stop-color="#EA580C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd892"/><stop offset="1" stop-color="#FDBA74"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff9448"/><stop offset="1" stop-color="#FDBA74"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb4"/><stop offset="1" stop-color="#ffffe6"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ff9448" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ff9448" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="176.33900828659534" cy="109.88690969534218" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="224.46914349216968" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="137.5092335510999" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="430.496118767187" cy="50.00852315686643" r="3.572243430884555"/><circle cx="359.0805372875184" cy="46.26079088076949" r="1.5888209394179285"/><circle cx="500.3458125051111" cy="146.69247142970562" r="2.7549877690616995"/></g>
+<text x="30" y="58" font-size="44">🌋</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><circle cx="150" cy="150" r="62" fill="url(#bg1)" stroke="#EA580C" stroke-width="3"/><circle cx="150" cy="150" r="62" fill="url(#tx)"/><circle cx="126" cy="126" r="15" fill="#ffffff" opacity="0.32"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Ignicoccus hospitalis</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Ignicoccus hospitalis</text>
+</g>
+</svg>

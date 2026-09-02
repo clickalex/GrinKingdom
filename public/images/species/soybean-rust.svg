@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Soybean rust illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8034"/><stop offset="1" stop-color="#EA580C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff5c8"/><stop offset="1" stop-color="#FED7AA"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff9448"/><stop offset="1" stop-color="#FED7AA"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb4"/><stop offset="1" stop-color="#fffffb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#ff9448" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#ff9448" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="261.22612975537777" cy="95.93364894390106" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="267.46914375107735" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="121.85783251188695" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="54" font-size="44">🌾</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><line x1="106" y1="206" x2="104.19781127106398" y2="96" stroke="#FED7AA" stroke-width="4"/><circle cx="106.54086072836071" cy="88.2220473382622" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="128" y1="206" x2="133.51218611560762" y2="96" stroke="#FED7AA" stroke-width="4"/><circle cx="131.62320220656693" cy="88.00732638500631" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="150" y1="206" x2="148.5949115920812" y2="96" stroke="#FED7AA" stroke-width="4"/><circle cx="149.85438340343535" cy="89.18219354003668" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="172" y1="206" x2="166.81069857999682" y2="96" stroke="#FED7AA" stroke-width="4"/><circle cx="177.1615817397833" cy="94.07343548163772" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><line x1="194" y1="206" x2="188.89454620238394" y2="96" stroke="#FED7AA" stroke-width="4"/><circle cx="196.86467717122287" cy="95.41870282962918" r="9" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Soybean rust</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Phakopsora pachyrhizi</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Parsley illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="334.27328407764435" cy="163.9020883385092" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="218.71931943576783" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="150.31120744533837" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="52" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F5F5F4" stroke-width="2.6"/><ellipse cx="175.27708904545534" cy="81.62007327538072" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(13.54268566290004 175.27708904545534 81.62007327538072)"/><ellipse cx="165.78842194212132" cy="95.06831466617025" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(52.60929192657564 165.78842194212132 95.06831466617025)"/><ellipse cx="140.30167093711273" cy="98.26783010446539" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(111.90153600926801 140.30167093711273 98.26783010446539)"/><ellipse cx="128.5719816440965" cy="89.59275917251685" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(145.5028692651252 128.5719816440965 89.59275917251685)"/><ellipse cx="125.0195868066384" cy="69.34494463490668" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(196.09876677267425 125.0195868066384 69.34494463490668)"/><ellipse cx="136.49044761693344" cy="55.494141810489964" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(238.69469869991337 136.49044761693344 55.494141810489964)"/><ellipse cx="162.09328632647143" cy="54.7541372883896" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(297.71840256287555 162.09328632647143 54.7541372883896)"/><ellipse cx="174.68821137051944" cy="68.47297587319282" rx="17" ry="20" fill="url(#bg1)" stroke="#F5F5F4" stroke-width="2.6" transform="rotate(341.722113097569 174.68821137051944 68.47297587319282)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9cd4b0" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Parsley</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Petroselinum crispum</text>
+</g>
+</svg>

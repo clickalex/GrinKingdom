@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Lungwort lichen illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#625e5a"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#e0ffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="304.84034337103367" cy="188.5050035174936" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="269.25396823324263" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="129.43863809108734" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="65" font-size="44">🍃</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><circle cx="219.8618184775114" cy="176.47506333887577" r="19.85047934995964" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="175.19644542597234" cy="206.08813627623022" r="17.012439058162272" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="146.9202591944486" cy="165.51636948715895" r="23.395396607927978" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="146.70541651546955" cy="186.61204474046826" r="29.680872472934425" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="123.34877415094525" cy="242.1107183676213" r="18.420100868213922" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="107.79103222768754" cy="215.43592798989266" r="14.200748603325337" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="83.84133664425462" cy="151.64542805869132" r="18.63037437479943" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="110.14658431056887" cy="212.18483799602836" r="21.116463812068105" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="195.58468082919717" cy="234.93704132270068" r="16.43299259338528" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="195.3091069450602" cy="164.76245010271668" r="16.30872322199866" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="140.11608668603003" cy="226.90368054900318" r="13.548494278918952" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="60.218813605606556" cy="225.427839695476" r="27.596624629106373" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="219.56616712734103" cy="214.78570762556046" r="15.81783240661025" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="171.68130795937032" cy="209.72434226423502" r="14.825894373469055" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Lungwort lichen</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lobaria pulmonaria</text>
+</g>
+</svg>

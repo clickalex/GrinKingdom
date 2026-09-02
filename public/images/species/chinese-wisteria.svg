@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Chinese wisteria illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d07dff"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e491ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffdff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="261.60265289247036" cy="140.9327125735581" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="236.28909624181688" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="142.51177944242954" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="554.5991082396358" cy="157.5217857491225" r="3.3950111400336027"/><circle cx="242.18086543492973" cy="92.16564012691379" r="1.5708751848433167"/><circle cx="130.30063767917454" cy="118.19151803851128" r="2.817572560161352"/></g>
+<text x="30" y="68" font-size="44">💜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#A855F7" stroke-width="2.6"/><ellipse cx="175.60340748113228" cy="80.17589281183598" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(10.020209691898247 175.60340748113228 80.17589281183598)"/><ellipse cx="167.61431428674268" cy="93.65312957116655" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(47.3534626542515 167.61431428674268 93.65312957116655)"/><ellipse cx="148.46789481943017" cy="99.95829489530246" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(93.3782324342519 148.46789481943017 99.95829489530246)"/><ellipse cx="127.89133496467542" cy="88.62986925755544" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(148.24793624641637 127.89133496467542 88.62986925755544)"/><ellipse cx="124.28953550695782" cy="72.42827487731564" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(188.55865896611982 124.28953550695782 72.42827487731564)"/><ellipse cx="139.29198603864066" cy="54.12992440165337" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(245.6791060641955 139.29198603864066 54.12992440165337)"/><ellipse cx="155.2867439751864" cy="52.50138507263432" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(281.7321253372728 155.2867439751864 52.50138507263432)"/><ellipse cx="174.2791827696135" cy="67.41383219795038" rx="17" ry="20" fill="url(#bg1)" stroke="#A855F7" stroke-width="2.6" transform="rotate(339.0374910492766 174.2791827696135 67.41383219795038)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#6d66ad" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Chinese wisteria</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Wisteria sinensis</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Northern water snake illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#51bc79" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#51bc79" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="199.2847317457199" cy="183.4880747180432" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="228.25664043892175" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="124.29216478951275" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="471.1148795671761" cy="146.98763908818364" r="3.8434910383075476"/><circle cx="203.1690879445523" cy="96.10423202626407" r="3.164026744198054"/><circle cx="298.3326464705169" cy="69.2518499866128" r="4.266062612878159"/></g>
+<text x="30" y="62" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M40,161.8585432180449 L70,195.98776557930807 L100,148.79260674051721 L130,108.6077648179592 L160,105.26382531103367 L190,148.02251056957704 L220,191.58602431584222 L250,195.9987928963431 L280,167.91451398696884" stroke="#15803D" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,161.8585432180449 L70,195.98776557930807 L100,148.79260674051721 L130,108.6077648179592 L160,105.26382531103367 L190,148.02251056957704 L220,191.58602431584222 L250,195.9987928963431 L280,167.91451398696884" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,161.8585432180449 L70,195.98776557930807 L100,148.79260674051721 L130,108.6077648179592 L160,105.26382531103367 L190,148.02251056957704 L220,191.58602431584222 L250,195.9987928963431 L280,167.91451398696884" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="153.8585432180449" r="13" fill="url(#bg1)" stroke="#15803D" stroke-width="3"/><circle cx="24" cy="151.8585432180449" r="2.8" fill="#1c1917"/><path d="M36 145.8585432180449 l-7 -7 M34 147.8585432180449 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Northern water snake</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Nerodia sipedon</text>
+</g>
+</svg>

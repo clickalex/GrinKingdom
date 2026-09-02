@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Globe artichoke illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffcf"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="145.6925155967474" cy="90.903105949983" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="227.2048157081008" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="158.2968436460942" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="361.26967501826584" cy="61.88730821944773" r="3.285689768381417"/><circle cx="516.3573980145156" cy="42.61663157492876" r="3.809628067072481"/><circle cx="191.3600488845259" cy="70.2836821321398" r="4.478394787525758"/></g>
+<text x="30" y="57" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.6"/><ellipse cx="175.9535621870643" cy="77.43377643342129" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(3.4249283965546478 175.9535621870643 77.43377643342129)"/><ellipse cx="167.21824448182934" cy="93.98299923692055" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(48.52905432362659 167.21824448182934 93.98299923692055)"/><ellipse cx="139.34545590166667" cy="97.8923157154643" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(114.19165351480527 139.34545590166667 97.8923157154643)"/><ellipse cx="130.9970191362704" cy="92.38004404162692" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(136.96054404273505 130.9970191362704 92.38004404162692)"/><ellipse cx="124.00030098556385" cy="75.88451883893491" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(180.2756920281008 124.00030098556385 75.88451883893491)"/><ellipse cx="140.94146801930077" cy="53.50374235421589" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(249.6102065599885 140.94146801930077 53.50374235421589)"/><ellipse cx="155.21682615383403" cy="52.4880742355552" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(281.5748057168519 155.21682615383403 52.4880742355552)"/><ellipse cx="174.43932142922637" cy="67.81008781741825" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(340.04717390856587 174.43932142922637 67.81008781741825)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#9b921f" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Globe artichoke</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cynara cardunculus</text>
+</g>
+</svg>

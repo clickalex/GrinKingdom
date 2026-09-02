@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Snow crab illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e14444"/><stop offset="1" stop-color="#B91C1C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f55858"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffc4c4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#f55858" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#f55858" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="167.60104358196259" cy="199.04881540685892" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="211.40156011562794" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="152.6728999428451" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="57" font-size="44">🦀</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><ellipse cx="150" cy="158" rx="58" ry="42" fill="url(#bg1)" stroke="#B91C1C" stroke-width="3"/><ellipse cx="150" cy="158" rx="58" ry="42" fill="url(#tx)"/><circle cx="122" cy="138" r="5" fill="#1c1917"/><circle cx="178" cy="138" r="5" fill="#1c1917"/><path d="M136 174 q14 10 28 0" stroke="#B91C1C" stroke-width="2.6" fill="none"/><path d="M96 142 q-44 -22 -74 8 q-18 16 0 26 q--20 8 --34 -6" fill="none" stroke="#B91C1C" stroke-width="6" stroke-linecap="round"/><path d="M204 142 q44 -22 74 8 q18 16 0 26 q-20 8 -34 -6" fill="none" stroke="#B91C1C" stroke-width="6" stroke-linecap="round"/><line x1="120" y1="192" x2="134" y2="216" stroke="#B91C1C" stroke-width="3.6" stroke-linecap="round"/><line x1="140" y1="196" x2="154" y2="220" stroke="#B91C1C" stroke-width="3.6" stroke-linecap="round"/><line x1="160" y1="200" x2="174" y2="224" stroke="#B91C1C" stroke-width="3.6" stroke-linecap="round"/><line x1="180" y1="204" x2="194" y2="228" stroke="#B91C1C" stroke-width="3.6" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Snow crab</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Chionoecetes opilio</text>
+</g>
+</svg>

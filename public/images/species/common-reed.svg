@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common reed illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#51bc79" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#51bc79" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="302.5092277675867" cy="166.00758539512753" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="228.7077174615115" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="127.24387865513563" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="333.11311312019825" cy="131.33037768304348" r="2.430897287791595"/><circle cx="303.7926367111504" cy="107.88833938539028" r="3.7943217186257243"/><circle cx="44.15668488480151" cy="103.91940812580287" r="3.4640851677395403"/></g>
+<text x="30" y="68" font-size="44">🌾</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><path d="M99 236 q-24 -45.986452910350636 -48 -91.97290582070127" stroke="#FFFBEB" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -53.6598470939789 -32 -107.3196941879578" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -63.4170165755786 -16 -126.8340331511572" stroke="#FFFBEB" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -69.52798246964812 0 -139.05596493929625" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -60.12646172498353 16 -120.25292344996706" stroke="#FFFBEB" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -54.577783663989976 32 -109.15556732797995" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -43.34998593479395 48 -86.6999718695879" stroke="#FFFBEB" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common reed</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Phragmites australis</text>
+</g>
+</svg>

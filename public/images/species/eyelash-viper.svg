@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Eyelash viper illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ad7536"/><stop offset="1" stop-color="#854D0E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c1894a"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff5b6"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#c1894a" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#c1894a" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="280.93712508678436" cy="197.3864946886897" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="229.70711215864867" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="133.81355355493724" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="392.48747310601175" cy="72.83048027195036" r="4.220738240517676"/><circle cx="109.15646562352777" cy="132.78374484740198" r="2.3337828589137644"/><circle cx="247.73293850943446" cy="99.21677337028086" r="2.6142642942722887"/></g>
+<text x="30" y="67" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M40,164.90470231760088 L70,195.4795907361907 L100,175.64442281872255 L130,115.63841143514045 L160,112.78970033155818 L190,137.6133305527799 L220,186.4076833589105 L250,195.99959408640686 L280,147.50516842506127" stroke="#854D0E" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,164.90470231760088 L70,195.4795907361907 L100,175.64442281872255 L130,115.63841143514045 L160,112.78970033155818 L190,137.6133305527799 L220,186.4076833589105 L250,195.99959408640686 L280,147.50516842506127" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,164.90470231760088 L70,195.4795907361907 L100,175.64442281872255 L130,115.63841143514045 L160,112.78970033155818 L190,137.6133305527799 L220,186.4076833589105 L250,195.99959408640686 L280,147.50516842506127" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="156.90470231760088" r="13" fill="url(#bg1)" stroke="#854D0E" stroke-width="3"/><circle cx="24" cy="154.90470231760088" r="2.8" fill="#1c1917"/><path d="M36 148.90470231760088 l-7 -7 M34 150.90470231760088 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Eyelash viper</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Bothriechis schlegelii</text>
+</g>
+</svg>

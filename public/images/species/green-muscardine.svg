@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Green muscardine illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="235.85035637021065" cy="95.35838719457388" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="258.9582679979503" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="130.44823626056314" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="510.9740664064884" cy="90.73473760858178" r="2.4998929474968463"/><circle cx="207.45746676810086" cy="105.99362327717245" r="2.628445182228461"/><circle cx="458.11937768012285" cy="116.05816881172359" r="2.637901254929602"/></g>
+<text x="30" y="69" font-size="44">🟢</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M146 236 q-6 -60 4 -150" stroke="#BBF7D0" stroke-width="7" fill="none"/><circle cx="121.84777313657105" cy="200" r="10" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.6"/><circle cx="170.6062483470887" cy="174" r="9.2" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.6"/><circle cx="124.52448757365346" cy="148" r="8.4" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.6"/><circle cx="172.19239117763937" cy="122" r="7.6" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.6"/><circle cx="131.8387340158224" cy="96" r="6.8" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.6"/><circle cx="173.4251618385315" cy="70" r="6" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.6"/><circle cx="150" cy="86" r="13" fill="#BBF7D0"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Green muscardine</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Metarhizium anisopliae</text>
+</g>
+</svg>

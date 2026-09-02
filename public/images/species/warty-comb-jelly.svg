@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Warty comb jelly illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff66b7"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="44" height="44" patternUnits="userSpaceOnUse"><rect width="44" height="44" fill="none"/><circle cx="12" cy="12" r="5" fill="#ffffff" opacity="0.85"/><circle cx="36" cy="34" r="4" fill="#ffffff" opacity="0.7"/><circle cx="12" cy="12" r="10" fill="#ffffff" opacity="0.25"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="373.8255763053894" cy="159.55229099839926" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="263.84526749141514" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="145.87174952961504" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="402.60903345420957" cy="108.33095081150532" r="3.848055934533477"/><circle cx="80.79933281056583" cy="159.50942346826196" r="2.4526002143975347"/><circle cx="427.8920372482389" cy="125.38048933260143" r="1.7780591861810535"/></g>
+<text x="30" y="62" font-size="44">🪼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M92 110 q58 -54 116 0 Z" fill="url(#bg1)" stroke="#FFFBEB" stroke-width="3"/><path d="M92 110 q58 -54 116 0 Z" fill="url(#tx)"/><path d="M104 108 q-15 44 -50 92" stroke="#FFFBEB" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M122.4 108 q-9 44 -30 92" stroke="#EC4899" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M140.8 108 q-3 44 -10 92" stroke="#FFFBEB" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M159.2 108 q3 44 10 92" stroke="#EC4899" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M177.6 108 q9 44 30 92" stroke="#FFFBEB" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><path d="M196 108 q15 44 50 92" stroke="#EC4899" stroke-width="5" fill="none" stroke-linecap="round" opacity="0.9"/><circle cx="128" cy="82" r="7" fill="#fff" opacity="0.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Warty comb jelly</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Mnemiopsis leidyi</text>
+</g>
+</svg>

@@ -71,7 +71,6 @@ export const ANIMALS_C_ROWS = [
   ['bivalve-giant', 'Giant clam', 'Tridacna gigas', '🦪', 'The 200-kilo reef clam that farms algae in its own flesh.'],
   ['bivalve-giant', 'Fluted giant clam', 'Tridacna squamosa', '🦪', 'The scalloped giant with iridescent blue lips.'],
   ['bivalve-pearl', 'Pearl oyster', 'Pinctada fucata', '🦪', 'The oyster that wraps sand in nacre until it becomes a pearl.'],
-  ['cephalopod-octopus', 'Common octopus', 'Octopus vulgaris', '🐙', 'The eight-armed escape artist that opens jars and unscrews lids.'],
   ['cephalopod-octopus', 'Giant Pacific octopus', 'Enteroctopus dofleini', '🐙', 'The 50-kg genius of cold northern reefs.'],
   ['cephalopod-octopus', 'Mimic octopus', 'Thaumoctopus mimicus', '🐙', 'The shape-shifter that impersonates lionfish, snakes and soles.'],
   ['cephalopod-squid', 'Humboldt squid', 'Dosidicus gigas', '🦑', 'The aggressive "red devil" that hunts in packs of thousands.'],

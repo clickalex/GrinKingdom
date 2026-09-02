@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Guinea worm illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f4f1ef"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="431.5660884976387" cy="97.2680485714227" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="213.77939339261502" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="146.7564970627427" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="234.96425254270434" cy="55.34560483880341" r="2.7929183626547456"/><circle cx="532.5065925531089" cy="61.73561013303697" r="2.957470309222117"/><circle cx="300.9032702445984" cy="122.20258850604296" r="3.9734341520816088"/></g>
+<text x="30" y="60" font-size="44">🪱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><path d="M40,165.3128712460615 L70,177.413304942313 L100,173.00728324523422 L130,135.16942677148097 L160,120.12813980464931 L190,144.48658761632677 L220,160.35056726908343 L250,172.06521936488795 L280,160.46785083298045" stroke="#FAFAF9" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,165.3128712460615 L70,177.413304942313 L100,173.00728324523422 L130,135.16942677148097 L160,120.12813980464931 L190,144.48658761632677 L220,160.35056726908343 L250,172.06521936488795 L280,160.46785083298045" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,165.3128712460615 L70,177.413304942313 L100,173.00728324523422 L130,135.16942677148097 L160,120.12813980464931 L190,144.48658761632677 L220,160.35056726908343 L250,172.06521936488795 L280,160.46785083298045" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="157.3128712460615" r="13" fill="url(#bg1)" stroke="#FAFAF9" stroke-width="3"/><circle cx="24" cy="155.3128712460615" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Guinea worm</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Dracunculus medinensis</text>
+</g>
+</svg>

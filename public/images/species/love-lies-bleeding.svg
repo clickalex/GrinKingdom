@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Love-lies-bleeding illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff6c6c"/><stop offset="1" stop-color="#EF4444"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff8080"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffecec"/><stop offset="1" stop-color="#fffff6"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="388.44334565103054" cy="129.29191522300243" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="263.5422547487542" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="152.2837765701115" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="46.3151238579303" cy="82.45702856220305" r="2.017776656197384"/><circle cx="508.4186416398734" cy="107.80425378121436" r="3.3967902967706323"/><circle cx="154.76397527381778" cy="88.16846844740212" r="2.1189536335878074"/></g>
+<text x="30" y="53" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EF4444" stroke-width="2.6"/><ellipse cx="173.1097114034633" cy="86.99745489496944" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(27.272776622173968 173.1097114034633 86.99745489496944)"/><ellipse cx="163.262872758395" cy="96.64261314532655" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(59.32881024746599 163.262872758395 96.64261314532655)"/><ellipse cx="138.430914429555" cy="97.4931530731233" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(116.42108859819783 138.430914429555 97.4931530731233)"/><ellipse cx="130.30954739461845" cy="91.67291316046811" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(139.22894873041648 130.30954739461845 91.67291316046811)"/><ellipse cx="124.0099421399268" cy="75.33635170999841" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(181.58454556403075 124.0099421399268 75.33635170999841)"/><ellipse cx="131.86432688321605" cy="58.802570040886295" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(225.77115875964037 131.86432688321605 58.802570040886295)"/><ellipse cx="161.5053838558589" cy="54.47773074377548" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(296.26444336557597 161.5053838558589 54.47773074377548)"/><ellipse cx="174.8953893788934" cy="69.07879485775631" rx="17" ry="20" fill="url(#bg1)" stroke="#EF4444" stroke-width="2.6" transform="rotate(343.2387939020065 174.8953893788934 69.07879485775631)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#986a46" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Love-lies-bleeding</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Amaranthus caudatus</text>
+</g>
+</svg>

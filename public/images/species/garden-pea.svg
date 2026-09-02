@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Garden pea illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8acff"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fcc0ff"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="324.628185108304" cy="104.86745229922235" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="254.7571857785806" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="129.12630253471434" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="217.51681042835116" cy="120.15669502317905" r="3.745636166771874"/><circle cx="62.167742885649204" cy="110.74984611012042" r="3.421072077937424"/><circle cx="460.0336114130914" cy="122.23268146626651" r="3.0221970579586923"/></g>
+<text x="30" y="63" font-size="44">🫛</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#C084FC" stroke-width="2.6"/><ellipse cx="175.1911202803386" cy="81.93987333711203" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(14.329312139637954 175.1911202803386 81.93987333711203)"/><ellipse cx="164.92882954580372" cy="95.64940141950768" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(54.95737018395588 164.92882954580372 95.64940141950768)"/><ellipse cx="148.67908279240734" cy="99.96900681158564" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(92.91213755719598 148.67908279240734 99.96900681158564)"/><ellipse cx="126.82566443158098" cy="86.88096557958971" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(153.03966467005606 126.82566443158098 86.88096557958971)"/><ellipse cx="124.72621753451122" cy="70.36726995902555" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(193.5737676526776 124.72621753451122 70.36726995902555)"/><ellipse cx="142.01138971913298" cy="53.16094085394908" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(252.10616399577876 142.01138971913298 53.16094085394908)"/><ellipse cx="158.42422629110368" cy="53.29470160092779" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(288.9055284114791 158.42422629110368 53.29470160092779)"/><ellipse cx="174.34820472639825" cy="67.58201789819672" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(339.46685030750047 174.34820472639825 67.58201789819672)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#7c78ac" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Garden pea</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pisum sativum</text>
+</g>
+</svg>

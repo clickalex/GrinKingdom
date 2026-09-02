@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Magnificent sea anemone illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FDF2F8"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#FDF2F8"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="60" height="60" patternUnits="userSpaceOnUse"><rect width="60" height="60" fill="none"/><ellipse cx="18" cy="16" rx="9" ry="4" fill="#ffffff" opacity="0.35" transform="rotate(-18 18 16)"/><ellipse cx="48" cy="46" rx="8" ry="3.4" fill="#ffffff" opacity="0.28" transform="rotate(-18 48 46)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="281.56685024499893" cy="146.29477308131754" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="217.48589758761227" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="152.26991098374128" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="65" font-size="44">🪸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M116 208 q-6 -40 34 -40 q40 0 34 40 Z" fill="url(#bg1)" stroke="#EC4899" stroke-width="3"/><path d="M116 208 q-6 -40 34 -40 q40 0 34 40 Z" fill="url(#tx)"/><path d="M120 168 q-24 -26 -60 -48" stroke="#EC4899" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M130 168 q-16 -26 -40 -48" stroke="#EC4899" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M140 168 q-8 -26 -20 -48" stroke="#EC4899" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M150 168 q0 -26 0 -48" stroke="#EC4899" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M160 168 q8 -26 20 -48" stroke="#EC4899" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M170 168 q16 -26 40 -48" stroke="#EC4899" stroke-width="6" fill="none" stroke-linecap="round"/><path d="M180 168 q24 -26 60 -48" stroke="#EC4899" stroke-width="6" fill="none" stroke-linecap="round"/><circle cx="90" cy="102" r="7" fill="#FDF2F8"/><circle cx="110" cy="108" r="7" fill="#FDF2F8"/><circle cx="130" cy="114" r="7" fill="#FDF2F8"/><circle cx="150" cy="120" r="7" fill="#FDF2F8"/><circle cx="170" cy="114" r="7" fill="#FDF2F8"/><circle cx="190" cy="108" r="7" fill="#FDF2F8"/><circle cx="210" cy="102" r="7" fill="#FDF2F8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Magnificent sea anemone</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Heteractis magnifica</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Red bog moss illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="363.8382513821125" cy="178.5163078084588" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="236.4882536418736" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="136.0617297142744" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🌱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><circle cx="163.54304102249444" cy="176.8537505529821" r="27.485243992879987" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="116.67567315045744" cy="208.7592956610024" r="12.366814483422786" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="117.10078320465982" cy="155.12165017426014" r="17.85588446399197" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="168.0464946432039" cy="223.6649228958413" r="18.17992977099493" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="70.40058015380055" cy="208.8074011495337" r="21.027324576862156" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="195.4030814487487" cy="236.21424769517034" r="29.74738591304049" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="191.12339031882584" cy="231.98212271090597" r="13.152304057963192" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="160.85626512765884" cy="171.09093440230936" r="20.87542857415974" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="126.09085338190198" cy="187.14370464440435" r="15.834028753917664" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="172.31767734512687" cy="237.7469037892297" r="29.87789300456643" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="112.98241781070828" cy="168.82515689358115" r="23.241380935069174" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="188.73525543138385" cy="170.58578366413713" r="15.012922985013574" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="205.66526984330267" cy="233.30197313334793" r="21.711379611399025" fill="url(#bg2)" stroke="#22C55E" stroke-width="2.4"/><circle cx="206.50147763080895" cy="210.40735091082752" r="20.407158051151782" fill="url(#bg1)" stroke="#22C55E" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Red bog moss</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Sphagnum capillifolium</text>
+</g>
+</svg>

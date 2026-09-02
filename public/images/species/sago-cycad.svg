@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sago cycad illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a88b59"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#f4ffe7"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="196.88226230442524" cy="154.59830607287586" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="233.5157360136509" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="159.39947925508022" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🌴</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M150 230 q-8 -70 6 -140 q10 70 6 140 Z" fill="#8A6D3B" stroke="#506938" stroke-width="3"/><path d="M150 92 q-104 38 -236 16" stroke="#166534" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q-92 40 -216 18" stroke="#8A6D3B" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q-52 42 -118 6" stroke="#166534" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q-46 40 -108 14" stroke="#8A6D3B" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q0 46 0 -4" stroke="#166534" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q0 40 0 10" stroke="#8A6D3B" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q52 42 118 6" stroke="#166534" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q46 40 108 14" stroke="#8A6D3B" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><path d="M150 92 q104 38 236 16" stroke="#166534" stroke-width="9" fill="none" stroke-linecap="round"/><path d="M150 92 q92 40 216 18" stroke="#8A6D3B" stroke-width="7" fill="none" stroke-linecap="round" opacity="0.7"/><circle cx="150" cy="92" r="7" fill="#8A6D3B"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sago cycad</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cycas revoluta</text>
+</g>
+</svg>

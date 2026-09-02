@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Rosy boa illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a05d37"/><stop offset="1" stop-color="#78350F"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4714b"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffddb7"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#b4714b" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#b4714b" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="155.48002026975155" cy="205.38284241221845" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="219.21964086592197" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="131.32141021080315" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="69" font-size="44">🐍</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M40,172.27364290990005 L70,195.99259028701363 L100,170.49511700376027 L130,118.35296247877727 L160,106.87118360957248 L190,135.6067565575902 L220,168.15849739388423 L250,195.18885268347057 L280,136.7788984053553" stroke="#78350F" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,172.27364290990005 L70,195.99259028701363 L100,170.49511700376027 L130,118.35296247877727 L160,106.87118360957248 L190,135.6067565575902 L220,168.15849739388423 L250,195.18885268347057 L280,136.7788984053553" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,172.27364290990005 L70,195.99259028701363 L100,170.49511700376027 L130,118.35296247877727 L160,106.87118360957248 L190,135.6067565575902 L220,168.15849739388423 L250,195.18885268347057 L280,136.7788984053553" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="164.27364290990005" r="13" fill="url(#bg1)" stroke="#78350F" stroke-width="3"/><circle cx="24" cy="162.27364290990005" r="2.8" fill="#1c1917"/><path d="M36 156.27364290990005 l-7 -7 M34 158.27364290990005 l-8 -4" stroke="#dc2626" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Rosy boa</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lichanura trivirgata</text>
+</g>
+</svg>

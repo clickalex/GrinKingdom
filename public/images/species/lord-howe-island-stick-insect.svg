@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Lord Howe Island stick insect illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#678a3a"/><stop offset="1" stop-color="#3F6212"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a2ea34"/><stop offset="1" stop-color="#84CC16"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#7b9e4e"/><stop offset="1" stop-color="#84CC16"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#e7ffba"/><stop offset="1" stop-color="#ffffc4"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#7b9e4e" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#7b9e4e" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="356.02745547890663" cy="198.8556469604373" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="257.0483480533585" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="142.0853174291551" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="68" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M40,160.22219379815772 L70,179.29906916336705 L100,150.6772037519895 L130,136.44127831728116 L160,122.8625222225304 L190,149.29525820060584 L220,170.51624833122222 L250,177.9924581136841 L280,147.1006055627743" stroke="#3F6212" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,160.22219379815772 L70,179.29906916336705 L100,150.6772037519895 L130,136.44127831728116 L160,122.8625222225304 L190,149.29525820060584 L220,170.51624833122222 L250,177.9924581136841 L280,147.1006055627743" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,160.22219379815772 L70,179.29906916336705 L100,150.6772037519895 L130,136.44127831728116 L160,122.8625222225304 L190,149.29525820060584 L220,170.51624833122222 L250,177.9924581136841 L280,147.1006055627743" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="152.22219379815772" r="13" fill="url(#bg1)" stroke="#3F6212" stroke-width="3"/><circle cx="24" cy="150.22219379815772" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Lord Howe Island stick insect</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Dryococelus australis</text>
+</g>
+</svg>

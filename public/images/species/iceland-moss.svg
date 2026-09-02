@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Iceland moss illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d0cac6"/><stop offset="1" stop-color="#A8A29E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e4deda"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="358.50534312427044" cy="141.71963894739747" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="306" rx="247.24837558809668" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="306" rx="126.47908819839358" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="217.00088017620146" cy="110.27505055069923" r="2.2086038631387055"/><circle cx="221.6496976558119" cy="132.3678917530924" r="4.122519440017641"/><circle cx="346.401150226593" cy="90.55769245140254" r="4.007324313512072"/></g>
+<text x="30" y="60" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><circle cx="201.72465502750129" cy="180.12786153703928" r="21.33473673881963" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="111.32270957808942" cy="220.38468522951007" r="19.17085213540122" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="85.01733718905598" cy="185.68163171876222" r="26.115918652620167" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="110.55847384035587" cy="207.56921244319528" r="24.159064304083586" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="134.43644342478365" cy="216.3866067538038" r="29.385373706929386" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="90.85586244240403" cy="188.15422737970948" r="28.20493782358244" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="100.72325070854276" cy="152.39061133470386" r="21.206685381475836" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="103.23778071440756" cy="179.72787409089506" r="29.472820728085935" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="227.0262694498524" cy="222.0989157212898" r="23.9329522526823" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="214.03269654605538" cy="161.7240047082305" r="27.099411168135703" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="184.72998009994626" cy="170.06880098488182" r="18.576854234095663" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="210.41503901593387" cy="206.629355577752" r="24.993674354162067" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="158.75046463217586" cy="217.22822855226696" r="26.58976147742942" fill="url(#bg2)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="77.50435918103904" cy="156.87168622389436" r="21.423400896135718" fill="url(#bg1)" stroke="#A8A29E" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Iceland moss</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cetraria islandica</text>
+</g>
+</svg>

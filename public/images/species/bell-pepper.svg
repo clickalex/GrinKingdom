@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Bell pepper illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9550ff"/><stop offset="1" stop-color="#6D28D9"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a964ff"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffd0ff"/><stop offset="1" stop-color="#faf0ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="417.7279704809189" cy="177.97466402873397" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="237.1695304568857" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="138.4034842532128" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="177.1792094130069" cy="95.38843425922096" r="2.966221876675263"/><circle cx="240.94681032001972" cy="84.43007408641279" r="3.862869549309835"/><circle cx="405.90411209501326" cy="105.83440662361681" r="3.3748032900039107"/></g>
+<text x="30" y="60" font-size="44">🫑</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#6D28D9" stroke-width="2.6"/><ellipse cx="175.9875048537985" cy="76.74397450259796" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(1.7763928712633121 175.9875048537985 76.74397450259796)"/><ellipse cx="159.57408277779697" cy="98.31359593112498" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(68.39325824860144 159.57408277779697 98.31359593112498)"/><ellipse cx="147.44659094541518" cy="99.88398174767026" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(95.6359908046884 147.44659094541518 99.88398174767026)"/><ellipse cx="126.23519898914587" cy="85.73547455093419" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(156.06846175822423 126.23519898914587 85.73547455093419)"/><ellipse cx="124.2399978790441" cy="72.74659044129108" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(187.7909298619072 124.2399978790441 72.74659044129108)"/><ellipse cx="132.27822793682637" cy="58.438748533041476" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(227.0306822481358 132.27822793682637 58.438748533041476)"/><ellipse cx="161.02591619351745" cy="54.26493564823071" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(295.0920457034322 161.02591619351745 54.26493564823071)"/><ellipse cx="174.637795940482" cy="68.33351348685468" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(341.3711232898096 174.637795940482 68.33351348685468)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#4a4097" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Bell pepper</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Capsicum annuum</text>
+</g>
+</svg>

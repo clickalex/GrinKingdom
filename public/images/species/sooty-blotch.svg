@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sooty blotch illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#514d4c"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#968f8a"/><stop offset="1" stop-color="#78716C"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#656160"/><stop offset="1" stop-color="#78716C"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#d1cdcc"/><stop offset="1" stop-color="#f9f3f1"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="344.67947363853455" cy="106.42013856209815" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="218.6462586466223" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="129.0195840690285" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="559.5364977698773" cy="103.49262240342796" r="3.6733715997543186"/><circle cx="371.0801530163735" cy="141.39997214078903" r="1.7208259587641805"/><circle cx="116.41971518285573" cy="49.6353311277926" r="1.5000860779546201"/></g>
+<text x="30" y="55" font-size="44">🍏</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><line x1="106" y1="206" x2="107.38012733776122" y2="96" stroke="#78716C" stroke-width="4"/><circle cx="107.28668095823377" cy="94.1627037730068" r="9" fill="url(#bg1)" stroke="#292524" stroke-width="2.4"/><line x1="128" y1="206" x2="133.5097380047664" y2="96" stroke="#78716C" stroke-width="4"/><circle cx="123.2569405157119" cy="91.71548082865775" r="9" fill="url(#bg1)" stroke="#292524" stroke-width="2.4"/><line x1="150" y1="206" x2="155.82917463127524" y2="96" stroke="#78716C" stroke-width="4"/><circle cx="148.1385380225256" cy="94.3094947617501" r="9" fill="url(#bg1)" stroke="#292524" stroke-width="2.4"/><line x1="172" y1="206" x2="174.16974962782115" y2="96" stroke="#78716C" stroke-width="4"/><circle cx="168.10491399746388" cy="89.10482549853623" r="9" fill="url(#bg1)" stroke="#292524" stroke-width="2.4"/><line x1="194" y1="206" x2="193.593903969042" y2="96" stroke="#78716C" stroke-width="4"/><circle cx="194.6638453816995" cy="95.89770543575287" r="9" fill="url(#bg1)" stroke="#292524" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sooty blotch</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Gloeodes pomigena</text>
+</g>
+</svg>

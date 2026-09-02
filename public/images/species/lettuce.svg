@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Lettuce illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff43d"/><stop offset="1" stop-color="#FACC15"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff51"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbd"/><stop offset="1" stop-color="#ffffda"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="447.53679260611534" cy="176.63369382731616" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="255.06636049132794" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="143.9522434026003" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="301.7348556127399" cy="45.514623997733" r="1.7935457217972726"/><circle cx="359.8235195502639" cy="54.369156062603" r="3.0126130864955485"/><circle cx="283.7729753367603" cy="78.19546081125736" r="3.4417861313559115"/></g>
+<text x="30" y="53" font-size="44">🥬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FACC15" stroke-width="2.6"/><ellipse cx="175.02275528984637" cy="82.51810739104543" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(15.758772542282198 175.02275528984637 82.51810739104543)"/><ellipse cx="167.47867191780085" cy="93.76763696324443" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(47.75852896398013 167.47867191780085 93.76763696324443)"/><ellipse cx="137.95237282826372" cy="97.26795431591097" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(117.6047999951242 137.95237282826372 97.26795431591097)"/><ellipse cx="125.83539250647138" cy="84.85729440118081" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(158.34271726332193 125.83539250647138 84.85729440118081)"/><ellipse cx="124.96298122587834" cy="69.52873100332596" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(195.64262027291778 124.96298122587834 69.52873100332596)"/><ellipse cx="136.30557076757154" cy="55.598901359245815" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(238.21664865727263 136.30557076757154 55.598901359245815)"/><ellipse cx="152.182794584229" cy="52.08472811917103" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(274.8158576610382 152.182794584229 52.08472811917103)"/><ellipse cx="172.84286916185346" cy="64.53735697179955" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(331.4705684269688 172.84286916185346 64.53735697179955)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9fbc2a" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Lettuce</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lactuca sativa</text>
+</g>
+</svg>

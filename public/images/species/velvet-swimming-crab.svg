@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Velvet swimming crab illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4d8bff"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8ffff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#619fff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#cdffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#619fff" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#619fff" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="165.10555915534496" cy="143.94867768511176" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="255.45478134881705" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="122.47916548512876" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="438.10389256104827" cy="120.96665115095675" r="4.454813541378826"/><circle cx="278.6642302758992" cy="60.12931330129504" r="2.637622168986127"/><circle cx="539.3626277986914" cy="131.14878254942596" r="2.0295498850755394"/></g>
+<text x="30" y="66" font-size="44">🦀</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><ellipse cx="150" cy="158" rx="58" ry="42" fill="url(#bg1)" stroke="#2563EB" stroke-width="3"/><ellipse cx="150" cy="158" rx="58" ry="42" fill="url(#tx)"/><circle cx="122" cy="138" r="5" fill="#1c1917"/><circle cx="178" cy="138" r="5" fill="#1c1917"/><path d="M136 174 q14 10 28 0" stroke="#2563EB" stroke-width="2.6" fill="none"/><path d="M96 142 q-44 -22 -74 8 q-18 16 0 26 q--20 8 --34 -6" fill="none" stroke="#2563EB" stroke-width="6" stroke-linecap="round"/><path d="M204 142 q44 -22 74 8 q18 16 0 26 q-20 8 -34 -6" fill="none" stroke="#2563EB" stroke-width="6" stroke-linecap="round"/><line x1="120" y1="192" x2="134" y2="216" stroke="#2563EB" stroke-width="3.6" stroke-linecap="round"/><line x1="140" y1="196" x2="154" y2="220" stroke="#2563EB" stroke-width="3.6" stroke-linecap="round"/><line x1="160" y1="200" x2="174" y2="224" stroke="#2563EB" stroke-width="3.6" stroke-linecap="round"/><line x1="180" y1="204" x2="194" y2="228" stroke="#2563EB" stroke-width="3.6" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Velvet swimming crab</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Necora puber</text>
+</g>
+</svg>

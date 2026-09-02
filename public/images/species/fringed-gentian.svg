@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Fringed gentian illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4d8bff"/><stop offset="1" stop-color="#2563EB"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#619fff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#cdffff"/><stop offset="1" stop-color="#cfffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="335.8254950493574" cy="134.47092675603926" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="257.83084941096604" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="141.64230444468558" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="421.56698428094387" cy="100.69682946428657" r="4.473544901702553"/><circle cx="555.0409384723753" cy="84.75581423379481" r="3.5843688757158816"/><circle cx="483.1221248861402" cy="81.35173439979553" r="4.309804954798892"/></g>
+<text x="30" y="53" font-size="44">💙</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#2563EB" stroke-width="2.6"/><ellipse cx="173.43713355783257" cy="86.39028647579443" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(25.65356074444186 173.43713355783257 86.39028647579443)"/><ellipse cx="160.25092112563476" cy="98.05591076098928" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(66.77978348504217 160.25092112563476 98.05591076098928)"/><ellipse cx="146.9607227335505" cy="99.83546190729449" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(96.71295396881933 146.9607227335505 99.83546190729449)"/><ellipse cx="130.12996685137682" cy="91.47859310168195" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(139.8387195715105 130.12996685137682 91.47859310168195)"/><ellipse cx="125.36777009469577" cy="68.31828884305652" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(198.6672367517054 125.36777009469577 68.31828884305652)"/><ellipse cx="140.27589477363082" cy="53.741750287223674" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(248.03722975559648 140.27589477363082 53.741750287223674)"/><ellipse cx="156.70409800620538" cy="52.81156046176072" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(284.9425223611752 156.70409800620538 52.81156046176072)"/><ellipse cx="171.13902796418492" cy="62.02699654277612" rx="17" ry="20" fill="url(#bg1)" stroke="#2563EB" stroke-width="2.6" transform="rotate(324.3939744396861 171.13902796418492 62.02699654277612)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#1f6fa5" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Fringed gentian</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Gentianopsis crinita</text>
+</g>
+</svg>

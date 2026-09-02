@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Amazonian manatee illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5b697d"/><stop offset="1" stop-color="#334155"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#6f7d91"/><stop offset="1" stop-color="#E2E8F0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#dbe9fd"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="421.60848781466484" cy="103.83835301734507" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="248.39922972489148" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="142.1996064297855" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="510.50076061859727" cy="92.32897131703794" r="4.394198616268113"/><circle cx="281.5431581623852" cy="45.53258518688381" r="2.8485846694093198"/><circle cx="140.3083267249167" cy="72.49851563945413" r="3.312199527164921"/></g>
+<text x="30" y="66" font-size="44">🌊</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M92 178 q0 -44 34 -52 q50 -10 92 6 q26 10 26 40 q0 40 -40 44 q-64 6 -96 4 q-16 -1 -16 -16 Z" fill="url(#bg1)" stroke="#334155" stroke-width="3" stroke-linejoin="round"/><path d="M92 178 q0 -44 34 -52 q50 -10 92 6 q26 10 26 40 q0 40 -40 44 q-64 6 -96 4 q-16 -1 -16 -16 Z" fill="url(#tx)"/><circle cx="112" cy="150" r="4" fill="#334155"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Amazonian manatee</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Trichechus inunguis</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Lace monitor illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#6c6864"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#807c78"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ece8e4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#807c78" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#807c78" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="147.84637711942196" cy="131.6670624911785" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="262.4670445919037" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="154.0523870754987" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="249.51430838555098" cy="144.22744543291628" r="4.012685593916103"/><circle cx="285.83327727392316" cy="121.65364232845604" r="4.252160398755223"/><circle cx="329.0581640135497" cy="118.98049772717059" r="2.542990938294679"/></g>
+<text x="30" y="69" font-size="44">🦎</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M54 168 q8 -40 40 -44 q40 -4 68 6 q36 12 52 30 q10 10 6 20 q-6 8 -18 4 q-40 -14 -76 -8 q-30 5 -44 12 q-14 6 -24 2 q-8 -3 -4 -10 q6 -8 0 -12 Z" fill="url(#bg1)" stroke="#44403C" stroke-width="3" stroke-linejoin="round"/><path d="M54 168 q8 -40 40 -44 q40 -4 68 6 q36 12 52 30 q10 10 6 20 q-6 8 -18 4 q-40 -14 -76 -8 q-30 5 -44 12 q-14 6 -24 2 q-8 -3 -4 -10 q6 -8 0 -12 Z" fill="url(#tx)"/><circle cx="72" cy="138" r="3.6" fill="#1c1917"/><line x1="78" y1="172" x2="84" y2="190" stroke="#44403C" stroke-width="3.4" stroke-linecap="round"/><line x1="100" y1="176" x2="106" y2="194" stroke="#44403C" stroke-width="3.4" stroke-linecap="round"/><line x1="122" y1="178" x2="128" y2="196" stroke="#44403C" stroke-width="3.4" stroke-linecap="round"/><line x1="144" y1="178" x2="150" y2="196" stroke="#44403C" stroke-width="3.4" stroke-linecap="round"/><path d="M198 176 q26 20 22 44 q-2 14 -14 10" fill="none" stroke="#44403C" stroke-width="7" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Lace monitor</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Varanus varius</text>
+</g>
+</svg>

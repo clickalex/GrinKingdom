@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Streptomyces avermitilis illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9550ff"/><stop offset="1" stop-color="#6D28D9"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fbf4ff"/><stop offset="1" stop-color="#DDD6FE"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a964ff"/><stop offset="1" stop-color="#DDD6FE"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffd0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="260.55459856987" cy="108.07059329934418" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="215.57559186592698" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="140.01065962016582" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="53" font-size="44">💊</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><line x1="106" y1="206" x2="111.44165681488812" y2="96" stroke="#DDD6FE" stroke-width="4"/><circle cx="102.46783342026174" cy="94.60957986675203" r="9" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.4"/><line x1="128" y1="206" x2="126.05803364794701" y2="96" stroke="#DDD6FE" stroke-width="4"/><circle cx="130.72130389884114" cy="95.51398809812963" r="9" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.4"/><line x1="150" y1="206" x2="147.76146573387086" y2="96" stroke="#DDD6FE" stroke-width="4"/><circle cx="154.69874254334718" cy="89.32684201933444" r="9" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.4"/><line x1="172" y1="206" x2="176.33862139377743" y2="96" stroke="#DDD6FE" stroke-width="4"/><circle cx="168.15627747867256" cy="88.77035917900503" r="9" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.4"/><line x1="194" y1="206" x2="199.80174190271646" y2="96" stroke="#DDD6FE" stroke-width="4"/><circle cx="198.99871454108506" cy="94.95461412519217" r="9" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Streptomyces avermitilis</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Streptomyces avermitilis</text>
+</g>
+</svg>

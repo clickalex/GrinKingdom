@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Hollyhock illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="371.32627934217453" cy="173.86432763189077" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="226.398089742288" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="142.7355239354074" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="139.60488982498646" cy="142.7972544822842" r="4.475035313749686"/><circle cx="514.2962089832872" cy="45.34944395534694" r="3.028188389958814"/><circle cx="392.63366347178817" cy="123.76970874145627" r="1.9434071467258036"/></g>
+<text x="30" y="61" font-size="44">🌺</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#EC4899" stroke-width="2.6"/><ellipse cx="175.80367744761594" cy="78.94376599942447" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(7.045465720305538 175.80367744761594 78.94376599942447)"/><ellipse cx="157.43750472466394" cy="98.9970962123439" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(73.37790682610148 157.43750472466394 98.9970962123439)"/><ellipse cx="149.05452709352397" cy="99.98412636566273" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(92.08398282327309 149.05452709352397 99.98412636566273)"/><ellipse cx="126.23051462131777" cy="85.72572545959228" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(156.0939225490056 126.23051462131777 85.72572545959228)"/><ellipse cx="124.01739415516326" cy="75.12225454988884" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(182.09593032490542 124.01739415516326 75.12225454988884)"/><ellipse cx="139.5747231174483" cy="54.01383454396199" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(246.36103129048584 139.5747231174483 54.01383454396199)"/><ellipse cx="157.83793147611115" cy="53.1164998920357" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(287.54524930073086 157.83793147611115 53.1164998920357)"/><ellipse cx="172.58898919595347" cy="64.11639046747567" rx="17" ry="20" fill="url(#bg1)" stroke="#EC4899" stroke-width="2.6" transform="rotate(330.3203318138451 172.58898919595347 64.11639046747567)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#965e74" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Hollyhock</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Alcea rosea</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Oakmoss illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8dcb35"/><stop offset="1" stop-color="#65A30D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFF7ED"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a1df49"/><stop offset="1" stop-color="#FFF7ED"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="344.54966865479946" cy="114.78912499733269" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="214.25461954437196" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="136.10325201414526" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="63" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><circle cx="223.88909198809415" cy="180.88397858664393" r="26.221585114952177" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="139.91181920282543" cy="223.83082690648735" r="28.972875537816435" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="167.25892511196434" cy="242.05398545600474" r="14.17129661142826" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="227.01501762494445" cy="205.46407429501414" r="13.793958384543657" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="208.3747944328934" cy="249.7266581747681" r="23.22495254315436" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="60.430632387287915" cy="232.23534256685525" r="27.632475617341697" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="119.30442138109356" cy="162.22361561376601" r="23.935105827637017" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="153.04152242839336" cy="209.2336923116818" r="12.683495940640569" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="150.05402660463005" cy="184.37253320589662" r="21.66419970151037" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="88.06122603826225" cy="248.86378094088286" r="24.44045510329306" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="231.78649244830012" cy="201.62076279520988" r="14.248073134571314" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="208.95608013030142" cy="237.39220802672207" r="26.580819512251765" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="179.16874274611473" cy="210.84550425875932" r="17.557725910563022" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="161.98225433472544" cy="227.7727921726182" r="20.031736006960273" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Oakmoss</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Evernia prunastri</text>
+</g>
+</svg>

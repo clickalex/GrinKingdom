@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Phage T5 illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#776eff"/><stop offset="1" stop-color="#4F46E5"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e9f3ff"/><stop offset="1" stop-color="#CBD5E1"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#8b82ff"/><stop offset="1" stop-color="#CBD5E1"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#f7eeff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="331.38432040810585" cy="113.4873010776937" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="257.3037940263748" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="147.86202834919095" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="293.6091584805399" cy="68.77006721682847" r="3.331103259231895"/><circle cx="534.5029430836439" cy="81.93449683487415" r="2.657001835294068"/><circle cx="134.44365620613098" cy="85.34890342503786" r="2.0309542876202613"/></g>
+<text x="30" y="59" font-size="44">🧬</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><polygon points="150,78 208,112 186,168 114,168 92,112" fill="url(#bg1)" stroke="#4F46E5" stroke-width="3"/><rect x="140" y="168" width="20" height="58" fill="url(#bg2)" stroke="#4F46E5" stroke-width="2.5"/><line x1="150" y1="226" x2="150" y2="292" stroke="#4F46E5" stroke-width="4" stroke-linecap="round"/><line x1="150" y1="268" x2="124" y2="292" stroke="#4F46E5" stroke-width="3.4" stroke-linecap="round"/><line x1="150" y1="268" x2="150" y2="292" stroke="#4F46E5" stroke-width="3.4" stroke-linecap="round"/><line x1="150" y1="268" x2="176" y2="292" stroke="#4F46E5" stroke-width="3.4" stroke-linecap="round"/><rect x="144" y="226" width="12" height="8" fill="#4F46E5"/><circle cx="136" cy="124" r="4" fill="#ffffff" opacity="0.5"/><circle cx="164" cy="132" r="3" fill="#ffffff" opacity="0.5"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Phage T5</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Escherichia virus T5</text>
+</g>
+</svg>

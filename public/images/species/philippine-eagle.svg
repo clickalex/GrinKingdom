@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Philippine eagle illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a05d37"/><stop offset="1" stop-color="#78350F"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4714b"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffddb7"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="30" height="16" patternUnits="userSpaceOnUse"><rect width="30" height="16" fill="none"/><path d="M3 8 q7 -6 12 0 q7 -6 12 0" stroke="#b4714b" stroke-width="2.4" fill="none" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="188.36171694099903" cy="181.27018542028964" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="228.893540664576" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="132.34334295615554" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="232.40266993641853" cy="73.39755116961896" r="3.5925883662421256"/><circle cx="359.53696249984205" cy="112.67188554629683" r="1.7838708199560642"/><circle cx="235.44998358003795" cy="74.24039833247662" r="2.4572388224769384"/></g>
+<text x="30" y="68" font-size="44">🦅</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><path d="M96 148 q14 -38 48 -36 q40 2 50 30 q6 16 -2 24 q-12 12 -34 10 q-16 -2 -30 6 q-12 7 -24 4 q-10 -3 -6 -12 q5 -10 -2 -16 Z" fill="url(#bg1)" stroke="#78350F" stroke-width="3" stroke-linejoin="round"/><path d="M96 148 q14 -38 48 -36 q40 2 50 30 q6 16 -2 24 q-12 12 -34 10 q-16 -2 -30 6 q-12 7 -24 4 q-10 -3 -6 -12 q5 -10 -2 -16 Z" fill="url(#tx)"/><circle cx="108" cy="126" r="3.4" fill="#1c1917"/><path d="M92 132 q-14 -4 -24 2" stroke="#FEF3C7" stroke-width="4" fill="none"/><path d="M128 176 q-14 20 -10 42 M128 176 q-6 30 -2 46" stroke="#78350F" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 170 q4 26 2 52" stroke="#FEF3C7" stroke-width="6" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Philippine eagle</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pithecophaga jefferyi</text>
+</g>
+</svg>

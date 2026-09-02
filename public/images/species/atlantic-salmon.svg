@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Atlantic salmon illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4f9f"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F8FAFC"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff63b3"/><stop offset="1" stop-color="#F8FAFC"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcfff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#ff63b3" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#ff63b3" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="224.3543565273285" cy="91.16332973353565" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="246.0110237589106" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="144.99724331311882" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="67" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M52 150 q44 -54 108 -54 q40 0 64 30 q14 16 16 24 q-2 14 -16 24 q-24 30 -64 30 q-64 0 -108 -54 Z" fill="url(#bg1)" stroke="#DB2777" stroke-width="3" stroke-linejoin="round"/><path d="M52 150 q44 -54 108 -54 q40 0 64 30 q14 16 16 24 q-2 14 -16 24 q-24 30 -64 30 q-64 0 -108 -54 Z" fill="url(#tx)"/><circle cx="82" cy="140" r="4" fill="#1c1917"/><path d="M126 122 q24 -22 44 -24 q-2 20 -20 32" fill="url(#bg2)" stroke="#DB2777" stroke-width="3"/><path d="M128 176 q18 12 16 28 q-18 -6 -16 -28 Z" fill="#F8FAFC" stroke="#DB2777" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Atlantic salmon</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Salmo salar</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Rhinoceros iguana illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#52df86" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#52df86" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="340.2992167323828" cy="140.18479364924133" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="266.73852536827326" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="137.4809712730348" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="415.1649737544358" cy="110.8477333560586" r="3.9167531272396445"/><circle cx="241.94968475028872" cy="49.78777760639787" r="2.189240478677675"/><circle cx="464.50163495726883" cy="83.23552953079343" r="2.2489216087851673"/></g>
+<text x="30" y="58" font-size="44">🦎</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M54 168 q8 -40 40 -44 q40 -4 68 6 q36 12 52 30 q10 10 6 20 q-6 8 -18 4 q-40 -14 -76 -8 q-30 5 -44 12 q-14 6 -24 2 q-8 -3 -4 -10 q6 -8 0 -12 Z" fill="url(#bg1)" stroke="#16A34A" stroke-width="3" stroke-linejoin="round"/><path d="M54 168 q8 -40 40 -44 q40 -4 68 6 q36 12 52 30 q10 10 6 20 q-6 8 -18 4 q-40 -14 -76 -8 q-30 5 -44 12 q-14 6 -24 2 q-8 -3 -4 -10 q6 -8 0 -12 Z" fill="url(#tx)"/><circle cx="72" cy="138" r="3.6" fill="#1c1917"/><line x1="78" y1="172" x2="84" y2="190" stroke="#16A34A" stroke-width="3.4" stroke-linecap="round"/><line x1="100" y1="176" x2="106" y2="194" stroke="#16A34A" stroke-width="3.4" stroke-linecap="round"/><line x1="122" y1="178" x2="128" y2="196" stroke="#16A34A" stroke-width="3.4" stroke-linecap="round"/><line x1="144" y1="178" x2="150" y2="196" stroke="#16A34A" stroke-width="3.4" stroke-linecap="round"/><path d="M198 176 q26 20 22 44 q-2 14 -14 10" fill="none" stroke="#16A34A" stroke-width="7" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Rhinoceros iguana</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cyclura cornuta</text>
+</g>
+</svg>

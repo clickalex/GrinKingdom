@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Snowflake moray illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dc7b31"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#625e5a"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f08f45"/><stop offset="1" stop-color="#44403C"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffbb1"/><stop offset="1" stop-color="#fffbcd"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#f08f45" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#f08f45" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="424.83205795288086" cy="188.99616234004498" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="233.27140940353274" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="132.16222973540425" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="61.04284840635955" cy="119.58216205239296" r="3.716677082469687"/><circle cx="114.66521225869656" cy="91.4126945193857" r="1.7500911089591682"/><circle cx="479.411060269922" cy="79.7131996229291" r="2.0153779671527445"/></g>
+<text x="30" y="66" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M60 130 q70 -80 160 -10 q40 30 44 44 q-10 20 -40 6 q-60 -30 -118 20 q-30 26 -46 16 q-10 -6 0 -20 q18 -30 0 -56 Z" fill="url(#bg1)" stroke="#B45309" stroke-width="3" stroke-linejoin="round"/><path d="M60 130 q70 -80 160 -10 q40 30 44 44 q-10 20 -40 6 q-60 -30 -118 20 q-30 26 -46 16 q-10 -6 0 -20 q18 -30 0 -56 Z" fill="url(#tx)"/><circle cx="84" cy="108" r="3.6" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Snowflake moray</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Echidna nebulosa</text>
+</g>
+</svg>

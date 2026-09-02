@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Raggiana bird-of-paradise illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffdb30"/><stop offset="1" stop-color="#EAB308"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff66b7"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffef44"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb0"/><stop offset="1" stop-color="#fffff2"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="30" height="16" patternUnits="userSpaceOnUse"><rect width="30" height="16" fill="none"/><path d="M3 8 q7 -6 12 0 q7 -6 12 0" stroke="#ffef44" stroke-width="2.4" fill="none" opacity="0.5"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="367.0906177908182" cy="208.93630793318152" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="223.0361544387415" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="148.93621686846018" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="62" font-size="44">🐦</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M96 148 q14 -38 48 -36 q40 2 50 30 q6 16 -2 24 q-12 12 -34 10 q-16 -2 -30 6 q-12 7 -24 4 q-10 -3 -6 -12 q5 -10 -2 -16 Z" fill="url(#bg1)" stroke="#EAB308" stroke-width="3" stroke-linejoin="round"/><path d="M96 148 q14 -38 48 -36 q40 2 50 30 q6 16 -2 24 q-12 12 -34 10 q-16 -2 -30 6 q-12 7 -24 4 q-10 -3 -6 -12 q5 -10 -2 -16 Z" fill="url(#tx)"/><circle cx="108" cy="126" r="3.4" fill="#1c1917"/><path d="M92 132 q-14 -4 -24 2" stroke="#EC4899" stroke-width="4" fill="none"/><path d="M128 176 q-14 20 -10 42 M128 176 q-6 30 -2 46" stroke="#EAB308" stroke-width="5" fill="none" stroke-linecap="round"/><path d="M150 170 q4 26 2 52" stroke="#EC4899" stroke-width="6" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Raggiana bird-of-paradise</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Paradisaea raggiana</text>
+</g>
+</svg>

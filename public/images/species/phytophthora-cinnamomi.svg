@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Phytophthora cinnamomi illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F8FAFC"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#657387"/><stop offset="1" stop-color="#475569"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#475569"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="253.84647950530052" cy="95.84459463134408" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="266.39921952970326" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="135.47426191158593" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="80.92697531916201" cy="150.0509058777243" r="2.3143728054128587"/><circle cx="171.27422424033284" cy="145.583935957402" r="2.9220481482334435"/><circle cx="128.07193545624614" cy="149.85895663499832" r="3.6762027062941343"/></g>
+<text x="30" y="60" font-size="44">🌳</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><line x1="106" y1="206" x2="104.92081443499774" y2="96" stroke="#475569" stroke-width="4"/><circle cx="110.3172957226634" cy="90.66454750113189" r="9" fill="url(#bg1)" stroke="#F8FAFC" stroke-width="2.4"/><line x1="128" y1="206" x2="126.3392438897863" y2="96" stroke="#475569" stroke-width="4"/><circle cx="126.71161992661655" cy="93.83165116235614" r="9" fill="url(#bg1)" stroke="#F8FAFC" stroke-width="2.4"/><line x1="150" y1="206" x2="154.70730668585747" y2="96" stroke="#475569" stroke-width="4"/><circle cx="147.0502624064684" cy="93.6073502805084" r="9" fill="url(#bg1)" stroke="#F8FAFC" stroke-width="2.4"/><line x1="172" y1="206" x2="177.55946292728186" y2="96" stroke="#475569" stroke-width="4"/><circle cx="166.28652482666075" cy="90.60444436967373" r="9" fill="url(#bg1)" stroke="#F8FAFC" stroke-width="2.4"/><line x1="194" y1="206" x2="193.67163569666445" y2="96" stroke="#475569" stroke-width="4"/><circle cx="190.99045727867633" cy="91.67774551175535" r="9" fill="url(#bg1)" stroke="#F8FAFC" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Phytophthora cinnamomi</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Phytophthora cinnamomi</text>
+</g>
+</svg>

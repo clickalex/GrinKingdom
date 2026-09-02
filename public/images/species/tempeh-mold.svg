@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Tempeh mold illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a09994"/><stop offset="1" stop-color="#78716C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4ada8"/><stop offset="1" stop-color="#FAFAF9"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="145.7617624849081" cy="207.3354425188154" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="240.2485605329275" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="136.39505189843476" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="56" font-size="44">🫘</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><line x1="106" y1="206" x2="111.25335283111781" y2="96" stroke="#FAFAF9" stroke-width="4"/><circle cx="106.81048336904496" cy="94.08905709907413" r="9" fill="url(#bg1)" stroke="#78716C" stroke-width="2.4"/><line x1="128" y1="206" x2="125.46237452048808" y2="96" stroke="#FAFAF9" stroke-width="4"/><circle cx="129.58405810873955" cy="90.07309149578214" r="9" fill="url(#bg1)" stroke="#78716C" stroke-width="2.4"/><line x1="150" y1="206" x2="149.29773712623864" y2="96" stroke="#FAFAF9" stroke-width="4"/><circle cx="149.7391935568303" cy="88.77635517530143" r="9" fill="url(#bg1)" stroke="#78716C" stroke-width="2.4"/><line x1="172" y1="206" x2="166.1194126214832" y2="96" stroke="#FAFAF9" stroke-width="4"/><circle cx="171.0665017440915" cy="93.53770659677684" r="9" fill="url(#bg1)" stroke="#78716C" stroke-width="2.4"/><line x1="194" y1="206" x2="199.57986722607166" y2="96" stroke="#FAFAF9" stroke-width="4"/><circle cx="192.7952098865062" cy="93.31757108308375" r="9" fill="url(#bg1)" stroke="#78716C" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Tempeh mold</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Rhizopus oligosporus</text>
+</g>
+</svg>

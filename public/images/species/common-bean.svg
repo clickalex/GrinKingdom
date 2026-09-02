@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Common bean illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#b384ff"/><stop offset="1" stop-color="#8B5CF6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c798ff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="306.8392626196146" cy="160.49545733258128" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="264.80050925631076" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="139.90572130307555" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="503.61801641993225" cy="69.59024066105485" r="3.0305132819339633"/><circle cx="49.72778344526887" cy="90.54769225418568" r="2.1786053306423128"/><circle cx="429.28209512494504" cy="106.33353303186595" r="2.4508859789930284"/></g>
+<text x="30" y="61" font-size="44">🫘</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#8B5CF6" stroke-width="2.6"/><ellipse cx="175.01515087094944" cy="82.54293090421264" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(15.820358090191956 175.01515087094944 82.54293090421264)"/><ellipse cx="158.78573086048013" cy="98.58825876968255" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(70.25024305652225 158.78573086048013 98.58825876968255)"/><ellipse cx="147.329000053442" cy="99.87302076273403" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(95.89644202604846 147.329000053442 99.87302076273403)"/><ellipse cx="130.53929463336274" cy="91.91554193979995" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(138.4596307000873 130.53929463336274 91.91554193979995)"/><ellipse cx="125.83575205409751" cy="67.14186982808815" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(201.6594295554407 125.83575205409751 67.14186982808815)"/><ellipse cx="137.83937698604078" cy="54.78691208680587" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(242.1138435070563 137.83937698604078 54.78691208680587)"/><ellipse cx="152.55236211979488" cy="52.115922902664366" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(275.6336724890737 152.55236211979488 52.115922902664366)"/><ellipse cx="172.5135770599466" cy="63.99507149850829" rx="17" ry="20" fill="url(#bg1)" stroke="#8B5CF6" stroke-width="2.6" transform="rotate(329.9864129433382 172.5135770599466 63.99507149850829)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#5c78b1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Common bean</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Phaseolus vulgaris</text>
+</g>
+</svg>

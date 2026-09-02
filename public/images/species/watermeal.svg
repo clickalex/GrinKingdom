@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Watermeal illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#52df86" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#52df86" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="166.64032094180584" cy="190.2887039165944" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="238.94417288247496" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="127.59798367507756" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="270.1554255839437" cy="158.36928942240775" r="1.7454095254652202"/><circle cx="91.69479719363153" cy="141.30176772363484" r="3.859401633264497"/><circle cx="383.7208805978298" cy="120.7517063524574" r="3.1498417917173356"/></g>
+<text x="30" y="57" font-size="44">💧</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M99 236 q-24 -45.977114741457626 -48 -91.95422948291525" stroke="#F0FDF4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -50.43668599566445 -32 -100.8733719913289" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -59.500386946834624 -16 -119.00077389366925" stroke="#F0FDF4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -69.88624180108309 0 -139.77248360216618" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -61.985582306049764 16 -123.97116461209953" stroke="#F0FDF4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -50.04144783876836 32 -100.08289567753673" stroke="#16A34A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -41.95854769134894 48 -83.91709538269788" stroke="#F0FDF4" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Watermeal</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Wolffia globosa</text>
+</g>
+</svg>

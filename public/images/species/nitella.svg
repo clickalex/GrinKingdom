@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Nitella illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#38e1a9"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#c5ffee"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4cf5bd"/><stop offset="1" stop-color="#A7F3D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#b8ffff"/><stop offset="1" stop-color="#fcffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#4cf5bd" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#4cf5bd" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="381.66192434728146" cy="187.71852146834135" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="264.8313291510567" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="138.75621115788817" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="364.1191935632378" cy="59.67781778424978" r="2.444810709916055"/><circle cx="308.9280224405229" cy="156.14481222815812" r="3.568351655267179"/><circle cx="80.44330710545182" cy="77.74001780897379" r="1.8974757527466863"/></g>
+<text x="30" y="68" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M99 236 q-24 -41.33254816173576 -48 -82.66509632347152" stroke="#A7F3D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -54.54298661253415 -32 -109.0859732250683" stroke="#10B981" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -65.64430013415404 -16 -131.28860026830807" stroke="#A7F3D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -72.23862407333218 0 -144.47724814666435" stroke="#10B981" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -59.32003876334056 16 -118.64007752668113" stroke="#A7F3D0" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -56.32972942129709 32 -112.65945884259418" stroke="#10B981" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -42.132206495152786 48 -84.26441299030557" stroke="#A7F3D0" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Nitella</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Nitella flexilis</text>
+</g>
+</svg>

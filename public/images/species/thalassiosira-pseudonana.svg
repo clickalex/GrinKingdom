@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Thalassiosira pseudonana illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffeb"/><stop offset="1" stop-color="#FEF9C3"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#bf8025"/><stop offset="1" stop-color="#A16207"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#A16207"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="none"/><path d="M6 8 L14 6 L12 14 M26 20 L34 18 L32 28 M16 30 L24 28 L22 38" stroke="#ffffff" stroke-width="1.6" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="381.4196066558361" cy="107.03722005710006" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="256.4271047199145" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="128.72899484820664" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="149.55122663639486" cy="50.51671420224011" r="2.041751868557185"/><circle cx="374.7343940939754" cy="81.12712719477713" r="1.9101321666967124"/><circle cx="487.67543259076774" cy="90.86417632177472" r="3.756339344428852"/></g>
+<text x="30" y="68" font-size="44">🛸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M96 108 h84 l32 42 l-32 42 h-84 l-32 -42 Z" fill="url(#bg1)" stroke="#FEF9C3" stroke-width="3"/><path d="M96 108 h84 l32 42 l-32 42 h-84 l-32 -42 Z" fill="url(#tx)"/><line x1="180" y1="150" x2="212" y2="150" stroke="#FEF9C3" stroke-width="2.4"/><circle cx="120" cy="130" r="4" fill="#fff" opacity="0.5"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Thalassiosira pseudonana</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Thalassiosira pseudonana</text>
+</g>
+</svg>

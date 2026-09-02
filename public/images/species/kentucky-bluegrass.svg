@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Kentucky bluegrass illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#51bc79" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#51bc79" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="158.82690452039242" cy="143.28485428355634" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="246.3180690491572" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="153.68641156703234" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="53" font-size="44">🌱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M99 236 q-24 -45.91090889903717 -48 -91.82181779807433" stroke="#FFFBEB" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -51.908168081892654 -32 -103.81633616378531" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -59.848256380297244 -16 -119.69651276059449" stroke="#FFFBEB" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -74.3403175030835 0 -148.680635006167" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -63.68672484322451 16 -127.37344968644902" stroke="#FFFBEB" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -55.82563487463631 32 -111.65126974927261" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -44.56993590272032 48 -89.13987180544063" stroke="#FFFBEB" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Kentucky bluegrass</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Poa pratensis</text>
+</g>
+</svg>

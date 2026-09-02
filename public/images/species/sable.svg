@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sable illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ba6836"/><stop offset="1" stop-color="#92400E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ce7c4a"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe8b6"/><stop offset="1" stop-color="#fffff0"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#ce7c4a" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="140.89019671082497" cy="111.25409577973187" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="218.73835599515587" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="138.24792088009417" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="484.0122962370515" cy="71.93953397683799" r="1.569767695153132"/><circle cx="231.79834046401083" cy="58.99001110345125" r="3.2897767913527787"/><circle cx="378.58477170579135" cy="83.97065694443882" r="2.197886662557721"/></g>
+<text x="30" y="58" font-size="44">🦦</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><g stroke="#92400E" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M96 210 q-6 -58 54 -62 q60 4 54 62 Z" fill="url(#bg1)"/><path d="M96 210 q-6 -58 54 -62 q60 4 54 62 Z" fill="url(#tx)"/><path d="M112 152 q-26 -18 -44 -6 M188 152 q26 -18 44 -6" fill="url(#bg1)" stroke="#92400E"/><circle cx="172" cy="132" r="5" fill="#92400E"/><path d="M110 208 l-6 26 M134 210 l-2 26 M164 210 l4 26 M190 208 l8 24" fill="none"/><path d="M96 190 q-22 4 -34 -14 M96 206 q-20 10 -30 0" fill="none"/></g></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sable</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Martes zibellina</text>
+</g>
+</svg>

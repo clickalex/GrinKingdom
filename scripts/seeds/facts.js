@@ -1276,6 +1276,87 @@ export const TAGLINES = {
     'One of the relatives we share our story with.',
     'A fossil echo of the road that led to us.',
   ],
+  /* ───────── EXPANSION WAVE 2 ───────── */
+  gibbon: [
+    'Gibbons are the acrobats of the ape world, swinging hand over hand at 55 km/h.',
+    '{name} duets with its partner every dawn to defend a patch of forest canopy.',
+    'Their extra-long arms and hook hands let them “fly” through trees without ever touching the ground.',
+  ],
+  sirenian: [
+    'Sea cows are the only fully aquatic mammals that eat plants.',
+    '{name} spends its whole life in water, surfacing every few minutes to breathe.',
+    'Sirenians are more closely related to elephants than to whales or seals.',
+  ],
+  vulture: [
+    'Vultures are nature’s cleanup crew, spotting meals from kilometres high.',
+    '{name} has a stomach acid strong enough to safely digest rotting meat.',
+    'A flock of vultures can strip a carcass in under an hour, stopping disease from spreading.',
+  ],
+  molerat: [
+    'Mole-rats live like insects — a single queen rules an underground colony of workers.',
+    '{name} barely feels acid burns or pepper heat, and almost never gets cancer.',
+    'Mole-rats can slow their breathing to survive in air with almost no oxygen.',
+  ],
+  tuatara: [
+    'Tuatara are the last survivors of a reptile line older than the dinosaurs.',
+    '{name} has a third “eye” on its forehead that senses light.',
+    'Tuatara grow so slowly they keep growing for 60 years — some live past 100.',
+  ],
+  stick: [
+    'Stick insects are masters of disguise — some look exactly like leaves or twigs.',
+    '{name} can regenerate lost legs as it grows.',
+    'Some stick insects reproduce without males at all, cloning whole populations.',
+  ],
+  cockroach: [
+    'Cockroaches have scuttled the Earth for over 300 million years.',
+    '{name} can sprint three body-lengths per second and squeeze through cracks a coin thick.',
+    'Cockroaches are important recyclers in forests, cleaning up dead leaves and wood.',
+  ],
+  mayfly: [
+    'Mayflies are the only insects with two adult winged stages.',
+    '{name} spends years as a stream nymph — then flies for a single day to mate.',
+    'Millions of mayflies emerge at once, feeding fish, birds and bats for weeks.',
+  ],
+  caddis: [
+    'Caddisfly larvae are underwater builders that cement their own portable houses.',
+    '{name} builds a case from sand grains, twigs or snail shells, like a living backpack.',
+    'Anglers copy caddisflies with artificial flies — trout can’t resist them.',
+  ],
+  earwig: [
+    'Earwigs are among the few insects that care for their young.',
+    '{name} uses its pincers to fold and guard its eggs, licking them clean.',
+    'The “earwig” name is slander — they neither seek nor enter ears.',
+  ],
+  silverfish: [
+    'Silverfish are wingless insects older than the dinosaurs.',
+    '{name} dines on book glue, wallpaper paste and sugar — a librarian’s nemesis.',
+    'A silverfish can live three years and molt for its entire life.',
+  ],
+  parasiteisopod: [
+    'Parasitic isopods are crustaceans that live on — and in — fish.',
+    '{name} replaces a host’s body part with itself, then feeds for life.',
+    'Despite the horror show, parasitic isopods rarely kill their hosts.',
+  ],
+  cycad: [
+    'Cycads are living fossils that fed the dinosaurs.',
+    '{name} grows one crown of tough fronds and cones instead of flowers.',
+    'Some cycads live over 1,000 years, growing a few millimetres a decade.',
+  ],
+  gnetophyte: [
+    'Gnetophytes are the weird cousins of conifers, with wood like trees and vessels like flowers.',
+    '{name} survives where rain almost never falls, drinking fog through wide leaves.',
+    'Gnetophytes may hold clues to how flowering plants first evolved.',
+  ],
+  treedisease: [
+    'Tree disease fungi travel the world in timber, bark beetles and nursery pots.',
+    '{name} kills trees by choking their water channels.',
+    'Epidemics like these reshaped whole continents’ forests — elms, chestnuts and ashes.',
+  ],
+  bordetella: [
+    'Bordetella bacteria colonize the windpipe, where cilia normally sweep lungs clean.',
+    '{name} paralyzes that broom of cilia, causing coughing fits that last months.',
+    'Vaccines turned this “hundred-day cough” from a childhood killer into a rarity.',
+  ],
 }
 
 /* Size + lifespan profiles per fact key. Aliased below. */
@@ -1556,6 +1637,22 @@ const P = {
   testate: ['10–300 micrometres', 'Days per generation'],
   choano: ['3–10 micrometres', 'Divides every 6–24 hours'],
   protistmisc: ['Micrometres to millimetres', 'Days per generation'],
+  gibbon: ['45–90 cm tall, arms longer than legs', '25–40 years'],
+  sirenian: ['2.5–4 m long', '40–70 years'],
+  vulture: ['60–110 cm long, wingspan up to 3 m', '20–50 years'],
+  molerat: ['8–35 cm long', '10–30 years (queens longer)'],
+  tuatara: ['Up to 80 cm long', '60–100+ years'],
+  stick: ['5–30 cm long', '1–3 years'],
+  cockroach: ['1–8 cm long', '1–2 years'],
+  mayfly: ['1–3 cm long', 'Nymph for 1–3 years, adult for one day'],
+  caddis: ['1–2.5 cm long', 'Larva for months, adult for weeks'],
+  earwig: ['1–2.5 cm long', 'About 1 year'],
+  silverfish: ['1–2 cm long', '2–8 years'],
+  parasiteisopod: ['0.5–4 cm long', '1–3 years'],
+  cycad: ['1–10 m tall', 'Up to 1,000 years'],
+  gnetophyte: ['Two leaves, spreading metres wide', 'Up to 2,000 years'],
+  treedisease: ['Microscopic threads in wood', 'Spreads for decades in a forest'],
+  bordetella: ['0.2–0.5 micrometres per cell', 'Weeks to months in a host'],
 }
 
 export const PROFILE = { ...P }

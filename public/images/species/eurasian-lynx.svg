@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Eurasian lynx illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fefbf9"/><stop offset="1" stop-color="#D6D3D1"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#ffffff" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="287.9164405912161" cy="167.1907247789204" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="264.2939667077735" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="140.71540594100952" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="358.59199290163815" cy="123.29652544111013" r="2.354333400959149"/><circle cx="41.43124921247363" cy="137.79121911153197" r="2.935794588876888"/><circle cx="451.4801798481494" cy="152.1904480177909" r="4.246928312815726"/></g>
+<text x="30" y="67" font-size="44">🐈</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><g stroke="#D6D3D1" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M96 210 q-6 -58 54 -62 q60 4 54 62 Z" fill="url(#bg1)"/><path d="M112 152 q-26 -18 -44 -6 M188 152 q26 -18 44 -6" fill="url(#bg1)" stroke="#D6D3D1"/><circle cx="172" cy="132" r="5" fill="#D6D3D1"/><path d="M110 208 l-6 26 M134 210 l-2 26 M164 210 l4 26 M190 208 l8 24" fill="none"/><path d="M204 194 q34 6 40 26 q6 20 -8 24" fill="none"/></g><path d="M96 210 q-6 -58 54 -62 q60 4 54 62 Z" fill="url(#tx)" opacity="0.9"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Eurasian lynx</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Lynx lynx</text>
+</g>
+</svg>

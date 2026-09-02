@@ -36,6 +36,7 @@ const { default: Explore } = await vite.ssrLoadModule('/src/pages/Explore.jsx')
 const { default: SpeciesDetail } = await vite.ssrLoadModule('/src/pages/SpeciesDetail.jsx')
 const { default: KingdomPage } = await vite.ssrLoadModule('/src/pages/KingdomPage.jsx')
 const { default: Gallery3D } = await vite.ssrLoadModule('/src/pages/Gallery3D.jsx')
+const { default: FamilyTree } = await vite.ssrLoadModule('/src/pages/FamilyTree.jsx')
 
 // App root skipped: HashRouter needs window/document (browser-only) — pages below cover the surface.
 ok('Home', () => render(React.createElement(Home), ['/']))
@@ -44,6 +45,7 @@ ok('KingdomPage /kingdom/animals', () => render(React.createElement(KingdomPage)
 ok('KingdomPage /kingdom/viruses', () => render(React.createElement(KingdomPage), ['/kingdom/viruses'], '/kingdom/:kingdomId'))
 ok('KingdomPage /kingdom/unknown', () => render(React.createElement(KingdomPage), ['/kingdom/nope'], '/kingdom/:kingdomId'))
 ok('Gallery3D', () => render(React.createElement(Gallery3D), ['/3d-gallery']))
+ok('FamilyTree', () => render(React.createElement(FamilyTree), ['/family-tree']))
 
 // every species detail page renders (spot check a spread + full sweep of heads)
 const slugs = ['tiger', 'sars-cov-2', 'mers-cov', 'e-coli', 'homo-erectus', 'lion', 'fly-agaric', 'giant-kelp', 'tardigrade', 'nope-does-not-exist']

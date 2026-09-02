@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Gulf fritillary illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9b3e"/><stop offset="1" stop-color="#F97316"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#474342"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffaf52"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbe"/><stop offset="1" stop-color="#ffffcc"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="24" height="24" patternUnits="userSpaceOnUse"><rect width="24" height="24" fill="none"/><circle cx="6" cy="6" r="2.6" fill="#ffaf52" opacity="0.6"/><circle cx="18" cy="18" r="2.6" fill="#ffaf52" opacity="0.6"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="300.99216155707836" cy="180.33345652744174" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="244.47536737192422" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="124.36184450984001" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="304.57172468304634" cy="143.92167665064335" r="1.583881891099736"/><circle cx="258.74009913764894" cy="149.07333462499082" r="3.4596555596217513"/><circle cx="383.33678279072046" cy="87.4076556134969" r="2.713683773763478"/></g>
+<text x="30" y="64" font-size="44">🦋</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 150 q-8 34 -58 40 q-40 6 -44 -22 q-4 -30 26 -30 q22 0 26 6 q4 -6 26 -6 q30 0 26 30 q-4 28 -44 22 q-50 -6 -58 -40 Z" fill="url(#bg1)" stroke="#F97316" stroke-width="3"/><path d="M150 150 q-8 34 -58 40 q-40 6 -44 -22 q-4 -30 26 -30 q22 0 26 6 q4 -6 26 -6 q30 0 26 30 q-4 28 -44 22 q-50 -6 -58 -40 Z" fill="url(#tx)" opacity="0.9"/><ellipse cx="150" cy="150" rx="6" ry="26" fill="#292524" stroke="#a6541c" stroke-width="2.6"/><path d="M150 124 q-8 -14 -16 -18 M150 176 q-8 14 -16 18" stroke="#F97316" stroke-width="2.6" fill="none"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Gulf fritillary</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Agraulis vanillae</text>
+</g>
+</svg>

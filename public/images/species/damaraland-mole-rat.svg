@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Damaraland mole-rat illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc5b3"/><stop offset="1" stop-color="#EA9D8B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff5c8"/><stop offset="1" stop-color="#FED7AA"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffd9c7"/><stop offset="1" stop-color="#FED7AA"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="14" height="14" patternUnits="userSpaceOnUse"><rect width="14" height="14" fill="none"/><path d="M3 11 L3 5 M8 11 L8 4 M13 11 L13 6" stroke="#ffd9c7" stroke-width="2" stroke-linecap="round" opacity="0.45"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="428.01782332360744" cy="95.22819978184998" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="238.38404098525643" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="150.66597755998373" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="531.7447860259563" cy="106.11469903029501" r="2.293245337670669"/><circle cx="45.800504330545664" cy="67.56634037010372" r="3.183904168428853"/><circle cx="229.268902214244" cy="118.60394016839564" r="2.705415816279128"/></g>
+<text x="30" y="59" font-size="44">🦷</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M40,163.9065028668619 L70,179.69776577339576 L100,161.47954923738686 L130,123.71864351442778 L160,120.5853810462515 L190,135.98973239642672 L220,179.02605565760294 L250,179.99645685562228 L280,150.60397026810566" stroke="#EA9D8B" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,163.9065028668619 L70,179.69776577339576 L100,161.47954923738686 L130,123.71864351442778 L160,120.5853810462515 L190,135.98973239642672 L220,179.02605565760294 L250,179.99645685562228 L280,150.60397026810566" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,163.9065028668619 L70,179.69776577339576 L100,161.47954923738686 L130,123.71864351442778 L160,120.5853810462515 L190,135.98973239642672 L220,179.02605565760294 L250,179.99645685562228 L280,150.60397026810566" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="155.9065028668619" r="13" fill="url(#bg1)" stroke="#EA9D8B" stroke-width="3"/><circle cx="24" cy="153.9065028668619" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Damaraland mole-rat</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Fukomys damarensis</text>
+</g>
+</svg>

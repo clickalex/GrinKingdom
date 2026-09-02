@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Maritime sunburst illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff8034"/><stop offset="1" stop-color="#EA580C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe5"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff9448"/><stop offset="1" stop-color="#FEF3C7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb4"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="none"/><path d="M6 8 L14 6 L12 14 M26 20 L34 18 L32 28 M16 30 L24 28 L22 38" stroke="#ff9448" stroke-width="1.6" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="225.46184659004211" cy="169.78580192662776" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="231.56103361397982" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="137.97091466374695" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="61" font-size="44">🟠</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><circle cx="98.66396034602076" cy="192.54279399756342" r="22.395863485056907" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><circle cx="176.09724801499397" cy="213.9404218411073" r="12.478478080127388" fill="url(#bg2)" stroke="#EA580C" stroke-width="2.4"/><circle cx="92.07599685061723" cy="179.65418021194637" r="16.12117171799764" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><circle cx="171.5786566771567" cy="226.35586084797978" r="21.93647574679926" fill="url(#bg2)" stroke="#EA580C" stroke-width="2.4"/><circle cx="202.6631010370329" cy="215.51900890190154" r="13.32192217418924" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><circle cx="142.22765803802758" cy="158.3842032123357" r="24.49131498299539" fill="url(#bg2)" stroke="#EA580C" stroke-width="2.4"/><circle cx="105.35224340390414" cy="179.98954667709768" r="16.464337390847504" fill="url(#bg2)" stroke="#EA580C" stroke-width="2.4"/><circle cx="119.23895427491516" cy="202.99195011612028" r="22.215733184013516" fill="url(#bg2)" stroke="#EA580C" stroke-width="2.4"/><circle cx="99.26774927414954" cy="158.13890364952385" r="22.521926579531282" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><circle cx="204.02568987105042" cy="165.6298010610044" r="28.99139231443405" fill="url(#bg2)" stroke="#EA580C" stroke-width="2.4"/><circle cx="144.82983601279557" cy="178.00342314876616" r="17.313395423814654" fill="url(#bg2)" stroke="#EA580C" stroke-width="2.4"/><circle cx="133.42940570320934" cy="163.673545839265" r="15.161355493124574" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><circle cx="196.00579514633864" cy="200.97501061391085" r="16.143237627111375" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><circle cx="221.848772931844" cy="184.74836279638112" r="23.48575666733086" fill="url(#bg1)" stroke="#EA580C" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Maritime sunburst</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Xanthoria calcicola</text>
+</g>
+</svg>

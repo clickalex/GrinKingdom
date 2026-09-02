@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Heartsease illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9550ff"/><stop offset="1" stop-color="#6D28D9"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a964ff"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffd0ff"/><stop offset="1" stop-color="#faf0ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="299.77089680731297" cy="165.48229082487524" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="242.7687033545226" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="152.52305823378265" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="233.4179110173136" cy="94.7593298740685" r="2.3929273383691907"/><circle cx="203.15406134352088" cy="76.4677142817527" r="2.0265242925379425"/><circle cx="396.5451477840543" cy="140.49458083696663" r="4.2461868692189455"/></g>
+<text x="30" y="68" font-size="44">💜</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#6D28D9" stroke-width="2.6"/><ellipse cx="174.24746572076336" cy="84.66220057632516" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(21.157015781133374 174.24746572076336 84.66220057632516)"/><ellipse cx="167.4255520368371" cy="93.81203961131652" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(47.916451948904864 167.4255520368371 93.81203961131652)"/><ellipse cx="147.28932506327766" cy="99.86921003987662" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(95.98434519996478 147.28932506327766 99.86921003987662)"/><ellipse cx="129.02204866561726" cy="90.17834007797342" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(143.7887452141527 129.02204866561726 90.17834007797342)"/><ellipse cx="124.4689313252521" cy="71.46239078743642" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(190.89834334789694 124.4689313252521 71.46239078743642)"/><ellipse cx="135.26925366226902" cy="56.22362652590064" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(235.4888109082041 135.26925366226902 56.22362652590064)"/><ellipse cx="160.3559158427927" cy="53.98592152772515" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(293.4722245135251 160.3559158427927 53.98592152772515)"/><ellipse cx="172.5773240877909" cy="64.09751680897888" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(330.2684570473671 172.5773240877909 64.09751680897888)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#4a4097" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Heartsease</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Viola tricolor</text>
+</g>
+</svg>

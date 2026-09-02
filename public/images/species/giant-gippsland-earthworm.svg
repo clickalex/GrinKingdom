@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Giant Gippsland earthworm illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff70c1"/><stop offset="1" stop-color="#EC4899"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FCE7F3"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff84d5"/><stop offset="1" stop-color="#FCE7F3"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fff0ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="239.4309340417385" cy="131.47794985212386" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="255.59397239238024" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="131.11758299171925" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="191.16342648863792" cy="60.33204259350896" r="3.4590848449151963"/><circle cx="467.76186667382717" cy="54.51097942888737" r="4.198169684037566"/><circle cx="421.3827885873616" cy="85.65565168857574" r="1.9081099103204906"/></g>
+<text x="30" y="64" font-size="44">🪱</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M40,155.35755074383002 L70,178.04281748939366 L100,152.41757516027954 L130,123.98544968282349 L160,120.00032264742813 L190,143.86344470732737 L220,172.12063507335608 L250,179.80430863442743 L280,149.4870660208086" stroke="#EC4899" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M40,155.35755074383002 L70,178.04281748939366 L100,152.41757516027954 L130,123.98544968282349 L160,120.00032264742813 L190,143.86344470732737 L220,172.12063507335608 L250,179.80430863442743 L280,149.4870660208086" stroke="url(#bg2)" stroke-width="26" fill="none" stroke-linecap="round" stroke-linejoin="round" opacity="0.45"/><path d="M40,155.35755074383002 L70,178.04281748939366 L100,152.41757516027954 L130,123.98544968282349 L160,120.00032264742813 L190,143.86344470732737 L220,172.12063507335608 L250,179.80430863442743 L280,149.4870660208086" stroke="url(#tx)" stroke-width="26" fill="none" stroke-linecap="round" opacity="0.8"/><circle cx="28" cy="147.35755074383002" r="13" fill="url(#bg1)" stroke="#EC4899" stroke-width="3"/><circle cx="24" cy="145.35755074383002" r="2.8" fill="#1c1917"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Giant Gippsland earthworm</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Megascolides australis</text>
+</g>
+</svg>

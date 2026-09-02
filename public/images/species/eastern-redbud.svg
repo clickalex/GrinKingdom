@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Eastern redbud illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a88b59"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#8A6D3B"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#fcffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="409.9935073405504" cy="148.26830894686282" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="235.7334479643032" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="123.79056212492287" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="402.2158656641841" cy="148.7806485965848" r="1.9875798169523478"/><circle cx="67.90078084915876" cy="159.35822209343314" r="3.7938172887079418"/><circle cx="500.83992377854884" cy="63.34513067267835" r="3.890009321970865"/></g>
+<text x="30" y="57" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M138 210 q-6 -70 12 -128 q18 58 12 128 Z" fill="#8A6D3B" stroke="#4ca250" stroke-width="3"/><circle cx="92" cy="92" r="44" fill="url(#bg1)" stroke="#22C55E" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#bg1)" stroke="#22C55E" stroke-width="3"/><circle cx="206" cy="96" r="42" fill="url(#bg1)" stroke="#22C55E" stroke-width="3"/><circle cx="124" cy="52" r="36" fill="url(#bg1)" stroke="#22C55E" stroke-width="3"/><circle cx="150" cy="64" r="56" fill="url(#tx)" opacity="0.8"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Eastern redbud</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cercis canadensis</text>
+</g>
+</svg>

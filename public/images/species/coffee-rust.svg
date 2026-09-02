@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Coffee rust illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ea6934"/><stop offset="1" stop-color="#C2410C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd892"/><stop offset="1" stop-color="#FDBA74"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fe7d48"/><stop offset="1" stop-color="#FDBA74"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe9b4"/><stop offset="1" stop-color="#ffffe6"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#fe7d48" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#fe7d48" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="140.91000355780125" cy="137.6064905617386" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="259.68368056230247" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="128.7370913196355" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="65" font-size="44">☕</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><line x1="106" y1="206" x2="103.98839512001723" y2="96" stroke="#FDBA74" stroke-width="4"/><circle cx="100.31781811732799" cy="91.95775695331395" r="9" fill="url(#bg1)" stroke="#C2410C" stroke-width="2.4"/><line x1="128" y1="206" x2="125.21154959965497" y2="96" stroke="#FDBA74" stroke-width="4"/><circle cx="129.6320277210325" cy="91.1256388630718" r="9" fill="url(#bg1)" stroke="#C2410C" stroke-width="2.4"/><line x1="150" y1="206" x2="145.74220714811236" y2="96" stroke="#FDBA74" stroke-width="4"/><circle cx="152.7454866701737" cy="90.0782069992274" r="9" fill="url(#bg1)" stroke="#C2410C" stroke-width="2.4"/><line x1="172" y1="206" x2="171.48939293250442" y2="96" stroke="#FDBA74" stroke-width="4"/><circle cx="167.60931993555278" cy="94.40134334936738" r="9" fill="url(#bg1)" stroke="#C2410C" stroke-width="2.4"/><line x1="194" y1="206" x2="191.51767953298986" y2="96" stroke="#FDBA74" stroke-width="4"/><circle cx="198.14291326142848" cy="93.83387380838394" r="9" fill="url(#bg1)" stroke="#C2410C" stroke-width="2.4"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Coffee rust</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Hemileia vastatrix</text>
+</g>
+</svg>

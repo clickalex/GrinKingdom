@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Roach illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dc7b31"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f08f45"/><stop offset="1" stop-color="#FFFBEB"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffbb1"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="22" height="26" patternUnits="userSpaceOnUse"><rect width="22" height="26" fill="none"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#f08f45" opacity="0.4" transform="translate(0,6)"/><path d="M11 2 a9 9 0 0 1 9 9 h-18 a9 9 0 0 1 9-9z" fill="#f08f45" opacity="0.4" transform="translate(0,-6)"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="323.61144095659256" cy="121.16368705406785" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="262.6279187388718" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="140.33138028346002" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="425.7060492038727" cy="95.9538414888084" r="2.2885377968195826"/><circle cx="519.0112623758614" cy="55.496757766231894" r="1.5434621586464345"/><circle cx="415.5158341675997" cy="140.2422093320638" r="4.45474204653874"/></g>
+<text x="30" y="66" font-size="44">🐟</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -10)"><path d="M52 150 q44 -54 108 -54 q40 0 64 30 q14 16 16 24 q-2 14 -16 24 q-24 30 -64 30 q-64 0 -108 -54 Z" fill="url(#bg1)" stroke="#B45309" stroke-width="3" stroke-linejoin="round"/><path d="M52 150 q44 -54 108 -54 q40 0 64 30 q14 16 16 24 q-2 14 -16 24 q-24 30 -64 30 q-64 0 -108 -54 Z" fill="url(#tx)"/><circle cx="82" cy="140" r="4" fill="#1c1917"/><path d="M126 122 q24 -22 44 -24 q-2 20 -20 32" fill="url(#bg2)" stroke="#B45309" stroke-width="3"/><path d="M128 176 q18 12 16 28 q-18 -6 -16 -28 Z" fill="#FFFBEB" stroke="#B45309" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Roach</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Rutilus rutilus</text>
+</g>
+</svg>

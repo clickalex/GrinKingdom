@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Passion fruit illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9550ff"/><stop offset="1" stop-color="#6D28D9"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a964ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffd0ff"/><stop offset="1" stop-color="#fafbff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#a964ff" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#a964ff" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="141.39499239623547" cy="137.30498911812901" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="245.79562621191144" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="159.64583440683782" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="475.74020037427545" cy="102.70595290698111" r="4.462168246507645"/><circle cx="119.49734644964337" cy="69.23396607860923" r="4.3461478643585"/><circle cx="418.75784516334534" cy="131.19364992715418" r="4.15810097171925"/></g>
+<text x="30" y="62" font-size="44">🥤</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#6D28D9" stroke-width="2.6"/><ellipse cx="174.71793794819564" cy="83.4434317484817" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(18.067847911541584 174.71793794819564 83.4434317484817)"/><ellipse cx="166.0723978201722" cy="94.86508249999727" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(51.81744119555609 166.0723978201722 94.86508249999727)"/><ellipse cx="139.1312474568763" cy="97.80240899432216" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(114.71020888708108 139.1312474568763 97.80240899432216)"/><ellipse cx="127.9715572433367" cy="88.74874867955496" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(147.91357470761417 127.9715572433367 88.74874867955496)"/><ellipse cx="124.49057666653266" cy="71.35982156285185" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(191.14781216535025 124.49057666653266 71.35982156285185)"/><ellipse cx="139.0519358707381" cy="54.231429145323645" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(245.0972473647739 139.0519358707381 54.231429145323645)"/><ellipse cx="162.3344204378075" cy="54.87258456304381" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(298.3203424386737 162.3344204378075 54.87258456304381)"/><ellipse cx="169.19603794610006" cy="59.812901200923164" rx="17" ry="20" fill="url(#bg1)" stroke="#6D28D9" stroke-width="2.6" transform="rotate(317.58757974109113 169.19603794610006 59.812901200923164)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#4a4b9b" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Passion fruit</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Passiflora edulis</text>
+</g>
+</svg>

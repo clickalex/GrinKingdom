@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Orrorin tugenensis illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a05d37"/><stop offset="1" stop-color="#78350F"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f7c79c"/><stop offset="1" stop-color="#D9A97E"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b4714b"/><stop offset="1" stop-color="#D9A97E"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffddb7"/><stop offset="1" stop-color="#ffffeb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="287.0565615594387" cy="183.37191891856492" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="242.59230501484126" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="123.44986536540091" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="491.08582994900644" cy="55.42293407022953" r="2.295646216487512"/><circle cx="307.97207730822265" cy="64.51724084094167" r="4.106075044255704"/><circle cx="237.96059671789408" cy="101.41976405866444" r="2.970000517554581"/></g>
+<text x="30" y="60" font-size="44">🌳</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><g stroke="#78350F" stroke-width="3" stroke-linecap="round"><circle cx="150" cy="104" r="30" fill="url(#bg1)"/><circle cx="150" cy="104" r="30" fill="url(#tx)" opacity="0.8"/><circle cx="140" cy="100" r="3.4" fill="#1c1917"/><circle cx="160" cy="100" r="3.4" fill="#1c1917"/><path d="M146 118 q4 8 0 14 M154 118 q-4 8 0 14" fill="none"/><path d="M118 156 q-20 -44 2 -58 M182 156 q20 -44 -2 -58 M126 158 q-34 8 -46 38 q-8 26 12 30 M174 158 q34 8 46 38 q8 26 -12 30 M136 208 q-6 30 -2 62 M164 208 q6 30 2 62 M108 206 q-8 22 0 44 M150 200 q0 24 0 50" fill="none" stroke-width="10" opacity="0.0"/><path d="M126 176 q-40 12 -52 44 q-10 28 8 34 M174 176 q40 12 52 44 q10 28 -8 34" fill="none"/><path d="M136 214 q-6 30 -2 64 M164 214 q6 30 2 64" fill="none"/><rect x="108" y="136" width="84" height="44" rx="16" fill="url(#bg2)" stroke="#78350F" stroke-width="3"/><path d="M134 216 l-2 64 M166 216 l2 64" stroke="#D9A97E" stroke-width="11" stroke-linecap="round"/></g><circle cx="150" cy="96" r="5" fill="#D9A97E"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Orrorin tugenensis</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Orrorin tugenensis</text>
+</g>
+</svg>
