@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pseudomonas fluorescens illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#36cdff"/><stop offset="1" stop-color="#0EA5E9"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d8ffff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4ae1ff"/><stop offset="1" stop-color="#BAE6FD"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#b6ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#4ae1ff" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#4ae1ff" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="280.2463484555483" cy="115.87558776140213" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="313" rx="256.42806947696954" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="313" rx="147.93041357770562" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="219.94066850282252" cy="146.36062931269407" r="1.953587799333036"/><circle cx="162.27198204025626" cy="47.917611449956894" r="3.9227521042339504"/><circle cx="269.38690174371004" cy="102.14303965680301" r="1.745005377335474"/></g>
+<text x="30" y="62" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#0EA5E9" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/><path d="M150 178 q-40 46 -90 30" stroke="#0EA5E9" stroke-width="4" fill="none" stroke-linecap="round"/><path d="M150 178 q40 46 90 30" stroke="#0EA5E9" stroke-width="4" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pseudomonas fluorescens</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pseudomonas fluorescens</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Celosia illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4e4e"/><stop offset="1" stop-color="#DC2626"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff6262"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcece"/><stop offset="1" stop-color="#fffadf"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="212.3481946438551" cy="151.95963906124234" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="259.51142450328916" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="129.99677792191505" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="67" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#DC2626" stroke-width="2.6"/><ellipse cx="174.28626963858625" cy="84.56907312865332" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(20.918812306839158 174.28626963858625 84.56907312865332)"/><ellipse cx="161.2702053796048" cy="97.62803842334154" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(64.3120582559901 161.2702053796048 97.62803842334154)"/><ellipse cx="137.68915060275862" cy="97.13912636747816" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(118.26135323643257 137.68915060275862 97.13912636747816)"/><ellipse cx="129.0897260180782" cy="90.26326926020076" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(143.5370476472763 129.0897260180782 90.26326926020076)"/><ellipse cx="124.67936150837002" cy="70.54952455351585" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(193.12658146064777 124.67936150837002 70.54952455351585)"/><ellipse cx="132.615655089706" cy="58.15368443479264" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(228.03868858279844 132.615655089706 58.15368443479264)"/><ellipse cx="152.51921250633697" cy="52.11292421416502" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(275.5602712808589 152.51921250633697 52.11292421416502)"/><ellipse cx="172.24519758523974" cy="63.576084678758576" rx="17" ry="20" fill="url(#bg1)" stroke="#DC2626" stroke-width="2.6" transform="rotate(328.82437042160535 172.24519758523974 63.576084678758576)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#8c4a2f" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Celosia</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Celosia</text>
+</g>
+</svg>

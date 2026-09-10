@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Echinacea purpurea illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffb2"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffc6"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="277.8638455271721" cy="203.57304071076214" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="233.86759034357965" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="137.879537679255" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="502.5665770098567" cy="134.14325565099716" r="3.168704321142286"/><circle cx="372.7876601740718" cy="152.62842416763306" r="1.9708907408639789"/><circle cx="175.46570604667068" cy="106.28782411105931" r="2.878366611432284"/></g>
+<text x="30" y="58" font-size="44">🌼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FDE68A" stroke-width="2.6"/><ellipse cx="174.37377053274975" cy="84.35470339928989" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(20.371919220078798 174.37377053274975 84.35470339928989)"/><ellipse cx="162.70980528422507" cy="96.93698100623075" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(60.735721074050126 162.70980528422507 96.93698100623075)"/><ellipse cx="145.57007524262482" cy="99.64907524077834" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(99.81001388187325 145.57007524262482 99.64907524077834)"/><ellipse cx="125.10806749843773" cy="82.93179121322994" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(163.2123983491444 125.10806749843773 82.93179121322994)"/><ellipse cx="124.01092710628673" cy="75.3042607352748" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(181.6611878704295 124.01092710628673 75.3042607352748)"/><ellipse cx="132.5412995192275" cy="58.215640146355156" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(227.81794939528385 132.5412995192275 58.215640146355156)"/><ellipse cx="157.91572272397372" cy="53.13932706097563" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(287.72513022992933 157.91572272397372 53.13932706097563)"/><ellipse cx="173.38361936963042" cy="65.50747978295001" rx="17" ry="20" fill="url(#bg1)" stroke="#FDE68A" stroke-width="2.6" transform="rotate(334.0753765398388 173.38361936963042 65.50747978295001)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#a1b268" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Echinacea purpurea</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Echinacea purpurea</text>
+</g>
+</svg>

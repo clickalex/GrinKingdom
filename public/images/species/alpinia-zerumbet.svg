@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Alpinia zerumbet illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffd4"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="405.67436523735523" cy="123.24090147390962" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="260.06305071059614" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="152.99557827413082" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="483.8495331816375" cy="69.25792837515473" r="4.4123950058128685"/><circle cx="95.45327939093113" cy="134.07139306887984" r="3.63121942570433"/><circle cx="441.2948756106198" cy="68.09043996036053" r="2.3512520666699857"/></g>
+<text x="30" y="60" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -7)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.6"/><ellipse cx="175.97758852306683" cy="76.99627950433046" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(2.379125742696291 175.97758852306683 76.99627950433046)"/><ellipse cx="163.0580594110721" cy="96.75357531841803" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(59.85215202154503 163.0580594110721 96.75357531841803)"/><ellipse cx="144.88356805711535" cy="99.53071590521675" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(101.34906654405029 144.88356805711535 99.53071590521675)"/><ellipse cx="125.70530123469149" cy="84.54868968609993" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(159.13327430048378 125.70530123469149 84.54868968609993)"/><ellipse cx="125.63373940071418" cy="67.62665203268719" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(200.41940693070643 125.63373940071418 67.62665203268719)"/><ellipse cx="138.324760466563" cy="54.55581283373166" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(243.3173998718738 138.324760466563 54.55581283373166)"/><ellipse cx="157.56339483817155" cy="53.03791542626541" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(286.91183349865867 157.56339483817155 53.03791542626541)"/><ellipse cx="174.3969517115112" cy="67.70314824275347" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(339.77533610151886 174.3969517115112 67.70314824275347)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9ca024" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Alpinia zerumbet</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Alpinia zerumbet</text>
+</g>
+</svg>

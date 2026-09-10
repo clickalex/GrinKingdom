@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Oenothera biennis illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff43d"/><stop offset="1" stop-color="#FACC15"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff51"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbd"/><stop offset="1" stop-color="#ffffda"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="453.6857418715954" cy="106.68839586898685" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="265.9252035152167" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="134.09285285510123" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="223.84907976724207" cy="95.67645017057657" r="4.1913858850020915"/><circle cx="335.0148464180529" cy="131.74146248027682" r="3.454328011488542"/><circle cx="540.9361923485994" cy="50.952379601076245" r="3.294257923029363"/></g>
+<text x="30" y="68" font-size="44">🌼</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FACC15" stroke-width="2.6"/><ellipse cx="175.72036602356673" cy="79.51045700120109" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(8.410773491129156 175.72036602356673 79.51045700120109)"/><ellipse cx="161.62643018563082" cy="97.46677099763463" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(63.43771636216686 161.62643018563082 97.46677099763463)"/><ellipse cx="149.10404641934653" cy="99.98574607219254" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(91.97478938275478 149.10404641934653 99.98574607219254)"/><ellipse cx="127.12713349453091" cy="87.41155980048057" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(151.60928461312255 127.12713349453091 87.41155980048057)"/><ellipse cx="126.11076470064756" cy="66.52757383760166" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(203.24629381528223 126.11076470064756 66.52757383760166)"/><ellipse cx="139.7759190973123" cy="53.933476526604615" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(246.844128829583 139.7759190973123 53.933476526604615)"/><ellipse cx="158.43118803478194" cy="53.29690349842776" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(288.9217454817039 158.43118803478194 53.29690349842776)"/><ellipse cx="169.62475789296195" cy="60.257035312148204" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(319.00775582223986 169.62475789296195 60.257035312148204)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9fbc2a" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Oenothera biennis</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Oenothera biennis</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Dendrocalamus giganteus illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="415.01415237784386" cy="157.5090752262622" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="268.2364376401529" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="142.1050328016281" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="178.2802385557443" cy="147.91451851837337" r="2.8092339048162103"/><circle cx="295.226974459365" cy="159.23834931105375" r="3.6476701386272907"/><circle cx="273.7767936941236" cy="53.82971138693392" r="2.574522474082187"/></g>
+<text x="30" y="67" font-size="44">🎋</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -12)"><path d="M99 236 q-24 -43.5108203899581 -48 -87.0216407799162" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -50.87921711243689 -32 -101.75843422487378" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -65.47532418835908 -16 -130.95064837671816" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -70.02909787022509 0 -140.05819574045017" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -61.117968164151534 16 -122.23593632830307" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -53.81874757213518 32 -107.63749514427036" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -44.2184875709936 48 -88.4369751419872" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><line x1="150" y1="236" x2="150" y2="26" stroke="#166534" stroke-width="16" stroke-linecap="round"/><line x1="142" y1="200" x2="158" y2="186" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="166" x2="158" y2="152" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="132" x2="158" y2="118" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="98" x2="158" y2="84" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="64" x2="158" y2="50" stroke="#F5F5F4" stroke-width="4"/><path d="M138 40 q-34 -16 -58 2 M162 34 q34 -16 58 2" stroke="#166534" stroke-width="8" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Dendrocalamus giganteus</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Dendrocalamus giganteus</text>
+</g>
+</svg>

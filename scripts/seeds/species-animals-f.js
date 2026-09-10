@@ -139,7 +139,6 @@ export const ANIMALS_F_ROWS = [
   ['ray-stingray', 'Ocellate river stingray', 'Potamotrygon motoro', '🐟', ' The “motoro” — a freshwater stingray with peacock eye-spots.', 'Least Concern'],
   ['ray-manta', 'Giant devil ray', 'Mobula mobular', '🐟', ' The Mediterranean flyer that barrel-rolls through plankton clouds.', 'Endangered'],
   ['ray-skate', 'Thornback ray', 'Raja clavata', '🐟', ' The spiny-backed bottom-dweller of European seas.', 'Near Threatened'],
-  ['chimaera', 'Rabbitfish', 'Chimaera monstrosa', '🐟', ' The rabbit-nosed ghost shark of the deep Atlantic.', 'Least Concern'],
 
   /* bony fish */
   ['fish-percoid', 'Nassau grouper', 'Epinephelus striatus', '🐟', ' The grouper that gathers by thousands to spawn — once a month, at full moon.', 'Critically Endangered'],

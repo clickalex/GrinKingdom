@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cladonia illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#8dcb35"/><stop offset="1" stop-color="#65A30D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#FFF7ED"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a1df49"/><stop offset="1" stop-color="#FFF7ED"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="249.0159049630165" cy="99.43978535011411" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="227.55301790311933" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="128.950363015756" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="69" font-size="44">❄️</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><circle cx="217.31108787003905" cy="175.99806056823581" r="15.038221601396799" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="73.76959070563316" cy="182.39064819645137" r="25.31702871993184" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="168.5395206604153" cy="201.45783389452845" r="13.398421847261488" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="179.29763030726463" cy="169.95017039589584" r="22.36181567888707" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="128.2073955796659" cy="150.17975366208702" r="27.46974325971678" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="220.7292539253831" cy="206.65988742839545" r="28.900004315190017" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="187.60629802476615" cy="203.60975635703653" r="21.00774611486122" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="63.276609582826495" cy="198.04803933948278" r="21.220882112625986" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="169.98020708095282" cy="210.0461802445352" r="23.419438140001148" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="60.830365642905235" cy="187.52753424923867" r="18.895851041190326" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="115.20283680874854" cy="233.49991249851882" r="26.004040835425258" fill="url(#bg2)" stroke="#65A30D" stroke-width="2.4"/><circle cx="200.44955239165574" cy="180.33846309408545" r="14.384150763507932" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="125.07889120839536" cy="174.13102162536234" r="20.954519370105118" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="192.68894718959928" cy="213.34652760997415" r="14.291521203238517" fill="url(#bg1)" stroke="#65A30D" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cladonia</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cladonia</text>
+</g>
+</svg>

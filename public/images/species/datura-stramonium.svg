@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Datura stramonium illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a462ff"/><stop offset="1" stop-color="#7C3AED"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b876ff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe2ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="439.76977303624153" cy="147.58541193790734" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="267.70450914278626" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="125.65424771048129" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#7C3AED" stroke-width="2.6"/><ellipse cx="173.4680290811229" cy="86.33069534049125" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(25.495844846317098 173.4680290811229 86.33069534049125)"/><ellipse cx="159.35428432207243" cy="98.39289042583235" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(68.91330410289031 159.35428432207243 98.39289042583235)"/><ellipse cx="142.03895663466983" cy="98.84725943311517" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(107.83001075950247 142.03895663466983 98.84725943311517)"/><ellipse cx="128.01050823960236" cy="88.80591678734729" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(147.75234739856492 128.01050823960236 88.80591678734729)"/><ellipse cx="125.57929099678276" cy="67.76291689462276" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(200.07267531233765 125.57929099678276 67.76291689462276)"/><ellipse cx="138.68388463323254" cy="54.392397136742716" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(244.19973862988454 138.68388463323254 54.392397136742716)"/><ellipse cx="151.88635977004122" cy="52.063249376225286" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(274.16059609254523 151.88635977004122 52.063249376225286)"/><ellipse cx="171.15352878130346" cy="62.04570781516155" rx="17" ry="20" fill="url(#bg1)" stroke="#7C3AED" stroke-width="2.6" transform="rotate(324.448897418205 171.15352878130346 62.04570781516155)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#5356a7" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Datura stramonium</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Datura stramonium</text>
+</g>
+</svg>

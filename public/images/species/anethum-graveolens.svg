@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Anethum graveolens illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#E7E5E4"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#339e5b"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="221.67921900749207" cy="156.8922700546682" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="231.21238573919982" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="158.54871994815767" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="198.75374691560864" cy="105.8032067772001" r="1.9871757505461574"/><circle cx="220.71604380384088" cy="151.92149906419218" r="3.686224189354107"/><circle cx="537.5331837683916" cy="62.0224279910326" r="3.1587233792524785"/></g>
+<text x="30" y="64" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><path d="M150 240 q-8 -70 2 -138" stroke="#15803D" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#E7E5E4" stroke-width="2.6"/><ellipse cx="173.2588074940838" cy="86.72629182831216" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(26.54681069630116 173.2588074940838 86.72629182831216)"/><ellipse cx="167.50576677375378" cy="93.74489353523161" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(47.67782484946965 167.50576677375378 93.74489353523161)"/><ellipse cx="139.06696944035338" cy="97.77500784456058" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(114.8662328259525 139.06696944035338 97.77500784456058)"/><ellipse cx="125.05473563889386" cy="82.7664614866274" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(163.62422097661232 125.05473563889386 82.7664614866274)"/><ellipse cx="127.08447955660324" cy="64.66158937377307" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(208.1923945326643 127.08447955660324 64.66158937377307)"/><ellipse cx="135.06962834216634" cy="56.3515969736837" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(234.95321932325078 135.06962834216634 56.3515969736837)"/><ellipse cx="159.59294308288122" cy="53.6933072116179" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(291.65145197453137 159.59294308288122 53.6933072116179)"/><ellipse cx="173.44352834717168" cy="65.6220132484791" rx="17" ry="20" fill="url(#bg1)" stroke="#E7E5E4" stroke-width="2.6" transform="rotate(334.3790091509466 173.44352834717168 65.6220132484791)"/><circle cx="150" cy="76" r="13" fill="#15803D" stroke="#93bda1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Anethum graveolens</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Anethum graveolens</text>
+</g>
+</svg>

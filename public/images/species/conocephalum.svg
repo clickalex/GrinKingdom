@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Conocephalum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#5cfbc1"/><stop offset="1" stop-color="#34D399"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#efffff"/><stop offset="1" stop-color="#D1FAE5"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#70ffd5"/><stop offset="1" stop-color="#D1FAE5"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#dcffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="326.1168707162142" cy="171.3483973313123" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="316" rx="236.62117898929864" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="316" rx="152.85636266693473" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="57" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><circle cx="231.38104705139995" cy="163.7178341858089" r="17.598448167555034" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="216.9154544128105" cy="190.29565721284598" r="25.27349521033466" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="62.58696058765054" cy="172.2303224960342" r="23.188590954523534" fill="url(#bg2)" stroke="#34D399" stroke-width="2.4"/><circle cx="238.05313581135124" cy="227.81933706719428" r="18.709709796588868" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="192.40641167387366" cy="153.69113918859512" r="22.362849423196167" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="234.05324283521622" cy="240.81593414302915" r="12.160846521612257" fill="url(#bg2)" stroke="#34D399" stroke-width="2.4"/><circle cx="125.40497188456357" cy="245.18530340865254" r="25.062610474415123" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="157.06809596624225" cy="171.2036709068343" r="16.286723756231368" fill="url(#bg2)" stroke="#34D399" stroke-width="2.4"/><circle cx="91.0255753621459" cy="185.6716605136171" r="28.10239550191909" fill="url(#bg2)" stroke="#34D399" stroke-width="2.4"/><circle cx="177.1005086414516" cy="158.98115071468055" r="16.217197181191295" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="118.34368772339076" cy="236.59713570959866" r="20.479829562362283" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="97.7450541453436" cy="156.70465303119272" r="17.6095838570036" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="86.88723589293659" cy="223.3535469044" r="20.235566541552544" fill="url(#bg2)" stroke="#34D399" stroke-width="2.4"/><circle cx="142.0035615283996" cy="194.0386734670028" r="18.844202797394246" fill="url(#bg1)" stroke="#34D399" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Conocephalum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Conocephalum</text>
+</g>
+</svg>

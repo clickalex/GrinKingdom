@@ -102,7 +102,6 @@ export const PLANT_B_ROWS = [
   ['flower-rosaceae', 'Almond', 'Prunus dulcis', '🌰', 'The first flower of the orchard year — and the nut inside a stone.', 'Least Concern'],
   ['flower-rosaceae', 'Raspberry', 'Rubus idaeus', '🍓', ' The bramble that fruits on second-year canes, then retires.', 'Least Concern'],
   ['flower-rosaceae', 'Blackberry', 'Rubus fruticosus', '🫐', ' The hedgerow picker\u2019s stained-hand reward.', 'Least Concern'],
-  ['flower-rosaceae', 'Dog rose', 'Rosa canina', '🌹', ' The wild rose of hedgerows, bearing hips packed with vitamin C.', 'Least Concern'],
   ['flower-solanaceae', 'Bell pepper', 'Capsicum annuum', '🫑', ' The chilli that forgot its fire — sweet and hollow as a bell.', 'Least Concern'],
   ['flower-solanaceae', 'Eggplant', 'Solanum melongena', '🍆', ' The purple sponge of the nightshade family.', 'Least Concern'],
   ['flower-solanaceae', 'Petunia', 'Petunia × atkinsiana', '🌸', ' The trumpet flower of every hanging basket.', 'Least Concern'],
@@ -185,7 +184,6 @@ export const PLANT_B_ROWS = [
   ['plant-sandalwood', 'Mistletoe', 'Viscum album', '🎄', ' The hemiparasite of Christmas kisses — it photosynthesizes and steals.', 'Least Concern'],
 
   /* ferns, mosses & aquatics */
-  ['fern', 'Hart\u2019s-tongue fern', 'Asplenium scolopendrium', '🌿', ' The strap-leaved fern of limestone shade.', 'Least Concern'],
   ['fern', 'Lady fern', 'Athyrium filix-femina', '🌿', ' The lace-cut frond of damp woods.', 'Least Concern'],
   ['moss', 'Hair-cap moss', 'Polytrichum commune', '🌿', ' The tiny forest that builds peatland floors.', 'Least Concern'],
   ['grass-cyperaceae', 'Common cottongrass', 'Eriophorum angustifolium', '☁️', ' The bog-cotton that fluffs white across peatlands.', 'Least Concern'],

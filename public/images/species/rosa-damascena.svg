@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Rosa damascena illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4f9f"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff63b3"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcfff"/><stop offset="1" stop-color="#fff0ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="384.34764362871647" cy="107.9197244066745" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="266.7128696059808" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="157.80619573779404" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="61" font-size="44">🌹</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#DB2777" stroke-width="2.6"/><ellipse cx="175.14785578467144" cy="82.09408012213001" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(14.709599810388355 175.14785578467144 82.09408012213001)"/><ellipse cx="158.0869682299628" cy="98.80954539858783" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(71.87824952111829 158.0869682299628 98.80954539858783)"/><ellipse cx="143.1269495804083" cy="99.14625605492733" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(105.32821998864537 143.1269495804083 99.14625605492733)"/><ellipse cx="125.28565362932218" cy="83.4535865715313" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(161.9066499612854 125.28565362932218 83.4535865715313)"/><ellipse cx="126.98454968910785" cy="64.83538377637854" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(207.72267084413747 126.98454968910785 64.83538377637854)"/><ellipse cx="138.04350510090717" cy="54.688270157478186" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(242.62159129891964 138.04350510090717 54.688270157478186)"/><ellipse cx="162.2832785545607" cy="54.84721208451802" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(298.19239547314936 162.2832785545607 54.84721208451802)"/><ellipse cx="171.7645421075481" cy="62.870720695087485" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(326.8349087453066 171.7645421075481 62.870720695087485)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#8c405c" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Rosa damascena</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Rosa damascena</text>
+</g>
+</svg>

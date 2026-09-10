@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Begonia maculata illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4570"/><stop offset="1" stop-color="#E11D48"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff5984"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffc5f0"/><stop offset="1" stop-color="#ffeaf0"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="432.69271843135357" cy="190.45686565339565" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="318" rx="250.02930463291705" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="318" rx="134.33370335958898" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="67" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#E11D48" stroke-width="2.6"/><ellipse cx="174.46108202403767" cy="84.13436974887017" rx="17" ry="20" fill="url(#bg1)" stroke="#E11D48" stroke-width="2.6" transform="rotate(19.811823537735357 174.46108202403767 84.13436974887017)"/><ellipse cx="166.5828435940003" cy="94.48481528758339" rx="17" ry="20" fill="url(#bg1)" stroke="#E11D48" stroke-width="2.6" transform="rotate(50.37190929776385 166.5828435940003 94.48481528758339)"/><ellipse cx="142.86051311162694" cy="99.07743495378293" rx="17" ry="20" fill="url(#bg1)" stroke="#E11D48" stroke-width="2.6" transform="rotate(105.93791897268089 142.86051311162694 99.07743495378293)"/><ellipse cx="130.24488398311414" cy="91.60342405279384" rx="17" ry="20" fill="url(#bg1)" stroke="#E11D48" stroke-width="2.6" transform="rotate(139.44764064209852 130.24488398311414 91.60342405279384)"/><ellipse cx="125.11993832613118" cy="69.03199005469256" rx="17" ry="20" fill="url(#bg1)" stroke="#E11D48" stroke-width="2.6" transform="rotate(196.87793806458257 125.11993832613118 69.03199005469256)"/><ellipse cx="132.2364628456761" cy="58.47473984046408" rx="17" ry="20" fill="url(#bg1)" stroke="#E11D48" stroke-width="2.6" transform="rotate(226.90477127262355 132.2364628456761 58.47473984046408)"/><ellipse cx="156.29017220019801" cy="52.71294927075493" rx="17" ry="20" fill="url(#bg1)" stroke="#E11D48" stroke-width="2.6" transform="rotate(284.00046084927857 156.29017220019801 52.71294927075493)"/><ellipse cx="173.45794573613412" cy="65.64980959925741" rx="17" ry="20" fill="url(#bg1)" stroke="#E11D48" stroke-width="2.6" transform="rotate(334.45258172754046 173.45794573613412 65.64980959925741)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#903a40" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Begonia maculata</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Begonia maculata</text>
+</g>
+</svg>

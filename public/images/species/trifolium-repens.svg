@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Trifolium repens illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#e8acff"/><stop offset="1" stop-color="#C084FC"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fcc0ff"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="151.18602506816387" cy="98.75739955343306" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="242.50741723459214" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="123.6118634045124" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#C084FC" stroke-width="2.6"/><ellipse cx="173.9123575666349" cy="85.42258347441987" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(23.116852285639517 173.9123575666349 85.42258347441987)"/><ellipse cx="159.69514634870532" cy="98.2690109950514" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(68.10602306740121 159.69514634870532 98.2690109950514)"/><ellipse cx="145.26878750369448" cy="99.5992992671683" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(100.48451099062659 145.26878750369448 99.5992992671683)"/><ellipse cx="125.6431928304334" cy="84.39675057206996" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(159.52096588962436 125.6431928304334 84.39675057206996)"/><ellipse cx="127.1027775376471" cy="64.63013499599504" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(208.27762786300733 127.1027775376471 64.63013499599504)"/><ellipse cx="131.8954879336942" cy="58.77461681550521" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(225.86691258900728 131.8954879336942 58.77461681550521)"/><ellipse cx="156.18206820151" cy="52.688295253182694" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(283.7550706019149 156.18206820151 52.688295253182694)"/><ellipse cx="174.3106996478735" cy="67.49015776961296" rx="17" ry="20" fill="url(#bg1)" stroke="#C084FC" stroke-width="2.6" transform="rotate(339.23249281000824 174.3106996478735 67.49015776961296)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#7c78ac" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Trifolium repens</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Trifolium repens</text>
+</g>
+</svg>

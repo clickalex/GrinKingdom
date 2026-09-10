@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Panicum miliaceum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4aed86"/><stop offset="1" stop-color="#22C55E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffa8"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5eff9a"/><stop offset="1" stop-color="#FDE68A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#caffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#5eff9a" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#5eff9a" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="425.9172324091196" cy="113.33194239065051" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="315" rx="258.20399831514806" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="315" rx="142.5523091852665" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="448.03560085594654" cy="151.5038120932877" r="4.425723994150758"/><circle cx="320.47490710392594" cy="142.5544631574303" r="3.1672126734629273"/><circle cx="65.03531131893396" cy="90.65862196497619" r="2.6987415261100978"/></g>
+<text x="30" y="66" font-size="44">🌾</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M99 236 q-24 -44.97042741300538 -48 -89.94085482601076" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -52.6563644062262 -32 -105.3127288124524" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -59.00984931294806 -16 -118.01969862589613" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -73.73771822592244 0 -147.47543645184487" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -61.07665320741944 16 -122.15330641483888" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -56.68608966679312 32 -113.37217933358625" stroke="#22C55E" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -43.676434892229736 48 -87.35286978445947" stroke="#FDE68A" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Panicum miliaceum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Panicum miliaceum</text>
+</g>
+</svg>

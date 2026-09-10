@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cymbidium illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff67b6"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7bca"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="164.90060985088348" cy="199.78500500321388" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="248.198529118672" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="120.22914158180356" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="67" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F43F8E" stroke-width="2.6"/><ellipse cx="175.00418728810428" cy="82.5785418614413" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(15.908739384020278 175.00418728810428 82.5785418614413)"/><ellipse cx="157.44400360012446" cy="98.99530447281762" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(73.36296021775306 157.44400360012446 98.99530447281762)"/><ellipse cx="148.4466815336167" cy="99.9571309751653" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(93.4250623189552 148.4466815336167 99.9571309751653)"/><ellipse cx="125.3136468083446" cy="83.53221527640396" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(161.70906115968393 125.3136468083446 83.53221527640396)"/><ellipse cx="124.48896148659954" cy="71.36739391697387" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(191.12938742990934 124.48896148659954 71.36739391697387)"/><ellipse cx="140.84319606368962" cy="53.537668138253295" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(249.37899643234212 140.84319606368962 53.537668138253295)"/><ellipse cx="161.75163306075234" cy="54.59139788295806" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(296.87116795564043 161.75163306075234 54.59139788295806)"/><ellipse cx="168.82345557893225" cy="59.44427325348575" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(316.383983855892 168.82345557893225 59.44427325348575)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9b6773" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cymbidium</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cymbidium</text>
+</g>
+</svg>

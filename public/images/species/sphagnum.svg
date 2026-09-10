@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sphagnum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="363.57537418603897" cy="149.1721283365041" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="264.12048392929137" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="131.78175449371338" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><circle cx="147.86031448747963" cy="219.32802700903267" r="12.542780994437635" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="148.39839268941432" cy="168.01362896803766" r="14.971904188860208" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="140.70551665965468" cy="173.47676411736757" r="12.192733456380665" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="186.94618174340576" cy="217.4508809344843" r="13.205433337949216" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="204.79166439268738" cy="199.60213005542755" r="25.615997501648962" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="207.20878079999238" cy="159.40242030192167" r="28.744031224865466" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="123.94118573516607" cy="169.74755499977618" r="29.857652426697314" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="187.95478566549718" cy="222.29083708953112" r="27.409979263320565" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="96.6240168409422" cy="170.2994712162763" r="17.79933288646862" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="185.91051303315908" cy="211.90580283291638" r="17.592107731383294" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="67.68444714602083" cy="172.17435918282717" r="28.70185538660735" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="70.6572121521458" cy="220.46224167570472" r="12.96558602526784" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="156.7357016634196" cy="237.03963528387249" r="24.341444768942893" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="78.74428313691169" cy="155.8894813293591" r="17.004401559010148" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sphagnum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Sphagnum</text>
+</g>
+</svg>
