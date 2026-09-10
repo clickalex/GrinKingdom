@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Carex illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#72ffa8"/><stop offset="1" stop-color="#4ADE80"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#86ffbc"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#f2ffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#86ffbc" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#86ffbc" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="332.26877957582474" cy="186.6654729656875" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="248.00123477820307" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="129.56815268844366" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="225.6685928720981" cy="66.6784284915775" r="2.6029458758421242"/><circle cx="261.07218105345964" cy="137.6022039540112" r="3.985202931566164"/><circle cx="501.1200066283345" cy="100.32678475603461" r="1.9954464628826827"/></g>
+<text x="30" y="64" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><path d="M99 236 q-24 -47.92420647875406 -48 -95.84841295750812" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -51.80428326036781 -32 -103.60856652073562" stroke="#4ADE80" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -59.359805296873674 -16 -118.71961059374735" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -69.07008782657795 0 -138.1401756531559" stroke="#4ADE80" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -65.602155870758 16 -131.204311741516" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -56.5652127773501 32 -113.1304255547002" stroke="#4ADE80" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -44.174482512520626 48 -88.34896502504125" stroke="#DCFCE7" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Carex</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Carex</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Theileria parva illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff9999"/><stop offset="1" stop-color="#F87171"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#9d3b3b"/><stop offset="1" stop-color="#7F1D1D"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffadad"/><stop offset="1" stop-color="#7F1D1D"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="367.27791883051395" cy="107.04293495044112" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="234.74796881899238" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="138.5288313217461" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="549.8142769746482" cy="64.59778022952378" r="3.2609698337037116"/><circle cx="480.3605056554079" cy="91.17490121163428" r="4.278057260904461"/><circle cx="536.9055646564811" cy="100.59216522611678" r="4.196876906789839"/></g>
+<text x="30" y="60" font-size="44">🐄</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><circle cx="150" cy="150" r="62" fill="url(#bg1)" stroke="#F87171" stroke-width="3"/><circle cx="150" cy="150" r="62" fill="url(#tx)"/><circle cx="126" cy="126" r="15" fill="#ffffff" opacity="0.32"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Theileria parva</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Theileria parva</text>
+</g>
+</svg>

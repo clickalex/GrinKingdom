@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Bryum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d9ffee"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#BBF7D0"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="308.3034607023001" cy="91.4047540538013" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="247.94956111349165" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="139.63231708854437" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="323.103151191026" cy="64.92024523206055" r="1.5120311344508082"/><circle cx="203.5423225723207" cy="90.34126168116927" r="2.9423528658226132"/><circle cx="421.62197805941105" cy="111.1911519151181" r="1.7184473562519997"/></g>
+<text x="30" y="54" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -2)"><circle cx="190.87922187522054" cy="216.94770699832588" r="16.775778700131923" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="131.22022402938455" cy="243.348872452043" r="25.637223313562572" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="120.21907351445407" cy="204.72264075651765" r="24.40872932318598" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="64.39261028543115" cy="184.30744078941643" r="23.494382697623223" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="196.83216232806444" cy="205.9947872767225" r="28.90196857228875" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="209.64558072388172" cy="227.93020992539823" r="21.3832929530181" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="140.1651104260236" cy="248.71183359064162" r="16.06975359097123" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="83.19400071166456" cy="158.56396404560655" r="29.297884977422655" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="113.7261917302385" cy="235.08368665352464" r="29.937461962457746" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="215.29499649535865" cy="164.5293576642871" r="12.385718671604991" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="220.17031316645443" cy="213.2660544011742" r="18.888569824397564" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="118.36754647549242" cy="227.07649457734078" r="20.85962345218286" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="237.6709747966379" cy="182.68359629437327" r="12.153204178903252" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="198.5876590758562" cy="202.53440467640758" r="28.204445361625403" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Bryum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Bryum</text>
+</g>
+</svg>

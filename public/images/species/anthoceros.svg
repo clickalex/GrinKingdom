@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Anthoceros illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="374.5560846477747" cy="163.49417198449373" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="214.9286225857213" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="120.89371622540057" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="371.7055032402277" cy="92.01794342137873" r="4.080280623631552"/><circle cx="200.13428357429802" cy="89.09423012286425" r="1.9624024825170636"/><circle cx="111.76320309750736" cy="118.61487466841936" r="3.490262049017474"/></g>
+<text x="30" y="68" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -14)"><circle cx="137.55729264579713" cy="190.85221495479345" r="21.66209620423615" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="177.45722961612046" cy="171.5313931927085" r="24.251559804193676" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="184.65596014168113" cy="150.1237019430846" r="14.350857751909643" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="64.96202004142106" cy="233.55873026885092" r="25.54664936894551" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="218.8822196284309" cy="221.69380912091583" r="20.29158712970093" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="135.0538252852857" cy="180.98099986091256" r="25.48097185185179" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="67.53444230183959" cy="177.42231644224375" r="15.412868751212955" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="162.93194194324315" cy="249.38771517481655" r="17.512910497840494" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="231.82689728680998" cy="187.0465883752331" r="28.553257553838193" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="105.88516891468316" cy="153.6402857862413" r="26.30438706977293" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="61.51305648498237" cy="196.99792580213398" r="14.511529917363077" fill="url(#bg2)" stroke="#15803D" stroke-width="2.4"/><circle cx="62.10998151451349" cy="201.20241881813854" r="14.874922702554613" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="162.01256811618805" cy="196.63932796102017" r="24.22490291716531" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="65.07957258727401" cy="185.01893947832286" r="26.112001097761095" fill="url(#bg1)" stroke="#15803D" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Anthoceros</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Anthoceros</text>
+</g>
+</svg>

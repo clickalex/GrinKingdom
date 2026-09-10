@@ -45,7 +45,18 @@ ok('KingdomPage /kingdom/animals', () => render(React.createElement(KingdomPage)
 ok('KingdomPage /kingdom/viruses', () => render(React.createElement(KingdomPage), ['/kingdom/viruses'], '/kingdom/:kingdomId'))
 ok('KingdomPage /kingdom/unknown', () => render(React.createElement(KingdomPage), ['/kingdom/nope'], '/kingdom/:kingdomId'))
 ok('Gallery3D', () => render(React.createElement(Gallery3D), ['/3d-gallery']))
-ok('FamilyTree', () => render(React.createElement(FamilyTree), ['/family-tree']))
+const ftHtml = ok('FamilyTree', () => render(React.createElement(FamilyTree), ['/family-tree']))
+for (const marker of ['tree-strip', 'strip-seg', 'tree-rank-legend', 'tree-bar', 'double-click to fold everything below']) {
+  if (ftHtml && !ftHtml.includes(marker)) {
+    console.error(`  ✗ FamilyTree missing interactive markup: ${marker}`)
+    process.exitCode = 1
+  }
+}
+const ftDeep = ok('FamilyTree deep-link ?species=tiger', () => render(React.createElement(FamilyTree), ['/family-tree?species=tiger']))
+if (ftDeep && (!ftDeep.includes('tree-lineage') || !ftDeep.includes('crumb-chip'))) {
+  console.error('  ✗ FamilyTree deep-link missing lineage chips')
+  process.exitCode = 1
+}
 
 // every species detail page renders (spot check a spread + full sweep of heads)
 const slugs = ['tiger', 'sars-cov-2', 'mers-cov', 'e-coli', 'homo-erectus', 'lion', 'fly-agaric', 'giant-kelp', 'tardigrade', 'nope-does-not-exist']

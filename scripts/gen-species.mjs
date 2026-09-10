@@ -6,7 +6,10 @@
 //
 // Selection rule: every seed group gets its first row (full group coverage),
 // then each kingdom tops up to its quota with remaining rows in file order.
-// 952 generated + 48 curated = exactly 1,000 species.
+// Quotas track the seed lists (selected): viruses 110 + archaea 54 + bacteria 120 +
+// protists 95 + fungi 181 + plants 408 + animals 1586 + humans 23 = 2,577.
+// Generated rows whose sci name matches a curated entry are skipped, so the final
+// catalog is 48 curated + 2,562 generated = 2,610 species.
 
 import fs from 'node:fs'
 import path from 'node:path'
@@ -32,11 +35,12 @@ import { PLANT_B_ROWS } from './seeds/species-plants-b.js'
 import { FUNGI_B_ROWS } from './seeds/species-fungi-b.js'
 import { MICROBE_B_ROWS } from './seeds/species-microbes-b.js'
 import { HUMANS_B_ROWS } from './seeds/species-humans-b.js'
+import { BATCH2_ROWS } from './seeds/species-batch2.js'
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url))
 const ROOT = path.resolve(__dirname, '..')
 
-const KINGDOM_QUOTA = { viruses: 94, archaea: 45, bacteria: 101, protists: 83, fungi: 163, plants: 362, animals: 1545, humans: 20 }
+const KINGDOM_QUOTA = { viruses: 110, archaea: 54, bacteria: 120, protists: 95, fungi: 181, plants: 408, animals: 1586, humans: 23 }
 const KINGDOM_DEFAULT_STATUS = { viruses: 'Not evaluated', archaea: 'Not evaluated', bacteria: 'Not evaluated', protists: 'Not evaluated', fungi: 'Not evaluated', plants: 'Least Concern', animals: 'Least Concern', humans: 'Extinct' }
 const KINGDOM_TAXON = { viruses: 'Virus', archaea: 'Archaea', bacteria: 'Bacteria', protists: 'Protista', fungi: 'Fungi', plants: 'Plantae', animals: 'Animalia', humans: 'Animalia' }
 const SIZE_FALLBACK = {
@@ -133,6 +137,23 @@ const VIRUS_GENUS = {
   'Luteovirus pavhordei': 'Luteovirus',
   'Potato virus X': 'Potexvirus',
   'Potato spindle tuber viroid': 'Pospiviroid',
+  // batch 2 additions
+  'Chikungunya virus': 'Orthoalphavirus',
+  'Rocio virus': 'Orthoalphavirus',
+  'O\'nyong-nyong virus': 'Orthoalphavirus',
+  'Mayaro virus': 'Mayaroalphavirus',
+  'Munin virus': 'Orthoflavivirus',
+  'Kyasanur Forest disease virus': 'Orthoflavivirus',
+  'Hepatitis E virus': 'Orthohepevirus',
+  'Andes orthohantavirus': 'Orthohantavirus',
+  'Puumala orthohantavirus': 'Orthohantavirus',
+  'Junin mammarenavirus': 'Mammarenavirus',
+  'Machupo mammarenavirus': 'Mammarenavirus',
+  'Canine calicivirus': 'Lagovirus',
+  'Feline panleukopenia virus': 'Protoparvovirus',
+  'Squirrelpox virus': 'Lactopoxyvirus',
+  'Cafeteriavirus massiliensis': 'Cafeteriavirus',
+  'Canine adenovirus 1': 'Mastadenovirus',
 }
 function virusGenus(sci) {
   if (VIRUS_GENUS[sci]) return VIRUS_GENUS[sci]
@@ -185,6 +206,7 @@ const ALL_ROWS = [
   ...FUNGI_ROWS, ...PLANT_ROWS, ...ANIMALS_A_ROWS, ...ANIMALS_B_ROWS, ...ANIMALS_C_ROWS, ...HUMAN_ROWS,
   ...ANIMALS_D_ROWS, ...ANIMALS_E_ROWS, ...ANIMALS_F_ROWS, ...ANIMALS_G_ROWS,
   ...PLANT_B_ROWS, ...FUNGI_B_ROWS, ...MICROBE_B_ROWS, ...HUMANS_B_ROWS,
+  ...BATCH2_ROWS,
 ]
 
 function selectRows() {
@@ -209,13 +231,17 @@ function selectRows() {
 
 function buildSpecies(items) {
   const usedSlugs = new Set(CURATED.map((s) => s.slug))
+  const usedSci = new Set(CURATED.map((s) => s.sci.toLowerCase()))
   const groupCount = {}
   const out = []
   for (const { row, group } of items) {
     const [gkey, name, sci, emoji, tagline, status, size, lifespan] = row
+    // curated entries win: never generate a second card for the same species
+    if (usedSci.has(sci.toLowerCase())) { console.warn(`[gen] skip "${name}" (${sci}) — already curated`); continue }
     let slug = slugify(name)
     if (usedSlugs.has(slug) || out.some((s) => s.slug === slug)) slug = `${slug}-2`
     usedSlugs.add(slug)
+    usedSci.add(sci.toLowerCase())
     const i = groupCount[gkey] || 0
     groupCount[gkey] = i + 1
     const kingdom = group.k

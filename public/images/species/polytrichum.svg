@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Polytrichum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3ecb72"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52df86"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#befff2"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="294.9513181298971" cy="198.91550936736166" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="265.72863950394094" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="136.14336347207427" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="158.69730859063566" cy="93.21085255593061" r="3.4596693094354123"/><circle cx="164.95584814809263" cy="68.41692872345448" r="2.457803886383772"/><circle cx="170.61503840610385" cy="132.01905937865376" r="3.3112208331003785"/></g>
+<text x="30" y="58" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><circle cx="81.95833974983543" cy="168.25714143924415" r="18.059258905705065" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="236.1539944075048" cy="186.91556924022734" r="15.291930624749511" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="199.61596528999507" cy="227.88901056628674" r="13.607539040967822" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="96.41430568881333" cy="227.68485930282623" r="12.470620821230114" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="118.24992025271058" cy="217.3807859653607" r="20.974646067246795" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="82.63922768644989" cy="195.10163692757487" r="24.23962951870635" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="239.3630728404969" cy="181.11019949428737" r="17.819799813441932" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="219.98281967360526" cy="227.9314694693312" r="29.998913650866598" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="114.91276864428073" cy="223.8891433691606" r="25.910468897782266" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="234.52003517188132" cy="194.2158661549911" r="19.418276998680085" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="81.35239260736853" cy="227.41075798403472" r="23.00361854536459" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="82.46999961789697" cy="225.54895437788218" r="19.95159500045702" fill="url(#bg1)" stroke="#16A34A" stroke-width="2.4"/><circle cx="192.13335898239166" cy="170.13958669267595" r="25.715765052940696" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="167.95712461229414" cy="243.3381721843034" r="24.25921387737617" fill="url(#bg2)" stroke="#16A34A" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Polytrichum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Polytrichum</text>
+</g>
+</svg>

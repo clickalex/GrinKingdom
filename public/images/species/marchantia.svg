@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Marchantia illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#2dbe91"/><stop offset="1" stop-color="#059669"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#ECFDF5"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#41d2a5"/><stop offset="1" stop-color="#ECFDF5"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#adffff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="175.58245740830898" cy="164.01563652791083" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="310" rx="268.44359517563134" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="310" rx="138.63125300966203" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="251.06840735301375" cy="107.31404124759138" r="2.4915653918869793"/><circle cx="141.4331072755158" cy="142.39342296496034" r="4.30552628589794"/><circle cx="492.9324508178979" cy="115.2695575915277" r="2.0480493432842195"/></g>
+<text x="30" y="68" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -4)"><circle cx="145.07618245203048" cy="200.46840247232467" r="16.076708345208317" fill="url(#bg2)" stroke="#059669" stroke-width="2.4"/><circle cx="146.73001358751208" cy="163.05000777356327" r="16.112176557071507" fill="url(#bg1)" stroke="#059669" stroke-width="2.4"/><circle cx="60.6521634478122" cy="162.4527929816395" r="29.390419042669237" fill="url(#bg1)" stroke="#059669" stroke-width="2.4"/><circle cx="68.93340637441725" cy="243.18311668466777" r="17.79448376270011" fill="url(#bg2)" stroke="#059669" stroke-width="2.4"/><circle cx="211.67174119502306" cy="211.61191086284816" r="17.688149430323392" fill="url(#bg2)" stroke="#059669" stroke-width="2.4"/><circle cx="134.9584429571405" cy="223.6494287615642" r="15.145069539081305" fill="url(#bg2)" stroke="#059669" stroke-width="2.4"/><circle cx="187.41332511417568" cy="172.80261639971286" r="23.87888673087582" fill="url(#bg2)" stroke="#059669" stroke-width="2.4"/><circle cx="221.89630297478288" cy="180.08302696980536" r="19.960029831156135" fill="url(#bg2)" stroke="#059669" stroke-width="2.4"/><circle cx="87.76226052548736" cy="182.81103970948607" r="14.57233041152358" fill="url(#bg1)" stroke="#059669" stroke-width="2.4"/><circle cx="77.18370369169861" cy="221.392480423674" r="25.04998322110623" fill="url(#bg1)" stroke="#059669" stroke-width="2.4"/><circle cx="91.36232825461775" cy="184.10273038316518" r="12.092638516332954" fill="url(#bg1)" stroke="#059669" stroke-width="2.4"/><circle cx="213.89638064894825" cy="172.9060640092939" r="22.210155572276562" fill="url(#bg1)" stroke="#059669" stroke-width="2.4"/><circle cx="211.71226585283875" cy="154.76734382100403" r="17.900132530834526" fill="url(#bg2)" stroke="#059669" stroke-width="2.4"/><circle cx="175.9282544720918" cy="165.08304527960718" r="17.83348504314199" fill="url(#bg2)" stroke="#059669" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Marchantia</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Marchantia</text>
+</g>
+</svg>

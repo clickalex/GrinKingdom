@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Myosotis sylvatica illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#63aaff"/><stop offset="1" stop-color="#3B82F6"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#77beff"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#e3ffff"/><stop offset="1" stop-color="#dcffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="140.58242216706276" cy="203.47838915884495" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="319" rx="242.91666172910482" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="319" rx="144.74964802153409" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="61" font-size="44">💙</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -8)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#3B82F6" stroke-width="2.6"/><ellipse cx="174.22313296464102" cy="84.72001554960825" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(21.30508897293439 174.22313296464102 84.72001554960825)"/><ellipse cx="162.8719298338584" cy="96.85241643351412" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(60.32535510448462 162.8719298338584 96.85241643351412)"/><ellipse cx="142.31513165710166" cy="98.9276922291761" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(107.19183172090732 142.31513165710166 98.9276922291761)"/><ellipse cx="128.36877775607778" cy="89.31569174638065" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(146.30164856938728 128.36877775607778 89.31569174638065)"/><ellipse cx="125.25422429345198" cy="68.63580218676081" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(197.86899186305513 125.25422429345198 68.63580218676081)"/><ellipse cx="139.47533670472689" cy="54.05421815367683" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(246.12173473246037 139.47533670472689 54.05421815367683)"/><ellipse cx="151.9884477931414" cy="52.07029094479914" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(274.3861931587255 151.9884477931414 52.07029094479914)"/><ellipse cx="173.21704647068918" cy="65.19689381245018" rx="17" ry="20" fill="url(#bg1)" stroke="#3B82F6" stroke-width="2.6" transform="rotate(333.24801200677604 173.21704647068918 65.19689381245018)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#2c8fb1" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Myosotis sylvatica</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Myosotis sylvatica</text>
+</g>
+</svg>

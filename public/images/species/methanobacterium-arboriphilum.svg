@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Methanobacterium arboriphilum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#dc7b31"/><stop offset="1" stop-color="#B45309"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffe1"/><stop offset="1" stop-color="#FEF9C3"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f08f45"/><stop offset="1" stop-color="#FEF9C3"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#fffbb1"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#f08f45" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#f08f45" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="454.720581099391" cy="197.01476032845676" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="235.60688175726682" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="146.9139941688627" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="466.35868980549276" cy="65.33812241628766" r="1.517007915303111"/><circle cx="182.15939024463296" cy="142.85494013689458" r="2.4003920077811927"/><circle cx="522.2421652637422" cy="64.98800800181925" r="1.927186636487022"/></g>
+<text x="30" y="62" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#B45309" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Methanobacterium arboriphilum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Methanobacterium arboriphilum</text>
+</g>
+</svg>

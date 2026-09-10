@@ -1189,6 +1189,38 @@ const F = {
     '{name} is known from fossils that tell the story of our origins.',
     'Stone tools and footprints give clues to how hominins lived.',
   ],
+
+  /* ───────── NEW GROUPS (batch 2) ───────── */
+  alphavirus: [
+    'Alphaviruses are named for being the first viruses in their family to be described.',
+    'Most alphaviruses hitch rides inside mosquitoes between their hosts.',
+    '{name} infections often bring fever and joint pain that makes joints feel bent up.',
+  ],
+  hepevirus: [
+    'Hepatitis E virus was the last of the major hepatitis viruses to be identified.',
+    '{name} spreads through contaminated water, not through the air.',
+    'Its circular RNA genome is unlike any other human virus.',
+  ],
+  geobacter: [
+    'Geobacteria can "breathe" iron and other metals in place of oxygen.',
+    '{name} is a workhorse of muddy soils, lake beds and wetlands.',
+    'Engineers are studying Geobacteria for microbial fuel cells — batteries powered by bacteria.',
+  ],
+  hyena: [
+    'Hyenas are a family of their own within the carnivores, closest to the cats.',
+    'Female hyenas are often bigger and stronger than the males.',
+    'The "laugh" of {name} is actually a contact call made at the den.',
+  ],
+  procyonid: [
+    'Raccoons and their kin have semi-opposable "thumbs" that work almost like hands.',
+    '{name} is an opportunistic omnivore that adapts fast to new habitats.',
+    'Procyonids live in the Americas — from treetops to cities.',
+  ],
+  viverrid: [
+    'Civets, genets and mongooses are a small, cat-sniffing family of the tropics.',
+    'Many viverrids secrete musk that perfumers prize.',
+    '{name} is famous for being bold enough to confront snakes.',
+  ],
 }
 
 export const GENERIC = {

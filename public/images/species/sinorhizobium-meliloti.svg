@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Sinorhizobium meliloti illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#faffff"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#DCFCE7"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="20" height="20" patternUnits="userSpaceOnUse"><rect width="20" height="20" fill="none"/><circle cx="6" cy="6" r="3.2" fill="#52a170" opacity="0.45"/><circle cx="16" cy="15" r="2.6" fill="#52a170" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="189.81953009963036" cy="203.72325606644154" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="231.3021307485178" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="137.5897245388478" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="382.29258202947676" cy="86.70256338082254" r="3.6692949396092445"/><circle cx="77.953184787184" cy="124.8833151254803" r="4.0117274390067905"/><circle cx="238.08182265609503" cy="153.05215004831553" r="3.3263474896084517"/></g>
+<text x="30" y="66" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#bg1)" stroke="#166534" stroke-width="3"/><rect x="52" y="122" width="196" height="56" rx="28" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Sinorhizobium meliloti</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Sinorhizobium meliloti</text>
+</g>
+</svg>

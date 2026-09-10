@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Caloplaca illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#474342"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#292524"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffc5"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="40" height="40" patternUnits="userSpaceOnUse"><rect width="40" height="40" fill="none"/><path d="M6 8 L14 6 L12 14 M26 20 L34 18 L32 28 M16 30 L24 28 L22 38" stroke="#ffda47" stroke-width="1.6" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="428.9255756139755" cy="102.49927665106952" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="320" rx="266.81154663674533" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="320" rx="127.10991071537137" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="60" font-size="44">🪨</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -16)"><circle cx="214.93479527067393" cy="199.71324431244284" r="27.719226324465126" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="109.06516335904598" cy="158.80600563250482" r="24.15779315913096" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="169.70419888850302" cy="222.69534193910658" r="20.428483817260712" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="217.18189998529851" cy="169.6212898939848" r="12.98176378570497" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="217.7335280785337" cy="225.29467372223735" r="23.919071976095438" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="64.0319047216326" cy="248.40415087528527" r="20.084277464076877" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="101.08348076697439" cy="211.42805987037718" r="29.57191636087373" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="73.30688408575952" cy="210.3765403619036" r="23.207649633754045" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="90.09853159077466" cy="246.88872583210468" r="17.287776224780828" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="73.19405750837177" cy="155.2000559400767" r="29.90819217218086" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="175.82622948568314" cy="207.68735958263278" r="20.101147770881653" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="134.61384975817055" cy="202.80870837159455" r="25.85100613022223" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="86.10587043687701" cy="158.729246025905" r="16.78880432015285" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="111.08609725255519" cy="208.04371077101678" r="22.41223166557029" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.4"/><circle cx="150" cy="200" r="86" fill="url(#tx)"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Caloplaca</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Caloplaca</text>
+</g>
+</svg>

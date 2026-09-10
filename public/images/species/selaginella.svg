@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Selaginella illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3e8d5c"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#52a170"/><stop offset="1" stop-color="#F0FDF4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#beffdc"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="36" height="36" patternUnits="userSpaceOnUse" patternTransform="rotate(-30)"><rect width="36" height="36" fill="none"/><path d="M2 34 Q18 18 34 2" stroke="#52a170" stroke-width="1.6" fill="none" opacity="0.5"/><path d="M12 34 Q20 24 28 14" stroke="#52a170" stroke-width="1.2" fill="none" opacity="0.4"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="317.92502515017986" cy="166.21687073260546" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="309" rx="228.2382376352325" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="309" rx="157.35121921636164" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="514.2257943935692" cy="132.83460053615272" r="2.9341168098617345"/><circle cx="540.2958999108523" cy="54.60349312052131" r="4.064844037871808"/><circle cx="382.2450085077435" cy="113.23836096562445" r="3.985573248937726"/></g>
+<text x="30" y="68" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -6)"><path d="M99 236 q-24 -41.689447357552126 -48 -83.37889471510425" stroke="#F0FDF4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -50.73875946528278 -32 -101.47751893056557" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -65.32285295519978 -16 -130.64570591039956" stroke="#F0FDF4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -69.71478816727176 0 -139.42957633454353" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -63.54037587461062 16 -127.08075174922124" stroke="#F0FDF4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -52.80552170495503 32 -105.61104340991005" stroke="#166534" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -42.93964250711724 48 -85.87928501423448" stroke="#F0FDF4" stroke-width="7" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Selaginella</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Selaginella</text>
+</g>
+</svg>

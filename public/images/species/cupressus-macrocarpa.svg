@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Cupressus macrocarpa illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3c7b55"/><stop offset="1" stop-color="#14532D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#896f47"/><stop offset="1" stop-color="#6B5129"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#508f69"/><stop offset="1" stop-color="#6B5129"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bcfbd5"/><stop offset="1" stop-color="#e7ffdb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="300.3612685203552" cy="91.24630585312843" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="307" rx="243.976307711564" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="307" rx="155.24784634821117" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="334.74457499571145" cy="58.96518876776099" r="2.188374600140378"/><circle cx="114.6773143671453" cy="56.84320839121938" r="1.5098532701376826"/><circle cx="356.20093042962253" cy="115.14669333584607" r="4.134017747361213"/></g>
+<text x="30" y="65" font-size="44">🌲</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -3)"><rect x="140" y="186" width="20" height="70" fill="#6B5129" stroke="#40522b" stroke-width="3"/><polygon points="150,116 102,168 198,168" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,72 111,124 189,124" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,28 120,80 180,80" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,-16 129,36 171,36" fill="url(#bg1)" stroke="#14532D" stroke-width="3"/><polygon points="150,6 78,72 222,72" fill="url(#tx)" opacity="0.7"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Cupressus macrocarpa</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Cupressus macrocarpa</text>
+</g>
+</svg>

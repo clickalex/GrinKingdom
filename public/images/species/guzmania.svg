@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Guzmania illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff67b6"/><stop offset="1" stop-color="#F43F8E"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff7bca"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe7ff"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="364.67545077204704" cy="110.27474756352603" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="314" rx="263.7158550415188" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="314" rx="138.7780744768679" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="61" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F43F8E" stroke-width="2.6"/><ellipse cx="175.88243931683434" cy="78.27970755092134" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(5.450618470098265 175.88243931683434 78.27970755092134)"/><ellipse cx="164.85467612728502" cy="95.69722865048442" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(55.15671902658889 164.85467612728502 95.69722865048442)"/><ellipse cx="143.50332269237956" cy="99.23869178333389" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(104.46995001685697 143.50332269237956 99.23869178333389)"/><ellipse cx="125.36052633033216" cy="83.66189085093652" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(161.38270082730867 125.36052633033216 83.66189085093652)"/><ellipse cx="124.9755614548402" cy="69.48740116229372" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(195.74510870882696 124.9755614548402 69.48740116229372)"/><ellipse cx="132.01547483040486" cy="58.66784855846751" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(226.234178063878 132.01547483040486 58.66784855846751)"/><ellipse cx="161.13658402463287" cy="54.313064568435664" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(295.36163416376684 161.13658402463287 54.313064568435664)"/><ellipse cx="171.73684047519052" cy="62.831675461069075" rx="17" ry="20" fill="url(#bg1)" stroke="#F43F8E" stroke-width="2.6" transform="rotate(326.7234845343229 171.73684047519052 62.831675461069075)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9b6773" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Guzmania</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Guzmania</text>
+</g>
+</svg>

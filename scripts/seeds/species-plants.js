@@ -176,7 +176,6 @@ export const PLANT_ROWS = [
   ['carnivorous-sundew', 'Cape sundew', 'Drosera capensis', '🪰', 'The windowsill sundew that curls around its prey.'],
   ['carnivorous-pitcher', 'Purple pitcher plant', 'Sarracenia purpurea', '🏺', 'The North American bog pitcher that drowns its dinners.'],
   ['carnivorous-pitcher', 'Cobra lily', 'Darlingtonia californica', '🐍', 'The pitcher plant with fangs and false windows.'],
-  ['carnivorous-tropical-pitcher', 'Monkey cup', 'Nepenthes rajah', '🏺', 'The giant pitcher that can hold two litres of digestive soup.'],
   ['carnivorous-tropical-pitcher', 'Albomarginata pitcher', 'Nepenthes albomarginata', '🏺', 'The pitcher that baits termites with a fuzzy white collar.'],
   ['carnivorous-bladderwort', 'Common bladderwort', 'Utricularia vulgaris', '🎈', 'The fastest trap in the plant world — it sucks prey in a millisecond.'],
   ['carnivorous-bladderwort', 'Humped bladderwort', 'Utricularia gibba', '🎈', 'The tiny plant with a near-minimal genome and lightning traps.'],

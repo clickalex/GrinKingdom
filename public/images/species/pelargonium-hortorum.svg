@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Pelargonium × hortorum illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ff4f9f"/><stop offset="1" stop-color="#DB2777"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ff63b3"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffcfff"/><stop offset="1" stop-color="#fff0ff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="415.9580586105585" cy="209.5062924362719" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="268.1857519643381" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="133.17345717921853" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="63" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -13)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#DB2777" stroke-width="2.6"/><ellipse cx="174.72179954571246" cy="83.4324963432867" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(18.040389623933315 174.72179954571246 83.4324963432867)"/><ellipse cx="162.90835849357882" cy="96.83322001038405" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(60.232917818877546 162.90835849357882 96.83322001038405)"/><ellipse cx="140.35346563065966" cy="98.28699171515221" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(111.77857117982535 140.35346563065966 98.28699171515221)"/><ellipse cx="128.75826744925294" cy="89.83965380482563" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(144.78457799726993 128.75826744925294 89.83965380482563)"/><ellipse cx="127.11981782121161" cy="64.60094316705879" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(208.35679132963293 127.11981782121161 64.60094316705879)"/><ellipse cx="136.6698571883129" cy="55.39434067838151" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(239.15630345463163 136.6698571883129 55.39434067838151)"/><ellipse cx="159.42834362322262" cy="53.6335902134247" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(291.26171542408525 159.42834362322262 53.6335902134247)"/><ellipse cx="171.8518888122095" cy="62.99493190079187" rx="17" ry="20" fill="url(#bg1)" stroke="#DB2777" stroke-width="2.6" transform="rotate(327.1884369021576 171.8518888122095 62.99493190079187)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#8c405c" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Pelargonium × hortorum</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Pelargonium</text>
+</g>
+</svg>

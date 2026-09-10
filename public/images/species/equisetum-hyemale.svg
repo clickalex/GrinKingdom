@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Equisetum hyemale illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3da865"/><stop offset="1" stop-color="#15803D"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#51bc79"/><stop offset="1" stop-color="#F5F5F4"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#bdffe5"/><stop offset="1" stop-color="#ffffff"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="232.94531740248203" cy="110.20338887348771" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="308" rx="248.39931073598564" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="308" rx="130.11863891035318" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="301.825490668416" cy="70.8111925702542" r="4.087424336001277"/><circle cx="412.5949963834137" cy="53.14568388275802" r="2.98250251240097"/><circle cx="452.2771563194692" cy="95.06971283815801" r="1.7257961849682033"/></g>
+<text x="30" y="57" font-size="44">🌿</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -5)"><path d="M99 236 q-24 -47.00276876077987 -48 -94.00553752155975" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M116 236 q-16 -52.70911042718217 -32 -105.41822085436434" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M133 236 q-8 -62.724765591556206 -16 -125.44953118311241" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M150 236 q0 -70.67841691127978 0 -141.35683382255957" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M167 236 q8 -62.13629634492099 16 -124.27259268984199" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M184 236 q16 -51.797342414967716 32 -103.59468482993543" stroke="#15803D" stroke-width="7" fill="none" stroke-linecap="round"/><path d="M201 236 q24 -45.22010476165451 48 -90.44020952330902" stroke="#F5F5F4" stroke-width="7" fill="none" stroke-linecap="round"/><line x1="150" y1="236" x2="150" y2="26" stroke="#15803D" stroke-width="16" stroke-linecap="round"/><line x1="142" y1="200" x2="158" y2="186" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="166" x2="158" y2="152" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="132" x2="158" y2="118" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="98" x2="158" y2="84" stroke="#F5F5F4" stroke-width="4"/><line x1="142" y1="64" x2="158" y2="50" stroke="#F5F5F4" stroke-width="4"/><path d="M138 40 q-34 -16 -58 2 M162 34 q34 -16 58 2" stroke="#15803D" stroke-width="8" fill="none" stroke-linecap="round"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Equisetum hyemale</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Equisetum hyemale</text>
+</g>
+</svg>

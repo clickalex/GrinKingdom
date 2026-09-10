@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Clematis vitalba illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff43d"/><stop offset="1" stop-color="#FACC15"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#34c168"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffff51"/><stop offset="1" stop-color="#16A34A"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffbd"/><stop offset="1" stop-color="#ffffda"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="370.38351364433765" cy="110.71819047443569" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="317" rx="257.73153144400567" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="317" rx="125.77422108501196" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="485.9977025911212" cy="136.55061923898757" r="4.0703905443660915"/><circle cx="510.922618098557" cy="59.35285030864179" r="3.191465581767261"/><circle cx="83.67620513774455" cy="54.14818283170462" r="3.8219401992391795"/></g>
+<text x="30" y="61" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -15)"><path d="M150 240 q-8 -70 2 -138" stroke="#16A34A" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#FACC15" stroke-width="2.6"/><ellipse cx="175.94642515784835" cy="77.53991296929404" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(3.6787985705668342 175.94642515784835 77.53991296929404)"/><ellipse cx="168.34145275965162" cy="93.01045970176148" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(45.13485837658263 168.34145275965162 93.01045970176148)"/><ellipse cx="144.73586820244327" cy="99.5029400105006" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(101.68123671937693 144.73586820244327 99.5029400105006)"/><ellipse cx="127.97333484835767" cy="88.75136544743886" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(147.90620103815746 127.97333484835767 88.75136544743886)"/><ellipse cx="125.24009500203044" cy="68.67638049570678" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(197.76723738566716 125.24009500203044 68.67638049570678)"/><ellipse cx="131.88348494642372" cy="58.78537310852414" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(225.83004739001407 131.88348494642372 58.78537310852414)"/><ellipse cx="157.1638264198281" cy="52.92899292397638" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(285.99370759763576 157.1638264198281 52.92899292397638)"/><ellipse cx="168.49831389680227" cy="59.13489244180667" rx="17" ry="20" fill="url(#bg1)" stroke="#FACC15" stroke-width="2.6" transform="rotate(315.3549392312448 168.49831389680227 59.13489244180667)"/><circle cx="150" cy="76" r="13" fill="#16A34A" stroke="#9fbc2a" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Clematis vitalba</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Clematis vitalba</text>
+</g>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Fritillaria imperialis illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ea6934"/><stop offset="1" stop-color="#C2410C"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fe7d48"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffe9b4"/><stop offset="1" stop-color="#ffffcc"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="371.15017652511597" cy="207.9912745859474" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="312" rx="257.1128165675327" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="312" rx="132.3788833245635" ry="14" fill="#000000" opacity="0.14"/>
+
+<text x="30" y="59" font-size="44">👑</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -9)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#C2410C" stroke-width="2.6"/><ellipse cx="174.58362502855022" cy="83.81325485275853" rx="18" ry="34" fill="url(#bg1)" stroke="#C2410C" stroke-width="2.6" transform="rotate(18.99903839030154 174.58362502855022 83.81325485275853)"/><ellipse cx="133.87414244840286" cy="94.82616953382939" rx="18" ry="34" fill="url(#bg1)" stroke="#C2410C" stroke-width="2.6" transform="rotate(128.33258824232882 133.87414244840286 94.82616953382939)"/><ellipse cx="141.79201954868537" cy="53.22731520543902" rx="18" ry="34" fill="url(#bg1)" stroke="#C2410C" stroke-width="2.6" transform="rotate(251.59743257276722 141.79201954868537 53.22731520543902)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#7d4f1c" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Fritillaria imperialis</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Fritillaria imperialis</text>
+</g>
+</svg>

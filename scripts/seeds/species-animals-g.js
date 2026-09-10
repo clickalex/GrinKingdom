@@ -6,14 +6,11 @@
 
 export const ANIMALS_G_ROWS = [
   /* beetles */
-  ['beetle-scarab', 'Sacred scarab', 'Scarabaeus sacer', '🪲', 'The sun-rolling dung beetle worshipped by ancient Egypt.', 'Least Concern'],
   ['beetle-scarab', 'Rainbow dung beetle', 'Phanaeus vindex', '🪲', ' The metallic rainbow excavator that buries balls of dung.', 'Least Concern'],
   ['beetle-scarab', 'Rainbow stag beetle', 'Phalacrognathus muelleri', '🪲', ' The jeweled stag beetle of Australian rainforest rot.', 'Least Concern'],
   ['beetle-lady', 'Two-spotted ladybird', 'Adalia bipunctata', '🐞', ' The brave red beetle whose numbers crashed after invasions.', 'Least Concern'],
-  ['beetle-lady', 'Asian lady beetle', 'Harmonia axyridis', '🐞', ' The harlequin\u2019s cousin — invasive, hungry, and house-invading.', 'Least Concern'],
   ['beetle-stag', 'Rainbow leaf beetle', 'Chrysolina fastuosa', '🪲', ' The metallic striped jewel of nettle beds.', 'Least Concern'],
   ['beetle-longhorn', 'Asian long-horned beetle', 'Anoplophora glabripennis', '🪲', ' The starry sky beetle whose larvae hollow out city trees.', 'Least Concern'],
-  ['beetle-longhorn', 'Titanus giganteus', 'Titanus giganteus', '🪲', ' The largest beetle in the world — a hand-sized giant of Amazon nights.', 'Least Concern'],
   ['beetle-ground', 'Golden ground beetle', 'Carabus auratus', '🪲', ' The armored sprinter of European gardens.', 'Least Concern'],
   ['beetle-ground', 'Copper ground beetle', 'Carabus cancellatus', '🪲', ' The bronze-ridged plougher of field margins.', 'Least Concern'],
   ['beetle-weevil', 'Palm weevil', 'Rhynchophorus ferrugineus', '🪲', ' The red palm pest that topples ancient date groves.', 'Least Concern'],

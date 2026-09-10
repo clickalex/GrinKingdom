@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 420" role="img" aria-label="Anemone nemorosa illustration">
+<defs>
+    <linearGradient id="bg1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffc633"/><stop offset="1" stop-color="#F59E0B"/></linearGradient>
+    <linearGradient id="bg2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#348352"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <linearGradient id="bg3" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffda47"/><stop offset="1" stop-color="#166534"/></linearGradient>
+    <radialGradient id="scene" cx="0.5" cy="0.36" r="0.95"><stop offset="0" stop-color="#ffffb3"/><stop offset="1" stop-color="#ffffcb"/></radialGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffffff" stop-opacity="0.5"/><stop offset="1" stop-color="#ffffff" stop-opacity="0"/></radialGradient>
+    <pattern id="tx" width="4" height="4" patternUnits="userSpaceOnUse"><rect width="4" height="4" fill="none"/></pattern>
+  </defs>
+<rect width="600" height="420" fill="url(#scene)"/>
+<circle cx="297.8670048713684" cy="114.12071378901601" r="150" fill="url(#glow)"/>
+<ellipse cx="300" cy="311" rx="234.94280453771353" ry="26" fill="#000000" opacity="0.10"/>
+<ellipse cx="300" cy="311" rx="135.75397954322398" ry="14" fill="#000000" opacity="0.14"/>
+<g fill="#ffffff" opacity="0.5"><circle cx="336.19111377745867" cy="48.88630609959364" r="4.114386217435822"/><circle cx="437.40642002783716" cy="129.9481585714966" r="3.4925217144191265"/><circle cx="400.6716599687934" cy="99.14116787724197" r="2.265474002575502"/></g>
+<text x="30" y="52" font-size="44">🌸</text>
+<g transform="translate(300 236) translate(-150 -150) scale(1)"><g transform="translate(0 -11)"><path d="M150 240 q-8 -70 2 -138" stroke="#166534" stroke-width="5" fill="none"/><path d="M152 190 q36 6 56 -26 q-38 0 -56 26 Z" fill="url(#bg2)" stroke="#F59E0B" stroke-width="2.6"/><ellipse cx="173.58244845690524" cy="86.10624330087543" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(24.90364213889251 173.58244845690524 86.10624330087543)"/><ellipse cx="164.33563539586527" cy="96.02225039263698" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(56.53890778336896 164.33563539586527 96.02225039263698)"/><ellipse cx="143.63692897954903" cy="99.27016922648872" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(104.16608500589462 143.63692897954903 99.27016922648872)"/><ellipse cx="129.14191405807526" cy="90.32823094099753" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(143.34397348732438 129.14191405807526 90.32823094099753)"/><ellipse cx="126.1540627777214" cy="66.43506650077853" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(203.48686952633298 126.1540627777214 66.43506650077853)"/><ellipse cx="140.4354961622727" cy="53.68290405725533" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(248.41596078354635 140.4354961622727 53.68290405725533)"/><ellipse cx="156.62058339192018" cy="52.79112416274886" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(284.752125515316 156.62058339192018 52.79112416274886)"/><ellipse cx="169.17085768306987" cy="59.78749422355757" rx="17" ry="20" fill="url(#bg1)" stroke="#F59E0B" stroke-width="2.6" transform="rotate(317.5053723246227 169.17085768306987 59.78749422355757)"/><circle cx="150" cy="76" r="13" fill="#166534" stroke="#9c871b" stroke-width="2.6"/></g></g>
+<g>
+  <rect x="0" y="346" width="600" height="74" fill="#0f172a" opacity="0.78"/>
+  <text x="30" y="382" font-family="ui-rounded, 'Segoe UI', system-ui, sans-serif" font-size="24" font-weight="700" fill="#ffffff">Anemone nemorosa</text>
+  <text x="30" y="406" font-family="ui-serif, Georgia, serif" font-size="15" font-style="italic" fill="#cbd5e1">Anemone nemorosa</text>
+</g>
+</svg>
