@@ -1,25 +1,38 @@
 // GrinKingdom — the Family Tree page.
 // One interactive tree of every species in the catalog: Life → kingdoms →
-// phyla → classes → orders → families → genera → species. Search it, expand
-// branches, or deep-link a species' whole lineage via ?species=<slug>.
+// phyla → classes → orders → families → genera → species.
+//
+// Reading it:
+//  · the strip on top shows all 8 kingdoms at a glance — each segment's width
+//    matches how many species it holds. Click one to zoom into just that branch.
+//  · every branch row carries a little bar: how big it is compared to its parent.
+//  · click a branch to open/close it; double-click folds everything below it.
+//  · hover any branch to see its full lineage; search jumps to matching branches.
+//  · deep-link a species' whole lineage via ?species=<slug>
 
 import { useEffect, useMemo, useRef, useState } from 'react'
 import { Link, useSearchParams } from 'react-router-dom'
 import { SPECIES } from '../data/species.js'
-import { KINGDOMS, KINGDOM_MAP } from '../data/kingdoms.js'
+import { KINGDOM_MAP } from '../data/kingdoms.js'
 import { TREE_ROOT, TREE_BY_SLUG, buildFilteredTree } from '../data/tree.js'
 
 const domId = (key) => 'tn-' + encodeURIComponent(key)
 
 const RANK_BADGE = {
+  Life: '🌍',
   Kingdom: '👑',
   Phylum: '🌿',
-  Class: '🎒',
+  Class: '🧩',
   Order: '📋',
   Family: '👪',
   Genus: '🧬',
-  Species: '',
+  Species: '🔬',
 }
+
+const RANK_ORDER = { Life: 0, Kingdom: 1, Phylum: 2, Class: 3, Order: 4, Family: 5, Genus: 6, Species: 7 }
+
+const KINGDOM_NODES = TREE_ROOT.children // biggest → smallest
+const TOTAL = TREE_ROOT.count
 
 function countRank(node, rank) {
   let n = 0
@@ -31,15 +44,33 @@ function countRank(node, rank) {
   return n
 }
 
+/* Every branch key at or above `upToRank` within the given start nodes. */
+function expandKeysBelow(startNodes, upToRank) {
+  const next = new Set()
+  const walk = (n) => {
+    if (n.leaf) return
+    if ((RANK_ORDER[n.rank] ?? 9) <= (RANK_ORDER[upToRank] ?? 9)) next.add(n.key)
+    n.children.forEach(walk)
+  }
+  startNodes.forEach(walk)
+  return next
+}
+
+const pctOf = (count, of) => ((count / of) * 100).toFixed(of > 0 && count / of < 0.1 ? 1 : 0)
+
 /* ── one row of the tree ─────────────────────────────────── */
-function TreeNode({ node, expanded, onToggle, forceOpen, highlight }) {
+function TreeNode({ node, expanded, onToggle, onCollapseTo, forceOpen, highlight, parentCount }) {
   const open = forceOpen || expanded.has(node.key)
   const isKingdom = node.rank === 'Kingdom'
   const k = isKingdom ? KINGDOM_MAP[node.kingdomId] : null
+  const kc = node.color || k?.color || '#7c3aed'
 
   const toggle = () => {
     if (node.children.length > 0) onToggle(node.key)
   }
+
+  const barPct = !node.leaf && parentCount ? Math.max(2, Math.round((node.count / parentCount) * 100)) : 0
+  const lineage = node.pathNames.join(' › ')
 
   return (
     <li
@@ -47,19 +78,25 @@ function TreeNode({ node, expanded, onToggle, forceOpen, highlight }) {
       className={`tree-node rank-${node.rank.toLowerCase()} ${node.leaf ? 'leaf' : 'branch'} ${
         highlight === node.key ? 'hl' : ''
       } ${isKingdom ? 'kingdom-row' : ''}`}
-      style={isKingdom ? { '--kc': k?.color || '#7C3AED' } : undefined}
+      style={isKingdom ? { '--kc': kc } : undefined}
     >
       {node.leaf ? (
-        <Link to={`/species/${node.slug}`} className="tree-row tree-leaf-row" title={node.sci}>
-          <span className="tree-dot">🌿</span>
+        <Link to={`/species/${node.slug}`} className="tree-row tree-leaf-row" title={`${lineage} · ${node.sci}`}>
+          <span className="tree-dot">🔬</span>
           <span className="tree-leaf-emoji">{node.emoji}</span>
           <span className="tree-name sci">{node.name}</span>
           <span className="tree-leaf-sci">{node.sci}</span>
         </Link>
       ) : (
-        <div className="tree-row" onClick={toggle} role={node.children.length ? 'button' : undefined}
-          tabIndex={node.children.length ? 0 : undefined}
-          onKeyDown={(e) => (e.key === 'Enter' || e.key === ' ') && (e.preventDefault(), toggle())}>
+        <div
+          className="tree-row"
+          onClick={toggle}
+          onDoubleClick={() => onCollapseTo(node)}
+          role="button"
+          tabIndex={0}
+          onKeyDown={(e) => (e.key === 'Enter' || e.key === ' ') && (e.preventDefault(), toggle())}
+          title={`${lineage} — click to open/close · double-click to fold everything below`}
+        >
           <span className={`tree-chev ${open ? 'open' : ''}`} aria-hidden="true">
             {node.children.length > 0 ? '▾' : '•'}
           </span>
@@ -70,7 +107,13 @@ function TreeNode({ node, expanded, onToggle, forceOpen, highlight }) {
           {isKingdom && node.taxonName && node.taxonName !== node.name && (
             <span className="tree-taxon">· {node.taxonName}</span>
           )}
-          <span className="tree-count" title={`${node.count} species in this branch`}>
+          <span className="tree-bar" aria-hidden="true">
+            <span className="tree-bar-fill" style={{ width: `${barPct}%`, background: kc }} />
+          </span>
+          <span
+            className="tree-count"
+            title={`${node.count} species in this branch — ${pctOf(node.count, TOTAL)}% of the whole tree`}
+          >
             {node.count.toLocaleString()} sp.
           </span>
           {isKingdom && (
@@ -94,8 +137,10 @@ function TreeNode({ node, expanded, onToggle, forceOpen, highlight }) {
               node={child}
               expanded={expanded}
               onToggle={onToggle}
+              onCollapseTo={onCollapseTo}
               forceOpen={forceOpen}
               highlight={highlight}
+              parentCount={node.count}
             />
           ))}
         </ul>
@@ -113,17 +158,21 @@ export default function FamilyTree() {
   const [expanded, setExpanded] = useState(() => new Set())
   const [query, setQuery] = useState('')
   const [highlight, setHighlight] = useState(focusLeaf?.key || null)
-  const scrollRef = useRef(null)
+  const [focusKingdom, setFocusKingdom] = useState(null)
+  const panelRef = useRef(null)
 
   const stats = useMemo(
     () => ({
-      species: SPECIES.length,
-      genera: countRank(TREE_ROOT, 'Genus'),
-      families: countRank(TREE_ROOT, 'Family'),
+      species: TOTAL,
+      phyla: countRank(TREE_ROOT, 'Phylum'),
       orders: countRank(TREE_ROOT, 'Order'),
+      families: countRank(TREE_ROOT, 'Family'),
+      genera: countRank(TREE_ROOT, 'Genus'),
     }),
     []
   )
+
+  const focusedNode = focusKingdom ? KINGDOM_NODES.find((n) => n.kingdomId === focusKingdom) : null
 
   const toggle = (key) =>
     setExpanded((prev) => {
@@ -133,9 +182,31 @@ export default function FamilyTree() {
       return next
     })
 
+  /* Double-click: keep this node visible but closed, fold its whole subtree. */
+  const collapseTo = (node) => {
+    setExpanded(new Set(node.pathKeys.slice(0, -1)))
+    setHighlight(null)
+  }
+
+  const focusOn = (id) => {
+    const node = KINGDOM_NODES.find((n) => n.kingdomId === id)
+    if (!node) return
+    setFocusKingdom(id)
+    setExpanded(expandKeysBelow([node], 'Family'))
+    setHighlight(null)
+    setTimeout(() => panelRef.current?.scrollIntoView({ behavior: 'smooth', block: 'start' }), 60)
+  }
+
+  const clearFocus = () => {
+    setFocusKingdom(null)
+    setExpanded(new Set())
+    setHighlight(null)
+  }
+
   /* Deep-link: expand the focused species' whole lineage + scroll to it. */
   useEffect(() => {
     if (!focusLeaf) return
+    setFocusKingdom(null)
     setExpanded(new Set(focusLeaf.pathKeys))
     setHighlight(focusLeaf.key)
     const t = setTimeout(() => {
@@ -167,17 +238,11 @@ export default function FamilyTree() {
   )
 
   const expandTo = (rank) => {
-    const next = new Set()
-    const walk = (n) => {
-      if (n.leaf) return
-      const order = { Kingdom: 1, Phylum: 2, Class: 3, Order: 4, Family: 5, Genus: 6 }
-      if (n.rank === 'Life' || (order[n.rank] || 9) <= (order[rank] || 9)) next.add(n.key)
-      n.children.forEach(walk)
-    }
-    TREE_ROOT.children.forEach(walk)
-    setExpanded(next)
+    setExpanded(expandKeysBelow(focusedNode ? [focusedNode] : KINGDOM_NODES, rank))
     setHighlight(null)
   }
+
+  const viewNodes = focusedNode ? [focusedNode] : KINGDOM_NODES
 
   return (
     <section className="page">
@@ -188,19 +253,23 @@ export default function FamilyTree() {
             One tree for every living thing in the kingdom — all{' '}
             <strong>{stats.species.toLocaleString()} species</strong>, from the tiniest virus to the blue whale (and
             you). Every branch is a real taxonomic group: kingdom → phylum → class → order → family → genus → species.
+            Zoom into one kingdom with the strip below, or search to jump anywhere.
           </p>
           <div className="tree-stats">
             <span className="tree-stat">
               <strong>{stats.species.toLocaleString()}</strong> species
             </span>
             <span className="tree-stat">
-              <strong>{stats.genera.toLocaleString()}</strong> genera
+              <strong>{stats.phyla.toLocaleString()}</strong> phyla
+            </span>
+            <span className="tree-stat">
+              <strong>{stats.orders.toLocaleString()}</strong> orders
             </span>
             <span className="tree-stat">
               <strong>{stats.families.toLocaleString()}</strong> families
             </span>
             <span className="tree-stat">
-              <strong>{stats.orders.toLocaleString()}</strong> orders
+              <strong>{stats.genera.toLocaleString()}</strong> genera
             </span>
             <span className="tree-stat">
               <strong>8</strong> kingdoms
@@ -208,17 +277,32 @@ export default function FamilyTree() {
           </div>
         </div>
 
-        {focusLeaf && (
-          <div className="tree-focus-banner">
-            <span>
-              📍 Showing the branch of <strong>{focusLeaf.emoji} {focusLeaf.name}</strong> — follow the highlight down
-              the tree.
-            </span>
-            <button className="fchip" onClick={() => setParams({})}>
-              ✕ Clear
-            </button>
-          </div>
-        )}
+        <p className="strip-caption">🌍 The 8 kingdoms at a glance — segment width ∝ species. Click one to zoom in.</p>
+        <div className="tree-strip" role="group" aria-label="Kingdoms at a glance">
+          {KINGDOM_NODES.map((node) => {
+            const k = KINGDOM_MAP[node.kingdomId]
+            const on = focusKingdom === node.kingdomId
+            return (
+              <button
+                key={node.key}
+                type="button"
+                className={`strip-seg ${on ? 'on' : ''}`}
+                style={{ flex: `${node.count} 1 0`, minWidth: 112, '--kc': node.color }}
+                onClick={() => (on ? clearFocus() : focusOn(node.kingdomId))}
+                title={`${node.name} — ${node.count.toLocaleString()} species (${pctOf(node.count, TOTAL)}% of the tree). Click to zoom in.`}
+                aria-pressed={on}
+              >
+                <span className="strip-emoji" aria-hidden="true">
+                  {k?.emoji}
+                </span>
+                <span className="strip-name">{node.name}</span>
+                <span className="strip-meta">
+                  {node.count.toLocaleString()} · {pctOf(node.count, TOTAL)}%
+                </span>
+              </button>
+            )
+          })}
+        </div>
 
         <div className="tree-toolbar">
           <input
@@ -249,6 +333,63 @@ export default function FamilyTree() {
           </div>
         </div>
 
+        <p className="tree-rank-legend" aria-label="Taxonomic ranks, from biggest to smallest">
+          <span>👑 Kingdom</span>
+          <span className="sep">→</span>
+          <span>🌿 Phylum</span>
+          <span className="sep">→</span>
+          <span>🧩 Class</span>
+          <span className="sep">→</span>
+          <span>📋 Order</span>
+          <span className="sep">→</span>
+          <span>👪 Family</span>
+          <span className="sep">→</span>
+          <span>🧬 Genus</span>
+          <span className="sep">→</span>
+          <span>🔬 Species</span>
+        </p>
+        <p className="tree-hint">
+          💡 Click a branch to open or close it · double-click a branch to fold everything below it · hover any branch
+          to see its full lineage · the little bar shows how big a branch is compared to its parent.
+        </p>
+
+        {focusLeaf && (
+          <div className="tree-focus-banner">
+            <div className="tree-focus-body">
+              <span>
+                📍 Showing the branch of <strong>{focusLeaf.emoji} {focusLeaf.name}</strong> — its lineage below, the
+                highlighted leaf at the end.
+              </span>
+              <div className="tree-lineage">
+                {focusLeaf.pathNames.map((name, i) => (
+                  <span
+                    key={i}
+                    className={`crumb-chip ${i === focusLeaf.pathNames.length - 1 ? 'on' : ''}`}
+                    title={name}
+                  >
+                    {RANK_BADGE[focusLeaf.pathRanks[i]] || '•'} {name}
+                  </span>
+                ))}
+              </div>
+            </div>
+            <button className="fchip" onClick={() => setParams({})}>
+              ✕ Clear
+            </button>
+          </div>
+        )}
+
+        {focusedNode && !searching && (
+          <div className="tree-focus-banner kingdom" style={{ '--kc': focusedNode.color }}>
+            <span>
+              {KINGDOM_MAP[focusedNode.kingdomId]?.emoji} Zoomed into <strong>{focusedNode.name}</strong> —{' '}
+              {focusedNode.count.toLocaleString()} species ({pctOf(focusedNode.count, TOTAL)}% of the whole tree).
+            </span>
+            <button className="fchip" onClick={clearFocus}>
+              ✕ Show all kingdoms
+            </button>
+          </div>
+        )}
+
         {searching && (
           <p className="tree-search-note">
             {filteredRoot ? (
@@ -261,8 +402,8 @@ export default function FamilyTree() {
           </p>
         )}
 
-        <div className="tree-panel">
-          <ul className="tree-root" ref={scrollRef}>
+        <div className="tree-panel" ref={panelRef}>
+          <ul className="tree-root">
             {searching && filteredRoot ? (
               filteredRoot.children.map((child) => (
                 <TreeNode
@@ -270,40 +411,26 @@ export default function FamilyTree() {
                   node={child}
                   expanded={expanded}
                   onToggle={toggle}
+                  onCollapseTo={collapseTo}
                   forceOpen
                   highlight={highlight}
+                  parentCount={TOTAL}
                 />
               ))
             ) : (
-              TREE_ROOT.children.map((child) => (
-                <TreeNode key={child.key} node={child} expanded={expanded} onToggle={toggle} highlight={highlight} />
+              viewNodes.map((child) => (
+                <TreeNode
+                  key={child.key}
+                  node={child}
+                  expanded={expanded}
+                  onToggle={toggle}
+                  onCollapseTo={collapseTo}
+                  highlight={highlight}
+                  parentCount={TOTAL}
+                />
               ))
             )}
           </ul>
-        </div>
-
-        <div className="tree-legend">
-          {KINGDOMS.map((k) => {
-            const node = TREE_ROOT.children.find((c) => c.kingdomId === k.id)
-            return (
-              <button
-                key={k.id}
-                className="chip kingdom-chip"
-                style={{ background: `${k.color}22`, color: k.color, cursor: 'pointer' }}
-                title={node ? `Expand / collapse ${k.name} (${node.count} species)` : k.name}
-                onClick={() => {
-                  if (!node) return
-                  toggle(node.key)
-                  setTimeout(
-                    () => document.getElementById(domId(node.key))?.scrollIntoView({ behavior: 'smooth', block: 'start' }),
-                    60
-                  )
-                }}
-              >
-                {k.emoji} {k.name} · {node ? node.count.toLocaleString() : 0}
-              </button>
-            )
-          })}
         </div>
       </div>
     </section>

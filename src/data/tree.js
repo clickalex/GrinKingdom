@@ -31,6 +31,8 @@ function buildTree(speciesList = SPECIES) {
     count: speciesList.length,
     kingdomId: null,
     children: new Map(),
+    pathNames: ['Life on Earth'],
+    pathRanks: ['Life'],
   }
 
   for (const s of speciesList) {
@@ -49,6 +51,8 @@ function buildTree(speciesList = SPECIES) {
         count: 0,
         children: new Map(),
         pathKeys: ['life', `life/${s.kingdom}`],
+        pathNames: [...root.pathNames, kingdomMeta.name || s.kingdom],
+        pathRanks: [...root.pathRanks, 'Kingdom'],
       })
     }
     let node = root.children.get(s.kingdom)
@@ -70,6 +74,8 @@ function buildTree(speciesList = SPECIES) {
           count: 0,
           children: new Map(),
           pathKeys: [...node.pathKeys, key],
+          pathNames: [...node.pathNames, value],
+          pathRanks: [...node.pathRanks, rank],
         })
       }
       node = node.children.get(key)
@@ -89,6 +95,8 @@ function buildTree(speciesList = SPECIES) {
       leaf: true,
       children: [],
       pathKeys: [...node.pathKeys, leafKey],
+      pathNames: [...node.pathNames, s.name],
+      pathRanks: [...node.pathRanks, 'Species'],
     })
   }
 
